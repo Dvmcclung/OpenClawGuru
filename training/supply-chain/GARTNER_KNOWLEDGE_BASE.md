@@ -784,3 +784,149 @@ Evolution over 25 years:
 ---
 
 *This knowledge base was compiled from ~54 files in the CLX Logistics Gartner and White Papers library. Files include Gartner research notes, Magic Quadrant reports, Hype Cycle analyses, conference presentations from Gartner Supply Chain Summit Orlando 2022, annual 3PL industry studies (21st, 25th, 26th annual), CLX-authored white papers, and market intelligence documents. The mp4 video and Excel files were skipped. The m4a audio file was not transcribed (whisper CLI not available in this environment).*
+
+---
+
+## CLX Logistics — Gartner Vendor Briefing (Audio Transcript, 2026-03-03)
+
+> **Source:** Audio recording of a vendor briefing between CLX Logistics leadership and Gartner analysts (including David, Jay referenced as briefing coordinator). Transcript was auto-generated from audio and contains significant transcription artifacts (repeated filler words, incomplete sentences). Content below is extracted from the discernible portions.
+>
+> **Analyst Note:** This is a vendor pitch to Gartner. All claims should be treated with appropriate skepticism and validated against independent data where possible.
+
+---
+
+### Company Overview
+
+**CLX Logistics** is a privately held Logistics Service Provider (LSP) specializing exclusively in the **chemical sector**. Operating as both a **3PL and 4PL** (managed transportation / supply chain-as-a-service), the company was **founded in 1997** and has been focused on chemical logistics throughout its history.
+
+- **Headquarters:** Bluebell, PA (just outside Philadelphia, USA)
+- **European Office:** Eindhoven, Netherlands (chosen for university proximity and talent pool)
+- **Employees:** ~100 across both offices
+- **Ownership:** Privately held; Chairman is **Steve Hamilton** (present on call)
+- **Customers:** ~125 total; 50+ on their TMS platform
+- **Freight under management:** ~$3.5 billion/year flowing through their TMS
+
+CLX positions itself around three pillars: **People, Process, and Technology** — with technology described as the underpinning of virtually everything they do.
+
+---
+
+### Service Offerings
+
+CLX offers its services on a modular/à la carte basis:
+
+#### 1. Managed Transportation (Supply Chain as a Service)
+- Full outsourcing of transportation operations: procurement, strategy, execution, freight audit and payment
+- All modes of transportation used by chemical shippers
+- Currently operating primarily in **North America (US, Canada, Mexico)**
+- Recently launched a large procurement program in **Latin America and Europe** — active expansion underway
+- Manages carrier contracting on **CLX contracts** (not customer contracts), then handles execution through to audit and payment
+
+#### 2. TMS — Powered by BlueJay (transitioning to E2Open)
+- Cloud-based, **single-instance** TMS platform
+- CLX has a **20+ year relationship** with the software in this lineage (multiple ownership changes — BlueJay → E2Open acquisition)
+- CLX is the **exclusive reseller of the BlueJay TMS for the chemical sector** — when chemical shippers approach BlueJay directly, they are referred to CLX
+- CLX specifies requirements and manages the deployment for chemical customers
+- All customers on same version (cloud, single-instance — no custom forks)
+- ERP integrations: SAP (multiple instances/versions) and bespoke/homegrown systems
+- Transitioning to **E2Open** post-acquisition of BlueJay
+
+#### 3. LaneLogix
+- Proprietary CLX product bundling:
+  - **Benchmarking** — rate and lane benchmarking vs. like-for-like chemical shippers (not cross-industry; CLX claims ability to stratify data to compare similar shippers)
+  - **Procurement** — carrier procurement services and contracting strategy
+  - **Data analytics** — leveraging the $3.5B freight data pool for market intelligence
+- Described as a key differentiator: ability to compare a shipper's rates/performance against truly comparable chemical shippers, not general freight benchmarks (e.g., differentiated from Transplace's approach to comparisons)
+
+---
+
+### Key Differentiators (As Claimed)
+
+1. **Chemical sector exclusivity** — 100% focus on chemical manufacturers and large chemical users; no cross-vertical dilution of expertise
+2. **Proprietary benchmarking data** — $3.5B/year of chemical freight data enables like-for-like comparisons (bulk vs. bulk, not bulk vs. grocery)
+3. **Exclusive BlueJay/E2Open TMS reseller for chemicals** — specialized configuration and deployment expertise in this vertical
+4. **Deep domain experience** — all senior partners have 20–30+ years in chemical logistics
+5. **Flexibility** — à la carte service model; customers can engage at TMS-only, TMS+support, or full managed transportation levels
+6. **Anomaly detection / analytics** — described capability to surface "needles in haystacks": real-time visibility down to individual shipment defects, customer impacts, and supply chain outliers (though implementation details were sparse in transcript)
+7. **Global footprint with local expertise** — US + European presence, with European managed transportation expansion underway
+
+---
+
+### Technology Stack
+
+| Component | Details |
+|---|---|
+| TMS | BlueJay (cloud, single-instance) — transitioning to E2Open post-acquisition |
+| ERP Integration | SAP (multiple versions/instances), bespoke/homegrown ERPs |
+| Analytics/Benchmarking | Proprietary CLX-built systems (LaneLogix) |
+| Data Volume | ~$3.5B freight/year through TMS |
+
+- CLX describes itself as having provided "intelligence" to BlueJay to specialize the platform for chemicals — implying custom configuration/logic on top of the base TMS
+- E2Open acquisition of BlueJay is described positively; CLX is "closely aligned" and in active discussions with E2Open on the transition
+- Prior TMS owner before BlueJay was also in this lineage (20+ year relationship continuity)
+
+---
+
+### Market Position
+
+- Niche specialist: **chemical 3PL/4PL** — not a broad-market LSP
+- Competes (by implication) with general-market 3PLs like **Transplace** in freight benchmark/data, but claims superiority for chemical shippers due to vertical-specific data
+- Private equity-owned chemical companies are a key customer segment — PE firms are cost-focused, making CLX's benchmarking and savings-oriented pitch well-aligned
+- Geographic footprint: North America (primary), Europe (expanding), early-stage Latin America
+- **Gartner recognition** of E2Open (BlueJay's acquirer) cited as validation of their technology partnership
+
+---
+
+### Customer Success Examples
+
+Two named customers (both gave authorization to be named):
+
+#### 1. Scotts Miracle-Gro (US)
+- Leading manufacturer of lawn/garden products and hydroponics (cannabis growing sector mentioned as growth area)
+- CLX manages road transportation as a **full managed transportation operation**
+- Scope: all North American inbound and outbound freight, contracting (on CLX carrier contracts), execution, freight audit, and payment
+- Complex ERP environment: multiple SAP installations (five different businesses, four different SAP versions) plus one homegrown system spanning five businesses — all integrated to CLX TMS
+- Scotts is mid-journey to consolidating to a single ERP (~2-year project at time of briefing)
+
+#### 2. AkzoNobel (Netherlands/Global)
+- Leading European coatings manufacturer (Dulux, etc.)
+- CLX manages **all North American road transportation** as a managed transportation operation
+- Inbound and outbound freight under CLX management
+
+*Note: Only two customers named with any detail. The claim of 125 customers is not independently validated here. No financial savings figures were cited in the recoverable transcript.*
+
+---
+
+### Roadmap / Future Direction
+
+1. **European Market Expansion** — Bringing managed transportation / "supply chain as a service" to European chemical shippers; described as adapting to country-by-country characteristics of European market
+2. **E2Open Platform Transition** — Moving from BlueJay to E2Open TMS post-acquisition; framed as an upgrade (E2Open described as a "very advanced global company" vs. BlueJay's parent Cloud Logistics, called "a very simple solution, not for any kind of large-size shipper")
+3. **LaneLogix Expansion** — Continued investment in benchmarking, procurement analytics, and the "gravity" (lane optimization/network design) capabilities as a core growth driver
+
+---
+
+### Notable Claims & Analyst Skepticism Notes
+
+| Claim | Skepticism Note |
+|---|---|
+| $3.5B freight under management | Self-reported; not externally verified. Reasonable for a niche 3PL of this tenure, but unconfirmed. |
+| Exclusive BlueJay reseller for chemicals | Plausible as a niche arrangement; worth verifying with E2Open post-acquisition whether exclusivity carries over. |
+| 125 customers, 50+ on TMS | Self-reported. No breakdown of customer size, revenue concentration, or churn. |
+| Like-for-like chemical benchmarking superiority | Competitive claim vs. Transplace/others — directionally credible given vertical focus, but benchmark methodology not detailed. |
+| E2Open transition "closely aligned" | The transition from BlueJay to E2Open is a real business risk. E2Open has a history of acquisitions with mixed integration outcomes. CLX's exclusive reseller arrangement may not survive unchanged. |
+| European expansion "underway" | Eindhoven office is real; but "expansion" of managed transportation to EU is early-stage. EU chemical logistics has distinct regulatory, modal, and carrier market differences from NA. |
+| Deep domain expertise (20-30+ year senior team) | Credible given founding year (1997) and chemical focus. The senior team's tenure is a genuine differentiator for a niche vertical. |
+| Analytics / anomaly detection capability | Described conceptually but not demonstrated in detail in the recoverable transcript. Worth a follow-up demo request. |
+
+---
+
+### Briefing Context Notes
+
+- Meeting participants: CLX leadership team (Ken, Mike, Steve Hamilton/Chairman); Gartner side included David (analyst with prior chemical sector background, noted as a plus by CLX)
+- "Jay" referenced as the Gartner contact who specified the agenda/topics for the briefing
+- CLX explicitly values the Gartner relationship for market visibility and future growth
+- Transcript quality is poor (auto-generated from audio): significant portions are filler words or inaudible. Key structured content (e.g., slide-based case study details) was likely presented visually and not captured in audio
+- A formal demo or follow-up briefing with slide materials would be recommended to fill gaps
+
+---
+
+*Section compiled by Supply Chain Guru (⛓️) — 2026-03-03*

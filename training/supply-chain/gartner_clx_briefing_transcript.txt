@@ -1,0 +1,230 @@
+Hey Mark.
+Uh huh.
+Well, Steve, I'll hide him.
+Let's just have Ken, Mike, and I on video.
+Yeah, you should go off video.
+Just Ken, Mike, and I were going to be speaking.
+We'll take very good notes.
+It's so dark.
+Good night.
+Good night.
+Good night.
+Good morning, David.
+Good afternoon, I should say for you.
+Well, thank you.
+Nice to see you all too.
+So I think we have a quorum.
+Everybody is here.
+It's the same group that was on the last time, the leadership team here at CLX.
+So we'll get started if that's what...
+Great.
+Okay, thank you very much.
+All right, let's see if we can get this show going.
+All right, so we've got an agenda that really closely follows the instructions that Jay gave us of most important topics to cover.
+So I think that'd be pretty familiar to you.
+But we want to talk about our company snapshot and strategy where our service offerings are today, how we position ourselves in the market and why we think that differentiates us in certain places.
+So we'll certainly be looking for feedback in this.
+So customers success stories and our future roadmap.
+So our objectives today.
+One is to confirm your interest in having met you before and had the background with you having been in the chemical sector before.
+Certainly that's a big plus for us.
+So thanks for participating in this vendor briefing with us.
+But also having been such a long standing member with Gartner is I think a real plus for us.
+Interests are in third party logistics and certainly the European market, but the global market which matches closely to what CLX is doing today.
+So we're going to talk about who we are and what we do in the market position and why we think this particular partnership with Gartner is so important to our future growth.
+So if that's good.
+So company snapshot.
+So, you know, we are a third party logistics company.
+We we partner with chemical shippers predominantly to be able to, you know, create economic value.
+And we do that with really three things people processing technology and the technology part underpins virtually everything we do.
+That's not only the TMS but other systems including ones that CLX is built for being able to do analytics and the important parts of procurement and benchmark.
+I'm sorry.
+Oh, okay.
+Did you did you miss?
+Okay.
+So our focus is on chemical logistics and and getting savings for customers and positioning them to be able to improve the logistics processes through people processing technology.
+And we think that, you know, creating economic value is the center, the center of our universe.
+And, you know, we do that with technology, obviously, and our important relationship with Blue J solutions, who's about to be acquired by he to open a leading world class.
+Gartner recognized software company.
+So a couple quick facts, logistics based provider LSP, third party logistics, fourth party logistics.
+We do everything on the outsourcing side, all the way from the procurement and strategy right on through to the freight audit and payment process and everything in between.
+We specialize in this chemical market vertical, mostly with manufacturers but also large users of chemicals as that's a big manufacturing input to much of what the world produces today.
+Founded in 1997, so been in business for quite a long time and focused in this chemical space.
+We have two corporate offices, one just outside Philadelphia in Bluebell, and one in the Netherlands in Eindhoven, a center of real university and great talent.
+We've got about 100 employees between the two markets and really a deep domain experience.
+All the partners in the senior team have been in this space for 20, 30 plus years.
+We out privately held Steve Hamilton is the chairman and he's on the call with us today.
+We've had a really nice track record of growth over the last years, and we have about 125 customers with 50 of those being on our TMS, over 50 of them on the TMS.
+And the basis of a lot of the intelligence we have is the data that flows through this transportation system, and it's about three and a half billion worth of freight every year.
+So we use that to be able to drive the activities inside the business, inside our managed services or managed transportation operations, but also in virtually all areas.
+Our product and service offering really centers around three things, managed transportation, which is all modes of transportation.
+We'll cover that in more depth, but we do outsourcing with very large companies.
+One we'll do a bit of a case study on is Scots.
+Scots Miracle Grow here in the US is a leading manufacturer of things that are used for lawn and garden as well as the new sort of growing of, in particular, marijuana in the US is a big hydroponics kind of thing.
+We also do business with AXA Nobel.
+They've given us authorization to be able to use their name, you know, leading European based Dutch company that does coatings on a global basis.
+Here in North America, we run all of the road transportation as a managed transportation operation.
+We have installed with the TMS a ERP hookup to SAP as well as one homegrown system that spans five different businesses and five different installations of SAP, four of them different from each other.
+They are currently going to one ERP and that's about a two year journey for them.
+So a very complex operation where we were doing all of the contracting for the carriers on CLX contracts and all of the execution and audit and payment functions at the end for all North American transport inbound and outbound freight.
+We use the CLX TMS powered, you know, TMS powered by BlueJay.
+We have a 20 plus year relationship with software providers that are in this space that have owned this product.
+BlueJay being the latest in E2 Open being the next which will own the product and have expertise obviously in being able to use that technology, deploy that technology, support that technology and all of these customers that are on it.
+Are using that technology.
+And then lastly, our LaneLogix product, which bundles together our important benchmarking services, our procurement services, and the vast, vast array of data that has there.
+So we view ourselves as a pretty flexible group.
+We sell all of these solutions a la carte, a customer can come in and buy just the TMS.
+They can buy the TMS with services, be it just to support their systems with master data and the management of day to day in the TMS with training and the like.
+But also any of the execution services on transportation across all the modes that chemical shippers use.
+This is on a global basis.
+It is a BlueJay instance in which we have provided the intelligence to them to be able to get it specialized for the chemical sector.
+And we are an exclusive reseller of that.
+So when a chemical shipper approaches BlueJay, they refer them to us.
+And we go forward, specify how the system is going to be installed, what all the requirements are going to be for that and do that.
+But the BlueJay system is a cloud based single instance and all customers have access to the same version.
+Correct.
+No, it's not subject to discussion.
+We have a long term agreement and are in active discussion with E2Open now and we'll be moving over to that.
+So we're closely aligned with E2Open on the new movement with their acquisition of this business.
+So over to your mic.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+That's correct and the managed transportation operations have been historically North American based.
+We recently began a fairly large procurement project program for a shipper in Latin America and in Europe.
+That program is really advancing and we'll cover a bit later our expansion plans into Europe which is a major focus for our managed transportation operations which today are in the U.S.
+U.S. Canada, Mexico.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Yeah, we've heard that from customers.
+We certainly heard that from customers about Transplace and others that they just don't
+have like customer comparisons, so it can't compare groceries to bulk, right?
+We know that, but the data sets that we do have allow us to be able to stratify that
+data and be able to compare them to like shippers, which is very, very unique in the space and
+provides market to value.
+The other thing I'd say about price shoppers is with the last 10 years of private equity
+acquisitions in chemical, private equity owned companies are very focused on cost, particularly
+in North America.
+Mike, you froze.
+Thank you.
+Well, if you put the point on, you know, sort of the now what, so what, right?
+What are you going to do about it when you know that you have outliers and having needles
+and haystacks that are popping off the screen that, you know, an individual can be in a
+supply chain organization and get right down to what happened yesterday and where is my
+biggest defect and know which customer is being impacted by that defect?
+I mean, it's just super powerful stuff.
+Okay, so I think I'm going to go on and give a couple of case studies.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Excellent.
+So we have some future plans.
+Growth is always on our agenda.
+And the first of those is market expansion, where we're going to be bringing our managed
+transportation or supply chain as a service, if you will, execution service to the European
+market to really be able to expand that flexible engagement and give customers in that market
+a flavor of what's happening here in North America specialized to the unique characteristics
+of the European market on a country basis, right?
+Okay.
+So we're taking really a very advanced global company in E2 Open and plugging in this top
+notch TMS, which arguably they were relatively weakened with cloud logistics, being a very
+simple solution, but not for any kind of sized, large size shipper.
+So we're very, very excited about E2 Open and what that's going to bring to the market for us.
+Lastly, this lane logics expansion and gravity and procurement and all of that activity that
+has to do with really optimizing the supply chain in terms of the cost and the providers
+that are in there for our transportation needs is a central part of our growth strategy and
+has been helping us with all of the other areas of our business on a day-to-day basis.
+So our future plans are strong and I think areas that will be interesting to the market,
+but we certainly will be interested to hear your feedback on that.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Great feedback.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+That's awesome, just awesome.
+I don't think you were known by us.
+I don't think you knew us.
+To know to talk to us.
+Thank you.
+Thank you.
+Okay.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you so much for your time. It's been a great call from my perspective and your input.
+Have a good afternoon.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
