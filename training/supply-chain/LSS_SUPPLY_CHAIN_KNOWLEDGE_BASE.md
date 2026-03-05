@@ -4,6 +4,21 @@
 **Sources:** ~48 documents (PowerPoints, PDFs, Word docs) processed from training library.  
 **Last Updated:** 2026-03-03
 
+## Pre-flight Checklist
+
+Before starting any supply chain analysis, answer these 5 questions:
+
+1. **What type of problem is this?** Strategic / Operational / Tactical — which level?
+2. **What data is available?** Quantitative, qualitative, anecdotal? How reliable?
+3. **What decision needs to be made?** If no decision follows from this, why are we analyzing it?
+4. **What is the time horizon?** Short-term fix, quarterly plan, or multi-year strategy?
+5. **Which framework is most relevant?** APICS/CPIM, Gartner, LSS — or a hybrid?
+
+> Mismatching time horizon and framework is the #1 cause of off-target SC analysis.
+
+---
+
+
 ---
 
 ## Table of Contents
