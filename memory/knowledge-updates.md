@@ -4,6 +4,58 @@ _Supply Chain Guru searches for 3 supply chain insights at 6am and 6pm ET daily.
 
 ---
 
+## 2026-03-05 PM — Evening Knowledge Scan
+
+### Insight 1: Geopolitical & Tariff Risk — The New #1 Supply Chain Threat in 2026
+**Source:** Z2Data, "22 Critical Supply Chain Risks to Watch for in 2026" (2026)
+**URL:** https://www.z2data.com/insights/22-critical-supply-chain-risks-to-watch-for-in-2026
+
+Geopolitics has re-emerged as the dominant supply chain disruptor. Key developments:
+- U.S. average effective tariff rates have hit **18% — the highest since 1934** due to reciprocal tariff escalation with China
+- **Country of Design (COD)** is replacing Country of Origin (COO) as the tariff basis for some semiconductors — a fundamental shift in how trade compliance is calculated
+- Supplier financial stability and n-tier visibility gaps are among the most unpredictable risk categories — companies without visibility beyond Tier 1 are flying blind
+- Export restrictions on rare earths and critical minerals are triggering chain reactions across manufacturing supply chains
+
+**Quantix relevance:** Bulk chemical carriers operate in a volatile regulatory and commodity environment. Shipper clients under cost pressure from tariffs may push harder on spot rates or reduce volumes. Visibility into shipper financial health (Tier 1 customer risk) is a direct analog to the n-tier supplier risk problem.
+
+**APICS alignment:** Demand management + supply risk frameworks — specifically, the CPIM guidance on supply chain risk profiling and the need for diversified supply base strategies (APICS CPIM Exam Content Manual, Domain 2).
+
+---
+
+### Insight 2: Digital Collaboration Principles for Chemical & Bulk Logistics
+**Source:** Maritime Executive, "Digital Collaboration in Chemical Logistics" (Feb 2026)
+**URL:** https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+
+As chemical supply chains decarbonize and integrate new energy carriers (hydrogen, ammonia, synthetic fuels), the authors propose three data-sharing design principles for liquid bulk corridors:
+1. **Cargo owners control visibility** — they bear the risk, so they decide who sees what
+2. **ETAs as intent, not commitment** — updated as conditions evolve to enable early data sharing without false precision
+3. **Visibility scoped to direct participants** — limited to actors involved in a specific flow, for a defined time window, to protect commercial interests
+
+This framework is directly applicable to traditional chemical tanker and dry bulk operations — not just future fuels. The principle of role-based, time-bounded visibility is a mature approach to the chronic problem of over-sharing (exposes commercial data) vs. under-sharing (creates coordination failures) in multi-party logistics.
+
+**Quantix relevance:** Bulk chemical carrier coordinating with 50+ terminals and thousands of shippers. The "cargo owner controls visibility" principle aligns with how Quantix should think about customer data governance in any TMS/visibility platform buildout.
+
+**Framework tag:** Information architecture for supply chain collaboration — aligns with APICS CSCP Module 3 (Supply Chain Relationships and Collaboration).
+
+---
+
+### Insight 3: Chemical Logistics Cost Reduction — Digital Twin + Network Optimization as Standard Approach
+**Source:** Odyssey Logistics, "Surviving Cost Pressures in 2026: How European Chemical Manufacturers Can Win on Logistics" (March 2026)
+**URL:** https://www.odysseylogistics.com/blog/surviving-cost-pressures-in-2026-how-european-chemical-manufacturers-can-win-on-logistics/
+
+Leading 4PL/3PL providers are now conducting **digital twin network studies** before any engagement — modeling cost effects of consolidation patterns, routing, and carrier selection on actual client shipping data. Key tactics:
+- Ship larger loads less frequently (consolidation)
+- Optimize multi-stop routes
+- Reduce cross-docking (adds cost AND damage risk — particularly relevant for bulk chemicals)
+
+The "digital twin first" approach is becoming table stakes for sophisticated chemical logistics engagements. This is essentially a formalized version of the DMAIC Define/Measure phase applied at network level before any process change.
+
+**Quantix relevance:** Quantix as a carrier should understand this is how sophisticated shippers are evaluating their logistics spend. Expect shipper RFPs to include network analysis questions. Being able to speak to lane optimization, terminal utilization, and multi-stop efficiency is increasingly a differentiator.
+
+**LSS alignment:** DMAIC Define/Measure → network modeling = Voice of Customer + current-state process map before improvement. The digital twin is just a computational VSM (Value Stream Map).
+
+---
+
 ## 2026-03-05 AM — Morning Knowledge Scan
 
 ### Insight 1: Descartes MacroPoint OpsForce — AI Agents Live in Freight Visibility
@@ -87,3 +139,32 @@ Supply Chain Guru initialized. Knowledge bases loaded:
 - APICS CPIM/CSCP (1,068 lines)
 - Lean Six Sigma + SC (1,264 lines)  
 - Gartner research (~500 lines)
+
+## 2026-03-06 AM — Morning Knowledge Update
+
+### Insight 1: AI Agents Are Eliminating Manual Freight Tracking Check Calls
+**Source:** Descartes Systems Group press release, March 4, 2026 (GlobeNewswire)
+**Summary:** Descartes launched MacroPoint OpsForce — a suite of AI agents that automate freight visibility workflows. In just months post-launch: 435,000+ additional drivers connected via 720,000+ AI-powered outreaches; customers report up to 100% elimination of manual check calls; 30% increase in no-touch tracking automation; 1.5x productivity gains for tracking teams; 15% faster settlement via automated POD capture.
+**SC Relevance:** This is the agentic AI pattern arriving in freight execution — not just visibility dashboards but autonomous workflow agents handling exception management and documentation. For a carrier like Quantix (4,500+ trucks, bulk chemical/plastics), this is directly applicable to load tracking and driver communication workflows.
+**Knowledge Tier:** High-frequency (product announcement, current)
+**Tags:** #AI-agents #freight-visibility #tracking-automation #transportation
+
+---
+
+### Insight 2: Freight Market Repricing — More Loads, Less Capacity (March 2026)
+**Source:** KCH Transportation Freight Market Update, March 2026
+**Summary:** Two converging forces are setting up for a rate inflection point: (1) Demand recovery — backlogs up, inventories depleted, manufacturing expanding in multiple regions (KC at +5, Philadelphia at +16.3 for third straight expansion month); (2) Cost floor rising — diesel, tariffs, equipment, wages, and geopolitical disruption pushing rates up. ACT Research seeing truckload contract rates up mid-single digits in February. Theme: market is "repricing" even without a true demand boom.
+**SC Relevance:** Quantix is a carrier — tightening supply side with rising costs is a margin opportunity if rate negotiations stay current. Heartland manufacturing recovery (KC, Philadelphia expansion) matters specifically for plastics/chemical origin lanes.
+**Knowledge Tier:** High-frequency (market data, current)
+**Tags:** #freight-market #truckload-rates #capacity #manufacturing-recovery
+
+---
+
+### Insight 3: Five Forces Reshaping Supply Chains in 2026 — Reverse Logistics, AI Without Strategy, Demand Fragmentation
+**Source:** SupplyChainBrain, "Supply Chain 2026: Five Predictions That Will Define the Year Ahead," March 2026
+**Summary:** Five interconnected forces: (1) Reverse logistics becoming core capacity — resale market growing 2.7x faster than overall apparel market; (2) Tariff/trade uncertainty driving demand for faster replanning; (3) Shopping agents fragmenting demand across thousands of sellers vs. centralized hubs; (4) AI accelerating inside operations without clear strategy at most organizations; (5) Practical sustainability replacing long-term pilots with immediate wins.
+**SC Relevance:** For bulk chemical/plastics carriers, fragmented demand signals (#3) impact shipper forecasting accuracy. The AI-without-strategy finding (#4) is a real pattern — point solutions proliferating without integration. Strong argument for Quantix to build AI strategy before adding more point tools.
+**Knowledge Tier:** Mid-frequency (research synthesis, current cycle)
+**Tags:** #reverse-logistics #resale #AI-strategy #demand-fragmentation #sustainability
+
+---
