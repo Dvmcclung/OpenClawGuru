@@ -168,3 +168,118 @@ Supply Chain Guru initialized. Knowledge bases loaded:
 **Tags:** #reverse-logistics #resale #AI-strategy #demand-fragmentation #sustainability
 
 ---
+
+## 2026-03-06 PM — Evening Search
+
+### Insight 1: Supply Chain Disruptions Up 30% in 2024 — Resilience Now Top Priority
+**Source:** Resilinc EventWatch 2024 / McKinsey Survey (via Villanova University, Sept 2025)
+**Category:** Risk Management
+**Key Finding:** Supply chain disruptions rose 30% in H1 2024. Top triggers: factory fires, M&A activity, and regulatory changes. >60% of executives surveyed by McKinsey ranked supply chain resilience as their #1 strategic priority — above cost and efficiency. The pendulum has definitively swung from lean/JIT back toward strategic inventory buffers as a primary risk mitigation tool.
+**Implication for Quantix:** Factory fires and regulatory changes are directly relevant to chemical shipper customers. The risk isn't just Quantix's network — it's upstream/downstream disruptions that create sudden freight demand shocks. Building scenario response protocols into S&OP cadence (e.g., pre-positioned surge capacity) is a legitimate differentiator.
+**Tier:** High-frequency (current data — Dec 2025)
+**Tags:** #risk-management #resilience #disruption #McKinsey #S&OP
+
+### Insight 2: Lean Six Sigma Reframed as Resilience Methodology, Not Just Efficiency
+**Source:** Villanova University / 2025 academic synthesis
+**Category:** Process Improvement / LSS Application
+**Key Finding:** Leading organizations are extending LSS beyond defect/cost reduction — specifically applying DMAIC to *anticipate variability* and *manage uncertainty* in supply chain design. Design for Six Sigma (DFSS) is being applied to network design for resilience, not just product quality. The framing: supply chains that absorb volatility without compromising quality, cost, or speed.
+**Implication for Quantix:** DMAIC projects should include explicit variability quantification in the Measure phase — not just current-state defects. Adding a "variability map" to project charters for driver scheduling, terminal throughput, and maintenance cycles would surface hidden fragility before it becomes a disruption.
+**Tier:** DC (framework extension — stable principle with new application context)
+**Tags:** #LSS #DMAIC #DFSS #resilience #variability #process-improvement
+
+### Insight 3: TMS with Real-Time Visibility Is Now a Compliance Baseline for Bulk Chemical Transport
+**Source:** BulkTransporter.com / industry synthesis
+**Category:** Bulk/Chemical Logistics Best Practices
+**Key Finding:** For bulk liquid/chemical transport, TMS adoption has shifted from "optimization tool" to regulatory compliance enabler. Real-time shipment status, multimodal visibility, and proactive replanning are baseline expectations. Critical distinction by material type: liquid chemicals require property-matched containment (viscosity, temperature sensitivity, volatility) AND in-transit monitoring — not just location tracking.
+**Implication for Quantix:** At 4,500 trucks, the TMS must capture not just GPS location but load properties and compliance documentation status in real time. Any gap creates both customer service exposure and regulatory liability. Worth conducting a gap audit of current TMS capabilities against load-property monitoring requirements for chemical moves.
+**Tier:** Mid-frequency (operational best practice)
+**Tags:** #TMS #bulk-transport #chemical-logistics #compliance #visibility #technology
+
+---
+
+## 2026-03-07 PM — Evening Knowledge Update
+
+### Insight 1: Supply Chain Risk Landscape 2026 — Tariffs, Geopolitics, and Supplier Opacity
+**Source:** Supply Chain Dive / Z2Data (Jan–Mar 2026)
+**Category:** Supply Chain Risk Management
+**Tier:** High-frequency (volatile — current events)
+
+After a year of Trump tariff shockwaves, 2026 shows no signs of stabilizing. Key risk clusters:
+- **Tariff structure shift**: Some semiconductors now tariffed by Country of Design (COD) rather than Country of Origin (COO) — a structural change that breaks legacy compliance models
+- **Reciprocal tariffs**: U.S. effective tariff rates at ~18%, highest since 1934. Material cost inflation and NPI disruption accelerating
+- **Supplier financial risk**: Supplier bankruptcies among the least predictable disruptions, especially without n-tier visibility
+- **Geopolitical export controls**: Rare earth and critical mineral restrictions creating cascading supply constraints
+- **Logistics reliability concerns**: Trade uncertainty compounding port congestion and carrier capacity volatility
+
+**Implication for Quantix:** Bulk chemical customers under upstream cost pressure will increase demands for logistics flexibility, reliability, and visibility. Opportunity to position Quantix as a stability asset, not just a cost line item.
+**Tags:** #risk-management #tariffs #geopolitics #2026-trends
+
+---
+
+### Insight 2: Chemical Logistics Elevated to Strategic Function (2025)
+**Source:** rawsource.com — Chemical Industry Logistics 2025 Strategic Playbook (Dec 2025)
+**Category:** Bulk/Chemical Logistics Best Practices
+**Tier:** Mid-frequency (research synthesis)
+
+Chemical logistics has shifted from back-office function to mission-critical strategic capability under compounding pressures:
+- **Regulatory compliance is continuous**: Overlapping DG classifications, labeling standards, export controls. Documentation errors routinely cause shipment holds, delays, and fines
+- **Lead time unpredictability**: Port congestion and volatile carrier capacity forcing chemical producers to redesign inventory strategies and deepen demand planning
+- **Sustainability mandates**: Reusable IBCs, reconditioned drums, enhanced spill-prevention tech becoming standard. Driven by customer transparency demands and environmental regulation
+- **Temperature/contamination complexity**: Classified packaging requirements growing as product portfolios diversify
+
+**Implication for Quantix:** Carriers with strong compliance infrastructure, spill-prevention tech, and integrated visibility are becoming strategic preferred partners — not spot vendors. Quantix's scale (4,500+ trucks, 50+ terminals) is a competitive asset if positioned through this lens in commercial conversations.
+**Tags:** #chemical-logistics #compliance #sustainability #bulk-transport #strategic-positioning
+
+---
+
+### Insight 3: Digital Supply Chain Transformation — Platform Consolidation Beats Point Solutions
+**Source:** Frontiers in Sustainability — Digital Transformation in Supply Chains: AI, Blockchain, IoT (Nov 2025)
+**Category:** Process Improvement / Technology
+**Tier:** Mid-frequency (research synthesis)
+
+Despite strong ROI cases, digital transformation faces a persistent structural barrier:
+- **Integration failure is the #1 risk**: Fragmented standards and legacy systems cause costly failures — especially when connecting blockchain/IoT platforms with existing ERP/TMS systems
+- **Cybersecurity exposure is real**: IoT-enabled supply chains demonstrably vulnerable to network intrusions; empirically confirmed, not theoretical
+- **Platform consolidation wins big**: Companies consolidating onto single integrated platforms achieve order-of-magnitude improvements vs. point solutions. Reference: Avaya achieved 200%+ inventory turn improvement, 94% working capital reduction, 50% cost cut through platform consolidation
+
+**Implication for Quantix:** The pitch to customers isn't "we have IoT" — it's "we have integrated visibility without interoperability gaps." Platform coherence is the differentiator. Anticipate customer RFPs beginning to require cybersecurity attestations for logistics technology partners.
+**Tags:** #digital-transformation #TMS #IoT #platform-consolidation #cybersecurity #technology
+
+---
+
+## 2026-03-08 — Morning Update
+
+---
+
+### Insight 1: Autonomous Trucking Accelerates Toward 24/7 Commercial Operations
+
+**Date:** March 6–8, 2026
+**Source:** Robotics & Automation News / PlusAI; Aurora Innovation (Morgan Stanley Conference)
+**Summary:** PlusAI released SuperDrive 6.0, a major step toward fully driverless freight — adding night driving and construction zone capabilities built on 7M+ real-world miles. Aurora is expanding from initial driverless launches in 2025 to hundreds of trucks by end of 2026. Both companies are targeting Texas freight corridors as primary deployment zones. Fully autonomous commercial deployment (factory-built trucks) targeted for 2027.
+**SC Relevance:** The highway hub-to-hub model is the first commercialization path — directly relevant to over-the-road bulk carriers. For Quantix, this accelerates the driver shortage calculus and raises questions about fleet investment horizons. Autonomous bulk tanker deployments lag dry van by 2–3 years due to hazmat/safety certification complexity, but the competitive pressure is real and coming faster than most carrier executives expect.
+**Knowledge Tier:** High-frequency (volatile — market/tech developments moving fast)
+**Tags:** #autonomous-trucking #AV #freight-technology #fleet-strategy #OTR #Texas-corridors
+
+---
+
+### Insight 2: Iran Conflict Disrupting Petrochemical Supply Chains — Strait of Hormuz Risk
+
+**Date:** March 3–7, 2026
+**Source:** Chemical & Engineering News (ACS), C&EN March 2026
+**Summary:** US-Iran conflict (fighting began March 1) has forced QatarEnergy to halt polymer, urea, and methanol production after attacks on Ras Laffan and Mesaieed industrial complexes. Saudi Aramco's Ras Tanura refinery partially offline after drone strikes. Iran attempting to blockade the Strait of Hormuz — through which ~20% of global crude oil transits. Brent crude spiked 15% to $83/bbl; $100+ possible if flows don't restore. Qatar supplies 14% of global urea and 20% of LNG.
+**SC Relevance:** Direct upstream impact on chemical feedstock supply chains. Polyethylene and polymer producers using Middle Eastern feedstocks will face shortages or force majeure declarations — affecting plastic pellet supply. For Quantix (dry bulk plastic pellets + liquid bulk chemicals), watch for: (1) volume shifts as customers source from alternative regions; (2) diesel/fuel cost pressure; (3) potential spot rate volatility as shippers scramble. This is an active supply chain disruption event requiring customer monitoring now.
+**Knowledge Tier:** High-frequency (active geopolitical event — monitor daily)
+**Tags:** #geopolitical-risk #chemical-supply-chain #petrochemicals #supply-disruption #Hormuz #feedstock #fuel-costs #plastic-pellets
+
+---
+
+### Insight 3: Reverse Logistics and Regional Network Rebalancing Define 2026 Strategy
+
+**Date:** March 2–8, 2026
+**Source:** SupplyChainBrain, "Supply Chain 2026: Five Predictions That Will Define the Year Ahead"; Deloitte 2026 Retail Industry Outlook
+**Summary:** Two converging forces are reshaping SC network design in 2026: (1) Reverse logistics is moving from overflow process to core capacity — global resale market growing 2.7x faster than overall retail; operators must track cost-per-reverse-mile alongside outbound metrics, with unified data across returns/resale/re-commerce. (2) Tariff and trade uncertainty is driving companies away from single global footprints toward regional networks that balance efficiency with resilience — nearshoring and supplier base diversification accelerating.
+**SC Relevance:** For Quantix customers (chemical manufacturers, plastics producers), nearshoring of supply bases increases domestic transportation density — a positive volume signal for US bulk carriers. Reverse logistics less directly relevant to bulk tanker ops, but the underlying principle — bidirectional network planning with equal discipline — applies to terminal utilization and backhaul optimization. The Deloitte nearshoring signal is the more actionable one: domestic chemical plant investment = more bulk freight lanes.
+**Knowledge Tier:** Mid-frequency (research synthesis — Deloitte/SCBrain analysis, early 2026)
+**Tags:** #network-design #nearshoring #resilience #reverse-logistics #regional-networks #domestic-freight #tariffs #trade-policy
+
+---
