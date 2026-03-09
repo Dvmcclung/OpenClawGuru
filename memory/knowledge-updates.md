@@ -283,3 +283,85 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 **Tags:** #network-design #nearshoring #resilience #reverse-logistics #regional-networks #domestic-freight #tariffs #trade-policy
 
 ---
+
+## 2026-03-08 PM — Evening Knowledge Scan
+
+### Insight 1: Tariff Risk — 65% of Companies Changing Sourcing Patterns as Primary Mitigation
+**Source:** Thomson Reuters, "The 2026 Supply Chain Challenge: Global Trade Disruption" (Feb 2026)
+
+**Finding:** In the most current survey data (published ~3 weeks ago), the top tariff mitigation strategies being deployed are: (1) changing sourcing patterns — 65% of respondents; (2) renegotiating supplier contracts — 57%; (3) nearshoring/reshoring to the US. This represents a real-time reshuffling of global trade patterns, not just contingency planning. Companies are executing, not just scenario-planning.
+
+**What's new vs. prior knowledge:** Previous entries noted nearshoring as a trend signal. This confirms it is now the dominant mitigation response, with majority adoption. The sequence matters: sourcing diversification comes before nearshoring — companies hedge first, then reshore when economics support it.
+
+**SC Relevance (Quantix):** Chemical shippers in Quantix's customer base are likely in the "renegotiating supplier contracts" phase now. That pressure flows downstream — expect more requests for rate flexibility, shorter contract terms, and demand for carrier capacity optionality. Bulk chemical carriers that can offer variable capacity arrangements (vs. rigid dedicated fleets) will be better positioned. Also: domestic nearshoring of chemical production = more domestic tanker lanes.
+
+**Knowledge Tier:** High-frequency (current market data — Thomson Reuters survey, Feb 2026)
+**Tags:** #tariffs #risk-management #sourcing #nearshoring #trade-policy #carrier-strategy #2026
+
+---
+
+### Insight 2: Bulk Chemical Carrier Consolidation — KAG + MC Tank (June 2025)
+**Source:** Tank Transport Trader, "KAG Acquires MC Tank: Positive Power Move Adds 775 Chemical Logistics Assets in 2025" (June 2025)
+
+**Finding:** KAG Enterprises acquired MC Tank in mid-2025, adding 775 assets (drivers, tractors, specialized trailers) plus ISO container capability and new terminal footprint. Strategic rationale: one-stop-shop for bulk chemical shippers — combining traditional tanker trucking + intermodal tank container transport. KAG explicitly positioned hazmat transport capability and safety record as differentiators used to "elevate" the acquired operation.
+
+**What's new vs. prior knowledge:** This is concrete M&A activity in Quantix's competitive set. KAG now has ISO container capability (intermodal) alongside OTR tanker — a capability Quantix does not appear to have. This is a competitive gap to watch: chemical shippers increasingly want modal flexibility (OTR + intermodal) from a single provider.
+
+**SC Relevance (Quantix):** Direct competitive intelligence. KAG is building the "full-service chemical logistics" model. If Quantix is purely OTR tanker/dry bulk, the competitive differentiation question becomes: does Quantix need ISO/intermodal capability, or does it double down on OTR excellence and terminal density? Either answer requires a deliberate strategic choice — not a default.
+
+**Knowledge Tier:** High-frequency (industry news — Tank Transport, June 2025)
+**Tags:** #competitive-intelligence #bulk-chemical #carrier-consolidation #KAG #ISO-container #intermodal #M&A #fleet-strategy
+
+---
+
+### Insight 3: Lean Six Sigma in 3PL Warehouse — Process Cycle Efficiency Lifted from 40% to 70% via DMAIC
+**Source:** ScienceDirect / Heliyon, "Development of an improvement framework for warehouse processes using lean six sigma (DMAIC) approach. A case of third party logistics (3PL) services" (2023, published peer-reviewed)
+
+**Finding:** DMAIC applied to a 3PL warehouse operation identified that non-value-added activities were so dominant that process cycle efficiency (PCE) — the ratio of value-added time to total lead time — was only 40%. Post-improvement PCE reached 70%. This is a 75% relative improvement in process efficiency. The key mechanism: mapping all warehouse tasks, classifying VA vs. NVA, then systematically eliminating/reducing NVA through standard work, layout redesign, and error-proofing.
+
+**What's new vs. prior knowledge:** Reinforces existing LSS knowledge but provides a concrete PCE benchmark. A 40% baseline PCE is typical of unreformed warehouse/logistics operations — this gives Dale a credible "before" benchmark to anchor CI conversations with customers or internal ops. The 70% target is achievable, not theoretical.
+
+**Framework anchor (APICS/LSS):** PCE = (Value-Added Time) / (Total Lead Time) × 100. Industry benchmark for optimized logistics operations: 50–70%. Sub-40% indicates significant waste — prime DMAIC candidate. Apply Value Stream Mapping first to make waste visible before jumping to solutions.
+
+**SC Relevance (Quantix):** Terminal operations (loading/unloading, dispatch, trailer inspection, cleaning cycles) are rich with NVA time. A PCE analysis of a single Quantix terminal's truck turn cycle — from check-in to departure — would likely reveal the same 40% baseline or worse. This is a fundable CI project framing.
+
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis — ScienceDirect 2023)
+**Tags:** #DMAIC #lean-six-sigma #3PL #warehouse #process-efficiency #PCE #value-stream-mapping #terminal-ops #continuous-improvement
+
+---
+
+---
+
+## 2026-03-09 (AM) — Morning Knowledge Update
+
+### Insight 1: PlusAI SuperDrive 6.0 — Autonomous Trucking Crosses Commercial Threshold in Texas
+- **Date:** 2026-03-06
+- **Source:** Robotics & Automation News / PlusAI press release
+- **URL:** https://roboticsandautomationnews.com/2026/03/06/plusai-unveils-new-autonomous-trucking-software-with-night-driving-and-construction-zone-capabilities/99291/
+- **Summary:** PlusAI released SuperDrive 6.0, its latest autonomous driving software now operating on commercial freight routes in Texas. Key capabilities: night driving, construction zone handling, and 10x faster AI model training pipeline. The company targets fully driverless commercial deployment with factory-built trucks in 2027. Autonomous trucks with this software could achieve 24/7 freight operations, potentially more than doubling truck utilization.
+- **SC Relevance (Quantix):** Direct relevance to bulk OTR operations. 24/7 autonomous operation on Texas hub-to-hub corridors is exactly the Quantix lane profile — long-haul, consistent routes, high-volume. Driver shortage pressure + utilization economics make this worth tracking closely. If autonomous bulk tankers/pneumatics follow dry van adoption, Quantix faces both competitive threat and potential operational opportunity. Watch for regulatory milestones in 2027.
+- **Knowledge Tier:** High-frequency (current technology event — validate before acting)
+- **Tags:** autonomous-trucking, AI, Texas, OTR, driver-shortage, utilization, technology
+
+---
+
+### Insight 2: March 2026 Freight Market — Rate Floor Rising, Capacity Tightening
+- **Date:** 2026-03-01 (month update)
+- **Source:** KCH Transportation — March 2026 Freight Market Update
+- **URL:** https://kchtrans.com/march-2026-monthly-freight-market-update/
+- **Summary:** The freight market is repricing in early Q1 2026. Truckload contract rates up mid-single digits in February (ACT Research). "More loads, less capacity" dynamic building: demand recovering across manufacturing regions while cost stack (diesel, tariffs, equipment, wages) is lifting rate floors. Regional manufacturing expansions — Kansas City (+5 composite), Philadelphia (+16.3) leading. Dallas crossed above zero for first time since July 2025. Forward expectations strong (Philly 6-month outlook: +42.8).
+- **SC Relevance (Quantix):** Rate floor rising across truckload = tightening carrier market for Quantix's customer shippers. Quantix as a carrier benefits from firming rates. Chemical/plastics manufacturing expansion in heartland regions (KC, Dallas corridor) = potential volume growth for bulk services. Monitor contract rate negotiations accordingly.
+- **Knowledge Tier:** High-frequency (current market data — time-sensitive)
+- **Tags:** freight-market, rates, capacity, manufacturing, demand, truckload, Q1-2026
+
+---
+
+### Insight 3: Reverse Logistics & Tariff-Driven Trade Fragmentation — 2026 Structural Shift
+- **Date:** 2026-03-01 (recent)
+- **Source:** SupplyChainBrain — "Supply Chain 2026: Five Predictions That Will Define the Year Ahead"
+- **URL:** https://www.supplychainbrain.com/articles/43568-supply-chain-2026-five-predictions-that-will-define-the-year-ahead
+- **Summary:** Five structural forces reshaping supply chains in 2026: (1) Reverse logistics becomes core capacity — resale market growing 2.7x faster than overall apparel market; (2) Tariff/trade uncertainty driving demand toward regional/circular economies; (3) AI adoption accelerating inside operations without clear strategy at most orgs; (4) Shopping agents fragmenting demand across thousands of smaller sellers; (5) Practical sustainability replacing long-term pilots with immediate wins. Key warning: circular models only work when resale, returns, and re-commerce data are unified.
+- **SC Relevance (Quantix):** Tariff-driven nearshoring and regional manufacturing growth = potential long-term volume uplift for bulk domestic carriers. The AI-without-strategy warning is directly applicable — Quantix is building AI-in-the-loop automation and has the opportunity to do it right while most competitors are still reactive. The "fragmented demand" trend also affects chemical feedstock demand patterns for Quantix's shipper customers.
+- **Knowledge Tier:** Mid-frequency (research synthesis — stable for 3–6 months)
+- **Tags:** tariffs, nearshoring, reverse-logistics, AI-strategy, demand-fragmentation, trade-resilience, circular-economy
+
