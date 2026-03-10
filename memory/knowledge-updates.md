@@ -4,6 +4,56 @@ _Supply Chain Guru searches for 3 supply chain insights at 6am and 6pm ET daily.
 
 ---
 
+## 2026-03-09 PM — Evening Knowledge Scan
+
+### Insight 1: AI Reduces Bullwhip Effect — Peer-Reviewed Evidence (2025)
+**Source:** Frontiers in Sustainability — "Digital Transformation in Supply Chains" (Nov 2025)
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis, 2010–2024 literature)
+
+Systematic PRISMA review confirms AI-driven demand forecasting demonstrably reduces the bullwhip effect — the amplification of demand variability upstream. Key findings:
+- **AI** provides predictive insights that mitigate risks and streamline inventory decisions
+- **Blockchain** delivers secure, immutable traceability records — critical for chemical/hazmat chain-of-custody
+- **IoT** enables real-time monitoring across distributed networks (highly relevant to Quantix's 50+ terminal footprint)
+- **Remaining gaps:** cybersecurity vulnerabilities, legacy system interoperability, workforce upskilling requirements
+
+**Application for Quantix:** IoT + AI stack at terminals could reduce empty-truck repositioning cost and improve load planning accuracy. Blockchain for hazmat COC documentation is emerging but not yet table-stakes.
+
+---
+
+### Insight 2: Supply Chain Risk Visibility — 70% of Orgs Now Prioritizing It as #1 Investment (Jan 2026)
+**Source:** Ivalua, "Mastering Supply Chain Risk Management" (January 2026)
+**Knowledge Tier:** Mid-frequency (industry survey synthesis)
+
+Key signal: 70% of organizations are now prioritizing supply chain visibility and resilience as their primary technology investment area — a major shift from cost-reduction as the dominant driver (pre-2020 posture).
+
+Modern SCRM framework components:
+1. **Systematic identification** — map all internal/external threats including n-tier suppliers
+2. **Structured assessment** — financial, operational, compliance, cybersecurity risk scoring
+3. **Cross-functional collaboration** — SCRM cannot live in procurement alone
+4. **Predictive capabilities** — moving from reactive (incident response) to proactive (early warning)
+5. **Ongoing supplier engagement** — not just periodic audits, but continuous monitoring
+
+**McKinsey's parallel finding (Dec 2025):** Companies are rebuilding safety stock buffers post-pandemic — reversing JIT trends. This is a conscious risk-buffer strategy, not just poor planning.
+
+**Application for Quantix:** As a carrier serving chemical shippers, Quantix's risk exposure runs both directions — operational (fleet, terminal, driver compliance) and customer-side (shipper financial stability, regulatory changes, volume concentration). A lightweight SCRM scorecard for top 20 customers is worth building.
+
+---
+
+### Insight 3: DuPont Supply Chain Cockpit — Algorithm-Driven Scenario Planning at Scale
+**Source:** EY Case Study — DuPont Supply Chain Transformation (2022, still widely cited)
+**Knowledge Tier:** Mid-frequency (validated case study)
+
+DuPont replaced legacy planning tools with a "Supply Chain Cockpit" — an algorithmic platform that:
+- Tests future scenarios across **9 supply chain categories**
+- Operates across **75 global locations simultaneously**
+- Reduces manual planning effort while improving efficiency, consistency, and predictability
+
+**Why it matters now:** This is the blueprint for integrated business planning (IBP) at enterprise scale. DuPont operates complex chemical supply chains similar to Quantix's customer base. The "cockpit" concept (unified visibility + scenario modeling) is the enterprise version of what Quantix should be building at the carrier layer — a terminal/fleet planning cockpit that integrates capacity, demand signals, and compliance status.
+
+**Application for Quantix:** Phase 1 = unified terminal visibility dashboard. Phase 2 = scenario modeling for fleet repositioning. Phase 3 = proactive capacity allocation tied to customer demand signals.
+
+---
+
 ## 2026-03-05 PM — Evening Knowledge Scan
 
 ### Insight 1: Geopolitical & Tariff Risk — The New #1 Supply Chain Threat in 2026
@@ -364,4 +414,34 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 - **SC Relevance (Quantix):** Tariff-driven nearshoring and regional manufacturing growth = potential long-term volume uplift for bulk domestic carriers. The AI-without-strategy warning is directly applicable — Quantix is building AI-in-the-loop automation and has the opportunity to do it right while most competitors are still reactive. The "fragmented demand" trend also affects chemical feedstock demand patterns for Quantix's shipper customers.
 - **Knowledge Tier:** Mid-frequency (research synthesis — stable for 3–6 months)
 - **Tags:** tariffs, nearshoring, reverse-logistics, AI-strategy, demand-fragmentation, trade-resilience, circular-economy
+
+
+---
+
+## 2026-03-10 — Morning Search (6am ET)
+
+### Insight 1: PlusAI SuperDrive 6.0 — Autonomous Trucks Edge Toward 24/7 Operations
+- **Source:** FreightWaves, March 10 2026 — https://www.freightwaves.com/news/plusai-superdrive-6-0
+- **Summary:** PlusAI released SuperDrive 6.0, adding night driving and construction-zone handling to its autonomous trucking software. The company has logged 7M+ real-world miles across US/Europe/Asia and is targeting scalable fully driverless commercial deployment by 2027. CEO framed the update as enabling true 24/7 commercial freight operations. PlusAI is also advancing toward a public listing via SPAC (Churchill Capital Corp. IX / Nasdaq: CCIX).
+- **SC Relevance:** Direct relevance to Quantix's over-the-road bulk fleet. The 2027 commercial deployment timeline is near-term. For a 4,500-truck operation, even partial AV integration on high-volume lanes could reshape driver cost structure, HOS constraints, and terminal scheduling. Watch the regulatory approval pace and insurance framework — these remain the actual bottlenecks.
+- **Knowledge Tier:** High-frequency (market development — verify before citing operationally)
+- **Tags:** #autonomous-trucking #technology #OTR #driver-cost #fleet-ops
+
+---
+
+### Insight 2: Winter Storm Fern + Tariff Uncertainty Drive Spot Rate Spikes (Q1 2026)
+- **Source:** Global Trade Magazine / Ryder Industry Report, March 2026 — https://www.globaltrademag.com/2026-industry-report-supply-chain-disruptions-storm-fern-impact-and-sector-trends/
+- **Summary:** A joint Ryder/Global Trade report flagged Winter Storm Fern as the most significant supply chain disruption since COVID. Midwest capacity is tightest; West Coast least impacted. Spot market rejection rates and pricing are elevated. Tariff uncertainty is compounding demand uncertainty. Intermodal is absorbing some load as a strong truckload alternative, with favorable pricing relative to spot TL.
+- **SC Relevance:** Quantix operates in the bulk chemical/plastic pellet segment — spot capacity tightness in the Midwest directly affects lane rates and shipper service expectations. The tariff overlay adds demand-side uncertainty for chemical manufacturers (Quantix's customer base). Intermodal opportunity is limited for liquid/dry bulk but worth tracking for customers considering mode shift on non-bulk loads.
+- **Knowledge Tier:** High-frequency (current market conditions — volatile)
+- **Tags:** #trucking-market #spot-rates #capacity #tariffs #midwest #disruption
+
+---
+
+### Insight 3: Global Supply Chains Shifting to Regional Multi-Polar Networks
+- **Source:** Science-Technology News / Deloitte Insights, March 2026 — multiple sources
+- **Summary:** Multiple Q1 2026 research reports (Deloitte, instantbuzznews synthesis) confirm acceleration of nearshoring and regional network design as the dominant structural trend. The shift is away from single globally-integrated supply chains toward multi-polar regional networks that trade some efficiency for resilience. Government incentives (CHIPS Act, EU industrial policy) are accelerating reshoring in semiconductors, pharma, and critical materials. Geopolitical fracture (US-Iran conflict impact) is reinforcing this dynamic.
+- **SC Relevance:** For Quantix, this is a demand-shaping signal. Nearshoring of chemical manufacturing and plastics production increases domestic freight volume — more production sites, more terminal-to-plant movements. However, it also means more distributed shipper networks, which adds routing complexity. The multi-polar model also implies more redundancy requirements from shippers, which could drive demand for broader terminal footprints.
+- **Knowledge Tier:** Mid-frequency (structural research synthesis — relatively stable direction, volatile pace)
+- **Tags:** #nearshoring #network-design #reshoring #geopolitics #chemical-sector #demand-signal
 
