@@ -475,3 +475,36 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 **Framework tag:** APICS Supply Chain Design; Digital Integration
 **Knowledge tier:** Mid-frequency (5-10 year horizon, early-mover opportunity now)
 
+
+---
+
+## 2026-03-11 AM — Morning Research Run
+
+### Insight 1: Autonomous Trucking Hitting Commercial Scale on Key Corridors
+**Date:** March 9, 2026
+**Source:** automotive-transportation.news-articles.net
+**Summary:** Aurora has expanded autonomous truck operations across Southeastern US (Atlanta–Dallas corridor, 24/7), joining Plus and others moving beyond supervised hub-to-hub pilots. Early commercial deployments report 20–30% efficiency gains in long-haul operations. The hub-to-hub model remains the foundation, but route expansion is accelerating. TuSimple completed restructuring in 2025 under new ownership.
+**SC Relevance:** Direct relevance to Quantix. Bulk chemical long-haul OTR is exactly the use case these platforms target — highway-dominant, point-to-point, predictable routes. 20–30% efficiency gains challenge the labor-cost assumptions underlying current fleet economics. Terminal-to-terminal runs from Quantix's 50+ facilities are architecturally identical to "hub-to-hub." Monitor Aurora's freight partner program.
+**Knowledge Tier:** High-frequency (market developments, volatile — verify before acting)
+**Tags:** `autonomous-trucking` `fleet-technology` `OTR` `bulk-transport` `Aurora` `efficiency`
+
+---
+
+### Insight 2: Winter Storm Fern — Trucking Market Disruption, March 2026
+**Date:** March 2026
+**Source:** Global Trade Magazine / Ryder State of the Industry Report / IndexBox
+**Summary:** Winter Storm Fern is the most significant logistics disruption since COVID, per the March 2026 Ryder State of the Industry Report. Midwest capacity is tightest. Spot market rejection rates elevated, spot pricing up. Intermodal demand dipped during storm but recovering and remains a cost-effective alternative to TL. Tariff uncertainty layered on top. Flatbed activity shows underlying manufacturing growth despite weak sentiment overall.
+**SC Relevance:** Capacity tightness in the Midwest = rate pressure on Quantix lanes through that region. Spot market rejection rate spike signals carrier capacity is being absorbed. Intermodal optionality worth watching for non-time-sensitive lanes. Tariff rulings adding demand uncertainty that complicates S&OP planning cycles.
+**Knowledge Tier:** High-frequency (current market data, volatile)
+**Tags:** `trucking-market` `capacity` `spot-rates` `storm-fern` `intermodal` `tariffs` `S&OP`
+
+---
+
+### Insight 3: Global Supply Chain Rebalancing — Regional Network Shift Accelerating
+**Date:** March 8, 2026
+**Source:** science-technology.news-articles.net / Deloitte Retail Outlook / SupplyChainBrain
+**Summary:** Multiple Q1 2026 analyses confirm the structural shift from single integrated global supply chains to fragmented multi-polar regional networks. Nearshoring and onshoring accelerating in strategic sectors (semiconductors, pharma). CHIPS Act and similar government incentives driving domestic manufacturing resurgence in US and Germany. Deloitte notes retailers specifically accelerating supplier base diversification ahead of potential 2026 input cost increases.
+**SC Relevance:** The network redesign trend affects chemical feedstock sourcing geography and domestic manufacturing demand — both relevant to Quantix's customer base. If chemical producers nearshore more production, terminal footprint and lane density requirements may shift. Mid-term planning horizon: watch for customer base changes in domestic chemical manufacturing volumes.
+**Knowledge Tier:** Mid-frequency (research synthesis, relatively stable directional trend)
+**Tags:** `network-design` `nearshoring` `resilience` `geopolitics` `tariffs` `chemical-industry` `strategic-planning`
+
