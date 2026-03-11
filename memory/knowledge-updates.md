@@ -445,3 +445,33 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 - **Knowledge Tier:** Mid-frequency (structural research synthesis — relatively stable direction, volatile pace)
 - **Tags:** #nearshoring #network-design #reshoring #geopolitics #chemical-sector #demand-signal
 
+
+---
+
+## 2026-03-10 PM — Evening Update
+
+### Insight 1: Tariff-Driven Inventory Buffering Is the New Risk Norm (McKinsey, Dec 2025)
+**Source:** McKinsey Supply Chain Risk Survey 2025
+**Finding:** Companies have reversed the long lean/JIT trend — larger inventory buffers are now the primary risk tool. Persistent tariff reshuffling under 2025 US trade policy is forcing companies to redesign supply chains around regional hubs and local assembly. The most resilient companies are tariff-proofing via multi-region sourcing and local assembly, not just buffering.
+**Relevance to Quantix:** Bulk chemical customers (plastics producers) are likely holding more raw material inventory as a tariff hedge — expect less predictable order patterns as customers oscillate between buffer builds and drawdowns. Demand planning difficulty increases.
+**Framework tag:** APICS Risk Pooling; SCRM
+**Knowledge tier:** High-frequency (current market condition — monitor quarterly)
+
+---
+
+### Insight 2: Chemical Logistics Modal Mix Shifting — Rail/Short-Sea for Bulk Flows (Rawsource, Dec 2025)
+**Source:** Logistics in Chemical Industry: 2025 Strategic Playbook (rawsource.com)
+**Finding:** Three macro shifts in chemical logistics: (1) Shift to rail and short-sea freight for bulk flows to meet sustainability targets; (2) Low-emission routing and load optimization to reduce empty runs; (3) Multi-jurisdiction dangerous goods compliance is now a continuous burden, not a one-time task. Regulatory documentation errors are a leading cause of shipment holds.
+**Relevance to Quantix:** OTR bulk faces modal competition from rail on long-haul chemical lanes. Empty-run reduction is directly actionable — backhaul matching on liquid bulk lanes is a continuous improvement opportunity. Compliance capability is a competitive differentiator.
+**Framework tag:** DHL 5 Levers for Chemical SC; Network Design
+**Knowledge tier:** Mid-frequency (strategic trend, monitor annually)
+
+---
+
+### Insight 3: Digital Multi-Actor Coordination Is Critical for Chemical Logistics Reliability (Maritime Executive, Mar 2026)
+**Source:** "Digital Collaboration in Chemical Logistics" — Lind et al., Maritime Executive
+**Finding:** Disturbances in chemical logistics propagate across the full chain (production → terminal → storage → downstream plant → inland transport). Primary data sharing with ports in the loop is the emerging best practice to contain disruption. New energy carriers (hydrogen, ammonia, synthetic fuels) will use existing chemical infrastructure — contamination-sensitive, requiring strict tank cleaning and close sequencing.
+**Relevance to Quantix:** Real-time visibility and digital coordination between terminals and shippers prevents disruption propagation. Early investment in port/terminal data integration creates a competitive moat, especially as new energy cargoes emerge on ISO tank lanes.
+**Framework tag:** APICS Supply Chain Design; Digital Integration
+**Knowledge tier:** Mid-frequency (5-10 year horizon, early-mover opportunity now)
+
