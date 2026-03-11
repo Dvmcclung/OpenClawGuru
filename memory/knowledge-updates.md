@@ -508,3 +508,33 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 **Knowledge Tier:** Mid-frequency (research synthesis, relatively stable directional trend)
 **Tags:** `network-design` `nearshoring` `resilience` `geopolitics` `tariffs` `chemical-industry` `strategic-planning`
 
+
+---
+
+## 2026-03-11 PM Update
+
+### Insight 1: Post-COVID Supply Chain Resilience Investments Are Paying Off on Tariff Response
+**Source:** FreightWaves (March 2026)
+**Summary:** Firms that invested in control towers, supplier-risk monitoring, and scenario planning capabilities after 2020 are navigating 2026 tariff volatility without consulting scrambles. One major consulting firm reported near-zero advisory project sales on tariffs because clients had already built internal response capability. The key enablers: real-time visibility, pre-built supplier alternates, and cross-functional "trade risk councils" that activate on disruption.
+**SC Relevance:** Validates the APICS S&OP risk integration framework in practice. For Quantix, this underscores the value of building carrier/lane decision logic into control systems rather than reactive spot-market scrambling. The "trade risk council" pattern — cross-functional, standing body — maps well to S&OP governance structure.
+**Knowledge Tier:** High-frequency (current events, specific to 2025-2026 tariff cycle)
+**Tags:** `risk-management` `resilience` `tariffs` `control-tower` `S&OP` `disruption-response`
+
+---
+
+### Insight 2: Digital Collaboration Principles for Chemical Logistics — Cargo Owner Controls Visibility
+**Source:** Maritime Executive (February 2026)
+**Summary:** Emerging framework for digital data-sharing in liquid bulk / chemical logistics corridors: (1) cargo owners decide who sees what — they control readiness and bear most risk; (2) ETAs treated as "intent," updated dynamically; (3) visibility scoped to actors directly in the flow, for a defined purpose and time window. Designed for "future fuels" and critical intermediates corridors where tight coordination is needed without exposing commercial terms.
+**SC Relevance:** Directly applicable to Quantix's chemical carrier operations. The principle of tiered visibility — shipper sets access rights, not the carrier or platform — is a useful design constraint for any Quantix digital visibility tool. Also relevant for AI-in-the-loop automation: automated ETA updates require structured handshakes between carrier systems and shipper portals.
+**Knowledge Tier:** Mid-frequency (emerging design pattern, relatively stable once adopted)
+**Tags:** `chemical-logistics` `visibility` `digital-collaboration` `liquid-bulk` `data-sharing` `carrier-ops`
+
+---
+
+### Insight 3: AstraZeneca Constraint-Based Planning — Capacity + Materials Integrated for First Time
+**Source:** SupplyChainBrain / OMP (March 2026)
+**Summary:** AstraZeneca implemented constraint-based supply chain planning using OMP software, enabling simultaneous visibility into capacity constraints AND materials availability — a capability they did not have previously. Key outcome: plans are now executable, not aspirational. The journey involved a continuous improvement cycle, not a one-time implementation.
+**SC Relevance:** Reinforces the APICS principle that MRP/capacity integration (RCCP + CRP) must be simultaneous, not sequential. The "aspirational plan" failure mode — where plans look good on paper but can't execute because capacity or materials constraints weren't fully modeled — is a common problem in transportation planning too. For Quantix: dispatch plans that don't account for real driver availability, equipment maintenance windows, or terminal constraints will fail at execution. The fix is the same: constraint-based, integrated planning.
+**Knowledge Tier:** Mid-frequency (case study, implementation pattern is stable)
+**Tags:** `constraint-based-planning` `S&OP` `MRP` `capacity` `continuous-improvement` `pharma` `execution`
+
