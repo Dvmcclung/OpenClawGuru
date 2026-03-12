@@ -538,3 +538,96 @@ Despite strong ROI cases, digital transformation faces a persistent structural b
 **Knowledge Tier:** Mid-frequency (case study, implementation pattern is stable)
 **Tags:** `constraint-based-planning` `S&OP` `MRP` `capacity` `continuous-improvement` `pharma` `execution`
 
+
+---
+
+## 2026-03-11 — Evening Update (6:00 PM ET)
+
+### Insight 1: Supply Chain Cyber Risk — Resilience Over Prevention
+**Source:** SCMR / EY Research (Feb 2026)
+**Domain:** Risk Management
+**Tier:** High-frequency (volatile — current threat landscape)
+
+The dominant shift in supply chain cybersecurity for 2026 is away from **prevention-only strategies** toward **resilience-by-design**. Key findings:
+- 61% of companies experienced a third-party breach in the past year (EY data)
+- Attackers can compromise systems in under 52 seconds; defenders using AI can detect/respond in 5–10 minutes — still a gap
+- State-sponsored attacks now capable of real-world OT disruption: shutting factories, halting transportation
+- Governance/regulatory approval cycles disadvantage defenders; adversaries iterate faster
+
+**Quantix relevance:** With 4,500+ trucks and 50+ terminals, Quantix has a substantial digital attack surface via TMS, ELD, and terminal systems. Third-party vendor exposure (carriers, brokers, terminal operators) is likely the biggest gap. Prevention alone is insufficient — tabletop exercises and rapid-response playbooks needed.
+**Framework tag:** SCRM → Cyber Risk Layer
+**Tags:** `cyber-risk` `resilience` `third-party` `risk-management` `EY` `2026`
+
+---
+
+### Insight 2: Chemical Logistics — 2025 Strategic Realities
+**Source:** RawSource Chemical Logistics Strategic Playbook (Dec 2025)
+**Domain:** Bulk/Chemical Logistics
+**Tier:** Mid-frequency (research synthesis)
+
+Three macro forces reshaping chemical logistics operations:
+1. **Regulatory tightening** — overlapping DG classifications, export controls, and environmental rules create continuous compliance burden; documentation errors = shipment holds and fines
+2. **Modal shift** — chemical companies shifting bulk flows to rail and short-sea freight, adopting low-emission routing and load optimization to reduce empty runs
+3. **Inventory redesign** — unpredictable lead times forcing chemical shippers to redesign safety stock strategies and strengthen demand planning (buffer positioning at terminals, not origin)
+
+**Quantix relevance:** Modal shift (rail/short-sea) is both a competitive threat (modal substitution) and a potential opportunity (intermodal integration). Load optimization on empty run reduction is directly applicable to Quantix's fleet. Regulatory tightening reinforces the need for disciplined HazMat compliance processes at terminals.
+**Framework tag:** Network Design → Modal Trade-off Analysis; APICS → Inventory Positioning
+**Tags:** `chemical-logistics` `bulk` `modal-shift` `regulatory` `empty-runs` `inventory` `2025`
+
+---
+
+### Insight 3: DMAIC Applied to Freight Procurement — EV Parts Case Study
+**Source:** ScienceDirect / Lean Six Sigma & Sustainable Supply Chain Management (2025, peer-reviewed)
+**Domain:** Process Improvement (LSS)
+**Tier:** Mid-frequency (peer-reviewed research)
+
+An EV parts manufacturer applied DMAIC specifically to **freight procurement** — typically treated as a transactional function — revealing it has measurable variation and defect rates (late quotes, carrier mismatches, rate errors). Key findings:
+- Most procurement teams fail at the **Measure phase**: no baseline data on quote cycle time, cost per lane, or bid accuracy
+- Applying **Control phase disciplines** (control charts, SLAs, deviation triggers) to freight procurement sustains cost gains and reduces renegotiation waste
+- The study tied LSS outcomes to sustainability goals — optimizing procurement also reduced emissions through better load consolidation and carrier selection
+
+**Quantix relevance:** Carrier selection, lane pricing, and freight cost management processes are prime DMAIC candidates. The pattern — treating procurement as a process with measurable variation — translates directly to bulk chemical carrier management and spot rate volatility control.
+**Framework tag:** DMAIC → Transactional Process Improvement; APICS → Procurement & Sourcing
+**Tags:** `DMAIC` `freight-procurement` `LSS` `variation` `control-phase` `carrier-management` `2025`
+
+
+---
+
+## 2026-03-11 PM — Evening Knowledge Update
+
+### Insight 1: Predictive Simulation in the DMAIC Analyze Phase (LSS/Process Improvement)
+**Source:** iCert Global — Top Six Sigma Project Examples 2026
+**Tier:** Mid-frequency (research synthesis, March 2026)
+
+In 2026, the DMAIC Analyze phase is being enhanced by **predictive simulation modeling** alongside traditional statistical tools. Instead of relying solely on historical data in root cause analysis, practitioners now use simulation software to model how changes in one variable propagate through the entire system before any physical changes are made. This is particularly powerful in complex, multi-node logistics environments where changing one constraint (e.g., a terminal dwell time) has downstream effects on fleet utilization or customer on-time delivery.
+
+**Quantix relevance:** Bulk chemical terminal operations involve multi-variable dependencies — driver availability, loading dock utilization, customer delivery windows, haul distances. Traditional Analyze phase tools (fishbone, regression) capture correlation but not propagation. Simulation-augmented DMAIC would improve quality of improvement recommendations before committing resources.
+**Framework tag:** DMAIC → Analyze Phase; LSS → Digital-Augmented Continuous Improvement
+**Tags:** `DMAIC` `simulation` `analyze-phase` `predictive-modeling` `LSS` `terminal-ops` `2026`
+
+---
+
+### Insight 2: Multi-Tier Supplier Risk Strategy — Supplier "Evaporation" as a Planning Assumption (Risk Management)
+**Source:** Supply Chain Management Review, March/April 2026 ("Suppliers Can Evaporate")
+**Tier:** Mid-frequency (SCMR editorial, March 2026)
+
+SCMR's March/April 2026 issue frames supplier disruption not as a tail risk but as an operating assumption: **suppliers can and do "evaporate"** — through financial failure, acquisition, geopolitical action, or regulatory shutdown. Best practice has shifted from single-point-of-failure identification to **multi-tiered sourcing architecture**: a qualified primary, a scalable secondary, and a tertiary ready to onboard. The trigger criteria for escalation between tiers should be pre-defined and tested before disruption, not designed during it. The issue also highlights the intersection of supplier risk with **circular supply chain design and LTL market dynamics** — a signal that resilience planning is expanding beyond direct materials.
+
+**Quantix relevance:** Chemical bulk carriers face carrier-side version of this problem: shipper customers can lose key chemical suppliers or have plants go offline with little notice, causing sudden volume loss. Quantix should have contingency playbooks at the lane level — not just the fleet level — so that when a shipper's supply evaporates, repositioning is fast. Mirror the multi-tier sourcing concept as a **multi-tier customer/lane strategy**: primary volume customers, secondary volume pipelines, and spot capacity absorption playbooks.
+**Framework tag:** APICS → Supply Chain Risk; Gartner → Resilience Architecture
+**Tags:** `risk-management` `supplier-risk` `resilience` `multi-tier` `lane-strategy` `disruption-planning` `2026`
+
+---
+
+### Insight 3: Digital Twins + IoT for End-to-End Visibility in Bulk Liquid Logistics (Bulk/Chemical Logistics Innovation)
+**Source:** MitsubishiManufacturing.com — Supply Chain Resilience Strategies for Manufacturers 2026
+**Tier:** Mid-frequency (published March 2026)
+
+The 2026 resilience framework for manufacturers emphasizes **Digital Twins** (virtual replicas of physical supply chain flows) integrated with **IoT sensor networks** as the foundation for proactive risk management. Key capability: sensors monitoring environmental conditions (temperature, pressure, humidity) in transport assets, combined with real-time inventory and production data, feed a live digital model that can detect and flag deviations before they become failures. For bulk liquid and chemical transport, this maps directly to: tank integrity monitoring, loading/offloading confirmation, temperature-sensitive cargo protection, and predictive maintenance on trailer equipment.
+
+The broader point from the article: **end-to-end visibility is now a prerequisite for resilience, not a feature.** Organizations without real-time asset and cargo visibility cannot execute proactive risk response — they can only react after the event.
+
+**Quantix relevance:** Quantix's fleet of 4,500+ trucks and 50+ terminals is a natural candidate for Digital Twin architecture at the terminal or lane level. Even a partial implementation — IoT on trailer compartments, live GPS + condition telemetry feeding a dashboard — would close visibility gaps that currently require manual check-ins or driver self-reporting. The ROI case: faster detection of cargo integrity issues, better driver and asset utilization, and a data layer that enables predictive maintenance at scale.
+**Framework tag:** Gartner → Digital Supply Chain; APICS → Execution & Control
+**Tags:** `digital-twin` `IoT` `visibility` `bulk-liquid` `chemical-logistics` `predictive-maintenance` `fleet` `2026`
+
