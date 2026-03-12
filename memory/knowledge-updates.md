@@ -631,3 +631,51 @@ The broader point from the article: **end-to-end visibility is now a prerequisit
 **Framework tag:** Gartner → Digital Supply Chain; APICS → Execution & Control
 **Tags:** `digital-twin` `IoT` `visibility` `bulk-liquid` `chemical-logistics` `predictive-maintenance` `fleet` `2026`
 
+
+---
+
+## 2026-03-12 — Morning Update (6am ET)
+
+---
+
+### Insight 1: PlusAI SuperDrive 6.0 — Autonomous Trucking Nears 24/7 Commercial Viability
+**Date:** March 6, 2026
+**Source:** FreightWaves — "PlusAI unveils major upgrade to autonomous trucking platform"
+**URL:** https://www.freightwaves.com/news/plusai-superdrive-6-0
+
+**Summary:** PlusAI released SuperDrive 6.0, adding night driving and construction-zone handling to its autonomous trucking software. The company has logged 7M+ real-world miles across the U.S., Europe, and Asia and is targeting scalable fully driverless commercial deployment by 2027. Current autonomous trucks are already hauling commercial loads in Texas. Key technical advances: Transformer-based "Reflex" layer, 10x faster AI training, 66% reduction in data-labeling costs. PlusAI is also going public via SPAC (Churchill Capital Corp. IX / CCIX).
+
+**SC Relevance:** This is the most direct autonomous trucking signal for Quantix in months. The 24/7 utilization math is compelling — overnight driverless freight could more than double truck utilization per unit. For a 4,500-truck bulk carrier, that's transformational unit economics IF the technology proves out in bulk/hazmat configurations. Current deployments are dry van; the regulatory and equipment path for bulk chemical tankers is longer. But the clock is ticking on driver-dependent cost structures. Quantix should be tracking PlusAI alongside Aurora and Kodiak for the dry bulk (plastic pellet) lanes.
+
+**Knowledge Tier:** High-frequency (technology development — monitor quarterly)
+**Framework tag:** Gartner → Autonomous Mobile Robots & Autonomous Vehicles; APICS → Transportation Management
+**Tags:** `autonomous-trucking` `PlusAI` `SuperDrive` `AV` `last-mile` `fleet-utilization` `dry-bulk` `Texas` `2026`
+
+---
+
+### Insight 2: Winter Storm Fern + Tariff Uncertainty Tightening Trucking Capacity (March 2026)
+**Date:** March 2026
+**Source:** Global Trade Magazine / IndexBox / Ryder — "2026 Industry Report: Supply Chain Disruptions, Storm Fern Impact, and Sector Trends"
+**URL:** https://www.globaltrademag.com/2026-industry-report-supply-chain-disruptions-storm-fern-impact-and-sector-trends/
+
+**Summary:** Winter Storm Fern is the most significant U.S. freight disruption since the COVID period. Spot market rejection rates are elevated, capacity is tightest in the Midwest, and pricing is up. Simultaneously, new tariff rulings + presidential response are injecting supply chain uncertainty. Intermodal demand dipped during the storm but remains a strong truckload alternative at low relative cost. Manufacturing flatbed activity shows underlying growth despite weak headline sentiment. Consumer spending is stable but skewed to wealthy households — flagged as a structural concern.
+
+**SC Relevance:** For Quantix's OTR bulk operations, the Midwest capacity crunch is operationally live right now. Storm Fern + tariff noise = double disruption. Spot rate management and contract mix strategy need immediate review. Terminal managers in the Midwest should be flagged for capacity tightness. The tariff angle is particularly relevant for plastic pellet customers (petrochemical feedstock pricing is tariff-sensitive). Intermodal is not a direct option for bulk tanks, but the rate gap signals where truckload pricing pressure is coming from.
+
+**Knowledge Tier:** High-frequency (current market conditions — perishable, 30-day relevance)
+**Framework tag:** APICS → Demand Management, Transportation; Lean → Waste Elimination (waiting/transportation)
+**Tags:** `Storm-Fern` `capacity` `spot-rates` `tariffs` `Midwest` `truckload` `market-conditions` `disruption` `2026`
+
+---
+
+### Insight 3: Chemical Supply Chains — Shift from Lean Efficiency to Resilience Imperative
+**Date:** February 2026
+**Source:** Chemical Industry Digest — "Chemical Supply Chains Must Move from Efficiency to Resilience in Modern Times"
+
+**Summary:** Industry analysis argues chemical supply chains must pivot from lean efficiency models (optimized for cost and throughput) to resilience-first design amid compounding disruptions, regulatory complexity, and geopolitical volatility. The argument: the efficiency-resilience tradeoff that once justified lean buffers has inverted — the cost of disruption now exceeds the cost of strategic redundancy for most chemical operators. Key levers cited: supplier diversification, regionalized sourcing, digital visibility platforms, and redundant logistics lanes.
+
+**SC Relevance:** This is directly on-point for Quantix's chemical carrier customers. The companies shipping liquid bulk and ISO chemicals through Quantix's network are under pressure to build more resilient supply chains — which means they need carrier partners who can provide: (1) reliable capacity commitments, not just spot availability; (2) real-time visibility into shipment status; (3) contingency lane coverage. Quantix should be positioning its terminal density (50+ locations) and fleet scale as a resilience asset in customer conversations, not just a cost lever. This is also consistent with the APICS push toward demand-driven, adaptive supply chain architectures.
+
+**Knowledge Tier:** Mid-frequency (structural trend — review semi-annually)
+**Framework tag:** APICS → Supply Chain Design; Gartner → Supply Chain Resilience; LSS → Risk Mitigation
+**Tags:** `chemical-logistics` `resilience` `lean-efficiency` `supplier-diversification` `visibility` `bulk-liquid` `ISO` `carrier-strategy` `Quantix` `2026`
