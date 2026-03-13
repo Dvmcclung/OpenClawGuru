@@ -719,3 +719,36 @@ Current consensus on top SCRM priorities heading into mid-2026:
 **Guru note:** For Quantix, primary SCRM focus areas are (1) driver capacity availability and (2) terminal redundancy for chemical product handling. Tariff engineering is less relevant for domestic bulk carriers but Quantix's petrochemical customer base is highly exposed — early visibility into customer disruption signals is a service differentiator.
 
 ---
+
+---
+
+## 2026-03-13 — Morning Scan
+
+### Insight 1: Winter Storm Fern + Tariff Uncertainty Tightening Trucking Capacity
+**Date:** March 2026
+**Source:** Global Trade Magazine / IndexBox / Ryder Industry Report (https://www.globaltrademag.com/2026-industry-report-supply-chain-disruptions-storm-fern-impact-and-sector-trends/)
+**Summary:** Winter Storm Fern is described as the most significant freight disruption since COVID. Midwest capacity is tightest; spot market rejection rates and spot pricing are elevated. Simultaneously, tariff policy uncertainty is driving additional volatility. Intermodal remains a strong, lower-cost alternative to truckload. Flatbed activity points to underlying manufacturing recovery despite weak sentiment.
+**SC Relevance:** Direct impact on bulk/OTR carriers like Quantix — spot rate exposure, regional capacity disparities, and intermodal substitution pressure are all live variables. Tariff uncertainty compounds near-term planning difficulty for chemical shippers.
+**Knowledge Tier:** High-frequency (current market conditions — volatile)
+**Tags:** #transportation #trucking #capacity #tariffs #disruption #intermodal #spot-market
+
+---
+
+### Insight 2: AI Agents Now Deployed for Freight Visibility on Major Logistics Networks
+**Date:** March 6, 2026
+**Source:** Talking Logistics / Descartes (https://talkinglogistics.com/2026/03/06/above-the-fold-supply-chain-logistics-news-march-6-2026/)
+**Summary:** Descartes expanded its Global Logistics Network with AI Agents specifically for freight visibility — moving from passive tracking to active, agent-driven exception management. Also noted: shipping companies are diverting vessels around Cape of Good Hope following strikes on Iran, adding further global freight disruption. APL Logistics North American Symposium highlighted "decision science in an age of uncertainty" as the defining leadership theme for 2026.
+**SC Relevance:** AI agents for freight visibility represent the next maturity level above track-and-trace. For Quantix, this is a signal that shippers will increasingly expect proactive exception handling baked into carrier/3PL offerings. The Suez/Red Sea re-routing also affects chemical raw material lead times upstream of Quantix customers.
+**Knowledge Tier:** Mid-frequency (technology adoption curve — evolving)
+**Tags:** #AI #freight-visibility #technology #disruption #Suez #geopolitical #carrier-tech
+
+---
+
+### Insight 3: FAA eVTOL Pilot Program — Electric Aircraft as a New Freight Layer
+**Date:** March 11, 2026
+**Source:** Logistics Viewpoints (https://logisticsviewpoints.com/2026/03/11/electric-aircraft-pilot-program-opens-a-new-logistics-frontier/)
+**Summary:** DOT/FAA selected 8 pilot projects for the eVTOL Integration Pilot Program (eIPP). Several pilots are freight-first — Florida's program begins with cargo delivery before moving to passengers. The programs cover offshore support, regional cargo, and emergency logistics. The article argues that cargo networks are historically the proving ground for new transport technologies, and eVTOL economics will validate in freight before passenger. This is not speculative — these are operational logistics pilots.
+**SC Relevance:** Low near-term relevance for bulk OTR like Quantix, but strategically important for high-value, time-sensitive chemical samples, emergency reagents, or specialty cargo in Quantix's chemical customer base. The "gap filler" between trucks and commercial aviation is a legitimate emerging modal option to monitor. 5–7 year planning horizon.
+**Knowledge Tier:** Mid-frequency (emerging technology — early-stage operational)
+**Tags:** #eVTOL #electric-aircraft #modal-innovation #last-mile #technology #future-logistics
+
