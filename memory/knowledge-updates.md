@@ -679,3 +679,43 @@ The broader point from the article: **end-to-end visibility is now a prerequisit
 **Knowledge Tier:** Mid-frequency (structural trend — review semi-annually)
 **Framework tag:** APICS → Supply Chain Design; Gartner → Supply Chain Resilience; LSS → Risk Mitigation
 **Tags:** `chemical-logistics` `resilience` `lean-efficiency` `supplier-diversification` `visibility` `bulk-liquid` `ISO` `carrier-strategy` `Quantix` `2026`
+
+## 2026-03-12 PM — Evening Update
+
+### Insight 1: DMAIC Applied to E-Commerce Fulfillment — Quantified Results
+**Source:** skilglobal.com (March 2026) | **Tier:** Mid-frequency (applied case study)
+
+Lean Six Sigma case study applying DMAIC to order fulfillment cycle time reduction in e-commerce logistics. Specific quantified improvements:
+- **20% improvement in order accuracy** via barcode scanning + standardized workflows
+- **15% reduction in overstocking** using demand forecasting tools aligned to purchasing patterns
+- **25% delivery time reduction** using AI-powered route optimization during peak hours
+- **30% reduction in worker travel time** via lean warehouse layout reorganization
+
+**Guru note:** The 15% overstocking reduction through demand signal alignment is directly applicable to Quantix terminal operations — product dwell time and trailer positioning are analogous. Warehouse layout logic maps to terminal yard/bay optimization.
+
+---
+
+### Insight 2: Transloading as Strategic Advantage for Bulk Liquid Transportation
+**Source:** Kenan Advantage Group (KAG), February 2026 | **Tier:** Mid-frequency (operator best practice)
+
+KAG (one of the largest tank truck carriers in North America) published a breakdown of transloading benefits for bulk liquid shippers:
+- **10–30% cost savings** on long-haul moves by shifting to rail for trunk haul + tanker truck for last-mile
+- **Market access expansion** without customer-site rail infrastructure — use regional transload facilities
+- **Flexibility buffer** during peak demand and supply interruptions — avoids rigid long-haul truck commitments
+- Transloading decouples trunk haul economics from last-mile execution
+
+**Guru note:** For Quantix's chemical/ISO segment, transload partnerships at key hub terminals could extend geographic reach without expanding the dedicated fleet. Worth modeling against current dedicated lane costs where rail corridors exist.
+
+---
+
+### Insight 3: Supply Chain Risk Management — 2026 Priority Shifts
+**Source:** Spendflo / Thomson Reuters Global Trade Report (March 2026) | **Tier:** High-frequency (volatile)
+
+Current consensus on top SCRM priorities heading into mid-2026:
+1. **Business continuity planning** — single-source dependencies remain the #1 failure point
+2. **Global disruption frequency** — port closures, natural disasters, geopolitical events now treated as baseline operating assumptions, not tail risks
+3. **Tariff engineering** — newly elevated in 2026; companies actively restructuring supply chains to optimize duty exposure, not just comply
+
+**Guru note:** For Quantix, primary SCRM focus areas are (1) driver capacity availability and (2) terminal redundancy for chemical product handling. Tariff engineering is less relevant for domestic bulk carriers but Quantix's petrochemical customer base is highly exposed — early visibility into customer disruption signals is a service differentiator.
+
+---
