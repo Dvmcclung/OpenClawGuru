@@ -788,3 +788,45 @@ Current consensus on top SCRM priorities heading into mid-2026:
 **Knowledge Tier:** Mid-frequency tier (practitioner synthesis, note date: March 2026)
 **Tags:** #trade-risk #disruption-management #S&OP #demand-sensing #organizational-structure #playbooks
 
+
+---
+
+## 2026-03-13 — PM Knowledge Update
+
+### Insight 1: Tariff Volatility Accelerating Supply Chain Regionalization
+**Source:** FreightWaves — "Tariff volatility pushes global supply chains into regional reset in 2026" (March 2026)
+**URL:** https://www.freightwaves.com/news/tariff-volatility-pushes-global-supply-chains-into-regional-reset-in-2026
+
+**Summary:** Genpact's global SC lead reports that 2020s pandemic investments in control towers, supplier-risk monitoring, and scenario planning have paid off — companies navigated 2025–2026 tariff swings without panic buying or scrambling for consultants. The structural shift: procurement is moving away from supplier rationalization (fewer vendors = lower unit cost) toward deliberate dual/triple sourcing to eliminate single-source dependencies. Regionalization is hardening from a temporary response into a long-term structural change, with companies prioritizing inventory buffers closer to demand centers rather than uprooting manufacturing.
+
+**SC Relevance:** Direct application to Quantix SCS: chemical shippers regionalizing their supply chains will shift freight patterns — more short-haul bulk moves as production is nearshored or regional buffer stock is added. This is an opportunity for Quantix to position terminal network as regional fulfillment infrastructure, not just point-to-point haul.
+
+**Knowledge Tier:** High-frequency (market dynamics, volatile)
+**Tags:** risk-management, regionalization, dual-sourcing, tariffs, bulk-transport, strategic-sourcing
+
+---
+
+### Insight 2: Digital Twin + Network Optimization as Standard 3PL/4PL Onboarding for Chemical Shippers
+**Source:** Odyssey Logistics — "How European chemical companies can win on logistics" (March 2026)
+**URL:** https://www.odysseylogistics.com/blog/surviving-cost-pressures-in-2026-how-european-chemical-manufacturers-can-win-on-logistics/
+
+**Summary:** Leading chemical logistics providers are standardizing digital twin modeling as their opening move in 3PL/4PL engagements. Before committing to contracts, they build a digital replica of the client's logistics network using historical shipping data, then model cost effects of changing consolidation patterns, routing, and carrier selection. Key levers: shipping larger loads less frequently, optimizing multi-stop routes, and eliminating unnecessary cross-docking (which adds both cost and damage risk). This is becoming table stakes for competitive chemical logistics proposals.
+
+**SC Relevance:** For Quantix, this is a competitive intelligence signal. Chemical shipper customers are increasingly expecting data-driven network analysis before committing to carriers. Quantix should evaluate whether to develop internal network optimization capability or partner to offer this. Also validates the value of route/load consolidation — applies directly to dry bulk pellet lanes.
+
+**Knowledge Tier:** Mid-frequency (technology adoption trends)
+**Tags:** digital-twin, network-optimization, chemical-logistics, 3PL, bulk-transport, cost-reduction, load-consolidation
+
+---
+
+### Insight 3: Integrated Resilience Platforms Replacing Fragmented Niche Tools
+**Source:** Noggin — "Building a Resilient Supply Chain: Strategies, frameworks & technologies for 2026" (March 2026)
+**URL:** https://www.noggin.io/blog/building-a-resilient-supply-chain-strategies-frameworks-and-technologies-for-2026
+
+**Summary:** McKinsey 2025 survey data: 82% of organizations report new tariffs directly affecting their supply chains; ~40% seeing supplier/material cost increases; 30% seeing demand decreases. The diagnostic finding: reactive organizations that bolted on single-point tools (specialized logistics platforms, niche risk monitors) deepened fragmentation and increased recovery time. The prescription is an integrated resilience workspace that unifies BIAs, dependency mapping, scenario exercises, and recovery strategies into one platform — eliminating data siloing and manual handoffs. Supply chain resilience is now formally defined as "adaptive capability to anticipate, respond swiftly, and recover while maintaining continuity of operations at the desired level of connectedness."
+
+**SC Relevance:** Applicable to Quantix's AI-in-the-loop build. The fragmentation trap is real for any carrier trying to bolt on visibility, TMS, risk monitoring, and analytics separately. The architectural lesson: build toward an integrated data model, not point solutions. Also useful framing for Dale's work — the "integrated resilience workspace" concept maps well to the agentic AI architecture he's building.
+
+**Knowledge Tier:** Mid-frequency (technology strategy, framework)
+**Tags:** supply-chain-resilience, integrated-platforms, risk-management, fragmentation, tariffs, agentic-ai, technology-strategy
+
