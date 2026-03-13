@@ -752,3 +752,39 @@ Current consensus on top SCRM priorities heading into mid-2026:
 **Knowledge Tier:** Mid-frequency (emerging technology — early-stage operational)
 **Tags:** #eVTOL #electric-aircraft #modal-innovation #last-mile #technology #future-logistics
 
+
+---
+
+## 2026-03-13 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: Network Topology as a Systemic Risk Driver
+**Date:** 2026-03-13
+**Source:** *Scientific Reports* — "Systemic risk mitigation in supply chains through network rewiring" (Nature Publishing Group, March 2026)
+**URL:** https://www.nature.com/articles/s41598-026-42549-1
+**Summary:** Peer-reviewed research demonstrates that systemic supply chain risk is not just a function of individual firm failures but is directly tied to network topology — how nodes are connected. "Network rewiring" (deliberately restructuring supplier/buyer relationships) can reduce cascading failure risk. Local disruptions propagate through interdependencies; the structure of the network determines whether a small shock becomes a large collapse.
+**SC Relevance:** High. For Quantix, this validates deliberate carrier network design — not just adding backup suppliers, but auditing HOW they connect. A single-point terminal dependency (e.g., one rail/intermodal hub feeding multiple corridors) is a topology risk, not just a capacity risk. APICS CSCP risk segmentation maps to this directly.
+**Knowledge Tier:** DC tier (peer-reviewed, stable academic finding)
+**Tags:** #risk-management #network-design #systemic-risk #resilience #SC-structure
+
+---
+
+### Insight 2: Digital Collaboration Principles for Chemical/Bulk Logistics Corridors
+**Date:** 2026-03-13
+**Source:** *Maritime Executive* — "Digital Collaboration in Chemical Logistics" (Lind, Lehmacher et al., March 2026)
+**URL:** https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+**Summary:** As decarbonization shifts chemical logistics toward new fuel carriers (hydrogen, ammonia, synthetic fuels), three data-sharing design principles are emerging for bulk chemical corridors: (1) cargo owners control visibility — they decide who sees what; (2) ETAs are treated as intent, updated dynamically, to enable early data sharing; (3) visibility is scoped to actors directly involved in a specific flow, for a defined time window, to protect commercial interests. These principles apply to liquid bulk corridors and are particularly relevant where contamination-sensitive or hazardous cargoes require tight multi-party coordination.
+**SC Relevance:** Directly applicable to Quantix ISO/liquid bulk operations. The "cargo owner controls visibility" principle aligns with customer-specific SLA management. Dynamic ETA-as-intent is a maturity leap beyond static scheduled arrival — relevant for integrating telematics with customer portals.
+**Knowledge Tier:** Mid-frequency tier (practitioner synthesis, note date: March 2026)
+**Tags:** #bulk-chemical #liquid-bulk #digital-collaboration #visibility #ETA-management #decarbonization
+
+---
+
+### Insight 3: Trade Risk Councils as a Structural Response to Global Trade Disruption
+**Date:** 2026-03-13
+**Source:** *Thomson Reuters* — "The 2026 Supply Chain Challenge: Confronting Complexity and Disruption in Global Trade" (March 2026)
+**URL:** https://tax.thomsonreuters.com/blog/2026s-supply-chain-challenge-confronting-complexity-and-disruption-in-global-trade-tri/
+**Summary:** Thomson Reuters identifies cross-functional "trade risk councils" as a leading structural response to 2026's trade disruption environment. Composition: Finance, Operations, Procurement, Compliance, and IT. Function: share real-time trade intelligence and execute pre-built disruption playbooks. The framing positions trade capability as a strategic differentiator, not just a compliance function — early involvement in strategic planning enables market identification and supply chain streamlining for competitive advantage.
+**SC Relevance:** Moderate-High for Quantix. As a carrier, Quantix isn't directly managing import/export trade, but customer supply chains are. Customers disrupted by tariff volatility or trade route changes generate demand volatility for bulk carrier capacity. A trade risk council structure (even a lightweight version) would help Quantix anticipate volume shifts before they hit the dispatch desk. Aligns with S&OP demand sensing.
+**Knowledge Tier:** Mid-frequency tier (practitioner synthesis, note date: March 2026)
+**Tags:** #trade-risk #disruption-management #S&OP #demand-sensing #organizational-structure #playbooks
+
