@@ -872,3 +872,47 @@ Current consensus on top SCRM priorities heading into mid-2026:
 
 **Tags:** supply-chain-resilience, strategic-buffer, lean-vs-resilience, disruption-era, carrier-value-proposition, bulk-chemical, diesel-risk, geopolitical-risk
 
+
+---
+
+## Evening Update — Monday, March 16, 2026
+
+---
+
+### Insight 1: Cyber Risk in Supply Chains Has Crossed from IT Problem to Operational Disruption Risk — Resilience Now Eclipses Prevention
+**Source:** Supply Chain Management Review — "Supply chain cyber risk strategies shift toward resilience" (March 2026)
+**URL:** https://www.scmr.com/article/supply-chain-cyber-risk-strategies-shift-toward-resilience
+**Knowledge Tier:** Mid-frequency (strategic analysis / practitioner synthesis)
+
+**Summary:** EY's global cybersecurity leader Richard Watson details a fundamental paradigm shift in how supply chain organizations approach cyber risk. Key findings: (1) 61% of companies experienced a third-party breach in the past year — this is no longer a tail risk; (2) state-sponsored and criminal attacks have moved beyond data theft to operational disruption — factory shutdowns, transportation delays, physical asset damage; (3) AI is a double-edged sword: attackers can compromise systems in 52 seconds, while leading defenders have reduced detection-response cycles to 5–10 minutes; (4) The strategic shift is from prevention-only to **resilience-first** — organizations now assume breaches will happen and invest in how fast they recover, not just how to stop intrusions. Regulation is reinforcing this in Europe (DORA mandate). Watson explicitly predicts 2026 will see the "pendulum shift" to recovery speed as the primary metric over prevention investment.
+
+**SC Relevance (Quantix):** Directly relevant to Quantix's 4,500-truck fleet and 50+ terminal network. A cyber attack on a major TMS, ELD system, or terminal management platform is now a realistic operational scenario, not a hypothetical. Third-party vendor exposure (telematics providers, fuel card systems, dispatch platforms) is the most likely attack vector. The resilience framing is the right one for operations at Quantix scale: the question is not "can we prevent an attack?" but "can we run the fleet manually for 48–72 hours if a system goes down?" Paper-based fallback SOPs for dispatch, driver communication protocols that don't depend on a single digital system, and offline load documentation procedures all become risk management tools.
+
+**Tags:** cybersecurity, supply-chain-risk, operational-resilience, third-party-risk, fleet-operations, tms-risk, bulk-transportation, digital-systems
+
+---
+
+### Insight 2: Transloading Is a Strategic Lever for Bulk Liquid Shippers — 10–30% Cost Savings + Resilience Benefits
+**Source:** Kenan Advantage Group (KAG) Transport Blog — "5 Reasons Why Transloading Is a Game-Changer for Bulk Liquid Transportation" (March 2026)
+**URL:** https://www.thekag.com/transport-blog/5-reasons-why-transloading-is-a-game-changer-for-bulk-liquid-transportation/
+**Knowledge Tier:** Mid-frequency (applied practitioner / carrier knowledge)
+
+**Summary:** KAG (one of the largest bulk liquid carriers in North America) makes a structured case for transloading as a strategic tool rather than a fallback. Five core arguments: (1) **Cost**: Rail for long-haul + tanker truck for last mile saves 10–30% vs. pure OTR on long distances; (2) **Flexibility**: Transload-based supply chains can adapt to demand shifts and capacity tightening without locking into fixed truck routes; (3) **Market access**: Customers without rail connections can still benefit from rail economics via regional transload facilities; (4) **Responsiveness**: Positioning inventory at regional facilities closer to demand enables rerouting and shipment splitting without disrupting overall flow; (5) **Safety/compliance**: Fixed transfer systems at purpose-built facilities provide better secondary containment and spill control vs. ad-hoc field transfers. The underlying strategic logic maps to APICS network design principles: putting flexible nodes (transload facilities) between the efficient long-haul backbone (rail) and the service-critical last mile (truck).
+
+**SC Relevance (Quantix):** Highly relevant to Quantix's strategic positioning in the bulk chemical and plastic pellet space. As a predominantly OTR carrier, Quantix should be monitoring rail-to-truck transload as both a competitive threat (customers shifting modal mix) and a service expansion opportunity (Quantix terminals as transload nodes). The 10–30% cost savings figure is the kind of data that shows up in customer RFPs when freight spend is under pressure. Strategically: terminal network density and terminal positioning near rail infrastructure would make Quantix terminals natural transload hubs — if not already, that's a real estate and strategic planning question worth surfacing. Also worth tracking: how competitors like KAG are positioning transload capability as a value-add.
+
+**Tags:** transloading, bulk-liquid, chemical-logistics, rail-truck-intermodal, network-design, terminal-strategy, cost-reduction, last-mile, supply-chain-flexibility
+
+---
+
+### Insight 3: 2026 Trucking Industry — Demographic Time Bomb in Driver Pipeline Is Structural, Not Cyclical
+**Source:** OTR Solutions Blog — "Top 10 Trucking Industry Challenges in 2026" (March 2026)
+**URL:** https://otrsolutions.com/blog/trucking-industry-challenges
+**Knowledge Tier:** High-frequency (market conditions / industry commentary — volatile)
+
+**Summary:** Broad industry analysis of the 10 toughest challenges facing carriers in 2026, with three findings of structural note: (1) **Driver demographics**: New drivers entering trucking typically start around age 35 — meaning the average entry-age driver is already in the latter half of a driving career before they gain significant experience. The "driver shortage" narrative has evolved — Land Line Media reports the ATA is now backing away from the "80,000 shortage" projections it made for 2021, suggesting the problem is more about retention and quality than raw numbers; (2) **Economic uncertainty**: Freight demand continues to follow a volatile pattern — shippers are cutting back while brokers compress rates, creating spread pressure on carriers. The prescription is diversification across freight types and customer relationships vs. lane concentration; (3) **Rising operational costs**: Insurance premiums, diesel, tires, and equipment are all climbing while rates compress — creating a cost-squeeze dynamic that is hitting smaller carriers hardest and driving fleet consolidation toward larger operators. The carriers surviving are those with fuel cost management programs, diversified lane books, and strong broker/shipper relationships.
+
+**SC Relevance (Quantix):** The driver demographics point has particular relevance for chemical/hazmat carriers like Quantix where the CDL + HazMat + TWIC + tank endorsement stack creates a long qualification runway. Quantix's driver retention strategy matters more than recruiting at scale — losing an experienced chemical driver is a longer/harder replacement problem than losing a dry van driver. The cost-squeeze environment also creates acquisition opportunity — smaller bulk carriers under margin pressure may be available for terminal or fleet consolidation. The freight demand volatility point reinforces the value of Quantix's contracted/dedicated model over spot-dependent capacity.
+
+**Tags:** driver-shortage, driver-retention, hazmat-drivers, cdl-workforce, trucking-economics, fleet-consolidation, carrier-strategy, bulk-chemical, operational-costs, freight-market
+
