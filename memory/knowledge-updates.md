@@ -830,3 +830,45 @@ Current consensus on top SCRM priorities heading into mid-2026:
 **Knowledge Tier:** Mid-frequency (technology strategy, framework)
 **Tags:** supply-chain-resilience, integrated-platforms, risk-management, fragmentation, tariffs, agentic-ai, technology-strategy
 
+
+---
+
+## 2026-03-16 AM — Morning Knowledge Scan
+
+### Insight 1: Edge AI — Distributing Intelligence to the Point of Logistics Action
+**Source:** Logistics Viewpoints — "AI at the Edge: Why On-Device Intelligence Changes the Game for Supply Chains" (March 10, 2026)
+**URL:** https://logisticsviewpoints.com/2026/03/10/ai-at-the-edge-why-on-device-intelligence-changes-the-game-for-supply-chains/
+**Knowledge Tier:** Mid-frequency (technology analysis, near-term applicable)
+
+**Summary:** A structural shift is underway in enterprise AI architecture. For most of the past decade, logistics AI ran on centralized cloud infrastructure — data collected at the edge (scans, telematics, shipment events) transmitted upstream for analysis. That model is changing. Advances in semiconductor design (AI accelerators in mobile/embedded processors) now enable capable inference directly on edge devices: driver handhelds, industrial tablets, vehicle systems, robotics, and infrastructure sensors. Key operational impacts: (1) **Latency reduction** — local inference is near-instant vs. round-trip cloud processing, meaningful at scale across thousands of daily events; (2) **Expanded sensing layer** — unstructured data (photos, voice, video) that never entered enterprise systems can now be analyzed in real time at the point of observation; (3) **Resilience in low-connectivity environments** — logistics operations (remote terminals, rural routes) gain decision support that doesn't depend on network quality; (4) **Driver/worker tools** — damage assessment, route risk flagging, delivery instruction interpretation, equipment diagnostics all run locally on the device in hand.
+
+**SC Relevance (Quantix):** Directly applicable to a 4,500-truck / 50+ terminal operation. Drivers on rural chemical delivery routes often operate in low-connectivity environments. Edge AI on driver devices (real-time routing, delivery verification, damage documentation) could improve both safety and customer service without depending on cellular reliability. At terminals, local-inference inspection tools reduce documentation lag. This is a near-term deployable architecture for Dale's AI-in-the-loop program.
+
+**Tags:** edge-ai, logistics-technology, driver-tools, real-time-intelligence, connectivity-resilience, agentic-ai, bulk-transportation
+
+---
+
+### Insight 2: Freight Market March 2026 — LTL Sector Holds Pricing Discipline Despite Soft Demand
+**Source:** C.H. Robinson — "Freight Market Update: March 2026 / North America LTL" (March 5, 2026)
+**URL:** https://www.chrobinson.com/en-us/resources/insights-and-advisories/north-america-freight-insights/mar-2026-freight-market-update/na-ltl/
+**Knowledge Tier:** High-frequency (current market data — treat as volatile, point-in-time)
+
+**Summary:** LTL market conditions remain soft entering March 2026, with an extended freight recession weighing on volumes. Severe winter weather in late January created short-term disruption with backlogs lingering into February. Carriers also report declining weight-per-shipment as a revenue headwind, indicating a less favorable freight mix. Despite this, **pricing discipline in LTL has held** — carriers continue pushing rate increases to recover higher operating costs and maintaining yield management focus over volume-chasing. Notably, carriers are still investing in network capacity (terminals, equipment, fleet) to be positioned for the eventual recovery. PMI readings showing manufacturing expansion provide "cautious optimism" but no confirmed trend reversal yet. The broader freight market note flags a **widening cost differential between truckload and intermodal** — a factor shaping 2026 RFP strategies for shippers.
+
+**SC Relevance (Quantix):** While Quantix is TL/bulk rather than LTL, the broader freight cycle context is relevant. Soft TL market + disciplined LTL pricing = current shipper negotiating leverage is better on truckload than LTL. For chemical/plastics pellet customers of Quantix, a soft freight market means downward pressure on rates — managing yield on dedicated/contract lanes is the right strategic posture (vs. competing on spot). The widening TL-intermodal spread is not directly relevant to bulk liquid/dry, but signals broader modal shift pressures worth monitoring for any blended-mode customers.
+
+**Tags:** freight-market, ltl, truckload, rate-environment, yield-management, market-cycle, bulk-transportation, pricing-discipline
+
+---
+
+### Insight 3: Logistics Has Entered a Permanent Era of Structural Disruption — Efficiency-First Design Is Now a Liability
+**Source:** Source Logistics Blog — "Logistics Has Entered a Permanent Era of Disruption" (March 13, 2026)
+**URL:** https://blog.sourcelogistics.com/logistics-has-entered-a-permanent-era-of-disruption
+**Knowledge Tier:** Mid-frequency (strategic analysis / practitioner synthesis)
+
+**Summary:** A well-argued structural thesis: global supply chains are no longer experiencing episodic disruption followed by stability — they have entered a permanent baseline of volatility. The evidence: COVID factory shutdowns → semiconductor shortage → Ukraine war → Red Sea attacks → Panama Canal drought → Iran tensions driving fuel and maritime insurance costs. Each individually could be a temporary shock; together they point to a structural regime change. The root cause: the lean/efficiency-first design paradigm of the 1990s-2010s eliminated buffers that served as resilience mechanisms. "A system with zero waste has zero buffer when things go wrong." The prescription is moving from efficiency optimization toward **strategic buffer logistics** — deliberately carrying some redundancy in capacity, supplier relationships, and inventory as a risk premium, not a waste to be eliminated.
+
+**SC Relevance (Quantix):** This has direct strategic relevance for Quantix's customer base. Chemical and plastics manufacturers operating with lean-optimized logistics are highly exposed in a permanent-disruption environment. Quantix's positioning as a dedicated bulk carrier (contracted vs. spot-dependent) is actually a resilience asset for customers — **the value proposition is buffer capacity, not just cost**. Dale should be framing Quantix's dedicated fleet model as a strategic resilience tool in customer conversations, not just a cost comparison vs. spot market. Also relevant: Iran tensions → diesel price pressure on border operations (see separate news item re: rising diesel on US-Mexico border).
+
+**Tags:** supply-chain-resilience, strategic-buffer, lean-vs-resilience, disruption-era, carrier-value-proposition, bulk-chemical, diesel-risk, geopolitical-risk
+
