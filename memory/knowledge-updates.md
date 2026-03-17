@@ -916,3 +916,36 @@ Current consensus on top SCRM priorities heading into mid-2026:
 
 **Tags:** driver-shortage, driver-retention, hazmat-drivers, cdl-workforce, trucking-economics, fleet-consolidation, carrier-strategy, bulk-chemical, operational-costs, freight-market
 
+
+---
+
+## Knowledge Update — 2026-03-17 (PM Cron)
+
+### Insight 1: Tariff-Driven Supply Chain Restructuring — Dual-Sourcing & Nearshoring Acceleration
+**Date:** 2026-03-17
+**Source:** McKinsey Supply Chain Risk Survey (Dec 2, 2025) via manufacturing.asia synthesis
+**Summary:** Among companies facing significant tariff pressure in 2025, 45% increased inventory buffers, 39% adopted dual-sourcing strategies for components/raw materials, and 33% developed nearshoring or onshoring plans. McKinsey also noted a sharp rise in deep-tier supply chain mapping efforts. Trump tariff unpredictability described as making planning "impossible" for transportation stakeholders. Reshoring Initiative survey found 43% of US companies willing to pay 10–20% premium for 1-week delivery vs. 6-week delivery — signaling structural demand shift toward speed over cost optimization.
+**SC Relevance:** High. For Quantix/bulk chemical carriers, nearshoring of chemical production (especially petrochemicals currently sourced from Asia) would increase domestic terminal utilization and regional lane density. Tariff volatility = opportunity for carriers positioned near reshored manufacturing clusters. Dual-sourcing by chemical companies = more frequent, smaller shipments = potential for route/load optimization changes.
+**Knowledge Tier:** Mid-frequency (research synthesis, Dec 2025 — treat as current but volatile)
+**Tags:** `risk-management` `tariffs` `nearshoring` `dual-sourcing` `resilience` `strategic-planning`
+
+---
+
+### Insight 2: Tank Truck Industry 2025 — Regulatory Rollbacks, AI Adoption, Freight Recession Headwinds
+**Date:** 2026-03-17
+**Source:** Bulk Transporter — "Year in Review: Top Tank Truck Stories from 2025" (Dec 29, 2025)
+**Summary:** The tanker sector in 2025 was shaped by three forces: (1) Regulatory tailwinds — Trump administration revoked California CARB waivers for Advanced Clean Trucks/Cars II and Heavy-Duty Omnibus in June 2025, reducing ZEV mandate pressure on fleets. DOT crackdowns on non-domiciled CDL mills and ELD vetting overhaul may reduce overcapacity suppressing freight rates. (2) Technology acceleration — fleets increasingly adopting AI and connected digital ecosystems integrated with TMS to optimize operations and equipment utilization. Trimble's Transportation Pulse Report predicts this accelerates in 2026. (3) Economic headwinds — tariff uncertainty and prolonged freight recession kept carrier profitability low; planning visibility severely impaired. Major capital investment: STE opened new domestic tank trailer manufacturing facility, signaling focus on supply chain resilience for equipment.
+**SC Relevance:** Critical for Quantix. CARB waiver revocation removes near-term forced fleet electrification costs. CDL mill crackdown could tighten driver supply, supporting rate recovery. AI/TMS integration is the next operational frontier for large fleets (4,500+ trucks = significant ROI potential). Freight recession = continued rate pressure but also shipper willingness to consolidate carrier base with reliable partners.
+**Knowledge Tier:** Mid-frequency (industry trade source, Dec 2025)
+**Tags:** `bulk-transportation` `tank-truck` `regulatory` `AI` `TMS` `fleet-management` `driver-supply` `freight-rates` `Quantix-relevant`
+
+---
+
+### Insight 3: Lean Six Sigma in Supply Chain — 3PL Warehouse DMAIC Delivers 75% PCE Improvement
+**Date:** 2026-03-17
+**Source:** ScienceDirect / Heliyon — "Development of an improvement framework for warehouse processes using Lean Six Sigma (DMAIC) approach: A case of 3PL services" (2023, validated 2025 cited literature)
+**Summary:** A structured DMAIC application in a 3PL warehouse context found initial Process Cycle Efficiency (PCE) of only 40% — meaning 60% of process time was non-value-added. Post-LSS implementation achieved PCE of 70% — a 75% relative improvement. Complementary 2025 research (Global Journal of Industrial Management, June 2025) confirms LSS integration across procurement, production, inventory management, and distribution functions delivers measurable variability reduction and waste elimination at scale. ScienceDirect 2025 paper on EV parts manufacturer in Thailand used DMAIC specifically on freight procurement cost optimization — applying LSS beyond the plant floor into logistics spend management.
+**SC Relevance:** Directly applicable to Quantix terminal operations and dispatch processes. PCE of 40% in unoptimized logistics workflows is common in bulk carrier environments — driver dwell time, loading/unloading queue, paperwork cycles. DMAIC Define→Measure phase should baseline terminal-level PCE before targeting improvement. LSS application to freight procurement cost is particularly relevant given current rate environment.
+**Knowledge Tier:** DC tier for methodology (DMAIC is stable); mid-frequency for benchmark data (2023–2025 case studies)
+**Tags:** `lean-six-sigma` `DMAIC` `process-improvement` `3PL` `warehouse` `PCE` `terminal-operations` `freight-procurement` `Quantix-relevant`
+
