@@ -1073,3 +1073,56 @@ Quantix's terminal operations share structural similarity with 3PL warehouse pro
 
 **Tags:** `DMAIC` `lean-six-sigma` `process-improvement` `3PL` `warehouse` `PCE` `VSM` `terminal-ops` `peer-reviewed`
 
+
+---
+
+## Update: 2026-03-18 (Evening) — PM Cron
+
+### Insight 1: Supply Chain Regionalization as Structural Risk Response to Tariff Volatility
+
+**Date:** 2026-03-18
+**Source:** FreightWaves — "Tariff volatility pushes global supply chains into regional reset in 2026" (Interview with Genpact Global SC Lead Tanguy Caillet)
+**URL:** https://www.freightwaves.com/news/tariff-volatility-pushes-global-supply-chains-into-regional-reset-in-2026
+
+**Summary:**
+Tariff instability and geopolitical disruption are accelerating a structural shift from globalized, cost-optimized supply chains to regionalized, resilience-first networks. Companies that invested post-COVID in control towers, supplier-risk monitoring, and scenario planning tools navigated 2025-2026 tariff swings without crisis-mode consulting spend. The key strategic move: eliminating single-source suppliers in favor of dual/triple supply options and regionalizing procurement footprints. Manufacturing relocation is slow and expensive; the faster play is inventory repositioning and multi-source contracting at the category level.
+
+**SC Relevance for Quantix:**
+While Quantix operates domestically in trucking, its chemical shipper customers are directly exposed to tariff-driven sourcing shifts. As chemical manufacturers regionalize production (e.g., reshoring petrochemical capacity from Asia), domestic bulk transport demand patterns will shift — potentially increasing lane density in Gulf Coast and Midwest corridors. Quantix should monitor shipper network redesigns to anticipate volume shifts and position terminal assets accordingly. Also applicable to fleet procurement: tractor/trailer sourcing should carry dual-supplier optionality given ongoing supply chain volatility in OEM components.
+
+**Knowledge Tier:** High-frequency (market/geopolitical conditions — treat as volatile, re-verify quarterly)
+**Tags:** `risk-management` `regionalization` `tariffs` `supplier-diversification` `resilience` `geopolitical` `scenario-planning` `chemical-industry`
+
+---
+
+### Insight 2: Operational Excellence Requires 4 Meta-Capabilities Beyond the Improvement Method Itself
+
+**Date:** 2026-03-18
+**Source:** Harvard Business Review — "4 Capabilities that Drive Operational Improvement" (March 16, 2026)
+**URL:** https://hbr.org/2026/03/4-capabilities-that-drive-operational-improvement
+
+**Summary:**
+HBR analysis of why companies deploying identical Lean/Six Sigma practices (HSBC vs. RBS, BofA vs. Westpac) get radically different outcomes. The finding: the improvement methodology itself (DMAIC, Lean, etc.) is a necessary but insufficient condition. What differentiates winners is four meta-capabilities that enable the methodology to stick: (1) leadership commitment beyond lip service, (2) embedding improvement into daily management systems rather than running it as a project portfolio, (3) capability building that reaches the frontline — not just Black Belts, and (4) measurement systems that track behavioral change, not just financial outcomes. Organizations running fragmented, short-cycle improvement projects fail to accumulate compound gains.
+
+**SC Relevance for Quantix:**
+This is a direct challenge to "Six Sigma project theater" — the pattern where a company runs DMAIC projects but sees no lasting culture shift. For Quantix's CI program, the prescription is: (a) measure driver/terminal behaviors alongside cost metrics, (b) ensure terminal managers own improvement cadences — not just a central CI team, (c) build DMAIC literacy into dispatcher and ops supervisor roles. The "daily management system" framing aligns with Toyota's Daily Management approach — worth incorporating into any Quantix LSS deployment architecture.
+
+**Knowledge Tier:** DC tier (HBR/academic synthesis — frameworks are stable)
+**Tags:** `lean-six-sigma` `DMAIC` `operational-excellence` `change-management` `continuous-improvement` `leadership` `daily-management` `HBR`
+
+---
+
+### Insight 3: PHMSA Harmonization (HM-215R) and Hazmat Transport Compliance — Active Regulatory Signal for Chemical Carriers
+
+**Date:** 2026-03-18
+**Source:** IHMM — "Global DG Transport Regulatory Update: March 2-10, 2026"
+**URL:** https://ihmm.org/global-dg-transport-regulatory-update-march-2-10-2026/
+
+**Summary:**
+PHMSA's HM-215R NPRM ("Hazardous Materials: Harmonization With International Standards") is the most consequential live U.S. regulatory item for chemical carriers in 2026. It proposes updating the Hazardous Materials Regulations (HMR) to align with current international standards — changes to proper shipping names, hazard classes, packing groups, special provisions, packaging authorizations, and air/vessel quantity limits. **Comments due April 13, 2026.** Simultaneously, PHMSA's HM-265 final rule reducing unnecessary burdens in fuel transportation is already in effect — domestic fuel carriers must audit shipping-paper language, training references, and compliance matrices now. Globally, ADR 2025 (European road) is the settled baseline, with UNECE/OTIF feeding the next cycle. Asia/Africa seeing stricter carrier acceptance rules and tanker security requirements.
+
+**SC Relevance for Quantix:**
+This is an immediate compliance action item. Quantix operates chemical and fuel tankers under HMR. HM-265 is already effective — shipping paper and training documentation should be reviewed against the new rule now. HM-215R comment period closes April 13, 2026 — if proposed shipping name or packing group changes affect Quantix's typical commodity mix (plastics, solvents, industrial chemicals), this is a window to comment or at minimum brief the compliance team on what's coming. Track this rulemaking through Q3 2026.
+
+**Knowledge Tier:** High-frequency (regulatory — track actively; re-verify against PHMSA docket)
+**Tags:** `regulatory` `PHMSA` `hazmat` `HMR` `compliance` `chemical-transport` `bulk-liquid` `DOT` `HM-215R` `HM-265` `Quantix-action`
