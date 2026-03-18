@@ -949,3 +949,49 @@ Current consensus on top SCRM priorities heading into mid-2026:
 **Knowledge Tier:** DC tier for methodology (DMAIC is stable); mid-frequency for benchmark data (2023–2025 case studies)
 **Tags:** `lean-six-sigma` `DMAIC` `process-improvement` `3PL` `warehouse` `PCE` `terminal-operations` `freight-procurement` `Quantix-relevant`
 
+
+---
+
+## 2026-03-18 AM — Morning Knowledge Scan
+
+### Insight 1: EDI → API Migration Reshaping Real-Time Supply Chain Orchestration
+**Source:** Logistics Viewpoints — "The Next Phase of Supply Chain Interoperability: APIs, AI, and the Rise of Digital Supply Networks" (March 12, 2026)
+**Knowledge Tier:** High-frequency (current technology trend; rapidly evolving)
+**Tags:** #technology #integration #API #AI #TMS #visibility #interoperability
+
+For decades, EDI was the backbone of supply chain communication — but its batch-processing model (periodic file transfers, not real-time) is now a structural bottleneck. The industry is actively migrating to API-based integration, enabling instant data exchange between TMS, WMS, ERP, and supplier portals. The next layer on top: AI-driven supply chain orchestration that monitors multi-variable logistics data (shipment events, inventory levels, weather, demand signals) and recommends corrective actions dynamically — not through static rules.
+
+**Why it matters for Quantix:** Quantix's 50+ terminal network and 4,500+ truck fleet generates massive real-time operational data. A TMS/ERP API integration layer — combined with AI orchestration — could dramatically improve empty-truck repositioning, load tendering responsiveness, and exception management. Companies still on EDI-based carrier/broker interchange are carrying unnecessary decision latency. This is a direct input to any digital transformation prioritization.
+
+---
+
+### Insight 2: DHL Insight 2030 — Disruption Accelerating, Technology Investment Accelerating Faster
+**Source:** Supply Chain Management Review — "Is Your Supply Chain Ready for What's Next?" (March 17, 2026), citing DHL Supply Chain Insight 2030 Report
+**Knowledge Tier:** Mid-frequency (annual research synthesis; 2026 survey data)
+**Tags:** #resilience #technology #risk #labor #cybersecurity #automation #disruption #2030-outlook
+
+DHL's Insight 2030 survey of North American supply chain leaders finds the pace of disruption is *accelerating*, not stabilizing. Top anticipated threats through 2030:
+- Cybersecurity threats: **70%** of respondents
+- Higher labor costs: **69%**
+- Labor shortages: **66%**
+- Natural disasters: **63%**
+- International tensions: **62%**
+
+Response: **73%** of participants expect supply chains to become more reliant on AI in the next 5 years; **68%** expect increased robotics dependence; **63%** see intensified focus on automation for routine tasks.
+
+**Why it matters for Quantix:** The labor shortage and cost trends hit carriers directly — driver wages, terminal labor, and dispatcher capacity are all under pressure. The AI/automation investment trend validates prioritizing technology-led solutions (route optimization, load planning, predictive maintenance) over headcount-based scaling. The cybersecurity threat is underweighted in bulk transport — fleet management systems and load tracking platforms are increasingly attractive attack surfaces.
+
+---
+
+### Insight 3: Trade Lane Restructuring + 3PL Agility Pressure — Freight's New Reality
+**Source:** Supply House Times — "Navigating the New Freight Reality" (March 18, 2026), citing CSCMP Annual State of Logistics Report (2025, Kearney)
+**Knowledge Tier:** High-frequency (current market conditions; geopolitically driven)
+**Tags:** #trade-lanes #nearshoring #3PL #geopolitics #tariffs #freight-rates #China-Plus-One #volatility
+
+The global freight market is restructuring around trade lane shifts driven by: tariffs, port fees, differing climate regulations, and export restrictions. Shippers are executing China Plus One strategies and diversifying into Africa, India, and Latin America. The structural result: volatile demand and carrier network instability — shippers can redirect bookings in hours; carriers take months to restructure networks.
+
+Key finding from CSCMP/Kearney: shippers are increasingly relying on 3PLs to manage uncertainty, but this is forcing 3PLs to evolve from fixed-route, cost-plus models to **agile, alternate-route, cost-transparent contract structures**.
+
+**Why it matters for Quantix:** While Quantix is domestic bulk (not international), the secondary effects land directly on the chemical and plastics feedstock supply chains it serves. Petrochemical customers are managing global trade exposure that affects production volumes — and therefore tank truck demand. 3PL model evolution is also a strategic signal: Quantix's value proposition as a carrier should emphasize flexibility, transparent pricing, and route agility to match what shippers increasingly demand from logistics partners.
+
+---
