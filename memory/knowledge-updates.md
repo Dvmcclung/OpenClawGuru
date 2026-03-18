@@ -995,3 +995,81 @@ Key finding from CSCMP/Kearney: shippers are increasingly relying on 3PLs to man
 **Why it matters for Quantix:** While Quantix is domestic bulk (not international), the secondary effects land directly on the chemical and plastics feedstock supply chains it serves. Petrochemical customers are managing global trade exposure that affects production volumes — and therefore tank truck demand. 3PL model evolution is also a strategic signal: Quantix's value proposition as a carrier should emphasize flexibility, transparent pricing, and route agility to match what shippers increasingly demand from logistics partners.
 
 ---
+
+---
+
+## 2026-03-18 PM — Evening Knowledge Scan
+
+### Insight 1: Cyber-Attacks on Logistics — 965% Rise Since 2021 Is Now a Top Supply Chain Risk
+
+**Date:** 2026-03-18
+**Source:** Everstream Analytics — *2026 Annual Supply Chain Risk Report* (January 2026)
+**URL:** https://www.everstream.ai/articles/are-you-prepared-for-the-supply-chain-disruptions-of-2026/
+**Knowledge Tier:** High-frequency (current risk intelligence — treat as volatile/time-stamped)
+
+**Summary:**
+Everstream's 2026 risk report identifies cyber-attacks on logistics infrastructure as the #1 emerging threat. Key data points:
+- **61% surge** in cyber-attacks targeting logistics in 2025 alone
+- **965% increase** in logistics-targeted cyber-attacks from 2021–2025
+- Primary targets: ports, carriers, 3PLs, maritime systems
+- State-sponsored actors using logistics disruption as hybrid warfare (GPS jamming in Baltic Sea since Aug 2024 — affecting 15% of global cargo shipping routes)
+- Secondary logistics threats: drone/balloon airspace violations causing airport closures (Europe, 2025)
+
+Recommended response framework: short-, mid-, and long-term strategies across Procurement, Planning, and Logistics functions.
+
+**SC Relevance for Quantix:**
+A 4,500-truck fleet with 50+ terminals is a high-value target for ransomware (TMS disruption = load tendering blackout). Physical GPS jamming is less relevant for OTR domestic ops, but TMS/EDI cyber resilience is not optional at Quantix's scale. Business continuity planning should include a manual dispatch fallback protocol.
+
+**Tags:** `risk-management` `cybersecurity` `logistics-resilience` `2026-risk-report` `carrier-operations`
+
+---
+
+### Insight 2: TMS + Real-Time Visibility Is the Linchpin for Bulk Material Transport Safety and Efficiency
+
+**Date:** 2026-03-18
+**Source:** Bulk Transporter — *Best Practices in Transporting Bulk Materials*
+**URL:** https://www.bulktransporter.com/fleet-management/article/55252413/best-practices-in-transporting-bulk-materials
+**Knowledge Tier:** Mid-frequency (practitioner guidance, operationally stable)
+
+**Summary:**
+Industry synthesis of bulk transport best practices across liquid chemicals, solid bulk (grain, pellets), and pneumatic (powder/cement). Key findings:
+
+1. **Complete multimodal visibility** — A TMS integrated across all modes (truck, rail, barge) is the single most impactful investment. Real-time location + load condition monitoring (temperature, pressure) enables proactive rerouting and prevents spoilage/contamination events before they escalate.
+
+2. **Regulatory compliance as a continuous process** — Hazmat regulations (DOT, EPA) require systematic, not episodic, compliance management. Fines and legal exposure from non-compliance exceed the cost of proactive systems.
+
+3. **Anomaly detection in TMS** — Modern TMS can flag load condition deviations (e.g., pressure change in liquid tank) and alert drivers/dispatchers in real time. This is a significant operational risk reduction lever for chemical carriers.
+
+4. **Mode coordination** — Multi-leg bulk shipments require precise handoff timing. TMS with multimodal orchestration prevents dwell-time spikes at transfer points.
+
+**SC Relevance for Quantix:**
+Directly applicable. Quantix's liquid bulk/ISO chemical business has the most exposure to load condition variance — a TMS with sensor integration (pressure, temperature) closes that gap. For dry bulk (plastic pellets), moisture protection during transit and at terminals is the key control. Terminal-level visibility (not just truck tracking) is the next maturity step.
+
+**Tags:** `bulk-transport` `chemical-logistics` `TMS` `visibility` `hazmat-compliance` `terminal-ops` `dry-bulk` `liquid-bulk`
+
+---
+
+### Insight 3: DMAIC Applied to 3PL Warehouse Processes — Peer-Reviewed Framework with Measurable PCE Gains
+
+**Date:** 2026-03-18
+**Source:** Adeodu et al. — *"Development of an Improvement Framework for Warehouse Processes Using Lean Six Sigma (DMAIC) Approach: A Case of Third Party Logistics (3PL) Services"* — Heliyon / ScienceDirect (2023); cited in MDPI Applied Sciences (Nov 2025)
+**URL:** https://www.sciencedirect.com/science/article/pii/S2405844023021229
+**Knowledge Tier:** Mid-frequency (peer-reviewed methodology, stable)
+
+**Summary:**
+Peer-reviewed case study applying the DMAIC framework specifically to 3PL warehouse operations, with the goal of improving **Process Cycle Efficiency (PCE)** — the ratio of value-added time to total lead time in warehouse workflows.
+
+Key methodological findings:
+- **Define phase:** VSM (Value Stream Mapping) revealed that the majority of cycle time in warehouse receiving/put-away was wait time and motion waste — consistent with Lean Muda categories
+- **Measure phase:** Baseline PCE established using time studies; process sigma level calculated
+- **Analyze phase:** Root causes tied to layout inefficiencies, batch-size mismatches, and manual data entry delays
+- **Improve phase:** Countermeasures included slotting optimization, batch consolidation, and barcode scanning integration
+- **Control phase:** SPC (Statistical Process Control) charts implemented for sustained gains
+
+The study was subsequently cited in a 2025 MDPI publication as a validated framework for 3PL logistics improvement contexts.
+
+**SC Relevance for Quantix:**
+Quantix's terminal operations share structural similarity with 3PL warehouse processes — inbound (truck check-in, tank inspection, pre-load), value-added (loading, documentation), and outbound (dispatch, compliance sign-off). PCE analysis at a terminal level would expose where cycle time is being consumed. This is a high-ROI DMAIC target for any terminal running >50 loads/day.
+
+**Tags:** `DMAIC` `lean-six-sigma` `process-improvement` `3PL` `warehouse` `PCE` `VSM` `terminal-ops` `peer-reviewed`
+
