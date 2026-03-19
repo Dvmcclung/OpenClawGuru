@@ -1126,3 +1126,65 @@ This is an immediate compliance action item. Quantix operates chemical and fuel 
 
 **Knowledge Tier:** High-frequency (regulatory — track actively; re-verify against PHMSA docket)
 **Tags:** `regulatory` `PHMSA` `hazmat` `HMR` `compliance` `chemical-transport` `bulk-liquid` `DOT` `HM-215R` `HM-265` `Quantix-action`
+
+---
+
+## 2026-03-19 AM — Morning Knowledge Scan
+
+### Insight 1: Supply Chain Interoperability Evolves from EDI Batch to Real-Time API Networks
+
+**Date:** 2026-03-19
+**Source:** Logistics Viewpoints — "The Next Phase of Supply Chain Interoperability: APIs, AI, and the Rise of Digital Supply Networks" (March 12, 2026)
+**URL:** http://logisticsviewpoints.com/2026/03/12/the-next-phase-of-supply-chain-interoperability-apis-ai-and-the-rise-of-digital-supply-networks/
+
+**Summary:**
+The dominant shift underway in logistics technology is the replacement of batch-based EDI with event-driven API integration. EDI was designed for scheduled file exchanges — purchase orders, ASNs, invoices moving in periodic batches. Modern API architectures allow TMS, WMS, ERP, and visibility platforms to exchange operational events as they occur, eliminating the hours-to-days lag inherent in EDI. This real-time connectivity layer then enables the second shift: AI-driven supply chain orchestration. AI systems can monitor shipment events, supplier performance, inventory levels, weather signals, and demand patterns simultaneously — evaluating and recommending corrective actions across the network. This is described as a transition from "connecting systems" to "enabling intelligent coordination across digital supply networks." The article explicitly frames this as a layered architecture challenge analogous to the ISO OSI networking model.
+
+**SC Relevance for Quantix:**
+Quantix's size (4,500+ trucks, 50+ terminals) means latency in operational data is expensive — a delayed shipment update that cascades through 10 terminal connections has compounding cost. The move from EDI to API-native integration is a direct infrastructure investment decision. For Quantix's TMS and dispatch systems: evaluate whether current carrier/customer integrations are still EDI batch-based and what the migration path looks like. The AI orchestration layer above that — where exceptions are triaged and reroutes recommended automatically — is the 2026–2027 capability frontier for fleets of this scale.
+
+**Knowledge Tier:** Mid-frequency (technology research synthesis — rate of API adoption is active; architectural principles are DC-tier stable)
+**Tags:** `digital-transformation` `API-integration` `EDI` `TMS` `real-time-visibility` `AI-orchestration` `interoperability` `supply-chain-technology` `Quantix-relevant`
+
+---
+
+### Insight 2: Agentic AI and Digital Twins Shift Supply Chain Planners from Execution to Strategy
+
+**Date:** 2026-03-19
+**Source:** GetTransport Blog — "How AI and Decision Intelligence Are Rewiring Supply-Chain Operations for 2026" (March 18, 2026)
+**URL:** https://blog.gettransport.com/news/intelligent-decision-ai-logistics/
+
+**Summary:**
+2026 marks the transition from AI-as-analytics to AI-as-decision-partner in supply chain operations. Three specific capability patterns are maturing: (1) **Agentic AI** — autonomous agents that operate within defined guardrails to handle routine operational decisions: carrier reassignment, SLA triage, exception batching, fulfillment resequencing. These agents take procedural decisions off human plates. (2) **Composable architectures** — modular platform stacks that can be extended or patched without full-system downtime, replacing monolithic TMS/WMS platforms. (3) **Real-time digital twins** combined with **decision intelligence** — running dozens of what-if scenarios (supplier outage, lane closure, carrier swap) in minutes and ranking outcomes by cost and service impact. A concrete benchmark from the article: simulating a port shutdown typically exposes a 24–72 hour lead-time shift and a 10–20% per-container cost swing — that kind of scenario output is now available to planners in afternoon-length work sessions, not multi-week consulting engagements. The human role shifts to: policy setting, scenario design, stakeholder negotiation. Agentic AI handles the rest.
+
+**SC Relevance for Quantix:**
+This directly maps to Quantix's opportunity structure. With 4,500+ trucks and a complex terminal network, the exception volume (detention, breakdowns, missed pickups, weather reroutes) is enormous — likely hundreds of daily events. Agentic AI configured within Quantix's dispatch guardrails could handle a large fraction of routine exception triage, freeing dispatchers for higher-complexity decisions. The digital twin + decision intelligence pattern is also a natural fit for Quantix's terminal network design questions — route/terminal trade-off analysis that currently requires deep analyst time could become an on-demand planning tool. Key risk: composable architectures require strong API foundations (see Insight 1 above) — these capabilities stack, not substitute.
+
+**Knowledge Tier:** Mid-frequency (emerging capability — 2026 maturity curve; core AI/twin concepts are DC-tier)
+**Tags:** `agentic-AI` `digital-twin` `decision-intelligence` `composable-architecture` `supply-chain-technology` `dispatch-automation` `AI-planning` `Quantix-relevant` `2026-trends`
+
+---
+
+### Insight 3: Trucking Market Structural Transition — Tightening Capacity, Fuel Shock, and Uneven Recovery
+
+**Date:** 2026-03-19
+**Source (1):** Summar Financial — "Freight Industry Outlook 2026: What Trucking Companies Should Expect" (March 13, 2026)
+**URL:** https://summar.com/freight-industry-outlook-what-trucking-companies-should-expect/
+**Source (2):** FTR Intelligence — "Fuel Shock, Stronger Housing, and Rising Flatbed Rates: Key Freight Signals This Week" (March 16, 2026)
+**URL:** https://today.ftrintel.com/weekly-update-marc-16-2026
+
+**Summary:**
+Two concurrent signals are defining the U.S. trucking market in March 2026:
+
+**Signal A — Structural Market Recovery (Slow and Uneven):**
+ACT Research characterizes 2026 as a "structural transition year." The prolonged freight recession that began in 2022 is showing bottom-formation signs: truck postings on load boards have hit a 10-year low, load board postings increased ~6% in early 2026, and spot rates for dry van and refrigerated are up >20% YoY. The ATA reports early 2026 showed the strongest truckload demand since late 2024. However, volumes remain below long-term peaks, and the recovery is sector-uneven (retail and manufacturing showing improvement; housing and durable goods still soft). FTR's January 2026 Trucking Conditions Index reached 9.3 — the highest reading since February 2022. For carriers that survived the downturn, improved load-to-truck ratios and better rate negotiation leverage are materializing. Key risk: premature capacity addition if demand softens again.
+
+**Signal B — Acute Fuel Cost Shock (Geopolitical):**
+On-highway diesel posted its largest single-week price increase ever recorded during the week of March 16: +$0.962/gallon to $4.859/gallon — surpassing the post-Ukraine spike of 2022. The trigger is Middle East geopolitical escalation driving crude above $119/barrel (briefly). Consumer goods spending continues to soften (goods spending declined for the third consecutive month), which is a bearish demand signal. The combination — tightening capacity and positive rate momentum on one hand, sudden fuel cost shock and weakening consumer goods on the other — creates a genuinely volatile operating environment for Q2 2026.
+
+**SC Relevance for Quantix:**
+This is a Quantix-direct market signal. As a bulk carrier with 4,500+ trucks, diesel at $4.86/gal is a first-order cost event. Quantix's fuel surcharge program and contract fuel clauses need immediate review against this spike. On the rate side, if the market is tightening and spot capacity is contracting, Quantix's utilization and lane pricing should improve — but that benefit is partially offset by fuel cost. The strategic call for Q2 2026: lock favorable contracts now while the market is in transition (before rate acceleration completes), and pressure-test fuel surcharge recovery mechanisms against the current diesel price level. Also: carrier attrition is creating asset acquisition opportunities for well-capitalized fleets — worth monitoring.
+
+**Knowledge Tier:** High-frequency (volatile — market rates and fuel prices change weekly; structural transition framing is mid-frequency research synthesis)
+**Tags:** `freight-market` `trucking` `capacity` `fuel-cost` `diesel` `spot-rates` `carrier-market` `FTR` `ATA` `geopolitical-risk` `Quantix-direct` `Q2-2026` `rate-environment`
+
