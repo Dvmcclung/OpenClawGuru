@@ -1188,3 +1188,67 @@ This is a Quantix-direct market signal. As a bulk carrier with 4,500+ trucks, di
 **Knowledge Tier:** High-frequency (volatile — market rates and fuel prices change weekly; structural transition framing is mid-frequency research synthesis)
 **Tags:** `freight-market` `trucking` `capacity` `fuel-cost` `diesel` `spot-rates` `carrier-market` `FTR` `ATA` `geopolitical-risk` `Quantix-direct` `Q2-2026` `rate-environment`
 
+
+---
+
+## 2026-03-19 PM — Knowledge Update Session
+
+### Insight 1: Tariff Volatility Accelerating Supply Chain Regionalization
+**Date:** 2026-03-19
+**Source:** FreightWaves — "Tariff volatility pushes global supply chains into regional reset in 2026" (Genpact Global SC Lead Tanguy Caillet interview)
+**URL:** https://www.freightwaves.com/news/tariff-volatility-pushes-global-supply-chains-into-regional-reset-in-2026
+
+**Summary:**
+Tariff instability and geopolitical disruption are forcing a structural shift from cost-optimized global sourcing to resilient regional supply chain models. Key findings:
+- Companies that invested in control towers, supplier-risk monitoring, and scenario planning tools post-COVID are navigating 2026 tariff swings without panic — no reactive advisory buying observed
+- The old procurement model (supplier rationalization for per-unit cost) created fragile, single-source-dependent networks; companies are now deliberately building dual/triple supply options
+- "Deglobalization" is hardening into long-term structural change — not uprooting factories, but diversifying supplier networks and building regional capacity as a buffer
+
+**SC Relevance for Quantix:**
+Bulk chemical carriers like Quantix are directly affected when chemical shipper customers regionalize. If US petrochemical producers reduce imports and expand domestic output (Gulf Coast focus), freight density on domestic bulk lanes could increase. Quantix should monitor customer network redesigns as a demand signal.
+
+**Knowledge Tier:** High-frequency (market/geopolitical — volatile, validate quarterly)
+**Tags:** risk-management, regionalization, tariffs, supplier-diversification, resilience, geopolitics
+
+---
+
+### Insight 2: AstraZeneca Constraint-Based Planning Case Study (Process Improvement)
+**Date:** 2026-03-19
+**Source:** SupplyChainBrain — "AstraZeneca's Journey of Continuous Improvement in Supply Chain Planning" (OMP partnership)
+**URL:** https://www.supplychainbrain.com/articles/43576-watch-astrazenecas-journey-of-continuous-improvement-in-supply-chain-planning
+
+**Summary:**
+AstraZeneca had excessive working capital tied up in inventory with poor supply chain visibility — operating on unconstrained demand/supply assumptions. Key actions and outcomes:
+- Adopted OMP constraint-based planning software to model real capacity and material constraints for the first time
+- Six-month design and implementation phase; three-year continuous improvement journey
+- Result: human planners shifted to exception-based management — routine tasks automated, planners focus on high-value exceptions only
+- Framed as "reality-based planning model" — a meaningful shift from aspirational unconstrained plans
+- OMP and AstraZeneca functioned as co-innovation partners, not vendor-customer
+
+**SC Relevance for Quantix:**
+The exception-based planning model maps directly to transportation management. A bulk carrier with 4,500+ trucks running on unconstrained dispatch assumptions will produce the same outcome AstraZeneca had: working capital misalignment and poor visibility. The case supports building constraint-aware dispatch/planning systems where planners see only exceptions. Framework alignment: APICS S&OP; CPIM constraint management principles.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — cite with publication date)
+**Tags:** process-improvement, constraint-based-planning, s-and-op, exception-management, visibility, case-study, pharmaceutical-sc
+
+---
+
+### Insight 3: Transloading as Strategic Advantage in Bulk Liquid Transportation
+**Date:** 2026-03-19
+**Source:** Kenan Advantage Group (KAG) — "5 Reasons Why Transloading Is a Game-Changer for Bulk Liquid Transportation"
+**URL:** https://www.thekag.com/transport-blog/5-reasons-why-transloading-is-a-game-changer-for-bulk-liquid-transportation/
+
+**Summary:**
+KAG (largest bulk liquid carrier in North America) makes the case for rail-to-truck transloading as a structural cost and flexibility tool for bulk chemical shippers. Five core reasons:
+1. **Cost reduction:** Rail for long-haul + tanker truck for last mile = 10–30% transportation cost savings vs. pure long-haul trucking
+2. **Flexibility:** Easier to adapt to demand shifts, capacity tightening, and seasonal volume — fixed long-haul routes are brittle
+3. **Market access:** Reach customers without rail infrastructure via regional transload facilities — expands shipper footprint without complexity
+4. **Faster delivery and improved reliability** (article truncated; pattern consistent with intermodal literature)
+5. **Compliance and safety** — transload facilities designed for regulated liquids, maintaining chain of custody and regulatory compliance
+
+**SC Relevance for Quantix:**
+Quantix operates as a pure over-the-road bulk carrier. As KAG and other competitors build out transloading infrastructure, Quantix faces competitive pressure on long-haul lanes from shippers who can now blend rail + truck at lower cost. Strategic options: (a) develop transload terminal partnerships at key Gulf Coast and Midwest nodes, or (b) compete on specialized service quality where rail-to-truck handoffs create handling risk for sensitive chemicals. This is a high-relevance competitive intelligence item.
+
+**Knowledge Tier:** Mid-frequency (industry practice — relatively stable, review annually)
+**Tags:** bulk-liquid, transloading, intermodal, chemical-logistics, competitive-intelligence, terminal-strategy, cost-reduction
+
