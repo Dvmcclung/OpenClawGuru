@@ -1308,3 +1308,39 @@ The 2026 tariff environment (10% global tariffs, Section 301 probes against Mexi
 **Knowledge Tier:** High-frequency (active geopolitical/trade environment — monitor weekly)
 **Tags:** tariffs, regionalization, multi-sourcing, nearshoring, supply-chain-resilience, geopolitical-risk, bonded-warehouses, chemical-feedstocks, trade-policy
 
+
+---
+
+## 2026-03-20 — Evening Knowledge Update
+
+### Insight 1: The 4 Capabilities That Separate Operational Excellence Leaders from Laggards
+**Date:** 2026-03-20
+**Source:** Harvard Business Review — "4 Capabilities that Drive Operational Improvement" (March 16, 2026)
+**URL:** https://hbr.org/2026/03/4-capabilities-that-drive-operational-improvement
+**Summary:** HBR analysis of why companies implementing the same Lean/Six Sigma/OpEx practices (HSBC, Bank of America, Citi, NatWest, Westpac, etc.) produce wildly different outcomes. The research identifies four organizational capabilities — not just methodologies — that separate sustained improvement from plateau or regression. Key finding: fragmented, standalone improvement cycles rarely move the needle; systemic capability-building does.
+**SC Relevance:** Directly applicable to Quantix DMAIC program design. Validates the distinction between deploying a methodology and building an organizational capability. Strong support for why LSS Black Belt programs at firms like Sigma Breakthrough are structured around capability development, not just tool training.
+**Knowledge Tier:** Mid-frequency (research synthesis — HBR March 2026)
+**Tags:** process-improvement, lean-six-sigma, operational-excellence, capability-building, DMAIC
+
+---
+
+### Insight 2: Supply Chain Cyber Risk — The Shift From Prevention to Resilience
+**Date:** 2026-03-20
+**Source:** Supply Chain Management Review — "Supply chain cyber risk strategies shift toward resilience" (February 2026)
+**URL:** https://www.scmr.com/article/supply-chain-cyber-risk-strategies-shift-toward-resilience
+**Summary:** EY global cybersecurity leader Richard Watson: 61% of companies experienced a third-party breach in the past year. The dominant posture is shifting from prevention-only to resilience — because attackers (aided by AI) can compromise systems in as little as 52 seconds, while enterprise defensive governance cycles take months. AI is now the most effective detection/response tool, cutting response times to 5–10 minutes at leading firms. State-sponsored attacks are increasingly capable of causing physical operational disruption — factory shutdowns, transportation delays, asset damage.
+**SC Relevance:** High relevance for Quantix: 4,500+ trucks and 50+ terminals represent a massive OT/IT attack surface. Third-party carrier integrations, TMS platforms, and EDI connections are exactly the exposure vectors Watson identifies. The "resilience over prevention" frame aligns with SCRM best practices (APICS CSCP module on supply chain risk). Chemical/bulk carriers are critical infrastructure targets.
+**Knowledge Tier:** High-frequency (current threat environment — EY data 2025-2026)
+**Tags:** supply-chain-risk, cybersecurity, resilience, third-party-risk, SCRM, chemical-logistics, critical-infrastructure
+
+---
+
+### Insight 3: Digital Collaboration as the Key Bottleneck in Chemical Logistics Decarbonization
+**Date:** 2026-03-20
+**Source:** Maritime Executive — "Digital Collaboration in Chemical Logistics" (February 2026)
+**URL:** https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+**Summary:** Multi-author analysis (Lind, Lehmacher, Bentham et al.) of how the energy transition is restructuring chemical logistics. Low-carbon fuels (hydrogen carriers, synthetic fuels, ammonia, advanced biofuels, e-fuels) move as chemical products — contamination-sensitive, hazardous, requiring specialized terminals, strict tank cleaning routines, careful sequencing, and close multi-actor coordination. The piece argues the limiting factor in scaling these supply chains is not production capacity but digital collaboration infrastructure across ships, storage facilities, and inland transport. Just-in-time principles are increasingly relevant as chemical fuel supply chains scale.
+**SC Relevance:** Directly relevant to Quantix's chemical transport business. As energy transition continues, bulk chemical carriers will handle increasing volumes of new-category chemical fuels. The tank cleaning, sequencing, and coordination challenges described are operational realities Quantix already manages — the new wrinkle is managing them for a growing category of more stringent, novel cargoes. JIT application in bulk liquid logistics is a meaningful process improvement lever.
+**Knowledge Tier:** Mid-frequency (structural trend — Maritime Executive Feb 2026)
+**Tags:** chemical-logistics, bulk-transport, decarbonization, digital-collaboration, tank-cleaning, JIT, energy-transition, Quantix-relevant
+
