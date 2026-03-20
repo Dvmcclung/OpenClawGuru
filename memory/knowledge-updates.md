@@ -1252,3 +1252,59 @@ Quantix operates as a pure over-the-road bulk carrier. As KAG and other competit
 **Knowledge Tier:** Mid-frequency (industry practice — relatively stable, review annually)
 **Tags:** bulk-liquid, transloading, intermodal, chemical-logistics, competitive-intelligence, terminal-strategy, cost-reduction
 
+
+---
+
+## 2026-03-20 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Shifts from Advisory to Autonomous Supply Chain Execution
+**Source:** Clarkston Consulting — "2026 Supply Chain Trends Report" (March 2026)
+**Knowledge Tier:** High-frequency (current industry trend — monitor quarterly)
+
+The dominant shift in supply chain AI adoption in 2026 is the transition from **decision-support AI** (flagging exceptions, recommending actions) to **agentic AI** that autonomously executes decisions without human intervention. Key findings:
+- AI is moving from planning tools (forecast enhancement, exception management) into **execution** — directly revising orders, building production schedules, rerouting shipments
+- "Touchless planning" in CPG supply chains is the proof-of-concept; broader execution autonomy is the 2026 frontier
+- Data quality and analytics maturity are the rate-limiting constraints — organizations with immature data foundations cannot deploy agentic AI at scale
+- Cybersecurity risk is elevated as autonomous systems create new attack surfaces in execution workflows
+
+**Application for Quantix:** Load planning, driver dispatch, and lane reoptimization are near-term candidates for agentic AI — but only if master data quality (load records, terminal throughput, lane history) meets the threshold. The question isn't "should we use AI" — it's "is our data ready for AI to act, not just advise?" That's the diagnostic to run first.
+
+**Knowledge Tier:** High-frequency (current industry trend — monitor quarterly)
+**Tags:** agentic-ai, supply-chain-execution, autonomous-planning, data-quality, touchless-planning, technology-adoption, ai-maturity
+
+---
+
+### Insight 2: U.S. Truckload Market Cycling Back to Inflationary Rate Environment in 2026
+**Source:** RXO — "Q1 2026 Truckload Market Guide" (March 2026)
+**Knowledge Tier:** High-frequency (freight market data — review monthly)
+
+After two years of soft rates and oversupply, the U.S. truckload market is inflecting upward into an inflationary cycle:
+- **Q4 2025 spot rates +5.2% YoY** (up from +1.8% in Q3) — RXO Curve index reversed from deflationary trajectory
+- **Driver force:** Accelerated carrier attrition — small carriers exiting the market faster than expected, tightening available capacity
+- **Q1 2026 forecast:** Rates continue upward; shippers who locked in favorable contract rates are now gaining the benefit but face re-pricing exposure at renewal
+- **Risk ahead:** Demand has remained soft, but tightening supply means "rate volatility increases" are expected in H2 2026 as the cycle matures
+- **Macro wildcard:** Fuel price shocks (oil above $120/bbl in some scenarios) could compress carrier margins further, accelerating attrition
+
+**Application for Quantix:** As a carrier, this cycle is positive — the pendulum is swinging back toward pricing power. Key strategic moves: (1) lock in longer-term contracts now while shipper pain isn't acute yet, capturing favorable terms before H2 tightening; (2) monitor small-carrier exits for M&A or lane-acquisition opportunities; (3) use yield management discipline — not all volume is worth taking at rate.
+
+**Knowledge Tier:** High-frequency (freight market data — review monthly)
+**Tags:** truckload-market, freight-rates, carrier-capacity, rate-cycle, spot-rates, contract-rates, carrier-attrition, yield-management
+
+---
+
+### Insight 3: Tariff-Driven Supply Chain Regionalization — Multi-Sourcing Becomes the New Risk Standard
+**Source:** GetTransport Blog — "Tariff shocks are already reshaping lanes, routes and warehouse plays" (March 19, 2026); corroborated by SupplyChainBrain (March 16, 2026)
+**Knowledge Tier:** High-frequency (active geopolitical/trade environment — monitor weekly)
+
+The 2026 tariff environment (10% global tariffs, Section 301 probes against Mexico, China, and EU) is forcing structural changes in how companies architect their supply networks:
+- **Single-source supplier consolidation** — the model favored for cost leverage through 2022 — is now a liability. Procurement teams are actively building **dual- and triple-supplier strategies** as risk hedges
+- **Bonded warehouses and tariff-friendly corridors** are being used as tactical buffers to preserve margins and delivery windows
+- **Regionalization is NOT deglobalization** — firms are redesigning logistics flows toward intra-regional sourcing rather than moving factories (too slow, too capital-intensive). New clusters: Africa, Latin America, Europe, Asia intra-regional links
+- **AI role:** Control towers built post-COVID are being used to operationalize multi-sourcing; AI scenario modeling for tariff outcomes on margins and lead times is a live use case
+- **Key insight from Genpact:** "There is no artificial intelligence without process intelligence" — integration of geopolitical alerts into internal production and shipping plans requires clean master data and integrated planning systems first
+
+**Application for Quantix:** Quantix doesn't source — but its customers do. Chemical and plastic pellet shippers facing tariff restructuring will reshape their inbound lanes. Terminal-level visibility into which customer flows are most exposed to tariff disruption is a competitive intelligence play. Shippers diversifying away from single-source Chinese feedstocks toward nearshored or domestic sources will generate new lane patterns — Quantix should be positioned to capture that volume with flexible terminal coverage at key nearshoring nodes (Gulf Coast, Midwest, Southeast).
+
+**Knowledge Tier:** High-frequency (active geopolitical/trade environment — monitor weekly)
+**Tags:** tariffs, regionalization, multi-sourcing, nearshoring, supply-chain-resilience, geopolitical-risk, bonded-warehouses, chemical-feedstocks, trade-policy
+
