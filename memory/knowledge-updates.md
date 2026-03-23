@@ -1380,3 +1380,33 @@ The 2026 tariff environment (10% global tariffs, Section 301 probes against Mexi
 **Knowledge Tier:** Mid-frequency (strategic framework, KPMG January 2026)
 **Tags:** total-value, GBS, supply-chain-strategy, centralization, resilience, control-tower, KPMG-2026, PE-reporting, TMS-integration, Quantix-relevant
 
+
+---
+
+## 2026-03-23 — PM Knowledge Update (Cron)
+
+### Insight 1: Agentic AI Accelerating Autonomous Supply Chain Execution (2026)
+- **Source:** Clarkston Consulting — *2026 Supply Chain Trends Report* (clarkstonconsulting.com, March 2026)
+- **Summary:** In 2026, AI in supply chain is rapidly expanding beyond planning into execution. Agentic AI is enabling organizations to move toward autonomous supply chain execution with minimal human intervention. Key use cases: enhanced demand forecasting, exception management, real-time inventory allocation, and touchless planning in CPG. Advanced planning tools now incorporate AI specifically to surface true exceptions — reducing planner noise and focusing human attention where it matters. Organizations also face rising cybersecurity risk as AI integration deepens system interconnectivity.
+- **SC Relevance:** Directly applicable at Quantix for: (1) exception-based dispatch and load planning, (2) predictive maintenance on assets, (3) touchless freight matching for spot capacity. The "true exceptions only" framing aligns with APICS CPIM S&OP principles — human judgment reserved for high-variance, high-impact decisions.
+- **Knowledge Tier:** Mid-frequency (research synthesis — note compilation date March 2026)
+- **Tags:** `#AI` `#agentic-AI` `#supply-chain-execution` `#planning` `#S&OP` `#risk` `#cybersecurity`
+
+---
+
+### Insight 2: EY Geostrategic Reset — Trade Disruptions Driving Segmented Supply Chain Models (March 2026)
+- **Source:** EY-Parthenon — *Geostrategic Analysis: March 2026 Edition* (ey.com, March 2026)
+- **Summary:** EY's March 2026 analysis identifies multiple simultaneous trade disruptions triggering what they call a "great supply chain reset." The shift: from globally optimized, single-model supply chains toward **segmented supply chain architectures** designed for agility, resilience, and sustainability. Key drivers include ongoing tariff volatility, reshoring pressure, EU defense procurement industrialization (€800B ReArm Europe), and new sourcing localization requirements (EU SAFE instrument: 65% EU-origin component rule). Geopolitical volatility expected to persist through 2026 and beyond — recommendation is to treat this as a structural condition, not a transient disruption.
+- **SC Relevance:** For Quantix and chemical carrier clients: tariff-driven reshoring of chemical production (notably petrochemical, plastics) has direct freight volume implications. Segmented models mean different carrier strategies for domestic vs. cross-border chemical flows. The structural volatility framing reinforces the case for multi-carrier/multi-modal resilience — not just cost optimization.
+- **Knowledge Tier:** Mid-frequency (research synthesis — March 2026)
+- **Tags:** `#risk-management` `#geopolitical` `#trade-disruption` `#supply-chain-resilience` `#segmented-supply-chain` `#tariffs` `#reshoring`
+
+---
+
+### Insight 3: Transloading as Strategic Lever for Bulk Liquid Cost & Flexibility (2026)
+- **Source:** Kenan Advantage Group (KAG) — *5 Reasons Why Transloading Is a Game-Changer for Bulk Liquid Transportation* (thekag.com, February 2026)
+- **Summary:** KAG (largest bulk liquid carrier in North America) published a detailed operational case for transloading in bulk liquid chemical transport. Five key benefits: (1) 10–30% long-haul cost reduction by using rail for primary haul + tanker truck for last mile; (2) flexibility to adapt to capacity swings and seasonal demand shifts without fixed route lock-in; (3) expanded market access to non-rail-served customers; (4) faster delivery cycles and improved reliability; (5) regulatory/safety compliance maintained throughout. The article frames transloading not as a workaround but as a deliberate network design strategy — particularly relevant for fuel, chemicals, and other regulated liquids at scale.
+- **SC Relevance:** Directly relevant to Quantix. As a bulk tanker carrier operating 50+ terminals, transload facility network design is a key differentiator. A 10–30% cost reduction on long-haul chemical lanes is substantial. APICS network design principle: total landed cost optimization vs. point-to-point trucking. The flexibility argument also maps to APICS supply chain agility frameworks — decoupling points and postponement.
+- **Knowledge Tier:** Mid-frequency (practitioner/operator perspective — February 2026)
+- **Tags:** `#bulk-liquid` `#transloading` `#chemical-logistics` `#network-design` `#cost-reduction` `#tanker-truck` `#KAG` `#flexibility`
+
