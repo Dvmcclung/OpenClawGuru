@@ -1344,3 +1344,39 @@ The 2026 tariff environment (10% global tariffs, Section 301 probes against Mexi
 **Knowledge Tier:** Mid-frequency (structural trend — Maritime Executive Feb 2026)
 **Tags:** chemical-logistics, bulk-transport, decarbonization, digital-collaboration, tank-cleaning, JIT, energy-transition, Quantix-relevant
 
+
+---
+
+## 2026-03-23 AM — Morning Knowledge Scan
+
+### Insight 1: AI Agent Suites Are Eliminating Manual Check Calls in Freight Visibility
+**Date:** 2026-03-23
+**Source:** Logistics Viewpoints — "Descartes Expands AI Innovation on Global Logistics Network with AI Agents for Freight Visibility" (March 19, 2026)
+**URL:** https://logisticsviewpoints.com/2026/03/19/descartes-expands-ai-innovation-on-global-logistics-network-with-ai-agents-for-freight-visibility/
+**Summary:** Descartes Systems Group launched MacroPoint OpsForce, a suite of AI agents built on its Global Logistics Network to automate freight visibility workflows. Within months of deployment: 435,000+ additional drivers connected to the GLN via 720,000+ AI-powered driver outreaches; up to 100% elimination of manual check calls for participating customers; 30% average increase in no-touch tracking automation; 1.5x productivity gains for tracking teams; and 15% faster settlement via automated POD capture. The AI agents activate on exception — guiding driver app onboarding, managing tracking gaps, and capturing documentation without dispatcher intervention.
+**SC Relevance:** Directly relevant to Quantix's carrier management and dispatch operations. With 4,500+ trucks and 50+ terminals, manual check calls represent significant labor overhead. Automated exception-based tracking (activate only when ELD/geofence data drops) is the architecture to evaluate — not replacing human judgment on exceptions but eliminating the routine follow-up labor. The 30% no-touch improvement and 1.5x team productivity gains are benchmarks for any Quantix pilot scope.
+**Knowledge Tier:** High-frequency (vendor announcement, March 2026 — specific metrics may shift)
+**Tags:** freight-visibility, AI-agents, check-calls, tracking-automation, MacroPoint, Descartes, dispatch, Quantix-relevant, GLN, TMS-integration
+
+---
+
+### Insight 2: Diesel Above $5 + Immigration Driver Crackdown Creating Dual Cost/Capacity Squeeze
+**Date:** 2026-03-23
+**Source:** Marketplace.org — "Truckers hit by high diesel prices and new restrictions on immigrant drivers" (March 17, 2026)
+**URL:** https://www.marketplace.org/story/2026/03/17/trucking-industry-hit-by-high-diesel-costs-immigration-restrictions
+**Summary:** Two simultaneous pressures are hitting U.S. trucking hard in March 2026: (1) Retail diesel prices averaging above $5/gallon — up ~$1.50/gallon from a month prior, attributed to Middle East conflict escalation. Independent owner-operators and small carriers are absorbing the spike; fleet-based shippers face increased fuel surcharge exposure. (2) Trump administration enforcement and new state-level restrictions are removing thousands of foreign-born drivers from the workforce, compounding the chronic driver shortage. FTR Transportation Intelligence warns that small carriers unable to survive the fuel spike will exit the market, tightening capacity further. DAT data separately confirms spot rates have risen for 7 consecutive months through February 2026, with C.H. Robinson upgrading its 2026 truckload outlook from 6% to 8% YoY growth.
+**SC Relevance:** Double headwind for Quantix: fuel surcharge pass-through mechanisms need to be sharp and timely. Driver workforce planning becomes critical — any reliance on immigrant CDL drivers at terminal locations warrants review now, not after a compliance event. The capacity tightening trend (7 straight months of spot rate increases + small carrier exits) supports rate firmness but also creates recruitment urgency for company-driver retention programs.
+**Knowledge Tier:** High-frequency (current market data — March 2026, highly volatile)
+**Tags:** diesel-prices, driver-shortage, fuel-surcharge, immigration-policy, capacity, spot-rates, FTR, DAT, owner-operators, Quantix-relevant, trucking-market-2026
+
+---
+
+### Insight 3: KPMG — "Total Value" Replaces Resilience as 2026 Supply Chain Strategic Imperative; SC Migrating to Global Business Services
+**Date:** 2026-03-23
+**Source:** KPMG Thailand Insights — "Key trends impacting supply chains in 2026" (January 2026)
+**URL:** https://kpmg.com/th/en/insights/2026/01/supply-chain-trends-2026.html
+**Summary:** KPMG identifies six trends for 2026 supply chain leaders. Two stand out structurally: (1) **Total Value** replaces resilience as the organizing philosophy — integrating Total Experience (customer/employee) and Total Performance (financial/operational) into a unified supply chain strategy. The lens shifts from "navigating disruption" to "enterprise-wide value maximization." (2) **Supply Chain as part of Global Business Services (GBS)** — following finance, HR, and IT, the SC function is moving under centralized GBS structures. Repeatable, transactional SC activities (planning, logistics execution, reporting) are candidates for centralization with AI/automation overlay. The GBS model enables integrated logistics control towers, standardized demand planning, and stronger risk governance at scale.
+**SC Relevance:** For Quantix, the "Total Value" framing is more than branding — it reframes how to present SC improvement proposals to PE ownership: not as cost reduction but as enterprise value creation. The GBS migration trend is less directly applicable to a carrier than to shipper clients, but the implication is clear: shipper clients will increasingly expect their 3PL/carrier partners to plug into centralized visibility and reporting stacks. Quantix should anticipate client requests for deeper TMS/API integration as GBS-managed SC functions look for clean data feeds.
+**Knowledge Tier:** Mid-frequency (strategic framework, KPMG January 2026)
+**Tags:** total-value, GBS, supply-chain-strategy, centralization, resilience, control-tower, KPMG-2026, PE-reporting, TMS-integration, Quantix-relevant
+
