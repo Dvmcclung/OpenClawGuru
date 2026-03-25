@@ -1506,3 +1506,57 @@ The 2026 tariff environment (10% global tariffs, Section 301 probes against Mexi
 - **Knowledge Tier:** Mid-frequency (Technavio market research synthesis — March 2026; CAGR projections valid for planning horizon; pricing/rate data is high-frequency)
 - **Tags:** `#chemical-tanker` `#bulk-chemical` `#fleet-investment` `#predictive-maintenance` `#voyage-optimization` `#specialty-chemicals` `#market-growth` `#asset-strategy` `#digital-fitness` `#freight-rates` `#2026-2030`
 
+
+---
+
+## 2026-03-25 — Evening Update (6 PM ET Cron)
+
+### Insight 1: Cumulative Capabilities — Why Lean/Six Sigma Outcomes Diverge
+
+**Date:** 2026-03-25
+**Source:** Harvard Business Review — "4 Capabilities that Drive Operational Improvement" (March 16, 2026)
+**URL:** https://hbr.org/2026/03/4-capabilities-that-drive-operational-improvement
+
+**Summary:**
+HBR research on why companies adopting identical Lean/Six Sigma practices produce wildly different outcomes. The finding: success depends on building *cumulative capabilities* — a deliberate sequence of interlinked competencies, each building on the prior one. Organizations that treat improvement as fragmented, standalone initiatives (project-by-project) consistently underperform versus those who sequence capability development intentionally. Bank of America and HSBC outperformed RBS and Westpac despite using the same OpEx methods. The differentiator was not the tool set — it was the capability architecture underneath.
+
+**SC Relevance:**
+Directly applicable to Quantix's CI initiatives. The implication: running isolated DMAIC projects is necessary but insufficient. The question to ask before each project is *what capability does this build toward?* For a bulk carrier, capability sequencing might look like: (1) data quality → (2) driver behavior analytics → (3) predictive maintenance → (4) autonomous dispatch optimization. Each layer enables the next. Without intentional sequencing, you accumulate project closures but not compounding capability.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — March 2026)
+**Tags:** `process-improvement` `lean-six-sigma` `capability-building` `DMAIC` `operational-excellence`
+
+---
+
+### Insight 2: Supplier Concentration Risk — The 70% Rule for A-Class SKUs
+
+**Date:** 2026-03-25
+**Source:** Spendflo — "Top 10 Global Supply Chain Risk Management Strategies In 2026" (March 2026)
+**URL:** https://www.spendflo.com/blog/supply-chain-risk-management-strategies
+
+**Summary:**
+Current synthesis of 10 risk mitigation strategies in active use across global supply chains. The most actionable specific finding: **never allocate more than 70% of an A-class SKU's volume to a single source.** This operationalizes dual/multi-sourcing in a way that's easy to audit. Broader themes include: (1) rising cyber supply chain risk requiring board-level ownership, (2) compliance requirements expanding (environmental, trade, data privacy) adding overhead to procurement, (3) growing importance of supplier performance visibility in complex vendor networks. The article frames disruptions as the new normal — Suez blockage, ransomware waves, regional manufacturing wipeouts are reference events, not outliers.
+
+**SC Relevance:**
+For Quantix, the direct analog to "A-class SKU single-source concentration" is lane or terminal concentration risk. If >70% of a critical chemical corridor volume flows through one terminal or one carrier relationship, the same logic applies. Also relevant to equipment procurement — if a single trailer OEM or parts supplier represents >70% of a critical asset category, that's a concentration risk worth flagging. The cyber angle is increasingly relevant as Quantix builds AI-in-the-loop systems — digital vulnerabilities through vendor integrations need explicit governance.
+
+**Knowledge Tier:** High-frequency (market practice synthesis — March 2026; treat as current-state snapshot)
+**Tags:** `risk-management` `supplier-risk` `dual-sourcing` `concentration-risk` `procurement` `cybersecurity`
+
+---
+
+### Insight 3: Agentic AI Moving from SC Planning to Autonomous Execution in 2026
+
+**Date:** 2026-03-25
+**Source:** Clarkston Consulting — "2026 Supply Chain Trends Report" (March 2026)
+**URL:** https://clarkstonconsulting.com/insights/2026-supply-chain-trends/
+
+**Summary:**
+Clarkston's 2026 SC trends report identifies three major shifts: (1) **Expansion of AI use cases from planning into execution** — agentic AI moving from "recommend actions for humans to approve" toward "autonomously carry out actions." Today AI enhances forecast quality and flags exceptions; in 2026, the leading edge is AI that directly revises orders, adjusts production schedules, and routes shipments without human review. (2) **Network design and optimization as the primary hedge against supply chain uncertainty** — organizations investing in scenario modeling to make their networks inherently more agile. (3) **Integrated technology stacks driving outcomes** — fragmented point solutions underperforming versus tightly integrated platform approaches. Key measurement focus: *time-to-detect* anomalies as a leading indicator of supply chain responsiveness.
+
+**SC Relevance:**
+This is the strategic direction most directly relevant to Dale's work building AI-in-the-loop automation at Quantix. The Clarkston frame validates the architecture: the transition from AI-as-advisor to AI-as-executor requires trust layers, audit trails, and governance that most organizations haven't built yet. For a bulk chemical carrier specifically, the highest-value autonomous execution candidates are dispatch optimization, load planning, and safety compliance flagging — all areas where the consequences of AI error are high enough to require phased rollout with clear human override points. The *time-to-detect* metric is immediately actionable as a KPI for Quantix's visibility infrastructure.
+
+**Knowledge Tier:** Mid-frequency (consulting synthesis — March 2026)
+**Tags:** `agentic-ai` `autonomous-execution` `supply-chain-technology` `network-design` `AI-in-the-loop` `bulk-transportation` `dispatch-optimization`
+
