@@ -1625,3 +1625,72 @@ Directly relevant to Quantix in two ways: (1) **Equipment procurement**: When Qu
 **Knowledge Tier:** Mid-frequency (industry practice synthesis — March 2026; directional shift confirmed across multiple sources)
 **Tags:** `circular-economy` `procurement` `total-value-ownership` `design-for-disassembly` `sustainability` `supplier-qualification` `equipment-procurement` `bulk-transportation`
 
+
+---
+
+## Knowledge Update — 2026-03-26 (PM Run)
+
+### Insight 1: Tariff Front-Loading Trade-offs — The Hidden Balance Sheet Cost
+
+**Date:** 2026-03-26
+**Source:** STG Logistics Survey (PRNewswire, March 23, 2026) — 500 BCO/shipper decision-makers
+**URL:** https://www.prnewswire.com/news-releases/tariffs-trigger-major-supply-chain-reset-as-companies-diversify-sourcing-and-rethink-logistics-networks-stg-survey-finds-302722345.html
+
+**Summary:**
+New STG Logistics research confirms that 2025 tariff volatility triggered a broad supply chain reset. Key findings:
+- 85.6% of BCOs front-loaded shipments to avoid new tariff duties
+- 52.3% successfully avoided higher duties through early front-loading
+- BUT: 42.3% experienced increased storage/holding costs; 43.7% reported working capital strain
+- 26.4% experienced downstream "quiet periods" as they worked through excess inventory — disrupting replenishment cycles
+- 40%+ of organizations plan further sourcing diversification in 2026
+- Actions underway: analytics investment, inventory buffer expansion, renegotiating supplier contracts to share tariff risk
+
+**SC Relevance:**
+Direct applicability to Quantix customers who are chemical shippers. Front-loading strategies create demand lumps that hit bulk carriers hard — capacity spikes followed by dead freight periods. The "quiet period" effect is essentially a demand distortion that bulk carriers need to anticipate and contractually hedge. This also validates the shift toward multi-supplier, regional network redesign as the new risk standard.
+
+**APICS/LSS Frame:** Supply chain risk management — demand distortion (Bullwhip Effect derivative); SCRM node concentration risk
+
+**Knowledge Tier:** High-frequency (current market data — treat as volatile, validate quarterly)
+**Tags:** #risk-management #tariffs #demand-volatility #sourcing-strategy #bulk-carrier #inventory-buffers
+
+---
+
+### Insight 2: Agentic AI in Supply Chain Execution — 2026 Inflection Point
+
+**Date:** 2026-03-26
+**Source:** Clarkston Consulting — 2026 Supply Chain Trends Report
+**URL:** https://clarkstonconsulting.com/insights/2026-supply-chain-trends/
+
+**Summary:**
+Clarkston's 2026 SC trends report identifies three macro themes: (1) AI expansion beyond planning into execution, (2) network design/optimization as the primary tool for managing uncertainty, and (3) integrated technology as the execution backbone. The standout: agentic AI is moving from planning assist (forecast improvement, exception flagging) toward autonomous execution with minimal human intervention — "touchless planning" in CPG/logistics contexts. Advanced planning tools are now embedding AI to surface only true exceptions, reducing planner cognitive load. Organizations are shifting from "AI deployment for hype" to "AI use cases with proven ROI."
+
+**SC Relevance:**
+For Quantix, this accelerates the case for AI-in-the-loop dispatch and load optimization. The shift from exception-based human review to autonomous execution is the same architecture Dale is building. The network design emphasis also reinforces terminal footprint strategy as a risk management lever — not just a cost optimization play.
+
+**APICS/LSS Frame:** S&OP execution, CPIM Planning & Execution module; Lean — reducing waste in decision cycles
+
+**Knowledge Tier:** Mid-frequency (research synthesis — Clarkston annual report, check annually)
+**Tags:** #agentic-AI #supply-chain-tech #autonomous-execution #network-design #S&OP #Quantix-strategy
+
+---
+
+### Insight 3: FMCSA/PHMSA Double-Hit Compliance — March 23, 2026 Tank Fleet Deadline
+
+**Date:** 2026-03-26
+**Source:** Tank Transport Trader, March 23, 2026
+**URL:** https://tanktransport.com/2026/03/tank-fleet-compliance-march23/
+
+**Summary:**
+March 23, 2026 marked a significant regulatory convergence for tank fleets:
+1. **FMCSA rules effective**: eDVIR (electronic Driver Vehicle Inspection Report) language formalized in 49 CFR 396.11; rewritten liquid fuel tank overfill provision in 49 CFR 393.67; new auxiliary pump exception; warning-device cleanup for liquid-burning flares on fuel units
+2. **PHMSA preemption docket closes**: Exxon Mobil gasoline cargo-tank preemption case — outcome could reshape shipping papers, marking requirements, and hazmat employee training records for gasoline CTMV operations
+3. **PHMSA HM-265** (effective Feb 13, 2026): Eliminated unnecessary fuel-transport regulatory burdens — annualized savings estimated at $145.3M while maintaining safety. Many fleets already adjusting to this before the March 23 deadline.
+
+**SC Relevance:**
+Directly relevant to Quantix liquid bulk operations. eDVIR mandate impacts driver documentation workflows. The PHMSA preemption case outcome could affect how Quantix structures hazmat training records and shipping papers for chemical/fuel cargo. HM-265 cost savings are real — fleet compliance and safety teams need to audit current procedures against both the February and March rule packages.
+
+**APICS/LSS Frame:** Supply chain risk — regulatory compliance; DMAIC Control phase (sustaining compliance standards); 5S applied to documentation
+
+**Knowledge Tier:** High-frequency (regulatory — verify against final FMCSA/PHMSA rule text; volatile until preemption case resolves)
+**Tags:** #regulatory #FMCSA #PHMSA #tank-fleet #compliance #hazmat #liquid-bulk #Quantix-ops #eDVIR
+
