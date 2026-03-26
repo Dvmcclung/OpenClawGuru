@@ -1560,3 +1560,68 @@ This is the strategic direction most directly relevant to Dale's work building A
 **Knowledge Tier:** Mid-frequency (consulting synthesis — March 2026)
 **Tags:** `agentic-ai` `autonomous-execution` `supply-chain-technology` `network-design` `AI-in-the-loop` `bulk-transportation` `dispatch-optimization`
 
+
+---
+
+## 2026-03-26 AM — Morning Knowledge Scan
+
+### Insight 1: Aurora Innovation Expands Driverless Trucking to 10 Routes — 1,000-Mile Interstate Runs Operational
+
+**Date:** 2026-03-26
+**Source:** Heavy Duty Trucking / Trucking Info — "Aurora Adds 1,000-Mile Driverless Run from Fort Worth to Phoenix" (March 2026); NYT — "Driverless Big Rigs Are Coming to American Highways, and Soon" (March 17, 2026)
+**URL:** https://www.truckinginfo.com/news/aurora-adds-1000-mile-driverless-run-from-fort-worth-to-phoenix
+
+**Summary:**
+Aurora Innovation has tripled its driverless trucking network to 10 active commercial routes across the Sun Belt, including a new ~1,000-mile Fort Worth–Phoenix corridor that exceeds federal hours-of-service limits for a single human driver. Key data points:
+- **250,000+ driverless miles** accumulated as of January 2026 with zero Aurora Driver-attributed collisions
+- Aurora is running routes between Dallas–Houston, Fort Worth–El Paso, El Paso–Phoenix, Fort Worth–Phoenix, and Dallas–Laredo
+- Target: **200+ driverless trucks on the road by end of 2026**
+- Q2 2026: Next-gen hardware kit on International LT Series launching *without* a ride observer on board — full unattended autonomous operation
+- Driver salary = ~26% of per-mile operating cost; eliminating HOS constraints means higher equipment utilization and faster door-to-door transit
+- Competitors Aurora, Kodiak, and Waabi all deploying commercially in Texas and Arizona in 2026
+- Mass production of the Aurora Driver hardware platform planned to begin 2027
+
+**SC Relevance:**
+This is a direct competitive and operational development for Quantix. The Sun Belt autonomous trucking corridors overlap with key Quantix terminal regions (Texas, Southwest). For a bulk carrier running 4,500+ trucks OTR, the implications are multi-dimensional:
+1. **Labor cost disruption**: If autonomous trucking proves viable for dry van freight on TX–AZ corridors, pressure will move toward bulk. The timeline is longer for bulk (tank/pneumatic equipment complexity, hazmat regulatory overlay), but the directional force is clear.
+2. **Asset utilization benchmark**: Aurora's ability to run 1,000-mile corridors without HOS breaks sets a new benchmark for transit time expectations. Shippers will begin benchmarking conventional carrier transit times against autonomous truck capability.
+3. **Competitive intelligence**: Quantix should monitor whether chemical/bulk-specialized autonomous players (like Gatik or sector-adjacent entrants) begin targeting the plastic pellet and liquid bulk segment.
+4. **Near-term irrelevance for Quantix's core**: Bulk chemical and plastic pellet hauling involves specialized loading/unloading, hazmat compliance, and customer-site procedures that autonomous trucks cannot yet handle. This is a 5–10 year horizon risk, not immediate.
+
+**Knowledge Tier:** High-frequency (current market development — March 2026; directionally stable but pace of deployment volatile)
+**Tags:** `autonomous-trucking` `transportation-technology` `driver-shortage` `asset-utilization` `competitive-intelligence` `bulk-transportation` `hours-of-service` `Aurora`
+
+---
+
+### Insight 2: AI in Supply Chain Moving from "Proof of Value" to Embedded Platform Intelligence in 2026
+
+**Date:** 2026-03-26
+**Source:** KPMG — "Key Trends Impacting Supply Chains in 2026" (January 2026)
+**URL:** https://kpmg.com/th/en/insights/2026/01/supply-chain-trends-2026.html
+
+**Summary:**
+KPMG's 2026 SC outlook identifies six dominant trends. The most material: (1) **AI scaling beyond proof of value** — supply chains moving from standalone AI pilots toward AI embedded in Source-to-Pay platforms, planning tools, and risk management systems. The leading edge is "Connected Intelligence" — an enterprise-wide AI layer linking supply chain, procurement, finance, ESG, HR, and CRM into an intelligent, autonomous ecosystem. (2) **Supply Chain centralization under Global Business Services (GBS)** — mirroring what happened with finance, HR, and IT: supply chain's high volume of repeatable transactional activities makes it the next function to centralize, with integrated logistics control towers and standardized planning as the target state. (3) **"Total Value" as the strategic frame** — top supply chain operations shifting beyond resilience toward enterprise-wide value maximization, integrating Total Experience and Total Performance. (4) **Agentic procurement** — procurement increasingly powered by AI agents that can execute, not just recommend.
+
+**SC Relevance:**
+For Dale's work building AI-in-the-loop systems at Quantix, the KPMG framing provides a useful maturity ladder: the industry is at the transition point between "AI as a pilot" and "AI embedded in platforms." For a 4,500-truck bulk carrier, "Connected Intelligence" means connecting dispatch, load planning, terminal operations, compliance, and billing into a unified AI-readable data layer — the prerequisite for any autonomous execution. The GBS centralization trend is relevant for how Quantix might structure its operations function as it scales — standardized planning processes and integrated logistics control towers are the right architectural target. The shift to "Total Value" framing provides a useful executive narrative when building internal buy-in for AI investment.
+
+**Knowledge Tier:** Mid-frequency (consulting/advisory synthesis — January 2026; framework content stable, specific predictions volatile)
+**Tags:** `AI-in-supply-chain` `connected-intelligence` `agentic-procurement` `supply-chain-technology` `platform-strategy` `GBS-centralization` `total-value` `KPMG`
+
+---
+
+### Insight 3: Circular Economy Principles Becoming Procurement Table Stakes — "Design for Disassembly" as Supplier Qualification Criterion
+
+**Date:** 2026-03-26
+**Source:** ISM — "Supply Chain Roundtable: A Supreme Court Ruling and Middle East Conflict" (March 2026); Circular Economy Alliance — "Sustainability in the Supply Chain: The Circular Advantage" (March 2026)
+**URL:** https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-03/supply-chain-roundtable-a-court-ruling-and-conflict-in-the-middle-east/
+
+**Summary:**
+ISM's March 2026 supply chain roundtable identifies a structural shift in procurement practices: **design for circularity is moving from innovative to table stakes**. Products that cannot be disassembled for material recovery are increasingly being treated as future liabilities — not just environmental concerns but balance sheet risks (stranded assets, end-of-life disposal costs, regulatory exposure). Key shift: leading procurement organizations are replacing **Total Cost of Ownership (TCO) with Total Value of Ownership (TVO)** — incorporating circularity, repairability, and recyclability into supplier qualification criteria. Digital twins are being deployed to simulate circular interventions before physical implementation. The Circular Economy Alliance notes that in 2026, procurement officers are selecting suppliers based on ability to provide modular, repairable, and recyclable components as a core capability requirement.
+
+**SC Relevance:**
+Directly relevant to Quantix in two ways: (1) **Equipment procurement**: When Quantix evaluates tractors, trailers, and tanker equipment, the TVO framework means factoring in end-of-life value recovery, parts replaceability, and OEM support for remanufactured components — not just acquisition price. (2) **Customer supply chain alignment**: Quantix's customers in the chemical and plastics sectors are under growing pressure to demonstrate circular supply chain practices. A carrier that understands and can articulate circular logistics principles (reverse logistics, container/tote recirculation, waste minimization) has a differentiation opportunity in customer conversations. The "design for disassembly" criterion is currently most material for discrete manufacturing procurement — less immediate for a bulk carrier — but the TVO shift in how procurement evaluates suppliers is highly relevant for Quantix's own sourcing decisions.
+
+**Knowledge Tier:** Mid-frequency (industry practice synthesis — March 2026; directional shift confirmed across multiple sources)
+**Tags:** `circular-economy` `procurement` `total-value-ownership` `design-for-disassembly` `sustainability` `supplier-qualification` `equipment-procurement` `bulk-transportation`
+
