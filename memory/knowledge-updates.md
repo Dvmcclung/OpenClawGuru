@@ -1759,3 +1759,63 @@ Datatruck's **TruckGPT** — billed as the first AI-native TMS for carriers and 
 
 **Tags:** #TMS #AI-native #document-intelligence #BOL #POD #back-office-automation #Datatruck #TruckGPT #Quantix-ops #carrier-tech
 
+
+---
+
+## 2026-03-27 (PM) — Knowledge Update
+
+### Insight 1: Four Capabilities That Separate Operational Excellence Performers
+
+**Date:** 2026-03-27
+**Source:** Harvard Business Review, March 16, 2026 — "4 Capabilities that Drive Operational Improvement"
+**URL:** https://hbr.org/2026/03/4-capabilities-that-drive-operational-improvement
+
+**Summary:**
+HBR research examines why companies that adopt identical Lean/Six Sigma/OpEx practices (e.g., multiple major banks all implementing LSS) achieve wildly divergent outcomes. The finding: it's not *which* methodology you use — it's the four underlying organizational capabilities you build around it. Companies like Bank of America and HSBC that gained market share invested in: (1) leadership commitment beyond sponsorship into active problem-solving, (2) capability infrastructure that embeds improvement skills at the front line, (3) management systems that make performance visible and drive daily accountability, and (4) a mindset of continuous learning vs. one-time project completion. Companies that plateaued (RBS, Westpac) ran fragmented, standalone, short-term improvement cycles without building these foundations.
+
+**SC Relevance:**
+High. Directly applicable to Quantix and any bulk carrier attempting process improvement. The pattern — same methodology, different results — is exactly what separates carriers that use DMAIC as a project tool vs. those who build it into operational DNA. For Quantix: safety, on-time performance, and terminal efficiency improvement programs will stall without the management system and accountability infrastructure. This is the APICS "Execution" layer — strategy deployment without management cadence = drift.
+
+**Knowledge Tier:** Mid-frequency (research synthesis, March 2026)
+**APICS/LSS Frame:** LSS — DMAIC sustainability; APICS — Execution and Control; Organizational capability vs. tool adoption
+
+**Tags:** #lean-six-sigma #operational-excellence #DMAIC-sustainability #change-management #management-systems #capability-building #HBR #process-improvement
+
+---
+
+### Insight 2: Tariff Volatility Is Driving Structural Supply Chain Regionalization (2026)
+
+**Date:** 2026-03-27
+**Source:** KPMG — "2026 Trade Outlook: A Herculean Effort"; SupplyChainBrain — "2026 Supply Chain Checklist"; Yahoo Finance / Reuters risk management coverage
+**URLs:** https://kpmg.com/us/en/articles/2026/global-trade-outlook-2026.html | https://www.supplychainbrain.com/articles/43660-2026-supply-chain-checklist-how-to-prepare-for-tariffs-ai-and-geopolitical-uncertainty
+
+**Summary:**
+The US effective tariff rate peaked at ~13% in early 2026 — more than 4x the rate at the start of 2025, even after deals, exemptions, and mitigation strategies. Companies that survived without crisis are those that post-COVID invested in supply chain control towers, supplier-risk monitoring, and scenario planning. KPMG identifies key mitigation levers: Foreign Trade Zones (FTZ), duty drawback programs, and first-sale-for-export customs valuation. "Cascading protectionism" is a new risk dynamic: once some industries get tariff protection, others lobby for the same, making the tariff environment self-reinforcing and durable. Geoeconomic confrontation (trade as a weapon, US-Iran conflict) is accelerating onshoring/nearshoring as a structural shift, not a cycle. McKinsey notes footprint strategy is now a CEO-level decision — no longer delegated to operations.
+
+**SC Relevance:**
+Medium-high for Quantix. Quantix is a domestic carrier but the tariff environment affects the chemical and plastic resin manufacturing clients it serves. If petrochemical producers shift sourcing or production footprint in response to tariffs, lane volumes, terminal utilization, and freight demand patterns will shift. Risk management implication: build scenario plans for client production footprint changes. Also: FTZ and nearshoring expansion = potential new terminal location opportunities near new manufacturing clusters.
+
+**Knowledge Tier:** High-frequency (current events / market data — volatile, verify before citing)
+**APICS/LSS Frame:** APICS — Supply Chain Risk Management, Network Design, Strategic Sourcing; CSCP — Global Supply Chain trade compliance
+
+**Tags:** #tariffs #geopolitical-risk #supply-chain-risk #reshoring #nearshoring #FTZ #trade-compliance #KPMG #2026-trends #petrochemical-clients #network-design
+
+---
+
+### Insight 3: Chemical Logistics — Documentation Failure Is the #1 Root Cause of Compliance Incidents
+
+**Date:** 2026-03-27
+**Source:** Porter Logistics — "Chemical Transportation and Warehousing: Overcoming Common Challenges" (published March 26, 2026)
+**URL:** https://www.porter-logistics.com/blog/chemical-transportation-warehousing-overcoming-common-challenges
+
+**Summary:**
+Analysis of recurring failure modes in chemical logistics identifies documentation misalignment as the primary initiating cause: product classification errors, shipping description mismatches, Safety Data Sheet (SDS) gaps, labeling discrepancies, and shipping paper errors cascade into rejected loads, transfer point delays, fines, and downstream supply chain disruption. The EPA has specifically warned chemical warehouse/distribution facilities about improper storage, inadequate planning, and incomplete container accounting. PHMSA (DOT) governs hazmat movement; OSHA warehousing standards govern storage. The practical test for a logistics partner isn't whether they hold certifications — it's whether they can execute under those rules *consistently* day-to-day. Most chemical logistics problems are preventable at the documentation stage, upstream of any physical handling.
+
+**SC Relevance:**
+Very high for Quantix. As a bulk chemical carrier operating under DOT/PHMSA, this is core operational risk. The insight generalizes: compliance failures in chemical logistics trace overwhelmingly to process breakdown at the documentation/classification stage — not equipment failure. From a DMAIC lens, this is a Define/Measure problem: the process must be instrumented to catch classification and documentation errors before tender acceptance, not after a load is rejected at a terminal. For Quantix driver/dispatch workflows, this is an argument for building SDS verification and shipping paper matching into the load acceptance process.
+
+**Knowledge Tier:** Mid-frequency (practitioner applied research, March 2026)
+**APICS/LSS Frame:** LSS — Root Cause Analysis (Fishbone/5-Why), Error-Proofing (Poka-Yoke), Define/Measure phases; APICS — Transportation Compliance, Hazmat Management
+
+**Tags:** #chemical-logistics #PHMSA #DOT-compliance #hazmat #SDS #documentation #error-proofing #poka-yoke #DMAIC #Quantix-ops #bulk-chemical #load-acceptance
+
