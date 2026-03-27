@@ -1694,3 +1694,68 @@ Directly relevant to Quantix liquid bulk operations. eDVIR mandate impacts drive
 **Knowledge Tier:** High-frequency (regulatory — verify against final FMCSA/PHMSA rule text; volatile until preemption case resolves)
 **Tags:** #regulatory #FMCSA #PHMSA #tank-fleet #compliance #hazmat #liquid-bulk #Quantix-ops #eDVIR
 
+
+---
+
+## 2026-03-27 AM — Morning Knowledge Scan
+
+### Insight 1: "Supply Chain 2.0" — Agentic AI + Physical AI Now Operationally Viable
+
+**Source:** Microsoft Industry Blog — "Supply Chain 2.0: How Microsoft is powering simulations, AI agents, and physical AI" (March 24, 2026)
+**Knowledge Tier:** Mid-frequency (vendor research / practitioner case studies — verify via independent benchmarks before adopting specific claims)
+
+Microsoft's latest supply chain perspective marks a meaningful inflection: the shift from generative AI (copilot-style) to **agentic AI** — systems capable of reasoning, planning, and taking autonomous action across complex multi-step workflows. Key developments:
+
+- **Agentic orchestration at scale:** AI agents now connect natively to enterprise systems via Model Context Protocol (MCP) and Azure AI Foundry — enabling cross-system action without human hand-offs. Microsoft reports multi-million-euro productivity gains at a global pharma company using agentic returns management.
+- **Physical AI is emerging:** NVIDIA Cosmos models + OSMO edge/cloud framework enable humanoid robots and automated systems to act more reliably in physical environments. Warehouses, DCs, and transport hubs are the primary targets.
+- **3D simulation before deployment:** Digital twins + physics-accurate simulation allow supply chain teams to test disruption scenarios and automation designs before capital commitment — reducing implementation risk.
+
+**Application for Quantix:** The agentic paradigm — not just AI-assisted but AI-acting — is where the freight and logistics industry is heading. For a 4,500-truck operation, the near-term value is in agent-orchestrated dispatch, load matching, and exception management (not humanoid robots). The MCP standard is worth watching; it enables AI agents to connect across disparate systems (TMS, ERP, fleet telematics) without custom integration work.
+
+**APICS/LSS Frame:** Supply chain visibility; S&OP digital enablement; DMAIC Improve phase (automation of non-value-added manual steps); control tower architecture
+
+**Tags:** #AI-agents #agentic-AI #physical-AI #digital-twin #supply-chain-tech #Microsoft #automation #Quantix-ops
+
+---
+
+### Insight 2: Freight Recession Ending — ATA Truck Tonnage Hits 3-Year High in February 2026
+
+**Source:** Transport Topics / ATA For-Hire Truck Tonnage Index (March 26, 2026); ATA Chief Economist Bob Costello
+**Knowledge Tier:** High-frequency (market data — current but volatile; verify monthly)
+
+The ATA For-Hire Truck Tonnage Index rose to its **highest level in three years** in February 2026:
+
+- **+2.6% sequential** (Feb vs. Jan): Index reading 116.2 vs. 113.3
+- **+2.1% year-over-year** — the largest YoY gain since October 2022
+- **+1.4% YTD** through February vs. same period 2025
+- **Logistics Managers' Index:** +1.9 points to 61.5 in February (readings above 50 = expansion)
+
+Critical nuance from ATA's Bob Costello: *"The size of the gain is likely magnified due to lower industry capacity."* Capacity has been contracting — Yellow Corp. collapse (Aug 2023), delayed equipment purchases, carrier exits — meaning higher tonnage indices are partly a capacity story, not purely demand recovery. **Data center-related industrial and construction freight is outperforming consumer sectors.**
+
+CH Robinson had already revised 2026 truckload volume outlook from +6% to approximately **+8% YoY**.
+
+**Application for Quantix:** Tightening capacity + recovering volumes = improving rate environment for asset-based carriers. For a bulk fleet of 4,500 units, this is a tailwind. Watch: data center construction freight as a potential dry bulk opportunity (sand, aggregate, building materials). Capacity discipline is the lever — don't overbuild while the signal is still ambiguous.
+
+**APICS/LSS Frame:** Supply chain risk — market cycle awareness; capacity planning; S&OP demand signal calibration; theory of constraints (capacity = bottleneck)
+
+**Tags:** #freight-market #trucking #ATA-tonnage #capacity #freight-recession-end #truckload-rates #Quantix-fleet #market-signal
+
+---
+
+### Insight 3: AI-Native TMS "TruckGPT" — Document Intelligence Eliminating Manual BOL/POD Entry
+
+**Source:** Datatruck Press Release via GlobeNewswire (March 26, 2026); CEO Shah Rahmanov
+**Knowledge Tier:** High-frequency (vendor announcement — directionally valid; validate capability claims via demo/pilot)
+
+Datatruck's **TruckGPT** — billed as the first AI-native TMS for carriers and freight brokers — announced a major update that eliminates manual document entry from core freight workflows:
+
+- **Document intelligence:** Auto-reads, extracts, and populates data from rate confirmations, BOLs, and PODs in seconds. New interface gives dispatchers direct visibility into matched/parsed fields with discrepancy flagging before accounting or factoring.
+- **AI Dispatcher:** Simultaneously scans DAT, Truckstop, 123LoadBoard, Uber Freight, Parade, and 400+ private load boards — validates brokers in real time and books freight back into TMS without dispatcher intervention. Claims: **40% faster freight booking.**
+- **Architecture:** AI-native (not bolted onto legacy TMS) — this is the differentiator. The design philosophy matches where APICS digital transformation frameworks point: automation at the transaction layer, not layered on top of manual processes.
+
+**Application for Quantix:** Quantix's back-office load documentation (BOL, POD, hazmat papers) is a known friction point in bulk chemical operations. An AI-native document intelligence layer that reduces manual entry and flags discrepancies before they hit accounting is directly applicable — especially given the regulatory documentation burden on liquid bulk/ISO tank freight. Worth evaluating whether TruckGPT or similar tooling integrates with current TMS. Also flags the broader trend: standalone AI-native TMS platforms are challenging legacy incumbents (McLeod, TMW/Trimble) on agility.
+
+**APICS/LSS Frame:** Lean — waste elimination (motion, waiting, defects in paperwork); DMAIC Improve (automation of NVA steps); supply chain digitization; procurement/vendor evaluation criteria
+
+**Tags:** #TMS #AI-native #document-intelligence #BOL #POD #back-office-automation #Datatruck #TruckGPT #Quantix-ops #carrier-tech
+
