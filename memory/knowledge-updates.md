@@ -1819,3 +1819,81 @@ Very high for Quantix. As a bulk chemical carrier operating under DOT/PHMSA, thi
 
 **Tags:** #chemical-logistics #PHMSA #DOT-compliance #hazmat #SDS #documentation #error-proofing #poka-yoke #DMAIC #Quantix-ops #bulk-chemical #load-acceptance
 
+
+---
+
+## 2026-03-30 AM — Morning Knowledge Scan
+
+### Insight 1: AI Crosses the Line from Experiment to Operational Core — RELEX State of Supply Chain 2026
+**Source:** RELEX Solutions — *State of Supply Chain 2026: Volatility, Trade-Offs & the Rise of AI* (March 2026)
+**Knowledge Tier:** High-frequency (industry research, March 2026 — reflects current adoption rates, treat as current signal)
+
+RELEX's 2026 survey of retail and manufacturing leaders marks a clear inflection point: AI has moved from pilot programs into mainstream supply chain decision support.
+
+Key data points:
+- **67%** of leaders say their confidence in AI for SC decisions has *increased* vs. last year
+- **54%** prefer AI to make recommendations while humans finalize — the "human-in-the-loop" model is dominant
+- Only **10%** trust AI for fully autonomous supply chain decisions (the "dark warehouse" fantasy remains just that)
+- **47%** are using or planning AI-driven inventory and supply optimization
+- **41%** applying AI to logistics and routing
+- **71%** plan to invest in generative and agentic AI over the next 3–5 years
+- **44%** cite consumer demand volatility as their top 3-year challenge
+- **63%** say sustainability has shifted from aspiration to operational constraint
+
+The manufacturing-specific finding is critical: **57% say raw material procurement disruption is their most impacted area**, and AI is being applied to connect demand signals directly to procurement — closing the traditional gap between planning and sourcing.
+
+**SC Relevance for Quantix:** The "AI as recommendation engine, human finalizes" model maps well to Quantix's load planning and capacity allocation decisions. The statistic that 63% now treat sustainability as an *operational constraint* (not an aspiration) signals that customer pressure on Quantix's emissions reporting is coming faster than most carriers expect. Also noteworthy: AI-driven routing and logistics (41% adoption) is directly applicable to Quantix's terminal network optimization.
+
+**APICS/LSS Frame:** APICS — Demand Management, S&OP; AI-driven forecasting as a technology-enabled capability in the Planning and Control tier. LSS — Reduce variation through better demand signal fidelity.
+
+**Tags:** #AI #demand-forecasting #inventory-optimization #agentic-AI #supply-chain-planning #sustainability #S&OP #procurement #volatility #Quantix-strategy
+
+---
+
+### Insight 2: Tariffs, Nearshoring, and Geopolitical Turbulence Reshape North American Trucking in 2026
+**Source:** Service Truck Magazine — *"Nearshoring, tariffs, and geopolitical shocks reshape North America's trucking outlook for 2026"* (March 26, 2026)
+**Knowledge Tier:** High-frequency (current market analysis — volatile, treat as directional not definitive)
+
+Industry analysts are characterizing 2026 as a **"stabilization year with structural turbulence."** Freight demand is expected to improve slightly, but the structural environment has changed materially:
+
+**Tariff Impact Mechanism (3 vectors):**
+1. Higher import costs → fewer shipments → fewer inland truck moves
+2. Cross-border (US-Canada / US-Mexico) volume compression in tariff-affected categories
+3. Consumer pullback from higher retail prices → retailers order less → fewer truckloads
+
+**Geopolitical vectors:**
+- Red Sea corridor disruptions lengthening routes, raising landed costs and reducing import volumes
+- Eastern Europe/Middle East instability keeping diesel supply tight and prices volatile
+- Manufacturers dependent on imported components facing unpredictable lead times → production slowdowns → fewer outbound loads
+
+**Net trucking effect:** Carriers endured 2 years of soft volumes + elevated operating costs. 2026 brings modest relief but *not a full rebound*. Diesel and parts inflation remain "stubbornly high" even as general inflation cools.
+
+**SC Relevance for Quantix:** This is directly material. Bulk chemical carriers are exposed on two fronts: (1) petrochemical and plastic pellet customers whose supply chains are affected by tariff-driven import substitution and nearshoring shifts; (2) diesel cost volatility squeezing per-mile margins. The nearshoring trend is actually a *positive signal* for Quantix — more domestic chemical production means more domestic bulk truck demand. Carriers that can reposition capacity toward nearshored corridors (Texas Gulf Coast → Midwest, Southeast) should benefit.
+
+**APICS/LSS Frame:** APICS — Transportation and Distribution Management, Supply Chain Risk Management; environmental scanning (PEST analysis). LSS — Identify sources of variation in cost and demand; fuel as an uncontrolled input variable.
+
+**Tags:** #tariffs #nearshoring #freight-market #trucking #diesel #geopolitical-risk #bulk-chemical #Quantix-market #supply-chain-risk #cross-border #capacity #2026-outlook
+
+---
+
+### Insight 3: Intermodal Rate Differential Creates Strategic Window — Act Before Q2 Truckload Spike
+**Source:** C.H. Robinson — *North America Freight Market Update: Intermodal, March 2026* (March 2026)
+**Knowledge Tier:** High-frequency (current market data — use immediately, reassess quarterly)
+
+C.H. Robinson's March 2026 intermodal market update signals a widening cost differential between rail and truckload that is creating a near-term strategic window for shippers:
+
+Key data:
+- Domestic intermodal units down **3.25%** through first 5 weeks of 2026 (y/y comps distorted by 2025 tariff frontloading)
+- **Truckload markets projected to see high-single-digit rate increases as early as Q2 2026**
+- Rail pricing expected to rise at **low-single-digit pace** — widening the cost gap
+- Renewed interest in intermodal for **550–1,500 mile lanes** (previously shifted to TL due to low rates)
+- Shippers entering bid renewals should anticipate more balanced (tighter) market in Q3/Q4
+
+The argument: lock in rail pricing *now*, before truckload rates jump and rail follows. The 550–1,500 mile "sweet spot" is expanding, which historically represents a structural shift — not just a spot rate blip.
+
+**SC Relevance for Quantix:** Bulk chemicals and plastic pellets are generally not intermodal-friendly (tank cars and bulk hoppers move via rail, but the *truck-to-rail substitution* discussion is relevant for competitive positioning). More importantly: Quantix's shipper customers may shift some freight to rail in the 550–1,500 mile range, which could reduce tendered load volumes in those corridors. Monitoring for lane-level volume erosion in mid-haul lanes (e.g., Gulf Coast → Midwest) before Q2 is a proactive risk management move. Conversely, if Quantix has intermodal drayage capabilities, the tightening truckload market creates rate recovery opportunity.
+
+**APICS/LSS Frame:** APICS — Transportation mode selection, network optimization, modal trade-off analysis. LSS — Control chart thinking: rates are moving out of normal variation range in Q2; time to act, not wait.
+
+**Tags:** #intermodal #truckload-rates #freight-market #modal-shift #rail #rate-recovery #Q2-2026 #network-optimization #drayage #Quantix-competitive #C.H.Robinson
+
