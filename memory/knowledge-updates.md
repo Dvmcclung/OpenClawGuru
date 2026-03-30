@@ -1897,3 +1897,39 @@ The argument: lock in rail pricing *now*, before truckload rates jump and rail f
 
 **Tags:** #intermodal #truckload-rates #freight-market #modal-shift #rail #rate-recovery #Q2-2026 #network-optimization #drayage #Quantix-competitive #C.H.Robinson
 
+
+---
+
+## Knowledge Update — 2026-03-30 (Evening Cron, 4:01 PM ET)
+
+### Insight 1: Sub-Tier Supplier Visibility is the New Tariff Defense Imperative
+**Date:** March 30, 2026
+**Source:** Ivalua Blog — "How Tariffs and Trade Policy Shifts Impact Procurement and Supply Chains in 2026" (citing Thomson Reuters Global Trade Report 2026)
+**URL:** https://www.ivalua.com/blog/how-tariffs-impact-procurement-and-supply-chains/
+**Summary:** With escalating tariffs on goods from China and other regions, the single greatest blind spot for procurement teams is sub-tier supplier dependency. Surface-level supplier mapping is insufficient — disruptions now cascade from Tier 2/3 upstream, where tariff exposure often hides. Best practice: Supplier Information Management (SIM) systems that map sub-tier relationships, paired with AI-driven risk monitoring and scenario/what-if planning tools. Industry data shows 28% of companies building strategic stockpiles while 27% pursue leaner models — a bifurcation driven by risk tolerance rather than best practice consensus.
+**SC Relevance (Quantix):** Quantix is a carrier, not an importer, but its chemical shipper customers face exactly this pressure. Understanding their supply risk posture helps anticipate volume volatility — shippers building buffers = more freight; shippers cutting to lean = less spot exposure. Also directly relevant to Quantix's own procurement of tractors/trailers, parts, and fuel contracts where tariff pass-through risk is real.
+**Knowledge Tier:** Mid-frequency (research synthesis, 2026 data — note compilation date)
+**Tags:** risk-management, tariffs, sub-tier-visibility, procurement, supplier-management, scenario-planning
+
+---
+
+### Insight 2: BWM-VIKOR Multi-Criteria Framework Identifies Dual Sourcing + Supplier Prequalification as Top Chemical Supply Chain Disruption Mitigation
+**Date:** March 30, 2026
+**Source:** Scientific Reports — "Water treatment chemical supply chain disruption risk assessment and mitigation strategy ranking using BWM–VIKOR" (Published March 24, 2026, Shanghai Yangshupu Water Plant case study)
+**URL:** https://www.nature.com/articles/s41598-026-45086-z
+**Summary:** Peer-reviewed MCDM study applying Best-Worst Method (BWM) for criteria weighting + VIKOR for alternative ranking to prioritize chemical supply chain disruption mitigation strategies. Key findings: Compliance/public health (0.26) and service continuity (0.18) dominate decision priorities (44% combined weight). Under baseline conditions, **dual sourcing** and **supplier prequalification** achieve the best compromise performance. However, **safety stock + reorder redesign** minimizes worst-case regret — making it the preferred hedge under prolonged logistics disruptions. QA/QC strengthening rises to top rank under quality failure scenarios. Framework is scenario-dependent: no single strategy dominates across all disruption types.
+**SC Relevance (Quantix):** Directly applicable to Quantix's chemical shipper customers. The finding that no single mitigation dominates — and that safety stock beats dual sourcing under prolonged logistics stress — is a key message for Quantix S&OP conversations with shipper partners. Also reinforces the APICS principle of tiered risk response: match the strategy to the disruption profile, not a blanket policy.
+**Knowledge Tier:** DC Tier (peer-reviewed framework, cite directly; application data is case-specific)
+**Tags:** risk-management, chemical-supply-chain, MCDM, dual-sourcing, safety-stock, supplier-qualification, disruption-mitigation, bulk-chemical
+
+---
+
+### Insight 3: 2026 Trucking Industry — Utilization Over Growth, Retention Over Recruitment
+**Date:** March 30, 2026
+**Source:** NATSA — "Trucking Industry Outlook for 2026: Navigating New Frontiers & Headwinds" (North American Transportation Services Association, September 2025)
+**URL:** https://mynatsa.org/trucking-industry-outlook-for-2026-navigating-new-frontiers-headwinds/
+**Summary:** The 2026 trucking industry consensus (NATSA, TruckX, TransForce, AutoSist) converges on three themes: (1) **Utilization over expansion** — fleets are throttling back new truck orders in favor of replacing aged assets; overcapacity should correct slowly. (2) **Data-driven fleet management is now table stakes** — telematics, TMS, route optimization, and maintenance analytics are the tools separating efficient carriers from marginal ones. (3) **Driver retention > driver recruitment** — with high turnover costs (training, onboarding, licensing) and a shrinking qualified driver pool, fleets with better pay, predictable schedules, and career development programs are outperforming on reliability and cost. Tariff impacts on truck/parts costs are squeezing margins for carriers who can't pass through rate increases.
+**SC Relevance (Quantix):** Extremely high relevance. 4,500+ trucks and 50+ terminals — Quantix is squarely in this environment. Key takeaways: (a) Don't chase fleet growth in a soft freight market; focus on asset utilization metrics per terminal. (b) Invest in telematics and TMS to drive per-truck efficiency gains. (c) Model the true cost of driver turnover — if not already done, a DMAIC project on driver retention ROI could surface a significant cost reduction opportunity. Bulk/chemical specialty drivers are harder to replace than general freight; turnover cost is disproportionately high.
+**Knowledge Tier:** Mid-frequency (industry association outlook, published Sept 2025 — note compilation date)
+**Tags:** bulk-carrier, fleet-management, driver-retention, utilization, telematics, trucking-2026, process-improvement, operational-efficiency
+
