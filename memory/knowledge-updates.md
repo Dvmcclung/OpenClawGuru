@@ -2000,3 +2000,39 @@ Two independent risk vectors are converging on chemical and specialty logistics:
 **SC Relevance (Quantix):** Direct relevance. Quantix hauls bulk chemicals and plastic pellets. Key takeaways: (1) **Demand signal watch** — 1.5% chemical production growth is soft; Quantix should model whether customer volumes correlate with production rates or lag them. (2) **Domestic sourcing shift** = opportunity — if chemical manufacturers onshore production, that increases domestic bulk transport demand. (3) **Tariff-driven inventory builds** = near-term volume spike potential — customers stockpiling = more tanker loads, but it's a pull-forward, not structural demand growth. (4) Hormuz disruption matters for ISO container / liquid bulk import legs, less for over-the-road domestic moves — but it affects the feedstock costs of Quantix customers, which flows through to their volumes.
 **Tags:** tariffs, trade-policy, Middle-East, chemical-supply-chain, Hormuz, bulk-chemicals, demand-signal, inventory-management, Quantix-relevant, 2026
 
+
+---
+
+## 2026-03-31 PM — Evening Knowledge Update
+
+### Insight 1: Agentic AI Expanding from SC Planning into Autonomous Execution (2026)
+
+**Date:** 2026-03-31
+**Source:** Clarkston Consulting — *2026 Supply Chain Trends Report* (clarkstonconsulting.com/insights/2026-supply-chain-trends/)
+**Summary:** Clarkston's 2026 SC trends report identifies three macro trends: (1) AI expanding beyond planning into *execution* — agentic AI enabling autonomous order management, fulfillment triggers, and exception handling with minimal human intervention; (2) network design & optimization as the primary lever for managing ongoing uncertainty (tariffs, geopolitical volatility, demand instability); (3) integrated technology platforms (not point solutions) driving measurable outcomes. The shift from AI-assisted decisions to AI-autonomous actions is the headline — organizations are piloting "touchless planning" in CPG and moving toward touchless execution. Key diagnostic: assess time-to-detect anomalies as a leading indicator of AI planning maturity.
+**SC Relevance:** For Quantix, the agentic AI in *execution* trend is immediately relevant — dispatch, load planning, driver assignment, and terminal capacity management are all execution-layer decisions that could benefit from agentic automation. The time-to-detect metric is a useful KPI to start tracking now.
+**Knowledge Tier:** Mid-frequency (research synthesis — Clarkston, March 2026)
+**Tags:** #AI #agentic #planning #execution #network-design #2026-trends #technology
+
+---
+
+### Insight 2: Supplier Financial Health Monitoring as Proactive Risk Management
+
+**Date:** 2026-03-31
+**Source:** Supply Chain Management Review — *"Suppliers Can Evaporate: Five Ways to Improve SCM Risk Management"* (scmr.com, ~Feb 2026)
+**Summary:** SCMR outlines five low-cost, practical techniques for SC risk management with a focus on supplier failure as an underweighted risk: (1) **Assume some suppliers will fail** — treat it as a planning premise, not a worst case. Monitor *predictive* financial stability indicators (Altman Z-score, payment behavior changes, headcount contraction) not just current financials. (2) Streamline contracting to balance legal protection with speed — over-lawyered contracts slow response; trim to the essentials for Tier 2/3 suppliers. (3) Rigorously manage insurance and indemnification provisions — many companies discover gaps only after an incident. (4) Build supplier redundancy *before* you need it — dual-sourcing for critical components is table stakes. (5) Segment supplier risk by impact, not just spend — a low-spend, sole-source supplier can be more dangerous than a high-spend one with alternatives.
+**SC Relevance:** For Quantix (bulk chemical carrier), the equivalent is carrier/vendor concentration risk in the maintenance, parts, and terminal services supply base. The "assume failure" framing is particularly applicable to specialized trailer repair and chemical cleaning vendors — most are regional, thin-margin, and fragile. Predictive financial monitoring on top-20 critical vendors is a quick win.
+**Knowledge Tier:** Mid-frequency (practitioner synthesis — SCMR, Feb 2026)
+**Tags:** #risk-management #supplier-risk #financial-health #dual-sourcing #segmentation #resilience
+
+---
+
+### Insight 3: Documentation Failures as the Leading Root Cause in Chemical Logistics Incidents
+
+**Date:** 2026-03-31
+**Source:** Porter Logistics — *"Chemical Transportation and Warehousing: Overcoming Common Challenges"* (porter-logistics.com, March 2026); cross-referenced with EPA Chemical Warehouse Enforcement Alert (2021)
+**Summary:** In chemical logistics, documentation failures — not equipment failures or route errors — are the most frequent root cause of rejected loads, regulatory fines, and storage incidents. The failure chain typically starts at product classification and propagates: incorrect UN number → wrong shipping description → SDS mismatch → labeling error → rejected at transfer point. PHMSA regulations govern hazmat movement; OSHA warehousing standards govern storage. The EPA has specifically flagged chemical warehouses for incomplete container accounting — meaning operators can't identify all containers that could be affected by a single emergency event. Best practice: favor logistics partners with documented, audited HAZMAT compliance workflows — not just certifications, but proven day-to-day execution. Integrated logistics providers (storage + transport + repackaging under one operator) reduce handoff documentation errors.
+**SC Relevance:** Highly relevant for Quantix liquid bulk (chemical ISO containers). The documentation failure chain is a DMAIC define-phase target — it's a process input failure (KPIV) that drives multiple outcome failures (KPOV: rejected loads, fines, delay). Applying PFMEA to the documentation workflow at terminal intake is a concrete process improvement action. The "integrated provider" finding supports the value proposition of full-service terminal operations vs. fragmented logistics.
+**Knowledge Tier:** Mid-frequency (practitioner synthesis — Porter Logistics + EPA enforcement data, March 2026)
+**Tags:** #chemical-logistics #HAZMAT #documentation #PHMSA #OSHA #compliance #DMAIC #PFMEA #bulk-liquid #terminal-ops
+
