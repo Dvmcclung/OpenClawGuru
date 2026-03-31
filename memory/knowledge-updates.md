@@ -1933,3 +1933,70 @@ The argument: lock in rail pricing *now*, before truckload rates jump and rail f
 **Knowledge Tier:** Mid-frequency (industry association outlook, published Sept 2025 — note compilation date)
 **Tags:** bulk-carrier, fleet-management, driver-retention, utilization, telematics, trucking-2026, process-improvement, operational-efficiency
 
+
+---
+
+## 2026-03-31 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Supply Chains — From Dashboards to Autonomous Action
+**Date:** 2026-03-31
+**Source:** Microsoft Industry Blog — "Supply Chain 2.0: How Microsoft is Powering Simulations, AI Agents, and Physical AI" (March 24, 2026)
+**URL:** https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/2026/03/24/supply-chain-2-0-how-microsoft-is-powering-simulations-ai-agents-and-physical-ai/
+**Knowledge Tier:** High-frequency (current vendor narrative + real deployment data — flag as volatile; technology claims unverified independently)
+
+The market has crossed a threshold: supply chain AI is no longer advisory — it's agentic. Microsoft's post describes their own internal supply chain (70 Azure regions, 400+ datacenters, 600K km fiber) as having evolved from Excel-based reactive management (pre-2018) to a "rapidly emerging autonomous, agentic supply chain." Key technical enablers called out:
+- **Model Context Protocol (MCP)** — open standard enabling AI agents to connect with enterprise systems, tools, and data without bespoke integrations
+- **NVIDIA Cosmos WFMs** + **OSMO edge-to-cloud** — physical AI platforms enabling robots and humanoid automation in warehouses and distribution
+- **Simulation-driven decision support** — NTT DATA building an "agentic network rebalancing platform"; PwC and Capgemini deploying end-to-end agentic consulting offerings (announced at Hannover Messe April 2026)
+- **Scale target:** Microsoft logistics teams targeting 100+ active AI agents by end of 2026; already reporting "hundreds of hours per month" saved
+
+The framing shift is notable: "Supply Chain 2.0" = agents that reason, plan, and *act* across complex workflows — not just alert humans to exceptions.
+
+**SC Relevance (Quantix):** Directly relevant to Quantix's AI-in-the-loop strategy. The MCP standard is the most actionable item — it's the plumbing that lets AI agents connect to TMS, ERP, and terminal data without rebuilding integrations. For a 4,500-truck, 50-terminal operation, the highest-ROI entry points are: (1) exception-driven dispatch agentics, (2) load planning optimization with live feedback loops, (3) automated driver hours-of-service compliance monitoring. The "100 agents by end of 2026" target at Microsoft is a useful benchmark for what's achievable at scale.
+**Tags:** agentic-ai, supply-chain-technology, digital-transformation, automation, MCP, microsoft, quantix-relevant, 2026
+
+---
+
+### Insight 2: Autonomous Trucking Regulatory Momentum — Einride Secures 5th NHTSA Approval
+**Date:** 2026-03-31
+**Source:** PR Newswire / Einride press release (March 24, 2026) + Transport Topics (freight tonnage data, March 29, 2026)
+**URL:** https://www.prnewswire.com/news-releases/einride-secures-fifth-nhtsa-approval-to-operate-autonomous-vehicles-on-u-s-roads-302723350.html
+**Knowledge Tier:** High-frequency (regulatory filing and company press release — verify independently before citing in client work)
+
+Einride has secured its **fifth consecutive NHTSA approval** to operate autonomous electric freight vehicles on U.S. public roads (March 24, 2026). Simultaneously, Einride announced a new electric regional delivery contract with **Coop grocery stores in Sweden** (March 26, 2026). Background context:
+- Einride's model: driverless or remotely supervised electric trucks; cost-efficient for fixed-route, medium-distance regional freight
+- Fifth NHTSA approval signals an accelerating regulatory cadence — not one-time experiments
+- Companion data point: **U.S. freight tonnage in February 2026 reached its highest level in three years** (Transport Topics, March 29, 2026) — market conditions improving for carriers
+
+**Why this matters beyond Einride:** The NHTSA approval cadence is now the leading regulatory indicator for autonomous freight in the U.S. Five approvals = the agency is building process familiarity and compliance frameworks. This is not experimental anymore.
+
+**SC Relevance (Quantix):** Bulk/chemical tanker transport is NOT on the near-term autonomous freight roadmap — HAZMAT regulations, complex loading/offloading procedures, and tank condition inspection requirements create a human-in-the-loop mandate that Einride-style autonomy doesn't address. **However:** (1) watch for autonomous linehaul tractors + human terminal operators as a hybrid model — plausible within 5–7 years for dry bulk legs; (2) the regulatory trajectory matters for fleet replacement planning timelines; (3) electric + autonomous combinations will reshape driver supply dynamics in the broader trucking market, which affects Quantix's competitive labor environment.
+**Tags:** autonomous-vehicles, NHTSA, Einride, electric-trucks, freight-tonnage, transportation-trends, driver-supply, 2026, trucking
+
+---
+
+### Insight 3: Tariffs + Middle East Conflict Creating Dual Squeeze on Chemical Supply Chains
+**Date:** 2026-03-31
+**Source:** Rinchem Weekly Supply Chain Review — March 25, 2026 (citing Powder & Bulk Solids, American Medical Journal, and industry surveys)
+**URL:** https://www.rinchem.com/supply-chain-review-march-25-2026/
+**Knowledge Tier:** High-frequency (weekly industry digest, March 2026 — current events, treat as volatile)
+
+Two independent risk vectors are converging on chemical and specialty logistics:
+
+**Vector 1 — Tariff Policy Instability:**
+- Ongoing U.S. tariff policy changes are creating persistent uncertainty for chemical manufacturers
+- Global chemical production growth projected at **only 1.5% for 2026** (Powder & Bulk Solids)
+- Response strategies observed: inventory stockpiling, sourcing diversification, accelerating onshoring, AI adoption for agility
+- Key structural problem: tariff policy changes faster than supplier qualification cycles — companies can't adjust sourcing before the policy changes again
+
+**Vector 2 — Middle East Conflict / Strait of Hormuz:**
+- **20% of global air cargo** exposed to disruptions from Middle East conflict (American Medical Journal)
+- Gulf airport hubs and Strait of Hormuz disruptions forcing rerouting of temperature-sensitive shipments (biologics, specialty chemicals)
+- Cold-chain integrity and component availability (packaging materials) are primary risk categories
+- No widespread shortages yet — but cost increases and delivery delays are materializing now
+
+**Combined effect:** Chemical manufacturers are simultaneously dealing with tariff-driven sourcing disruption AND logistics route disruption. The overlap is worst for specialty chemicals sourced from Asia/Middle East and shipped via air.
+
+**SC Relevance (Quantix):** Direct relevance. Quantix hauls bulk chemicals and plastic pellets. Key takeaways: (1) **Demand signal watch** — 1.5% chemical production growth is soft; Quantix should model whether customer volumes correlate with production rates or lag them. (2) **Domestic sourcing shift** = opportunity — if chemical manufacturers onshore production, that increases domestic bulk transport demand. (3) **Tariff-driven inventory builds** = near-term volume spike potential — customers stockpiling = more tanker loads, but it's a pull-forward, not structural demand growth. (4) Hormuz disruption matters for ISO container / liquid bulk import legs, less for over-the-road domestic moves — but it affects the feedstock costs of Quantix customers, which flows through to their volumes.
+**Tags:** tariffs, trade-policy, Middle-East, chemical-supply-chain, Hormuz, bulk-chemicals, demand-signal, inventory-management, Quantix-relevant, 2026
+
