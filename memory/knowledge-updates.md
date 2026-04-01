@@ -2087,3 +2087,92 @@ The collective message: companies still operating on disconnected system screens
 **SC Relevance (Quantix):** Over-the-road bulk transport is the core, but the control tower concept applies directly to Quantix's 50+ terminal network. Multi-terminal visibility with exception alerts (load delays, driver availability gaps, tank cleaning backlogs) is the exact use case. IoT for bulk chemical trailer monitoring (pressure, temperature, GPS) is both a safety/compliance and a customer-visibility capability. This is the architectural direction for Quantix's operations technology stack.
 **Knowledge Tier:** Mid-frequency (practitioner synthesis — Manufacturing Frontier + Hexalog quote, April 2026)
 **Tags:** #control-tower #IoT #visibility #AI #routing #multimodal #technology #terminal-ops #Quantix-relevant #2026
+
+---
+
+## 2026-04-01 PM — Evening Knowledge Scan
+
+### Insight 1: Lean Six Sigma DMAIC Delivers Quantified SC Gains in Constrained Environments (2025 Peer Review)
+**Source:** Global Journal of Industrial Management — "Manufacturing Supply Chain Excellence Through Lean Six Sigma: A Case Study Approach" (Gomaa, Benha University, June 2025)
+**URL:** https://ojs.sin-chn.com/index.php/GJIM/article/view/2032
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis)
+
+**Summary:**
+A peer-reviewed study of an Egyptian electrical control panel manufacturer applying DMAIC across procurement, production, inventory, and distribution produced hard, measurable results:
+- **+10% first-time quality rate** — defect reduction through Define/Measure/Analyze discipline
+- **-35% processing time** — waste elimination in production and distribution workflows
+- Additional gains in equipment efficiency (OEE), customer satisfaction, and value-added production ratio
+
+Key finding: LSS is not just a manufacturing tool — it was applied end-to-end across the supply chain, with KPIs set at each DMAIC gate. The study also introduces a conceptual framework that aligns LSS implementation with long-term strategic goals (not just one-off projects), creating a culture of continuous improvement rather than episodic kaizen events.
+
+Critically, results were achieved in a *resource-constrained, infrastructure-limited* environment — directly rebutting the common objection that LSS only works in mature, well-resourced organizations.
+
+**Application for Quantix:**
+- A 35% reduction in processing time on terminal loading/unloading operations would be a high-value DMAIC target
+- DMAIC + KPI framework should be used for any terminal process improvement project — define the gate metrics before starting
+- The "align LSS with strategic goals" framework is directly applicable to Quantix's AI-in-the-loop automation program — continuous improvement and AI augmentation should be co-designed, not sequential
+
+**Tags:** `lean-six-sigma` `DMAIC` `process-improvement` `case-study` `manufacturing-SC` `KPIs` `operational-efficiency`
+
+---
+
+### Insight 2: 2026 Supply Chain Risk — The TTR vs. TTS Framework and Tariff-Driven Resilience Imperative
+**Source 1:** StartUs Insights — "Global Supply Chain Risk Management 2026: The Definitive Guide for Boards" (Oct 2025)
+**URL:** https://www.startus-insights.com/innovators-guide/global-supply-chain-risk-management/
+**Source 2:** Ivalua — "How Tariffs and Trade Policy Shifts Impact Procurement and Supply Chains in 2026" (Mar 2026, citing Thomson Reuters Global Trade Report 2026)
+**URL:** https://www.ivalua.com/blog/how-tariffs-impact-procurement-and-supply-chains/
+**Source 3:** Xeneta — "The Biggest Supply Chain Risks of 2026" (Feb 2026)
+**URL:** https://www.xeneta.com/blog/the-biggest-supply-chain-risks-of-2026-and-how-to-navigate-them
+**Knowledge Tier:** Mid-frequency (industry research/analyst synthesis, 2025–2026)
+
+**Summary:**
+Three converging signals define the 2026 SCRM landscape:
+
+**1. TTR vs. TTS Test (new operationalization)**
+The StartUs framework introduces a practical buffer-allocation decision rule: if **Time-to-Recover (TTR) > Time-to-Survive (TTS)**, the organization has a critical exposure gap that must be funded with inventory, capacity, or contractual buffers — not just risk-registered. Top risks requiring immediate playbook funding: cyber-physical shutdown, geopolitics/tariffs, and carbon-cost shock. Boards are now expected to treat Composite Risk Scores ≥ 3.5 as high/critical.
+
+**2. Tariff Volatility — Sub-Tier Visibility is the Differentiator**
+Ivalua and Thomson Reuters both confirm that tariff-related disruptions have elevated SC resilience from an optimization concern to a systemic one. The key gap: most organizations have Tier 1 visibility but not sub-tier (Tier 2/3) mapping. Without sub-tier visibility, tariff exposure in raw materials and components is invisible until it hits an invoice. Procurement teams with deep supplier mapping are reacting in weeks vs. months compared to those without.
+
+**3. Geopolitical Fragmentation — China+1 Creates New Capacity Risks**
+Xeneta notes that China+1 and nearshoring strategies are accelerating, but alternative markets often lack the infrastructure to absorb the volume. This creates a "risk transfer" problem: you reduce geopolitical concentration but introduce operational/logistics risk in underdeveloped corridors.
+
+**Application for Quantix:**
+- Quantix operates in domestic bulk transport — direct tariff exposure is lower than in global manufacturing, but *upstream chemical customers* are heavily tariff-exposed (specialty chemicals, feedstocks with import exposure). Customers under cost pressure may renegotiate or defer contracts.
+- The TTR vs. TTS framework should be applied to Quantix's terminal network — which terminals, if lost, exceed TTS for regional customers?
+- CDL driver shortage is Quantix's TTR risk: if a key corridor loses 20% of drivers, what is the recovery time vs. the customer survival window?
+
+**Tags:** `risk-management` `resilience` `tariffs` `geopolitical` `TTR` `TTS` `sub-tier-visibility` `buffer-strategy` `2026`
+
+---
+
+### Insight 3: Trucking Industry in Prolonged Freight Recession — Lean Operations as the Recovery Posture (2026)
+**Source:** Trucking Dive — "Key Trucking Trends and Risks to Follow in 2026" (Feb 2026)
+**URL:** https://www.truckingdive.com/news/trucking-trends-risks-outlook-2026-resiliency-market-recovery-regulatory-clarity/810884/
+**Supporting Source:** OTR Solutions / FinditParts — CDL compliance and driver shortage data (Feb–Mar 2026)
+**Knowledge Tier:** High-frequency (current market conditions — volatile, verify before citing)
+
+**Summary:**
+The trucking industry is in its **third consecutive year of freight recession** as of early 2026. Key signals:
+- Demand recovery remains elusive — no fundamental shift in freight volumes yet
+- CDL compliance issues are compounding capacity constraints alongside the structural driver shortage
+- Regulatory burden (HOS, ELD, assorted changes) is increasing administrative overhead per driver
+- **Bright spot:** Industry leaders are using the downturn to restructure internally — leaning out operations, investing in smarter systems, positioning for the rebound
+
+The strategic consensus is: carriers that use this period to become leaner and more data-driven will have a significant competitive advantage when demand recovers. Those that cut investment to survive will be unready for the upturn.
+
+**Specific risks highlighted for 2026:**
+- CDL compliance issues creating unexpected capacity gaps
+- Regulatory uncertainty (new rules in pipeline, unclear timelines)
+- Autonomous vehicle integration timelines shifting (farther out than expected in some segments)
+- Cybersecurity as an emerging OT/fleet risk
+- Sustainability/emissions mandates creating equipment cost pressure
+
+**Application for Quantix:**
+- Quantix with 4,500+ trucks is operating in this same environment — the freight recession context applies directly to dry bulk and liquid bulk capacity pricing
+- If market recovery is still 12–18 months out, **now is the time to invest in process improvement and AI-in-the-loop systems** — exactly aligned with Dale's current build program
+- CDL compliance as a capacity wildcard: Quantix should audit CDL status across the fleet and flag any dormant or lapsing credentials before a market upturn tightens driver availability further
+- The "lean operations now, rebound-ready later" posture is textbook Theory of Constraints — eliminate the bottleneck before the throughput demand returns
+
+**Tags:** `trucking` `freight-recession` `CDL` `driver-shortage` `bulk-logistics` `operational-efficiency` `market-outlook` `regulatory` `2026`
+
