@@ -2036,3 +2036,54 @@ Two independent risk vectors are converging on chemical and specialty logistics:
 **Knowledge Tier:** Mid-frequency (practitioner synthesis — Porter Logistics + EPA enforcement data, March 2026)
 **Tags:** #chemical-logistics #HAZMAT #documentation #PHMSA #OSHA #compliance #DMAIC #PFMEA #bulk-liquid #terminal-ops
 
+
+---
+
+## 2026-04-01 AM — Morning Knowledge Scan
+
+### Insight 1: AI Readiness Gap Widening — Supply Chain Leaders Less Prepared Despite Rapid Adoption (March 2026)
+
+**Date:** 2026-04-01
+**Source:** Blue Yonder — *"2026 Supply Chain Readiness Survey"* (BusinessWire, March 31, 2026)
+**Summary:** Blue Yonder's annual readiness survey reveals a paradox: AI adoption in supply chain is accelerating, yet *fewer* leaders say their organizations are ready for the future than in prior years. Key data points:
+- **45%** are using machine learning / predictive AI today (most prevalent form)
+- **24%** are using generative AI — double the 2025 figure
+- Only **8%** are using agentic AI (early adoption phase)
+The readiness gap is driven by the *speed of adoption outpacing organizational capability* — talent, data infrastructure, change management, and integration maturity are all lagging the technology curve. The finding: organizations are deploying AI faster than they can absorb it. Supply chain leaders face more decisions at higher frequency, but decision quality is not keeping pace with decision volume.
+**SC Relevance (Quantix):** The 8% agentic AI figure confirms that autonomous dispatch/routing/load planning is still a competitive differentiator window — not table stakes yet. The readiness gap finding is a direct diagnostic: if Quantix is deploying AI tools, the bottleneck is likely data quality and process integration, not the technology itself. Generative AI doubling YoY means AI-assisted RFP response, carrier communication, and exception handling are real near-term applications.
+**Knowledge Tier:** High-frequency (industry survey — Blue Yonder, March 2026; treat as current snapshot)
+**Tags:** #AI #agentic-AI #generative-AI #readiness #adoption #technology #survey-data #2026
+
+---
+
+### Insight 2: Trucking Market at Structural Inflection — Capacity Tightening Faster Than Demand Recovery (March 2026)
+
+**Date:** 2026-04-01
+**Source:** ACT Research — *"2026 Trucking Industry Forecast & Market Outlook"* (actresearch.net, updated March 27, 2026)
+**Summary:** ACT Research marks early 2026 as a genuine inflection point in the trucking cycle — not a full recovery, but a transition from prolonged downcycle to *supply-driven tightening*. Key findings:
+- **Spot and contract rates** are moving materially higher YoY as carrier base shrinks
+- **Driver availability** tightening at fastest pace in several years — regulatory changes expected to constrain supply further
+- **Class 8 fleet** contracting via sub-replacement builds, prolonged trade cycles, fleet exits
+- **Equipment markets** discipline maintained — order activity strengthening (Feb 2026 orders among highest of cycle), but purchasing remains replacement-driven, not expansion-driven
+- **Freight demand** remains uneven across sectors — housing and manufacturing soft; consumer goods firmer
+- Supreme Court ruling on IEEPA tariffs is a near-term macro wildcard: uphold = extended recessionary conditions; strike down = positive demand catalyst
+- 2026 framing: "structural tightening, cost pressures, and selective replacement rather than broad-based expansion"
+**SC Relevance (Quantix):** Critical market intelligence for a 4,500-truck carrier. The tightening capacity dynamic means: (1) Spot rate floors are resetting higher — customers sourcing spot capacity will face meaningful price increases, strengthening Quantix's contracted rate position; (2) Driver supply constraints = tighter labor market for recruitment; (3) Disciplined fleet replacement (not expansion) is the correct posture — consistent with ACT's read; (4) Tariff uncertainty creates volume volatility — planning should model tariff scenarios separately. The broader trucker financial health picture matters for vendor/subcontractor management too.
+**Knowledge Tier:** High-frequency (market research — ACT Research, March 2026; rate/capacity data is volatile)
+**Tags:** #trucking #capacity #market-outlook #rates #driver-shortage #Class8 #fleet #tariffs #ACT-Research #2026
+
+---
+
+### Insight 3: Integrated Logistics Control Towers and IoT Visibility Becoming Table Stakes in 2026 (April 2026)
+
+**Date:** 2026-04-01
+**Source:** The Manufacturing Frontier — *"5 Logistics Trends Dominating 2026"* (themanufacturingfrontier.com, April 2026)
+**Summary:** Survey of 2026 logistics technology trends identifies three convergent capabilities becoming standard practice (not differentiators) among competitive logistics operators:
+1. **AI-Driven Agility** — static routing software is obsolete; top operators use AI ingesting live traffic, weather, border wait times, and fuel spot prices to continuously recalculate optimal routes and detect anomalies hours ahead of human dispatchers
+2. **Real-Time IoT Visibility** — IoT sensors in containers/pallets delivering continuous environmental monitoring (temperature, humidity, vibration, GPS) consolidated into cloud platforms; operators with mature IoT programs report "meaningful reductions in damage claims and measurable improvements in delivery reliability"
+3. **Integrated Control Towers** — multimodal visibility (air, ocean, road, rail) in a single AI-augmented interface with exception alerting, workflow automation, and scenario modeling; coordination time reduced from days to hours
+
+The collective message: companies still operating on disconnected system screens and reactive exception management are falling structurally behind. The intelligence layer (AI on top of visibility data) is where the competitive separation is occurring.
+**SC Relevance (Quantix):** Over-the-road bulk transport is the core, but the control tower concept applies directly to Quantix's 50+ terminal network. Multi-terminal visibility with exception alerts (load delays, driver availability gaps, tank cleaning backlogs) is the exact use case. IoT for bulk chemical trailer monitoring (pressure, temperature, GPS) is both a safety/compliance and a customer-visibility capability. This is the architectural direction for Quantix's operations technology stack.
+**Knowledge Tier:** Mid-frequency (practitioner synthesis — Manufacturing Frontier + Hexalog quote, April 2026)
+**Tags:** #control-tower #IoT #visibility #AI #routing #multimodal #technology #terminal-ops #Quantix-relevant #2026
