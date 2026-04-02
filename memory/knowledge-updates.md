@@ -2249,3 +2249,74 @@ Bulk carrier context — Quantix moves liquid chemicals and plastic pellets in t
 
 **Tags:** `warehouse-automation` `robotics` `dock-automation` `DHL` `Boston-Dynamics` `labor` `3PL` `supply-chain-technology` `2026`
 
+
+---
+
+## 2026-04-02 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: Agentic AI Reshaping Supply Chain Execution — Beyond Planning into Autonomous Action
+
+**Date:** 2026-04-02
+**Source:** Clarkston Consulting — *2026 Supply Chain Trends Report* (March 2026) | https://clarkstonconsulting.com/insights/2026-supply-chain-trends/
+**Knowledge Tier:** Mid-frequency (research synthesis — compiled March 2026)
+**Tags:** #AI #agentic-SC #supply-chain-execution #planning #automation #digital-transformation
+
+**Summary:**
+The dominant SC tech trend in 2026 is the shift of AI from advisory to autonomous execution. Historically, AI in supply chains enhanced planning decisions (better forecasts, exception flagging, recommended actions). In 2026, agentic AI is expanding into *autonomous execution* — directly making and implementing operational decisions without human intervention. Clarkston highlights three foundational requirements: (1) data quality and governance maturity, (2) integrated technology stack across planning and execution, (3) network design agility for rapid adaptation.
+
+Key marker: "approximately 80% of output from planning tools is untouched by any human being" (Kraft Heinz / OMP case) — pointing to where leading organizations already are.
+
+**SC Relevance for Quantix:**
+Bulk carrier operations are heavily transactional — dispatch decisions, load matching, empty reposition, terminal dwell management. This is fertile ground for agentic AI. The Kraft Heinz case (8,000 SKUs, 300+ facilities, 300+ planners → collaborative, automated S&OP) maps directly to fleet/load planning at scale. The "people transformation is as important as technology" finding is a critical implementation risk — DON'T overlook workforce change management.
+
+**Application note:** Before Quantix could deploy agentic SC planning, data engineering foundations must be in place. Check data maturity before committing to AI platform spend.
+
+---
+
+### Insight 2: 2026 Supply Chain Risk Landscape — Geopolitical Fragmentation + Tariff Volatility as the New Normal
+
+**Date:** 2026-04-02
+**Source:** Xeneta — *The Biggest Supply Chain Risks of 2026* (February 18, 2026) | https://www.xeneta.com/blog/the-biggest-supply-chain-risks-of-2026-and-how-to-navigate-them + Ivalua — *How Tariffs Impact Procurement and Supply Chains* (March 2026) | https://www.ivalua.com/blog/how-tariffs-impact-procurement-and-supply-chains/
+**Knowledge Tier:** Mid-frequency (current market conditions — volatile, verify quarterly)
+**Tags:** #risk-management #geopolitics #tariffs #trade-policy #supplier-diversification #resilience #near-shoring
+
+**Summary:**
+Top-ranked supply chain risks for 2026 (per Xeneta and Ivalua/Thomson Reuters Global Trade Report):
+1. **Geopolitical fragmentation** — U.S.-led technology supply chain security initiatives (Pax Silica), China+1 strategies accelerating but infrastructure in alternative markets is inadequate
+2. **Tariff volatility** — Trump policy shifts (postponed 2026 tariff increases) create timing uncertainty; shippers face a binary risk: tender too early (lock in above-market rates) vs. too late (miss low rates as capacity tightens)
+3. **Sub-tier supplier opacity** — tariff exposure often sits 2–3 layers deep in supply chains; sub-tier mapping becoming a compliance requirement, not just a best practice
+4. **Capacity timing risk** — Red Sea reopening could flood container capacity; decisions made in Q1 lock in cost exposure for the year
+
+**Best practice prescription:**
+- Build a geopolitical risk dashboard (sanctions + tariff changes + export controls)
+- Diversify supplier geographies BEFORE disruption hits
+- Implement sub-tier visibility for regulated materials
+- Bring trade compliance expertise into procurement planning at the sourcing stage (not as an afterthought)
+
+**SC Relevance for Quantix:**
+Chemical bulk carriers sit downstream of chemical producers whose feedstock sourcing is directly impacted by tariffs (Chinese petrochemicals, methanol, resins). If Quantix's shipper customers face supply disruptions, load volumes fluctuate — creating capacity planning volatility. Building shipper intelligence into quarterly S&OP reviews (understanding their exposure) is a service differentiator and a risk management tool.
+
+---
+
+### Insight 3: Integrated Business Planning (IBP) Transformation — Kraft Heinz Case Study on Breaking Silo Planning at Scale
+
+**Date:** 2026-04-02
+**Source:** SupplyChainBrain — *Supply Chain Planning Transformation at Kraft Heinz* (February 10, 2026) | https://www.supplychainbrain.com/articles/43437-watch-supply-chain-planning-transformation-at-kraft-heinz-a-case-study
+**Knowledge Tier:** Mid-frequency (recent case study — stable findings, published Feb 2026)
+**Tags:** #IBP #S&OP #integrated-planning #ERP #case-study #people-transformation #OMP #kraft-heinz #change-management
+
+**Summary:**
+Kraft Heinz IBP transformation (via OMP platform) — key learnings:
+
+- **Problem:** 8,000 SKUs, 300+ production facilities, 300+ planners operating in silos. No integrated view, no cross-functional planning.
+- **Approach:** Phased global rollout — China → Europe → North America. Chose OMP over alternatives based on adaptability and UX.
+- **Result:** ~80% of planning outputs now executed without human touch. "Self-healing" planning as the north star.
+- **Critical learning #1 — People transformation > tech deployment:** Change management and upskilling were identified as the *primary* success factors. Technology enablement fails without workforce readiness.
+- **Critical learning #2 — Innovation councils:** Kraft Heinz joined a cross-company OMP user community to co-develop the platform roadmap. Collaborative ecosystem approach accelerated capability development.
+
+**APICS/CPIM Framework connection:** This is a textbook IBP implementation (extends S&OP to financial integration, cross-functional, demand-supply balancing). The 80% touchless execution rate is roughly the leading-edge benchmark for mature IBP environments.
+
+**SC Relevance for Quantix:**
+The "silo planning" failure mode maps directly to bulk carrier operations where dispatch, maintenance, terminal ops, and commercial teams often plan independently. The IBP model — connecting demand signals (shipper commitments) → capacity planning → fleet deployment → terminal throughput — is achievable at Quantix's scale and would be a significant operational capability upgrade. The people transformation learning is non-negotiable: any planning system upgrade needs parallel investment in planner upskilling.
+
+---
