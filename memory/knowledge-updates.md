@@ -2176,3 +2176,76 @@ The strategic consensus is: carriers that use this period to become leaner and m
 
 **Tags:** `trucking` `freight-recession` `CDL` `driver-shortage` `bulk-logistics` `operational-efficiency` `market-outlook` `regulatory` `2026`
 
+
+---
+
+## 2026-04-02 AM — Morning Knowledge Scan
+
+### Insight 1: Freight Market — Capacity Tightening, Diesel Surge, and Cautious Rate Recovery (April 2026)
+**Source:** FreightWaves / Ryder — "State of the Industry Report: April 2026" (April 1, 2026)
+**URL:** https://www.freightwaves.com/news/white-paper-state-of-the-industry-april-2026
+**Supporting Source:** U.S. Bank / DAT — Truck Freight Rates Report (April 1, 2026)
+**Knowledge Tier:** High-frequency (current market data — volatile, verify before citing)
+
+**Summary:**
+The freight market is showing early signs of a tightening cycle heading into Q2 2026. Key signals:
+
+- **Diesel prices surged >$1/gallon in early March** due to geopolitical conflict, squeezing carrier margins — especially in contract freight where rates are slower to adjust
+- **Tender rejections ~14%** — elevated, indicating carriers are selectively accepting loads and favoring higher-paying spot freight; this is a leading indicator of capacity tightening
+- **Spot rates rising** — DAT/U.S. Bank confirm modest YoY uptick in both spot and contract rates, consistent with early-stage market recovery
+- **Midwest capacity significantly tighter than West Coast** — West Coast began tightening late March; regional asymmetry creates arbitrage opportunities for carriers
+- **Domestic intermodal up ~3% YoY** — benefiting from lower cost vs. truckload and reliable service; international intermodal slightly down
+- **Container volumes declining** — excess vessel capacity, tariff uncertainty, and geopolitical disruptions softening import demand
+- **Manufacturing showing early expansion** but broader uncertainty remains (fuel costs, labor softening, uneven consumer spending)
+
+**Application for Quantix:**
+The ~14% tender rejection rate and rising diesel are a double squeeze on shipper margins — carriers like Quantix gain pricing power in spot but face cost pressure from fuel. **Now is the time to review fuel surcharge structures on existing contracts and ensure FSC mechanisms are current.** The Midwest tightening is directly relevant to Quantix terminal positioning — terminals in tighter regions have better negotiating leverage heading into contract season.
+
+**Tags:** `freight-rates` `diesel` `capacity` `spot-market` `intermodal` `bulk-logistics` `market-outlook` `2026` `tender-rejection`
+
+---
+
+### Insight 2: Electric Truck Market Contracts 50%+ — Infrastructure Players Bet on Pockets of Demand
+**Source:** Los Angeles Times — "The electric truck market is tanking — but this billionaire investor is expanding in California" (April 1, 2026)
+**URL:** https://www.latimes.com/business/story/2026-04-01/electric-truck-market-is-tanking-but-this-billionaire-investor-is-expanding-in-california
+**Supporting Source:** BloombergNEF — medium/heavy e-truck sales data (2025–2026)
+**Knowledge Tier:** High-frequency (current market conditions — rapidly evolving regulatory and policy environment)
+
+**Summary:**
+The U.S. electric truck market is in sharp decline, but infrastructure-focused players are making counter-cyclical bets:
+
+- **~820 medium/heavy e-trucks sold in the U.S. in 2025** — down >50% vs. 2024 (BloombergNEF); forecast to fall below 600 units in 2026
+- **Policy rollbacks** under Trump administration are the primary driver: ended federal emissions standards for vehicles, challenged California's ZEV mandate, terminated federal tax credits for commercial clean vehicles
+- **Zenobe Energy** (backed by KKR, Infracapital, Mubadala — $3B+ raised) acquired Revolv (13 CA fleet charging facilities) and is targeting Illinois, NY, Massachusetts for expansion
+- **Strategy:** Focus on routes with predictable duty cycles and states with local incentives still intact — California as anchor
+- **Long-term thesis:** Battery cost decline + diesel price volatility = improving e-truck TCO over time, regardless of short-term federal policy headwinds
+- The market is bifurcating: federal retreat is concentrating investment into "bright spot" states with persistent local mandates
+
+**Application for Quantix:**
+Bulk chemical and plastic pellet hauling involves heavy tankers with high energy loads — **e-trucks are not operationally viable for this segment in the near to mid term.** The 50% sales collapse in the heavy-duty segment validates postponing any serious EV fleet planning. However: (1) monitor diesel price volatility as a long-term cost driver that strengthens the e-truck TCO case eventually, and (2) watch California-specific freight lanes — customers operating under California rules may begin requesting ZEV-compliant carrier options within the next 5–10 years.
+
+**Tags:** `electric-trucks` `fleet-electrification` `diesel` `regulatory` `California` `bulk-logistics` `ZEV` `infrastructure` `market-outlook` `2026`
+
+---
+
+### Insight 3: Robotic Unloading Reaches Cost Parity — Dock Automation Crosses the Accessibility Threshold
+**Source:** Supply Chain Dive — "Robotic unloading becomes more accessible as warehouses weigh applicability" (March/April 2026)
+**URL:** https://www.supplychaindive.com/news/robotic-unloading-becomes-more-accessible-as-warehouses-weigh-applicability/814383/
+**Supporting Source:** DHL / Boston Dynamics Stretch deployment; Persona AI (Michael Perry, former Boston Dynamics/Dexterity)
+**Knowledge Tier:** Mid-frequency (technology adoption curve — directionally stable, specific cost data may shift)
+
+**Summary:**
+Dock automation — historically the "last piece of the puzzle" for warehouses — is approaching a tipping point:
+
+- **Cost parity emerging:** Robotic loading/unloading systems are approaching cost-per-unit parity with case-pick robotics (previously the more accessible entry point) — driven by technology maturation and scale
+- **DHL commitment:** Deploying **1,000+ Boston Dynamics Stretch robots** across global operations; Stretch rated at 800 cases/hr, 50 lb lift capacity, 8-hr battery
+- **ROI drivers vs. manual:** Labor replacement, safety improvement, elimination of injury/theft/damage risk, potential replacement of lumper services at smaller 3PLs
+- **Key constraint:** Not a one-size-fits-all deployment — robots struggle with irregular loads (varying shapes, non-uniform items); site selection criteria include volume, product size/weight, and orientation predictability
+- **Change management is non-negotiable:** DHL emphasizes that retrofitting requires process redesign, not just equipment installation
+- **Applicability hierarchy:** Regular, high-volume, uniform-product unloading first; irregular/mixed loads remain human-intensive
+
+**Application for Quantix:**
+Bulk carrier context — Quantix moves liquid chemicals and plastic pellets in tankers, not palletized warehouse cases, so **direct dock robotics don't apply to the core fleet operation.** However, this trend is highly relevant for: (1) customer facilities that Quantix serves — understanding their automation investment helps anticipate terminal interface changes; (2) any Quantix terminal receiving operations where packaged goods flow; (3) competitive benchmarking — 3PLs investing in dock automation may compete for some of the same logistics spend. The broader signal: **automation cost thresholds are falling across the board. Any operation still costing out labor vs. automation using 2022 numbers needs a refresh.**
+
+**Tags:** `warehouse-automation` `robotics` `dock-automation` `DHL` `Boston-Dynamics` `labor` `3PL` `supply-chain-technology` `2026`
+
