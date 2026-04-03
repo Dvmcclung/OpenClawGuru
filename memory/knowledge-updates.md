@@ -2320,3 +2320,51 @@ Kraft Heinz IBP transformation (via OMP platform) — key learnings:
 The "silo planning" failure mode maps directly to bulk carrier operations where dispatch, maintenance, terminal ops, and commercial teams often plan independently. The IBP model — connecting demand signals (shipper commitments) → capacity planning → fleet deployment → terminal throughput — is achievable at Quantix's scale and would be a significant operational capability upgrade. The people transformation learning is non-negotiable: any planning system upgrade needs parallel investment in planner upskilling.
 
 ---
+
+## 2026-04-03 AM — Morning Knowledge Scan
+
+### Insight 1: Freight Market Tightening — Capacity Constraints and Fuel Spike Signal Rate Inflection Point
+**Source:** FreightWaves — "White Paper: State of the Industry – April 2026" (Ryder-affiliated, April 1, 2026)
+**Knowledge Tier:** High-frequency (current market data — volatile, monitor weekly)
+**Tags:** `transportation` `freight-rates` `capacity` `fuel-costs` `tariff-risk`
+
+Diesel prices surged over $1/gallon in early March 2026 due to geopolitical conflict, squeezing carrier margins — particularly in contract freight. Tender rejection rates are elevated (~14%), and rising spot rates indicate carriers are preferring higher-paying spot loads over contract commitments. Key data points:
+- **Midwest** significantly tighter than West Coast; West Coast capacity only began tightening late March
+- **Domestic intermodal** volumes up ~3% YoY on strong service + lower cost vs. truckload
+- **International container demand** remains soft — declining import volumes, excess vessel capacity, tariff uncertainty adding volatility
+- **Manufacturing** showing early expansion signals, but rising fuel costs and uneven consumer spending create mixed macro picture
+
+**Application for Quantix:** Elevated tender rejections (14%) mean shipper customers may face spot-market exposure as contract carriers decline loads. For Quantix as a bulk carrier operating on contract lanes: this is a moment to hold rate discipline and resist discounting — the market is moving toward carriers. The diesel spike directly impacts operating cost per loaded mile; review fuel surcharge recovery mechanisms now. Midwest tightness aligns with many chemical/plastics production corridors — capacity discipline here matters.
+
+---
+
+### Insight 2: AI-Driven Logistics Agility — From Static Routing to Predictive Anomaly Detection
+**Source:** The Manufacturing Frontier — "5 Logistics Trends Dominating 2026" (April 2026); corroborated by ISM World — "AI and Automation Will Change Disruption Management" (March 31, 2026)
+**Knowledge Tier:** Mid-frequency (industry synthesis — review quarterly)
+**Tags:** `AI` `logistics-technology` `visibility` `IoT` `anomaly-detection` `disruption-management`
+
+The 2026 logistics technology landscape shows a clear maturity shift: leading operators have moved beyond static routing software to AI systems that ingest live feeds — traffic, weather, border wait times, fuel spot prices — and continuously recalculate optimal routes. Two capabilities are emerging as differentiators:
+
+1. **Predictive Demand Forecasting** — AI drawing on sales histories, macroeconomic signals, and market trend data to dynamically right-size inventory at hub level, reducing both overstock and stockout risk simultaneously
+2. **Anomaly Detection for Resilience** — AI scanning continuously for early signals of port backlogs, supplier delays, or customs bottlenecks — surfacing rerouting options *before* a delay becomes a crisis, often hours ahead of human dispatchers
+
+**IoT layer is the enabler:** Sensors in containers and pallets delivering continuous environmental monitoring (temperature, humidity, vibration, GPS) with cloud platforms consolidating into a single operational view. The quote from Hexalog's CEO captures the distinction well: *"Knowing where a shipment is matters. Knowing its condition in transit is what separates adequate logistics from excellent logistics."*
+
+**Application for Quantix:** For bulk chemical and plastics transport, IoT-enabled condition monitoring is directly applicable — temperature excursions, pressure anomalies, or seal integrity on tankers. AI anomaly detection for terminal congestion or driver detention events could reduce one of the industry's most costly inefficiencies. The technology is available; the gap for most carriers is data infrastructure and integration, not the AI itself.
+
+---
+
+### Insight 3: Tariff Uncertainty Reshaping Global Freight Flows — Structural, Not Cyclical
+**Source:** FreightWaves State of Industry April 2026; Transport Topics (April 2, 2026); DC Velocity (April 3, 2026)
+**Knowledge Tier:** High-frequency (geopolitical/trade policy — monitor weekly)
+**Tags:** `tariffs` `trade-war` `freight-flows` `cost-containment` `reshoring` `bulk-transport`
+
+Multiple industry sources confirm: global freight flows have entered a period of structural transformation driven by U.S.-led trade policy changes. This is not a transient disruption — it is reshaping sourcing strategies, nearshoring decisions, and lane economics. Key signals:
+- **Auto tariffs** have added $30B+ in costs — disrupting supply chains, increasing production costs, and threatening USMCA compliance investments
+- **USPS implementing 8% price hike** starting April 26 to cope with rising fuel and market disruption costs — a leading indicator of broader parcel/LTL rate pressure
+- **TMC's executive director** citing "cost containment" as the primary parts-related priority for fleet managers in early 2026 — direct translation: maintenance-focused carriers are under margin pressure
+- Chemical sector tariff exposure: any tariffs on feedstock imports or export market access restrictions directly affect shipper demand patterns for bulk chemical carriers
+
+**Application for Quantix:** Tariff-driven demand volatility is real and near-term. Quantix's shipper base (chemicals, plastics) is directly in the tariff crossfire — both as importers of feedstocks and exporters of finished product. Intelligence on shipper-side production changes (startups, shutdowns, volume shifts) should flow into capacity planning before it shows up as volume loss. This is a pre-flight risk factor for any 2026 lane pricing or capacity commitment discussions.
+
+---
