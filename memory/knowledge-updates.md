@@ -2526,3 +2526,63 @@ A geopolitical shock is hitting transportation costs in real time:
 **Tags:** `diesel-prices` `fuel-surcharge` `geopolitical-risk` `Iran` `OTR-rates` `AV-trucks` `energy-volatility` `carrier-financials`
 
 ---
+
+---
+
+## 2026-04-06 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: Geoeconomic Risk & the Chemical Industry Supply Chain
+
+**Date:** 2026-04-06
+**Source:** Marsh — *Geoeconomic Confrontation: What It Means for the Chemical Industry* (April 2026)
+**URL:** https://www.marsh.com/en/industries/chemical/insights/geoeconomic-confrontation-chemical-industry.html
+
+**Summary:**
+The WEF Global Risks Report 2026 identified geoeconomic confrontation — the use of tariffs, export controls, and sanctions as geopolitical weapons — as the top near-term global risk. Chemical manufacturers are uniquely exposed due to: (1) feedstock concentration risk (naphtha, ethane, natural gas, ammonia), (2) energy intensity of production, and (3) long, global supply chains with limited redundancy. The Russia/Ukraine conflict is cited as a real-world case: European gas supply cuts caused chemical plant shutdowns, reduced fertilizer supply, and price spikes. Mitigation strategies include regionalization (plants near customers or stable energy), dual-sourcing key inputs, flexible cracker designs switchable between feedstocks, and long-term LNG/hydrogen contracts. Marsh recommends scenario simulations that explicitly model trade limits, sanctions, and energy price spikes.
+
+**SC Relevance for Quantix:**
+Quantix's customers (chemical manufacturers and plastics producers) face exactly these pressures. Understanding their upstream feedstock vulnerabilities helps anticipate demand shifts in bulk liquid and dry bulk volumes. If a shipper's feedstock sourcing changes geographies, Quantix may need to adjust terminal coverage or route strategy. Also directly relevant to fleet cost modeling — energy price volatility affects diesel, and chemical-sector volume volatility affects fleet utilization planning.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — note compilation date April 2026)
+**Tags:** #risk-management #chemical-industry #geoeconomic #feedstock #tariffs #resilience #bulk-liquid
+
+---
+
+### Insight 2: Supply Chain Risk Mitigation in a High-Tariff Environment (2026)
+
+**Date:** 2026-04-06
+**Source:** ISM Inside Supply Management — *Strategies to Help Mitigate Import Risk and Cost* (March 2026); Gray Group Intl — *Supply Chain Resilience 2026: Navigating the Tariff Storm*
+**URLs:** https://www.ismworld.org/...2026-03/strategies-help-mitigate-import-risk-and-cost/ | https://www.graygroupintl.com/blog/supply-chain-resilience-2026-tariff-strategy/
+
+**Summary:**
+Two separate sources converge on the same finding: supply chains with pre-built geographic diversification absorbed the 2025–2026 tariff shocks far better than concentrated single-source networks. ISM frames this as "sourcing portfolio diversification with accepted higher costs as an insurance premium." Gray Group adds the case observation that firms 100% dependent on Chinese manufacturing were disproportionately disrupted. The recommended framework involves three levers: (1) multi-sourcing with deliberate redundancy, (2) importing components for local assembly rather than importing finished goods, and (3) increasing supply chain visibility through real-time data to enable faster tactical pivots. Ivalua's analysis adds that stockpiling ahead of tariff events — when predictable — can be a short-term buffer, but visibility tech is the long-term answer to tariff agility.
+
+**SC Relevance for Quantix:**
+Quantix's customers (chemical shippers, plastics manufacturers) are the ones making these sourcing pivots. When they shift suppliers geographically, the carrier network implications are significant — new origin/destination pairs, new product profiles, potentially new HAZMAT classifications. This is a shipper engagement intelligence point: conversations about their sourcing diversification plans are actually conversations about future lane development for Quantix. Use this to train account managers on proactive network questions.
+
+**Knowledge Tier:** Mid-frequency (March–April 2026 research; tariff environment is high-frequency/volatile — flag accordingly)
+**Tags:** #risk-management #tariffs #sourcing-diversification #multi-sourcing #resilience #shipper-intelligence #lane-development
+
+---
+
+### Insight 3: Data-Driven Fleet Management — KPIs, Telematics, and the Integrated Safety Stack (2026)
+
+**Date:** 2026-04-06
+**Source:** Transervice — *Fleet Management Solutions: Data, Drivers, and Compliance for a Safer, Leaner 2026* (March 2026); Avaal — *Trucking Software Trends 2026*
+**URLs:** https://www.transervice.ca/blog-fleet-management-canada-2026-safety-compliance/ | https://www.avaal.com/blogs/trucking-software-trends-what-fleets-must-know/
+
+**Summary:**
+The emerging standard for high-performing large fleets in 2026 is a fully integrated fleet management stack: telematics + ELD/HOS analytics + fuel/idle management + driver coaching + preventive maintenance planning — all feeding into a unified continuous improvement loop. The key shift is from treating ELD as a compliance checkbox to using it as a performance data source. Published KPI targets from Transervice's framework:
+- Safety: preventable incidents per million km (or miles)
+- Fuel: litres per 100 km + idle percentage
+- On-time: arrival %, with early/late distribution tracked
+- Maintenance: PM on-time % + road calls per 10,000 km
+
+The Avaal analysis highlights that advanced telematics integrated into a single platform (vs. point solutions) is the differentiating factor — reducing safety incidents, extending vehicle lifespan, and lowering operating cost. The driver coaching loop — where telematics events trigger targeted refreshers rather than punitive action — is identified as best practice for both retention and safety outcomes.
+
+**SC Relevance for Quantix:**
+With 4,500+ trucks and 50+ terminals, Quantix operates at the scale where a 1% improvement in idle time or PM on-time compliance has material P&L impact. The KPI framework above maps directly to what a bulk carrier should be tracking. The integrated stack recommendation is also relevant to Quantix's AI-in-the-loop automation build — telematics data is the raw feed for driver performance AI, predictive maintenance, and dynamic routing. Worth evaluating whether Quantix's current telematics solution feeds a unified platform or requires manual data consolidation across systems.
+
+**Knowledge Tier:** Mid-frequency (March 2026 research — operational best practices are stable, specific tech products are high-frequency)
+**Tags:** #fleet-management #telematics #ELD #safety #continuous-improvement #KPIs #bulk-carrier #driver-coaching #preventive-maintenance
+
