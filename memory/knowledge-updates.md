@@ -2368,3 +2368,161 @@ Multiple industry sources confirm: global freight flows have entered a period of
 **Application for Quantix:** Tariff-driven demand volatility is real and near-term. Quantix's shipper base (chemicals, plastics) is directly in the tariff crossfire — both as importers of feedstocks and exporters of finished product. Intelligence on shipper-side production changes (startups, shutdowns, volume shifts) should flow into capacity planning before it shows up as volume loss. This is a pre-flight risk factor for any 2026 lane pricing or capacity commitment discussions.
 
 ---
+
+---
+
+## 2026-04-03 PM — Knowledge Update Session
+
+### Insight 1: "Total Value" Displacing Resilience as the North Star Metric in Supply Chain Strategy
+
+**Date:** 2026-04-03
+**Source:** KPMG — *Key Supply Chain Trends Shaping 2026* (kpmg.com/us/en/articles/2026/supply-chain-trends-2026.html)
+**Knowledge Tier:** Mid-frequency (research synthesis, April 2026)
+
+**Summary:**
+KPMG's 2026 supply chain trends analysis identifies a strategic inflection point: leading organizations are moving beyond *resilience* as the primary objective toward what they term *Total Value* — a unified lens that integrates Total Experience (customer, employee, partner, digital touchpoints) and Total Performance (operational excellence, cost, adaptability). Key shifts:
+- Supply chain disruption is now structural, not cyclical — planning for volatility is the baseline assumption.
+- AI is moving from pilots to platform, requiring decision governance to scale alongside it.
+- Centralization via Global Business Services (GBS) is accelerating to unlock analytics and automation scale.
+- **New performance metrics** now measure decision quality, adaptability, and value realization — not just cost and fill rate.
+- Tariffs and trade disruption demand digital scenario modeling and integrated landed-cost volatility tracking.
+
+**SC Relevance for Quantix:**
+For a bulk carrier operating across 50+ terminals with 4,500+ trucks, the "Total Value" framing is directly applicable:
+- Terminal network performance should be evaluated on adaptability (how fast can a terminal shift capacity?) not just throughput.
+- AI-driven dispatch and route optimization — currently in evaluation — requires governance frameworks before enterprise rollout.
+- The landed-cost volatility angle is relevant for fuel surcharge modeling and chemical shipper cost structures.
+
+**Tags:** `strategy` `metrics` `AI` `resilience` `GBS` `scenario-planning` `tariffs`
+
+---
+
+### Insight 2: Three-Pillar Framework for Managing Geopolitical Supply Chain Risk (MIT Sloan)
+
+**Date:** 2026-04-03
+**Source:** MIT Sloan Management Review — *Stay Ahead of Geopolitical Supply Chain Risks* (mitsloanme.com/article/stay-ahead-of-geopolitical-supply-chain-risks/)
+**Knowledge Tier:** DC tier (framework-level, stable)
+
+**Summary:**
+MIT Sloan research (13 multinational case studies) surfaces a three-pillar framework for geopolitical supply chain risk management, applicable when conventional risk playbooks (designed for natural disasters and supplier failures) are insufficient:
+
+**Pillar 1 — Understand Geopolitical Signals:**
+- Scenario planning that includes *competitors' supply chain vulnerabilities* (geopolitical disruptions create competitive imbalances)
+- Real-time geopolitical risk monitoring
+- Supply chain modeling with end-to-end visibility — including sub-tier suppliers beyond Tier 1
+
+**Pillar 2 — Develop Anticipatory Strategies:**
+- Create new procurement options before disruption materializes (dual-sourcing, nearshoring pilots)
+- Comprehensive supply chain mapping as the foundation — you cannot manage what you haven't mapped
+
+**Pillar 3 — Adapt and Respond:**
+- Businesses with the strongest outcomes in geopolitical disruptions had *pre-built flexibility* — not just response plans
+
+**Key finding:** "The conventional playbook for managing supply chain risk — designed for natural disasters, supplier failures, and short-term market volatility — is falling short in the face of persistent, politically motivated disruptions."
+
+**SC Relevance for Quantix:**
+Chemical shipping lanes are geopolitically exposed — trade sanctions, port disruptions, and cross-border chemical restrictions can trigger rapid demand shifts. Quantix's shipper base (bulk chemicals and petrochemicals) is highly sensitive to tariff volatility and feedstock trade flows. The framework applies to:
+- Evaluating terminal placement relative to geopolitical exposure (Gulf Coast petrochemical corridors)
+- Building scenario plans for trade route disruptions affecting plastic pellet flows (automotive/resin chains)
+- Recommending this framework to shipper customers as a value-add consulting angle
+
+**Tags:** `risk-management` `geopolitical` `scenario-planning` `resilience` `SCRM` `supply-chain-mapping`
+
+---
+
+### Insight 3: OSHA HazCom 2026 Deadline — November 20 Compliance Date for Revised Chemical Hazard Classification Labels
+
+**Date:** 2026-04-03
+**Source:** Conversion Technology Inc. — *What to Expect in 2026: Manufacturing Safety* (conversiontechnology.com); cross-referenced with EazySAFE chemical safety 2026 review
+**Knowledge Tier:** High-frequency (regulatory/compliance, time-sensitive — active deadline Nov 20, 2026)
+
+**Summary:**
+Two converging regulatory deadlines affect chemical transport and handling operations in 2026:
+
+**1. OSHA HazCom GHS Revision — November 20, 2026:**
+- OSHA's updated Hazard Communication Standard (HazCom 2012 → GHS Rev. 7) requires workplace labels to be updated by **November 20, 2026**.
+- Driver and warehouse training on new hazard classifications must be completed by the same date.
+- Implications for chemical carriers: Safety Data Sheets (SDS), shipping descriptions, and placarding documentation must align with the revised GHS classifications or carriers face citation risk.
+- The "wait and see" approach is now a business liability.
+
+**2. OSHA Heat Standard — New Federal Enforcement:**
+- Federal Heat Injury and Illness Prevention Standard moving to final enforcement in 2026.
+- Two-trigger system (80°F and 90°F Heat Index) activates specific requirements: water access, break areas, acclimatization protocols ("Rule of 20"), mandatory buddy systems at 90°F+.
+- **Direct relevance for terminal operations:** Outdoor loading/unloading at bulk terminals in Texas, Gulf Coast, and Southeast are primary exposure zones.
+
+**Compliance Risk Matrix:**
+| Regulation | Deadline | Risk if Missed | Quantix Exposure |
+|-----------|---------|---------------|-----------------|
+| HazCom GHS Rev. 7 | Nov 20, 2026 | OSHA citation, shipper liability | HIGH — chemical carrier |
+| OSHA Heat Standard | Enforcement ongoing | OSHA citation, workers comp exposure | HIGH — terminal operations |
+
+**SC Relevance for Quantix:**
+- GHS label alignment needs to be embedded in driver pre-trip documentation checklists and terminal SDS libraries.
+- Recommend flagging to Quantix safety/compliance team: **November 20, 2026 is a hard deadline**, not a guideline.
+- Heat standard compliance at 50+ terminals (particularly Gulf Coast) requires documented heat index monitoring protocols — not just posted signs.
+
+**Tags:** `compliance` `OSHA` `HazCom` `GHS` `chemical-transport` `safety` `terminal-ops` `regulatory-deadline`
+
+---
+
+## 2026-04-06 AM — Morning Knowledge Scan
+
+### Insight 1: AI Moves from Planning into Execution — The Q1 2026 Inflection Point
+**Source:** Logistics Viewpoints — "Q1 2026 Supply Chain Trends: Costs Rise, AI Moves Into Execution" (April 1, 2026)
+**Knowledge Tier:** High-frequency (current industry analysis, volatile — reflects Q1 2026 conditions)
+
+The dominant shift in Q1 2026 is not another planning tool — it is AI moving into **execution latency reduction**. Key findings:
+- **The cost floor has reset higher** — transportation, energy, labor, and financing costs are all elevated and the article characterizes this as a "durable shift," not a transitory spike
+- **Disruption is now continuous and overlapping**, not episodic — trade flows, energy markets, and weather variability are creating simultaneous multi-vector shocks
+- **AI investment is migrating from planning (forecasting, demand sensing) into execution** — exception handling automation, real-time decision triggering, reducing the latency between signal and action
+- Leading organizations are **no longer expanding reporting dashboards**; they are enabling systems to *take action* rather than simply surface information
+
+**Why this matters:**
+- APICS CPIM framing: This is the logical next step after demand visibility — closing the loop from "know" to "act" is where the real ROI lives
+- For Quantix: A 4,500-truck OTR network with continuous dispatch decisions is a textbook execution-latency problem. AI that can auto-reroute, auto-assign, and auto-escalate exceptions without dispatcher intervention maps directly to this shift
+- The cost environment described (firming rates, energy volatility) is directly corroborated by Transport Topics' top story this week: Iran conflict driving diesel and ocean freight cost spikes
+
+**Tags:** `AI-execution` `real-time-SC` `cost-environment` `disruption-resilience` `dispatch` `OTR`
+
+---
+
+### Insight 2: The Agentic Supply Chain — Deloitte Defines the Architecture
+**Source:** Deloitte Insights — "Resilient by Design: The Agentic Supply Chain" (April 1, 2026)
+**Knowledge Tier:** Mid-frequency (major consulting synthesis — reflects current enterprise AI adoption trajectory)
+
+Deloitte has published a structured architecture for **agentic supply chains** — AI agents with defined "resumes" (knowledge, skills, tool access) acting as autonomous orchestration layers. Key findings:
+- Agents are differentiated from RPA: they **reason probabilistically across complex conditions** and adapt dynamically, rather than following deterministic scripts
+- Example architecture: an **Inventory Agent** with deep knowledge of inventory positions, service levels, holding costs, and lead-time variability — continuously adjusting safety stock policies within guardrails, escalating only when outside defined thresholds
+- **Domain agents serve as orchestration layers** coordinating task-specific agents, RPA bots, and data retrieval tools across ERP and external systems
+- Gartner cited: **40% of enterprise applications will be integrated with task-specific AI agents by end of 2026**, up from <5% recently
+- Human escalation is preserved for **strategic judgment** — the architecture does not eliminate human oversight, it compresses the routine decision burden
+
+**SC Framework Alignment:**
+- This is the operational realization of the S&OP feedback loop at machine speed — agents enforcing policy within guardrails while surfacing exceptions to humans aligns with APICS' decision hierarchy principles
+- For Quantix: A "Dispatch Agent" with guardrail-governed load assignment, route optimization, and exception escalation is not a future concept — the architecture described here is buildable today with current LLM + ERP integration tooling
+
+**Tags:** `agentic-AI` `AI-agents` `SC-architecture` `inventory-optimization` `dispatch` `ERP-integration` `Deloitte`
+
+---
+
+### Insight 3: Iran Conflict Triggers Diesel Spike and Freight Rate Pressure — April 2026
+**Source:** Transport Topics — Top Story Headline Scan (April 4–6, 2026)
+**Knowledge Tier:** High-frequency (current market data — highly volatile, verify before acting)
+
+A geopolitical shock is hitting transportation costs in real time:
+- **War in Iran is rippling through energy and freight markets** — TT's top story this week: "Diesel prices are climbing, ocean vessels are rerouting and U.S. trucking rates are responding"
+- **Benchmark U.S. crude rose 11.4% to $111.54/barrel**; Brent crude jumped 7.8% to $109.03/barrel
+- **California diesel: $7.219/gallon** as of March 30 — a **44.7% increase** in less than 30 days (from $4.99/gallon on March 2)
+- **Amazon activating a fuel and logistics-related surcharge** on FBA effective April 17 — signals shippers expect this to persist long enough to formalize surcharge recovery
+- **C.H. Robinson offering free fuel cards and cash advances** to carriers — carrier financial stress response emerging
+- Self-driving truck manufacturers (AV companies + OEMs) are simultaneously **preparing factories for mass production of driverless trucks** — the technology response to the structural driver cost problem
+
+**SC Relevance for Quantix:**
+- Bulk chemical/plastic pellet OTR is a fuel-intensive operation. At 4,500 trucks, a $0.50/mile fuel increase (rough estimate from a ~$1.50/gallon diesel rise at ~3 mpg) translates to material cost impact at scale
+- Fuel surcharge matrix should be reviewed — confirm recovery mechanisms are current
+- The AV factory scale-up news is a **3–5 year signal**, not 2026 impact, but it's the strategic hedge the industry is building against recurring driver shortage + fuel volatility cycles
+- Watch: If crude sustains above $110/barrel, expect spot rate firming to accelerate (aligns with Logistics Viewpoints Q1 analysis above)
+
+**Tags:** `diesel-prices` `fuel-surcharge` `geopolitical-risk` `Iran` `OTR-rates` `AV-trucks` `energy-volatility` `carrier-financials`
+
+---
