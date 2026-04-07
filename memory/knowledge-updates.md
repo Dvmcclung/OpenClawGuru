@@ -2586,3 +2586,75 @@ With 4,500+ trucks and 50+ terminals, Quantix operates at the scale where a 1% i
 **Knowledge Tier:** Mid-frequency (March 2026 research — operational best practices are stable, specific tech products are high-frequency)
 **Tags:** #fleet-management #telematics #ELD #safety #continuous-improvement #KPIs #bulk-carrier #driver-coaching #preventive-maintenance
 
+
+---
+
+## 2026-04-07 AM — Morning Knowledge Scan
+
+### Insight 1: AI Shifts from Planning to Execution — The New Competitive Frontier
+**Date:** 2026-04-07
+**Source:** Logistics Viewpoints — *Q1 2026 Supply Chain Trends: Costs Rise, AI Moves Into Execution* (April 1, 2026)
+**URL:** https://logisticsviewpoints.com/2026/04/01/q1-2026-supply-chain-trends-costs-rise-ai-moves-into-execution/
+
+**Summary:**
+The defining AI shift of Q1 2026 is not better forecasting — it's AI moving from planning into execution. For years, most AI investment in supply chains has been concentrated upstream: demand sensing, forecasting, network design. The center of gravity is now moving downstream into real-time execution — transportation routing, inventory rebalancing, exception management, and supplier selection — as conditions change in the field.
+
+The distinction matters: a forecasting model improves a plan but doesn't change outcomes once disruption starts. An execution-oriented system operates within the live flow of events, influencing decisions as conditions evolve. This is the gap organizations are now trying to close. Leading organizations are reducing execution latency by automating exception handling — enabling systems to trigger actions rather than simply surface alerts.
+
+Additional context: the Q1 2026 cost environment did not deliver the stabilization many expected. Transportation costs are firming, energy markets are volatile, labor remains tight, and financing costs are elevated. The cost floor has reset higher across most networks, and early signals suggest it's structural, not a short-term spike. This pressures the case for AI-driven execution efficiency even harder.
+
+**SC Relevance for Quantix:**
+Quantix's AI-in-the-loop automation build is squarely in this space. The industry is validating the thesis that AI execution support — not just AI reporting — is the next value layer. For a 4,500-truck bulk carrier, the highest-value execution AI targets are: (1) real-time load routing and driver assignment, (2) automated detention/delay exception escalation, and (3) dynamic repositioning decisions across 50+ terminals. The warning embedded in the Logistics Viewpoints piece: planning-cycle-oriented organizations will be increasingly misaligned with the operating reality of continuous volatility. Quantix's build-out should prioritize execution triggers over reporting dashboards.
+
+**Knowledge Tier:** High-frequency (April 2026 market analysis — treat as current state, refresh in 90 days)
+**Tags:** #AI #execution #supply-chain-tech #exception-management #routing #real-time #transportation #digital-transformation
+
+---
+
+### Insight 2: U.S. Freight Markets at Multi-Year Highs — Tight Capacity, Rising Rates in Q1 2026
+**Date:** 2026-04-07
+**Source:** IndexBox — *U.S. Freight Data Shows Strong Industrial Economy in Q1 2026* (April 5, 2026); citing AAR, FreightWaves, ATA, Bank of America
+**URL:** https://www.indexbox.io/blog/us-freight-data-shows-strong-industrial-economy-in-q1-2026/
+
+**Summary:**
+Multiple freight data sources are converging on a consistent signal: Q1 2026 represents one of the strongest industrial freight environments in years. Key data points:
+
+- **Rail:** March carloads hit highest level for the month since 2019; third consecutive month of year-over-year gains; chemical shipments set a new weekly average record (Q1 chemical volumes also a record high); intermodal reached second-highest March level on record
+- **Trucking:** Flatbed tender rejection rates elevated (significant capacity tightness); broker-posted load volumes at highest since June 2022; spot rates for dry van and flatbed at multi-year highs; flatbed rates hit an all-time record
+- **ATA For-Hire Truck Tonnage Index:** Surged to its highest level in three years
+- **Manufacturing PMI:** Reached highest reading in more than three years
+- **Trade structure:** Capital goods now a record share of U.S. goods imports; trade deficit for first two months of 2026 substantially lower year-over-year
+
+The picture is broad-based industrial expansion — not a single-sector anomaly.
+
+**SC Relevance for Quantix:**
+Chemical shipments setting rail records is directly relevant — it signals strong underlying demand in Quantix's core customer base (chemical producers and pellet shippers). Tighter trucking capacity and rising spot rates mean Quantix's contract rate positioning matters more, not less. If contract rates trail spot significantly, customers may face pressure to renegotiate — or carriers will see margin erosion on low-rate contracts. This is also a leading indicator for driver recruitment pressure: tight capacity markets historically tighten the labor market for qualified CDL holders. Worth monitoring whether Q2 continues this pattern or if tariff/trade uncertainty creates a demand softening.
+
+**Knowledge Tier:** High-frequency (April 2026 market data — volatile, monitor monthly)
+**Tags:** #freight-rates #trucking #rail #capacity #bulk-chemical #transportation-market #ATA #spot-rates #Q1-2026
+
+---
+
+### Insight 3: The Agentic Supply Chain — Deloitte Defines the Next Architecture
+**Date:** 2026-04-07
+**Source:** Deloitte Insights — *Resilient by Design: The Agentic Supply Chain* (April 2026)
+**URL:** https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/agentic-supply-chain-artificial-intelligence-manufacturing.html
+
+**Summary:**
+Deloitte has published a substantive framework for the "agentic supply chain" — the architecture in which AI agents don't just advise but actively orchestrate supply chain decisions within defined guardrails. This is a significant conceptual evolution beyond traditional AI tools.
+
+Key architectural principles from Deloitte's framework:
+- **Domain agents as orchestration layers:** Specialized agents (e.g., an Inventory Agent, a Transportation Agent) serve as "outcome owners" — enforcing policies and coordinating task-specific sub-agents and tools
+- **Agent "resumes":** Unlike deterministic RPA (rules-based), agents reason probabilistically across complex conditions and adapt dynamically. They have defined knowledge bases, skills, and tool access — analogous to a human specialist's expertise and system permissions
+- **Human role shift:** Humans move from routine execution to oversight, orchestration, and strategic/ethical judgment. The human-agent interface moves beyond dashboards to real-time conversational and embedded copilot interactions
+- **Escalation guardrails:** High-impact trade-offs or actions outside defined parameters are escalated to humans — keeping accountability clear
+- **Gartner data point embedded in article:** 40% of enterprise applications will be integrated with task-specific AI agents by end of 2026, up from less than 5% today
+
+The framework distinguishes between: always-on domain agents (strategic outcome owners), task-specific sub-agents (bounded execution), and cross-functional agents (risk intelligence and governance across planning, finance, and operations).
+
+**SC Relevance for Quantix:**
+This is the architectural language for what Quantix is building. Dale's AI-in-the-loop automation initiative maps directly onto the agentic supply chain model — with Thea and specialist agents (including this one) functioning as the domain agent layer. The Deloitte framework validates the design direction and provides vocabulary for explaining it to PE owners, customers, or prospective partners. Key takeaway: the differentiation between **RPA (rules-based, deterministic)** and **agentic AI (probabilistic, adaptive, context-aware)** is exactly the distinction Quantix should be drawing when positioning its tech stack. Worth considering whether Quantix's current automation builds are being documented in the agentic framework language — it matters for valuation and partnership conversations.
+
+**Knowledge Tier:** Mid-frequency (Deloitte Insights, April 2026 — framework is durable, specific technology references are high-frequency)
+**Tags:** #agentic-AI #supply-chain-architecture #AI-agents #orchestration #Deloitte #digital-transformation #RPA #human-in-the-loop #technology-strategy
+
