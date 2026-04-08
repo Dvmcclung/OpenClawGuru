@@ -2759,3 +2759,80 @@ With 50+ terminals handling bulk chemicals and plastic pellets, this framework i
 **Knowledge Tier:** Mid-frequency (practitioner framework, operationally stable; regulatory references should be verified for current PHMSA/EPA requirements)
 **Tags:** #bulk-logistics #chemical-transport #terminal-operations #safety-management #transloading #SOPs #preventative-maintenance #spill-prevention #Quantix-applicable #OSHA #EPA #operations-excellence
 
+
+---
+
+## 2026-04-08 AM — Morning Knowledge Scan
+
+### Insight 1: AI Shifts from Planning Support to Active Execution — Q1 2026 Inflection Point
+**Source:** Logistics Viewpoints — "Q1 2026 Supply Chain Trends: Costs Rise, AI Moves Into Execution" (April 1, 2026)
+**Knowledge Tier:** High-frequency (current industry analysis, Q1 2026 reporting period)
+
+The dominant story of Q1 2026 is not AI in forecasting — that's been table stakes for 2–3 years. The shift is AI entering the execution layer: real-time transportation routing, inventory rebalancing, exception management, and aspects of supplier selection. This is a transition from **advisory** (AI improves a plan) to **execution support** (AI influences outcomes as conditions evolve in real time).
+
+Three concurrent pressures are driving this:
+- **Cost floor reset at a higher structural level** — transportation costs firming, energy volatile, labor tight; this is described as a durable shift, not a spike
+- **Volatility is now continuous, not episodic** — geopolitical sensitivity in trade flows, overlapping disruptions, faster decision cycles required
+- **Planning-cycle assumptions degrade faster** — traditional plan-then-react model is misaligned with the operating environment; manual coordination is a constraint
+
+Key quote: *"Leading organizations are focusing less on expanding reporting capabilities and more on reducing execution latency."*
+
+**SC Relevance for Quantix:**
+- Over-the-road bulk trucking operates in exactly this environment — real-time dispatching decisions (load, route, terminal allocation) are where execution AI has immediate ROI
+- For a 4,500-truck fleet, reducing exception-handling latency (empty repositioning, load rejections, equipment breakdowns) by even 15–20 minutes per event compounds significantly across daily volume
+- TMS platforms with embedded AI routing are the near-term leverage point — Quantix should evaluate whether current TMS is positioned to receive AI-execution capability or requires replacement/augmentation
+- The distinction matters: buying an AI forecasting tool is incremental; deploying AI in dispatch execution is operational redesign
+
+**Tags:** #AI-execution #TMS #dispatch-optimization #cost-pressure #supply-chain-volatility #execution-latency #Quantix-applicable #technology-investment #transportation-management
+
+---
+
+### Insight 2: Agentic AI Architecture Emerging as the New SC Operating Model — Deloitte Framework
+**Source:** Deloitte Insights — "Resilient by Design: The Agentic Supply Chain" (Published ~April 2026)
+**Knowledge Tier:** Mid-frequency (consulting synthesis/framework, will evolve with adoption data)
+
+Deloitte has formalized the "agentic supply chain" concept: purpose-built AI agents with defined domains, tools, and guardrails operating as an orchestration layer across enterprise systems — not as chatbots or dashboards, but as governed autonomous actors. By end of 2026, Gartner (cited in the piece) projects **40% of enterprise applications will be integrated with task-specific AI agents**, up from <5% currently.
+
+The framework distinguishes three agent types:
+1. **Domain agents** — outcome owners for a function (inventory, transportation, sourcing); continuously sense and act within defined thresholds
+2. **Task-specific agents** — bounded execution (data retrieval, analysis, RPA-style actions across systems of record)
+3. **Cross-functional agents** — enterprise risk intelligence and governance (finance, operations, planning aligned)
+
+Human role shifts from **routine execution → oversight, orchestration, and strategic judgment**. Interface shifts from static dashboards to dynamic, real-time collaboration (conversational, voice, embedded copilots).
+
+Concrete example cited: an Inventory Agent with deep knowledge of service levels, holding costs, lead-time variability, and stockout risk; auto-adjusting safety stock within guardrails; escalating high-impact trade-offs to humans.
+
+**SC Relevance for Quantix:**
+- This is the architectural model Dale is building toward at Quantix — this Deloitte framework validates the approach and provides a vocabulary for presenting it to PE leadership
+- For a bulk carrier: **Dispatch Agent** (routing + load optimization), **Maintenance Agent** (predictive failure + PM scheduling), and **Terminal Agent** (throughput optimization, dwell time reduction) are natural domain-agent candidates
+- Key design principle from the framework: agents should have defined guardrails with human escalation for strategic judgment — this is the governance structure that will matter most for PE ownership sign-off
+- The 40% enterprise integration projection is an adoption signal worth tracking quarterly — it sets a timeline for when this becomes table-stakes vs. competitive differentiation
+
+**Tags:** #agentic-AI #AI-agents #supply-chain-architecture #Deloitte #autonomous-operations #orchestration #governance #Quantix-applicable #enterprise-AI #technology-strategy #PE-context
+
+---
+
+### Insight 3: Mexico Truckers' Strike + Diesel Surge = Compounding Capacity Shock in April 2026
+**Source:** FreightWaves — "State of the Industry: April 2026" white paper (Ryder/FreightWaves, April 2026) + FreightWaves trucking news feed (April 7–8, 2026)
+**Knowledge Tier:** High-frequency (current market conditions — verify before using in rate negotiations)
+
+Two simultaneous shocks hitting the transportation market heading into Q2 2026:
+
+**1. Mexico truckers' strike fracturing cross-border freight routes** — A nationwide strike by Mexican truckers is blocking key freight corridors. This is a direct capacity shock to North American supply chains that rely on nearshoring (reshored manufacturing from China to Mexico). At the same time, tariff uncertainty is already showing up in customs data across North America.
+
+**2. Diesel prices surged >$1/gallon in early March** due to geopolitical conflict, squeezing carrier margins — particularly in contract freight. This is compounding against an already tight capacity environment:
+- Tender rejection rates elevated (~14%) — carriers are declining contract loads in favor of higher-paying spot
+- Spot rates rising as a result
+- Midwest significantly tighter than West Coast
+- Domestic intermodal up ~3% YoY (cost/service advantage vs. truckload), absorbing some overflow
+
+**The structural diagnosis:** Freight demand is modestly higher YoY but not a strong breakout — the tightness is driven more by capacity discipline and rejection rates than by demand surge. Container import volumes are soft; geopolitical disruption and tariff uncertainty are depressing international flows.
+
+**SC Relevance for Quantix:**
+- Diesel spike is a direct P&L impact for a 4,500-truck fleet — $1/gallon × fleet size × annual mileage is a material number; fuel surcharge recovery mechanisms should be reviewed now
+- Mexico freight disruption affects chemical and polymer supply chains (significant feedstocks move across the US-Mexico border) — Quantix customers sourcing from Mexican facilities may see inbound supply disruption
+- The ~14% tender rejection rate is a benchmark for Quantix's own carrier network performance — if Quantix is operating below this, they have a capacity reliability advantage worth surfacing to customers
+- Intermodal growth signal: for longer-haul plastic pellet moves, intermodal may be increasingly competitive vs. over-the-road this cycle — worth evaluating lane by lane
+
+**Tags:** #diesel-prices #capacity-tightness #Mexico-freight #tender-rejections #spot-rates #intermodal #tariffs #nearshoring #cross-border #Quantix-applicable #Q2-2026 #carrier-margins #fuel-surcharge
+
