@@ -2836,3 +2836,36 @@ Two simultaneous shocks hitting the transportation market heading into Q2 2026:
 
 **Tags:** #diesel-prices #capacity-tightness #Mexico-freight #tender-rejections #spot-rates #intermodal #tariffs #nearshoring #cross-border #Quantix-applicable #Q2-2026 #carrier-margins #fuel-surcharge
 
+
+---
+
+## 2026-04-08 — Morning Knowledge Update (Cron)
+
+### Insight 1: Agentic AI Moving from Planning to Execution in Supply Chains
+**Date:** 2026-04-08
+**Source:** Clarkston Consulting — *2026 Supply Chain Trends Report* (clarkstonconsulting.com)
+**Summary:** In 2026, AI adoption in supply chain is shifting from decision-support (recommendations for planners) to autonomous execution via agentic AI. Rather than surfacing exceptions for human review, agentic systems are beginning to revise orders, adjust production schedules, and carry out operational decisions independently. Data quality and analytics maturity are prerequisite — organizations must invest in data engineering and governance before realizing this shift. Cybersecurity risk and network optimization for agility round out the top three trend areas.
+**SC Relevance:** High. For Quantix, agentic AI in dispatch and load planning could reduce touchpoints in high-volume terminal operations. The prerequisite data governance point is a realistic constraint — most bulk carriers are not yet at the maturity level required. Priority: assess data readiness before pursuing autonomous execution use cases.
+**Knowledge Tier:** High-frequency (current, 2026 analyst output — treat as directional, verify recency)
+**Tags:** AI, agentic-AI, planning, execution, data-governance, supply-chain-technology, digital-transformation
+
+---
+
+### Insight 2: Tariff Volatility Demands Sub-Tier Supplier Visibility and Scenario Planning
+**Date:** 2026-04-08
+**Source:** Ivalua — *How Tariffs and Trade Policy Shifts Impact Procurement and Supply Chains in 2026* (ivalua.com); Thomson Reuters Global Trade Report 2026
+**Summary:** Ongoing tariff escalation (steel, aluminum, consumer goods; US-China trade tensions) has converted supply chain optimization from a cost exercise into a systemic resilience question. Key findings: (1) Sub-tier supplier mapping is now essential — you cannot manage tariff exposure you cannot see. (2) Scenario planning tools that model multiple tariff states are becoming standard in best-practice procurement functions. (3) Thomson Reuters' 2026 Global Trade Report confirms tariff disruption has shifted strategic priorities enterprise-wide. Tactics include free trade zones, tariff drawback, tariff engineering, and supplier geographic diversification.
+**SC Relevance:** Moderate-high. Quantix's primary exposure is domestic bulk — not import-dependent — but chemical customers are heavily impacted by tariffs on petrochemical inputs and trade policy. Understanding customer supply chain stress is relevant to demand planning and contract renewal conversations. Sub-tier visibility frameworks are applicable to Quantix's own vendor base (equipment, parts, fuel).
+**Knowledge Tier:** High-frequency (current market conditions, volatile — flag before citing specific tariff rates)
+**Tags:** tariffs, trade-policy, procurement, risk-management, supplier-visibility, sub-tier, scenario-planning, geopolitical-risk
+
+---
+
+### Insight 3: Chemical Supply Chain Strategy — 2026 Pressures and Resilience Framework
+**Date:** 2026-04-08
+**Source:** Porter Logistics — *How to Strengthen Your Chemical Supply Chain Strategy* (porter-logistics.com); Deloitte 2026 Chemical Industry Outlook
+**Summary:** Chemical supply chains in 2026 face a convergence of: softened demand, overcapacity, market volatility from trade tensions, strict PHMSA/OSHA regulatory requirements, and environmental/reputational risk. Deloitte's 2026 Chemical Industry Outlook confirms chemical companies are prioritizing operational efficiency, margin improvement, and demand adaptability. Key strategy elements for resilience: (1) Regulatory compliance infrastructure (PHMSA hazmat, OSHA warehousing) as a baseline competitive requirement — not optional. (2) Real-time visibility and predictive tools to convert reactive problem-solving into forward-looking risk mitigation. (3) Sustainability integration — route optimization, load consolidation, waste reduction — increasingly required by chemical shippers as part of carrier qualification. (4) A streamlined SC strategy reduces disruption exposure even when external shocks (raw material shortage, tariffs, labor strikes, natural disasters) cannot be prevented.
+**SC Relevance:** Direct. Quantix operates in the bulk chemical carrier space. Chemical shipper customers are under margin pressure in 2026 — which means they will scrutinize carrier costs, compliance track records, and sustainability credentials more aggressively. PHMSA compliance as a competitive differentiator (not just a cost) is the key framing. Route optimization and load consolidation opportunities at terminal level align with Quantix's operational improvement agenda.
+**Knowledge Tier:** Mid-frequency (analyst synthesis + current market context — relatively stable frameworks, volatile market data)
+**Tags:** chemical-logistics, bulk-transport, PHMSA, regulatory-compliance, resilience, sustainability, Deloitte, market-pressure, carrier-qualification
+
