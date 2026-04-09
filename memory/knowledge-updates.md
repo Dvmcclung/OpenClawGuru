@@ -2869,3 +2869,113 @@ Two simultaneous shocks hitting the transportation market heading into Q2 2026:
 **Knowledge Tier:** Mid-frequency (analyst synthesis + current market context — relatively stable frameworks, volatile market data)
 **Tags:** chemical-logistics, bulk-transport, PHMSA, regulatory-compliance, resilience, sustainability, Deloitte, market-pressure, carrier-qualification
 
+
+---
+
+## 2026-04-08 PM — Evening Knowledge Update
+
+### Insight 1: Cumulative Capabilities as the Real Driver of Operational Improvement
+**Source:** Harvard Business Review, March 16, 2026 — "4 Capabilities that Drive Operational Improvement"
+**URL:** https://hbr.org/2026/03/4-capabilities-that-drive-operational-improvement
+**Summary:** Research across banking/financial services shows that companies adopting identical Lean/Six Sigma/OpEx practices produce wildly different outcomes. Winners (Bank of America, HSBC) succeeded by building *cumulative capabilities* — a deliberate sequence of interlinked competencies stacked on each other, enabling continuous anticipation and adaptation. Losers (RBS, Westpac) ran fragmented, standalone improvement cycles that never compounded. Success is not about *which* tools you deploy — it's about the sequence and integration of capability development.
+**SC Relevance:** Directly applicable to any continuous improvement program at Quantix. Isolated DMAIC projects that don't feed a broader organizational learning stack will plateau. The implication: improvement initiatives need a capability-building roadmap, not just a project pipeline. Each project should scaffold the next.
+**Knowledge Tier:** Mid-frequency (research synthesis — March 2026)
+**Tags:** #process-improvement #lean-six-sigma #organizational-capability #DMAIC #operational-excellence #HBR
+
+---
+
+### Insight 2: Supply Chain Disruption Preparedness — The Shift from Efficiency to Adaptability
+**Source:** Scope Recruiting, April 2026 — "How to Prepare for Supply Chain Disruptions in 2026: 10 Leaders Share What They Are Doing Now"
+**URL:** https://www.scoperecruiting.com/blog/supply-chain-disruption-preparedness-2026
+**Summary:** Ten operations/logistics leaders describe how they are structuring resilience in 2026. Core themes: (1) **Sourcing corridor remapping** — moving from single-hub Asia sourcing to China+1 (Vietnam, India) with bonded warehouse agreements and pre-cleared customs. (2) **Dual-supplier dashboards** with automated delay alerts. (3) **Digital twin scenario simulation** to pre-test disruption response before events occur. (4) **Systems integration first** — resilience is downstream of a unified data view. (5) **Fire drills on backup plans** — having a plan on paper is not sufficient; it must be tested under realistic conditions. The fundamental strategic shift: lowest-cost routing is obsolete as the primary optimization target; most-*adaptable* routing is the new benchmark.
+**SC Relevance:** The "fire drill" principle applies directly to Quantix's terminal and routing contingency plans. With 50+ terminals, documented reroute protocols should be tested, not assumed. Dual-carrier backup strategies at key chemical shippers are worth evaluating. The digital twin concept is also relevant to the AI-in-the-loop work Dale is building.
+**Knowledge Tier:** High-frequency (practitioner synthesis — April 2026, volatile)
+**Tags:** #risk-management #resilience #disruption-preparedness #digital-twin #multi-sourcing #contingency-planning #quantix-relevant
+
+---
+
+### Insight 3: PHMSA HM-266 ANPRM — Driverless Hazmat Trucking Enters Federal Rulemaking
+**Source:** Tank Transport Insider, January 2026 — "Driverless Hazmat Trucking: 9 Critical Operational Takeaways for Hazmat Fleets From PHMSA's HM-266 ANPRM"
+**URL:** https://tanktransport.com/2026/01/driverless-hazmat-trucking/
+**Summary:** PHMSA issued an Advance Notice of Proposed Rulemaking (ANPRM, Docket PHMSA-2024-0064, HM-266) in December 2025 asking how Hazardous Materials Regulations should function when no human operator is present at the vehicle. This is not an approval or a ban — it is the formal regulatory scoping process. Key questions being asked: who presents electronic shipping papers, who secures a scene, who detects leaks, who communicates with first responders, who is accountable for actions previously performed by a trained hazmat driver? The ANPRM applies across the full automation spectrum — small robots through large freight vehicles. Comments were due March 4, 2026. First high-impact modernization areas flagged: electronic shipping papers, remote emergency response information access, cybersecurity of telematics workflows, and "hazmat employee" definition extension to remote operations center staff.
+**SC Relevance:** High-relevance for Quantix. As a bulk chemical and plastic pellet carrier with 4,500+ trucks, any shift in how PHMSA defines hazmat employee obligations, accountability, and compliance documentation directly affects Quantix's operational and regulatory posture. Even if full autonomous hazmat trucking is years away, the documentation modernization (electronic shipping papers, digital ERI) is near-term and actionable. Quantix should have been tracking the comment window. Watch for NPRM following this ANPRM.
+**Knowledge Tier:** High-frequency (active regulatory development — January 2026, volatile)
+**Tags:** #hazmat #PHMSA #regulatory #autonomous-vehicles #bulk-chemical #tanker #compliance #quantix-relevant #ELD #electronic-documentation
+
+
+---
+
+## 2026-04-09 AM — Morning Knowledge Scan
+
+### Insight 1: U.S. Freight Market Hits Multi-Year Highs in Q1 2026 — Capacity Tightening Accelerates
+**Source:** IndexBox / Association of American Railroads / ATA For-Hire Truck Tonnage Index (April 5, 2026)
+**Knowledge Tier:** High-frequency (current market data — volatile, verify before acting)
+
+U.S. freight indicators across both rail and trucking surged in Q1 2026:
+- **Rail carloads** in March reached the highest level for that month since **2019**, with Q1 total carloads also highest since 2019 — third consecutive month of YoY gains
+- **Chemical rail shipments** set a new weekly average record in March; Q1 chemical volumes also hit a record high *(directly relevant to Quantix's customer base)*
+- **Flatbed spot rates** hit an all-time record; dry van spot rates at multi-year highs
+- **ATA For-Hire Truck Tonnage Index** surged to its highest level in **three years**
+- **Broker-posted load volumes** reached highest level since June 2022
+- Flatbed tender rejection rates remain elevated — significant capacity tightness for industrial goods hauling
+
+Context from Great American Insurance (freight market outlook, 2026): Despite the Q1 surge, the structural backdrop is constrained — carrier exits, reduced fleet investment, persistent driver shortage, and regulatory changes restricting new CDL entrants. Analysts expect only *gradual* normalization by mid-2026, not a sharp rate cycle recovery.
+
+**Application for Quantix:** 
+- Chemical rail volumes at record highs = Quantix customers are moving more product → volume opportunity
+- Flatbed capacity tightness benefits tank/bulk specialists who aren't competing in that space
+- Tightening carrier capacity + driver shortages keep rate pressure on trucking broadly → favorable for carriers with stable fleets
+- Watch the Texas/Southeast freight-dense regions for rate volatility (Quantix's core geography)
+
+**Tags:** `freight-market` `trucking-rates` `chemical-logistics` `capacity` `driver-shortage` `quantix-relevant`
+
+---
+
+### Insight 2: Agentic AI Emerges as Next Inflection Point in Supply Chain Autonomy
+**Source:** Boston Institute of Analytics — "Agentic AI In Supply Chains: Use Cases, Benefits & Future Trends" (April 6, 2026)
+**Knowledge Tier:** Mid-frequency (research synthesis — monitor for validated deployments)
+
+Agentic AI — AI systems designed to act *independently* within defined operational boundaries — is moving from concept to deployment in supply chain management:
+- Global Agentic AI market projected to exceed **$120 billion by 2030**, driven by LLM maturation and automation demand
+- **Supplier relationship management** ranked as the #1 use case for Agentic AI in supply chains
+- Key distinction from previous AI wave: prior tools surfaced information for human decision-making; Agentic AI *executes decisions* — rerouting shipments in real time when disruptions are detected, without waiting for human escalation
+- Supply chains with clean data infrastructure (integrated TMS/WMS) are significantly better positioned to realize autonomy benefits — organizations running AI initiatives are investing simultaneously in **logistics software foundations**
+
+**APICS Framework Context:**  
+This maps directly to the SCOR model's *Execute* processes. Agentic AI at the execution layer (transportation execution, warehouse task assignment, supplier order release) is the next evolution — moving from decision *support* to decision *execution*. The risk vector is governance: autonomous decisions require pre-defined exception thresholds and human override protocols.
+
+**Application for Quantix:**  
+- Load assignment and driver dispatch are natural early-stage Agentic AI targets in a 4,500-truck fleet
+- Supplier/carrier SRM automation (rate confirmation, capacity allocation) maps directly to the #1 use case
+- Pre-requisite: clean, integrated data flows across TMS, terminal systems, and load planning tools — assess data readiness before autonomy investment
+- Flag: governance framework needed before deployment — define decision boundaries explicitly
+
+**Tags:** `agentic-ai` `automation` `TMS` `dispatch` `decision-execution` `technology-trend` `quantix-relevant`
+
+---
+
+### Insight 3: Hyper-Automation and Reverse Logistics Leading 2026 Logistics Innovation Agenda
+**Source:** OpenPR / WebKorps — "The Future of Logistics in 2026: 5 Key Trends Redefining the Global Supply Chain" (April 2, 2026)
+**Knowledge Tier:** Mid-frequency (industry synthesis — directional, not statistically validated)
+
+Two standout trends from the 2026 logistics innovation landscape:
+
+**1. Hyper-Automation ('Simple Robots' → Full Autonomy)**
+The framing has shifted from "robots assist humans" to "fully autonomous operations within defined zones." In warehousing, AMRs (Autonomous Mobile Robots) now use ML to optimize pathing in real time, reducing dwell time and increasing throughput without adding headcount. The 2026 headline: *visibility, agility, and sustainability are foundational metrics of survival* — not differentiators.
+
+**2. Reverse Logistics Innovation**
+Logistics companies are increasingly accountable not just for forward delivery but for *retrieval* — used products, packaging, and materials for recycling/refurbishment. This is where cost-model innovation is happening in 2026:
+- Driven by ESG mandates, circular economy regulations, and customer expectations
+- Reverse logistics networks require fundamentally different routing, condition-assessment, and disposition logic vs. forward supply chains
+- For bulk/chemical carriers: think solvent recovery, container cleaning, residue disposal routing — emerging as a differentiator for specialty carriers
+
+**Lean Six Sigma Overlay:**  
+Reverse logistics is a classic *non-value-added* flow that has historically been treated as overhead. When treated as a designed process (DMAIC-able, measurable), it becomes a margin-recovery and sustainability-credentialing opportunity.
+
+**Application for Quantix:**  
+- Hyper-automation in fleet operations (automated load tendering, autonomous dispatch confirmation) aligns with Quantix's scale economics
+- Reverse logistics play: container/tanker cleaning routing and scheduling is an underutilized optimization surface — apply process design thinking
+- Sustainability credentials from structured reverse logistics processes increasingly required by chemical shipper RFPs
+
+**Tags:** `automation` `reverse-logistics` `AMR` `sustainability` `warehouse` `circular-economy` `process-improvement`
+
