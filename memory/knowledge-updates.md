@@ -2979,3 +2979,85 @@ Reverse logistics is a classic *non-value-added* flow that has historically been
 
 **Tags:** `automation` `reverse-logistics` `AMR` `sustainability` `warehouse` `circular-economy` `process-improvement`
 
+
+---
+
+## Knowledge Update — 2026-04-09 (Evening)
+
+**Focus Areas:** Process Improvement Case Studies | Supply Chain Risk Management | Bulk/Chemical Logistics Safety
+
+---
+
+### Insight 1: Green Lean Six Sigma (GLSS) Applied to Supply Chain — ROP Optimization Case Study
+
+**Date:** 2026-04-09
+**Source:** *Taylor & Francis / Production Planning & Control* — "Green Lean Six Sigma for multidimensional performance improvement: a case study on supply chain management" (pub. ~March 2026)
+**URL:** https://www.tandfonline.com/doi/full/10.1080/19397038.2026.2644657
+
+**Summary:**
+A peer-reviewed case study demonstrating the GLSS (Green Lean Six Sigma) framework applied to Reorder Point (ROP) optimization and spare parts availability. The framework combines environmental sustainability metrics with traditional DMAIC structure to deliver multidimensional performance improvement — not just cost/cycle time, but also carbon and waste dimensions. Key finding: the GLSS framework's methodological structure is transferable to demand planning, supplier management, and logistics optimization beyond its original application context.
+
+**SC Relevance:**
+- Classic LSS problem (ROP optimization for spare parts = safety stock + lead time math) elevated by adding a green/sustainability lens
+- For Quantix: spare parts inventory for a 4,500-truck fleet is a real optimization target — ROP modeling for consumables (tires, hoses, fittings, pump components) could yield both cost and downtime reduction
+- GLSS framework applicable to tanker cleaning chemical consumption and waste — sustainability credential + cost reduction simultaneously
+- Reinforces APICS CPIM principle: safety stock is a function of demand variability + lead time variability — attacking both variables with DMAIC is the correct approach
+
+**Knowledge Tier:** DC (peer-reviewed framework) — cite directly
+**Tags:** `lean-six-sigma` `GLSS` `DMAIC` `ROP` `inventory-optimization` `spare-parts` `sustainability` `process-improvement` `case-study`
+
+---
+
+### Insight 2: 2026 SCRM Shift — From Reactive Response to Proactive Resilience Architecture
+
+**Date:** 2026-04-09
+**Source:** Ivalua Blog, "Mastering Supply Chain Risk Management: Strategies & Solutions" (updated April 2026); corroborated by SCOPE Recruiting expert panel "Preparing for 2026 Supply Chain Disruptions: 10 Leaders Share What They Are Doing Now"
+**URLs:** https://www.ivalua.com/blog/supply-chain-risk-management/ | https://www.scoperecruiting.com/blog/supply-chain-disruption-preparedness-2026
+
+**Summary:**
+Two converging data points define the 2026 SCRM posture shift:
+
+1. **70% of organizations** are now prioritizing supply chain visibility and resilience as key areas for technology investment — the visibility gap is the risk gap.
+2. Practitioner consensus from 10 operations leaders: the old single-source, least-cost optimization model is broken. Winning playbook elements:
+   - **Remap sourcing corridors** before the next port closes (proactive, not reactive)
+   - **Dual-supplier strategy + early warning dashboard** to catch delays before they cascade
+   - **Digital twin disruption simulation** — run fire drills on your supply chain before the real event
+   - **Unified data view first** — resilience cannot be architected on fragmented systems
+   - **Document every role before someone leaves** — talent continuity is supply chain risk
+
+**SC Relevance:**
+- For bulk chemical carriers: sourcing corridor remapping = lane and terminal coverage analysis — which lanes have single-carrier dependency? Which terminals have no backup routing?
+- Digital twin application for Quantix: simulate a terminal outage, driver shortage, or route closure against current dispatch model — where do loads strand?
+- Talent continuity risk is acute in specialized bulk/hazmat driver pools — documented succession protocols are a supply chain risk mitigation tool, not just HR
+- APICS CSCP alignment: supply chain design must account for disruption scenarios as a design input, not an afterthought
+
+**Knowledge Tier:** Mid-frequency (practitioner synthesis, April 2026) — note compilation date
+**Tags:** `risk-management` `SCRM` `resilience` `digital-twin` `visibility` `dual-sourcing` `disruption-prep` `talent-risk` `bulk-chemical`
+
+---
+
+### Insight 3: Bulk Storage & Transloading Safety — The SOP-First Foundation
+
+**Date:** 2026-04-09
+**Source:** Twin Eagle Terminals & Logistics, "Best Safety Practices in Bulk Storage & Transloading" (pub. ~March 2026)
+**URL:** https://teterminals.com/best-safety-practices-in-bulk-storage-transloading/
+
+**Summary:**
+A practitioner-authored breakdown of non-negotiable safety infrastructure for bulk chemical and commodity transloading operations. Five foundational practices identified:
+
+1. **SOPs as the consistency backbone** — documentation defines how materials are received, how transfers between trucks/railcars occur, how equipment is operated, and what to do when something goes wrong. Without SOPs, you don't have a safety program, you have a collection of individual habits.
+2. **Ongoing employee training** — not a one-time compliance event. The emphasis is on *hazard recognition* before incidents, not just incident response after.
+3. **Preventative maintenance cadence** — pumps, hoses, valves, loading systems. The failure pattern is clear: deferred PM → early failure warning missed → leak/disruption. PM programs are an investment in operational continuity, not just safety compliance.
+4. **Spill prevention architecture** — secondary containment, overfill protection, spill response kits pre-positioned. Secondary containment is the environmental backstop when the primary system fails.
+5. **PPE as non-negotiable standard** — not optional by job role, not situational. Gloves, goggles, protective clothing, steel-toe boots minimum.
+
+**SC Relevance:**
+- Directly applicable to Quantix terminal operations across 50+ facilities
+- The SOP point aligns with Lean's standardized work principle — you cannot improve what is not standardized, and you cannot stay safe without it
+- Preventative maintenance framing maps to Overall Equipment Effectiveness (OEE) — unplanned downtime from failed loading equipment at a terminal is a throughput loss and a safety event simultaneously
+- Secondary containment standards are increasingly a shipper qualification requirement in chemical carrier RFPs — this is a compliance-to-competitive differentiator arc
+- Training cadence = a Lean operational discipline, not just a safety checkbox. Build it into the terminal management cadence as a recurrent structured event
+
+**Knowledge Tier:** DC (operational best practice, stable) — cite directly
+**Tags:** `bulk-chemical` `terminal-operations` `safety` `SOP` `preventative-maintenance` `transloading` `spill-prevention` `PPE` `compliance` `lean-standardized-work`
+
