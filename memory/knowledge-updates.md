@@ -3061,3 +3061,81 @@ A practitioner-authored breakdown of non-negotiable safety infrastructure for bu
 **Knowledge Tier:** DC (operational best practice, stable) — cite directly
 **Tags:** `bulk-chemical` `terminal-operations` `safety` `SOP` `preventative-maintenance` `transloading` `spill-prevention` `PPE` `compliance` `lean-standardized-work`
 
+
+---
+
+## 2026-04-10 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Is Crossing the Threshold from Experiment to Operations in Procurement
+**Date:** 2026-04-10
+**Source:** SupplyChainBrain / Think Tank — "Why 2026 Is the Year of AI Agents for Autonomous Procurement" (April 6, 2026)
+**URL:** https://www.supplychainbrain.com/blogs/1-think-tank/post/43687-why-2026-is-the-year-of-ai-agents-for-autonomous-procurement
+
+**Summary:**
+The structural shift: AI in procurement is no longer chatbots and dashboards — it's *agentic* AI that maintains persistent project state, coordinates across specialized sub-agents (sourcing, legal, risk, negotiation), and executes without human initiation at every step. Key data points:
+
+- Generative AI adoption in procurement nearly **doubled from 50% to 94%** between 2023 and 2024 (AI at Wharton research), making procurement the #1 enterprise function for AI adoption — ahead of product development, marketing, and operations
+- Procurement workloads projected to increase **10%** while budgets grow only **1%** — creating a 9% efficiency gap that only technology can close (Hackett Group 2025 Key Issues Study)
+- **64%** of procurement leaders expect AI to fundamentally change how their teams operate within five years
+- The agent model differs from chatbot in one critical way: **permanent project state**. A sourcing event that pauses for two weeks resumes with full context intact — budget, stakeholders, evaluation criteria, negotiation history.
+- Multi-agent architectures are emerging: specialized agents for discrete procurement sub-functions that collaborate autonomously across the lifecycle
+
+**SC Relevance:**
+- For Quantix, the most immediate application is **carrier procurement and contract management** — fleet of 4,500+ trucks means significant ongoing carrier relationship management, contract milestone tracking, and rate anomaly detection
+- The 9% efficiency gap framing is directly applicable: if Quantix procurement headcount stays flat but transaction volume grows with fleet expansion, agentic tools are not optional — they're the arithmetic solution
+- Bulk chemical carrier procurement has regulatory complexity (HazMat compliance, carrier qualification, insurance verification) that multi-agent architectures could handle as specialized sub-agents
+- **Caution:** The gap between adoption (94%) and transformation is real. Deploying generative AI for document summarization is not the same as deploying agentic systems that execute. Separate these in conversations with leadership.
+
+**Knowledge Tier:** High-frequency (current market data, 2026) — volatile; flag compilation date when citing
+**Tags:** `agentic-ai` `procurement` `autonomous-operations` `ai-adoption` `carrier-management` `digital-transformation` `quantix-relevant`
+
+---
+
+### Insight 2: FedEx Freight Spinoff Sets LTL Market Benchmarks — Operating Margin Target of 12%
+**Date:** 2026-04-10
+**Source:** CNBC — "FedEx trucking spinoff targets 2026 operating margin of 12%" (April 8, 2026)
+**URL:** https://www.cnbc.com/2026/04/08/fedex-trucking-spinoff-targets-2026-operating-margin-of-12percent.html
+
+**Summary:**
+FedEx Freight is spinning out as an independent publicly listed company on **June 1, 2026** — becoming the largest standalone LTL provider in the U.S. Key metrics from the first investor day:
+
+- **Revenue target:** $8.7B with **adjusted operating income of $1.1B** → **12% operating margin** for 2026
+- **Medium-term growth targets:** Revenue +4–6% annually, core profit +10–12% annually
+- Competes directly with XPO, Saia, and Old Dominion Freight Line
+- Analyst thesis: FedEx Freight's assets were undervalued inside FedEx; independence allows it to expand more aggressively in LTL
+- Headwinds noted: **higher U.S. diesel prices** are delaying the broader trucking industry turnaround and squeezing margins for independent carriers
+
+**SC Relevance:**
+- LTL is not Quantix's core mode (bulk OTR is), but the **12% operating margin benchmark** is a useful industry reference point for bulk carrier profitability conversations
+- The **diesel price headwind** is directly relevant to Quantix fleet economics — if it's squeezing LTL margins, it's doing the same to bulk OTR. Monitor diesel price trajectory for rate adjustment timing
+- The **spinoff structure** (assets undervalued inside a larger org) is a pattern worth watching. As Quantix grows and potentially diversifies, the question of whether bulk chemical and dry bulk (plastic pellets) operations are better valued separately is not theoretical
+- FedEx Freight becoming a public benchmark company means **LTL operating margin data** becomes more transparent — useful for benchmarking and shipper negotiations
+
+**Knowledge Tier:** High-frequency (current market data, April 2026) — volatile; flag compilation date when citing
+**Tags:** `LTL` `trucking-industry` `operating-margin` `fedex-freight` `diesel-prices` `fleet-economics` `industry-benchmarks` `quantix-relevant`
+
+---
+
+### Insight 3: Q2 2026 Geopolitical Trade Lane Disruption — Freight Forwarders Facing Multi-Vector Pressure
+**Date:** 2026-04-10
+**Source:** Conqueror Network Blog — "How Geopolitical Tensions Are Shaping the Q2 Supply Chain Forecast for Freight Forwarders" (April 8, 2026)
+**URL:** https://blog.conquerornetwork.com/2026/04/08/how-geopolitical-tensions-are-shaping-the-q2-supply-chain-forecast-for-freight-forwarders/
+
+**Summary:**
+Q2 2026 supply chain environment is characterized by simultaneous geopolitical pressures across multiple trade corridors. Key dynamics:
+
+- **Maritime route disruption:** Asia-Europe-Middle East corridors are seeing vessel rerouting, extended transit times, and port congestion — a continuation of Red Sea/Strait of Hormuz pressure patterns from 2024–2025
+- **Tariff volatility:** Governments continue revising tariffs, compliance measures, and import/export regulations in response to geopolitical priorities — creating unpredictable landed cost calculations
+- **Freight rate instability:** Carriers adjusting pricing strategies in response to route changes and capacity imbalances; spot market activity elevated relative to contract
+- **Planning horizon compression:** Logistics professionals report that traditional planning cycles are too long — by the time a quarterly plan is built, conditions have shifted. Agility and real-time intelligence are now table stakes, not differentiators
+- **Shipper response:** Companies with multi-carrier relationships and diversified routing options are absorbing disruptions better than those with concentrated carrier bases
+
+**SC Relevance:**
+- Quantix is primarily **domestic bulk OTR** — not directly exposed to maritime lane disruptions. However, the chemical shippers Quantix serves *are* exposed, and disrupted import/export flows affect domestic demand patterns for bulk chemicals and plastic pellets
+- The **tariff volatility** point is highly relevant to Quantix's shipper base. Petrochemical companies managing tariff exposure will make sourcing shifts — which changes origin/destination patterns for bulk chemical movements. Watch for route demand shifts at the terminal level
+- The **spot vs. contract rate instability** dynamic in freight broadly parallels conditions in bulk OTR — carriers with strong contract books are better insulated. Quantix's contract structure relative to spot exposure is a risk management question worth revisiting
+- **Gartner framework alignment:** This environment is textbook Supply Chain Risk Management (SCRM) activation — risk identification, probability/impact mapping, and mitigation strategy execution. The shippers who built SCRM programs post-2020 are performing better right now
+
+**Knowledge Tier:** High-frequency (current market intelligence, Q2 2026) — volatile; verify against direct shipper/carrier data before operational decisions
+**Tags:** `geopolitics` `trade-lanes` `freight-rates` `tariffs` `supply-chain-risk` `SCRM` `petrochemical` `bulk-chemical` `quantix-relevant` `Q2-2026`
+
