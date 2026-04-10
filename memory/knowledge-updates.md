@@ -3139,3 +3139,63 @@ Q2 2026 supply chain environment is characterized by simultaneous geopolitical p
 **Knowledge Tier:** High-frequency (current market intelligence, Q2 2026) — volatile; verify against direct shipper/carrier data before operational decisions
 **Tags:** `geopolitics` `trade-lanes` `freight-rates` `tariffs` `supply-chain-risk` `SCRM` `petrochemical` `bulk-chemical` `quantix-relevant` `Q2-2026`
 
+
+---
+
+## 2026-04-10 PM — Evening Knowledge Scan
+
+### Insight 1: BWM–VIKOR Framework for Chemical Supply Chain Disruption Risk Prioritization
+**Source:** Scientific Reports (Nature) — "Water treatment chemical supply chain disruption risk assessment and mitigation strategy ranking using BWM–VIKOR" — March 24, 2026 (Open Access, peer-reviewed)
+**URL:** https://www.nature.com/articles/s41598-026-45086-z
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis, current)
+
+**Summary:**
+A peer-reviewed study from Shanghai's Yangshupu Water Plant demonstrates an integrated multi-criteria decision-making (MCDM) framework combining Best–Worst Method (BWM) for criterion weighting and VIKOR for strategy ranking to prioritize chemical supply chain disruption mitigation. Key findings:
+- **Top criterion weights:** Compliance/public health (0.26) and service continuity (0.18) dominate decision priorities — combined 44% of weight — followed by recoverability/flexibility (0.16) and supply vulnerability (0.14)
+- **Top-ranked strategies under baseline conditions:** Dual sourcing + supplier prequalification achieve best compromise performance (Q=0.083)
+- **Safety stock + reorder point redesign** becomes the top-ranked strategy under prolonged logistics disruption scenarios
+- **QA/QC strengthening** rises to top under quality failure scenarios — i.e., the right mitigation depends on the failure mode
+
+**SC Relevance for Quantix:**
+The BWM–VIKOR approach is directly applicable to Quantix's chemical carrier risk portfolio. The finding that dual sourcing + supplier prequalification wins under "baseline" conditions, but safety stock dominates under "prolonged disruption," is a clean decision rule for risk posture calibration. Quantix operates in Tier 1 supply vulnerability (bulk chemical OTR) — this framework would help prioritize mitigation investments across 50+ terminals.
+
+**Tags:** tag_domain=supply-chain | tag_type=rubric | tag_source=paper | risk-management | chemical-logistics | MCDM | disruption-mitigation | dual-sourcing | safety-stock
+
+---
+
+### Insight 2: "Supply Chain Risk Is No Longer Occasional — It's Constant" — Evonik Chemical SC Transformation (April 2026)
+**Source:** Evonik Industries — "Building a smarter, stronger, more resilient supply chain" — April 7, 2026
+**URL:** https://www.evonik.com/en/news/news-stories/2026/building-a-smarter-stronger-more-resilient-supply-chain.html
+**Knowledge Tier:** High-frequency (industry practitioner perspective, current)
+
+**Summary:**
+Evonik's new Global Director of Supply Chain for Drug Substance (pharmaceutical chemicals) articulates a practitioner-level transformation agenda that maps directly onto what leading chemical logistics operators are prioritizing in 2026:
+- **Reliability as foundation:** End-to-end planning synchronization across production, procurement, and logistics — "tight synchronization" to anticipate constraints before they hit customer timelines
+- **Proactive risk posture:** Deepening strategic sourcing, second sourcing, and broadening supplier network rather than reactive firefighting — *"Our job is to shield them from volatility"*
+- **Capacity and inventory planning** elevated from tactical to strategic function — reducing last-minute firefighting means building structural slack, not just safety stock
+- **Sustainability as operational principle** (not just ESG optics): integrated into SC decision-making as a core criterion
+
+**SC Relevance for Quantix:**
+The Evonik model validates the strategic direction Quantix should be taking: move from reactive dispatch to proactive constraint management. "Tight synchronization across production, procurement, and logistics" translates directly to S&OP maturity — Quantix's equivalent is terminal capacity, driver availability, and freight demand planning. The "second sourcing" priority maps to carrier redundancy in Quantix's shipper relationships.
+
+**Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | chemical-logistics | risk-management | resilience | S&OP | strategic-sourcing | practitioner-case
+
+---
+
+### Insight 3: Japan's Physical Internet Realization Council — Tanker Truck Ancillary Work Standardization Initiative (April 2026)
+**Source:** WebWire / Physical Internet Realization Council (Japan METI/MLIT) — April 7, 2026
+**URL:** https://www.webwire.com/ViewPressRel.asp?aId=352940
+**Knowledge Tier:** High-frequency (regulatory/industry initiative, active)
+
+**Summary:**
+Japan's Ministry of Economy, Trade and Industry (METI) and Ministry of Land, Infrastructure, Transport and Tourism (MLIT), via their Physical Internet Realization Council Chemicals Working Group (86 companies + 1 university), are launching formal standards for:
+1. **Proper management of truck drivers' ancillary work** — loading/unloading, waiting time, paperwork — previously treated as informal "business custom" but now being formalized as paid, bounded work under new 2025-2026 legislation
+2. **Safety improvement of tanker truck loading and unloading operations** — standardized procedures across consignors and carriers
+
+Driver context: Japan faces an acute truck driver shortage (the "2024 Problem" — maximum working hours reduced April 2024), making driver ancillary work accountability a sustainability issue for the logistics network, not just an HR one. This regulatory response is the chemical sector's structural answer.
+
+**SC Relevance for Quantix:**
+While this is a Japan-specific regulatory initiative, the underlying dynamic — bulk/chemical carriers managing driver ancillary work burden as a systemic capacity and retention problem — mirrors exactly what Quantix faces in the US OTR market. Driver dwell time at chemical loading/unloading facilities is a known profitability and retention killer. Japan's formalization approach (standardize ancillary work scope, compensate properly, cap time) is a leading indicator of where US chemical logistics regulation may head. Quantix should benchmark its terminal dwell time policies against this framework proactively.
+
+**Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | bulk-chemical | tanker-truck | driver-management | regulatory | Japan | dwell-time | terminal-operations | Physical-Internet
+
