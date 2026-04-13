@@ -3199,3 +3199,84 @@ While this is a Japan-specific regulatory initiative, the underlying dynamic —
 
 **Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | bulk-chemical | tanker-truck | driver-management | regulatory | Japan | dwell-time | terminal-operations | Physical-Internet
 
+
+---
+
+## 2026-04-13 AM — Morning Knowledge Scan
+
+### Insight 1: SONAR Launches First-Ever Bulk Trucking Contract Rate Benchmarks (April 8, 2026)
+**Source:** FreightWaves / SONAR API Launch Press Release — April 8, 2026
+**URL:** https://www.freightwaves.com/news/sonar-launches-bulk-trucking-contract-rate-benchmarks-via-api-bringing-pricing-transparency-to-one-of-freights-most-opaque-segments
+**Knowledge Tier:** High-frequency (live market data product launch, April 2026)
+
+**Summary:**
+SONAR (FreightWaves' data platform) launched *Bulk Rates* within its API on April 8, 2026 — delivering the first standardized contract rate benchmarks for bulk trucking. Key capabilities:
+- **Outbound state-based contract pricing** — benchmarks organized by origin state for market-level lane analysis
+- **Round trip rates included** — reflects actual carrier economics in bulk operations, where round trip utilization drives route profitability
+- **API-first delivery** — designed for embedding into TMS platforms, quoting tools, and procurement workflows
+
+The market context: bulk trucking (chemicals, agricultural products, construction materials, energy inputs) has historically been one of freight's least transparent segments. Carriers have developed deep market knowledge through volume and experience; shippers have negotiated contract rates without any independent benchmark — a structural information asymmetry favoring carriers. SONAR's Bulk Rates API is the first product to close that gap.
+
+**SC Relevance for Quantix:**
+This is directly applicable to Quantix SCS. As a 4,500+ truck bulk carrier primarily serving chemical and plastic pellet shippers, Quantix has historically been on the carrier side of this information asymmetry — an advantage. The launch of standardized bulk rate benchmarks changes the competitive dynamic: shippers (Quantix's customers) will increasingly arrive at contract negotiations with benchmark data. Quantix's pricing team should:
+1. Subscribe to / evaluate SONAR Bulk Rates API immediately — understand what shippers will see
+2. Assess whether current contract rates are defensible against the benchmark
+3. Identify lanes where Quantix has legitimate cost differentiation to maintain margin
+
+The round trip rate inclusion is particularly notable — it captures the repositioning cost reality of bulk operations that spot market comps historically ignored.
+
+**Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | bulk-trucking | rate-benchmarking | pricing-transparency | carrier-economics | Quantix-direct | TMS | freight-data | SONAR
+
+---
+
+### Insight 2: project44 Acquires LunaPath.ai — Agentic AI Enters Logistics Execution (April 9, 2026)
+**Source:** FreightWaves / project44 Press Release — April 9, 2026
+**URL:** https://www.freightwaves.com/news/project44-acquires-lunapath-ai-a-key-step-toward-an-ai-native-supply-chain
+**Knowledge Tier:** High-frequency (M&A announcement, market-moving, April 2026)
+
+**Summary:**
+project44, the supply chain decision intelligence platform (4.6 million shipments/day), acquired LunaPath.ai in an all-cash deal announced April 9, 2026. LunaPath builds AI-native agents for logistics execution and orchestration — not analytics tools that surface alerts for humans, but agents that *act*: managing carrier check calls, pulling proof of delivery, initiating claims, confirming appointments, and resolving exceptions autonomously.
+
+The strategic architecture:
+- project44 has spent a decade building a real-time logistics data graph (ERP + TMS + visibility + YMS unified model)
+- LunaPath's agents connect directly into that data graph — they act *grounded in operational context*, not guessing
+- The combined platform moves from "scattered insights → human action" to "real-time autonomous resolution"
+- project44 simultaneously launched a portfolio of AI agents at its *decision44* conference: Freight Procurement Agent (benchmarks rates, automates carrier selection, flows rates into execution), plus operations-focused agents
+
+CEO Jett McCandless quote: *"We are building native AI solutions rather than trying to bolt AI onto legacy technology. It rarely works as advertised."*
+
+**SC Relevance for Quantix:**
+This acquisition signals the maturation of agentic AI in logistics execution — moving from dashboards and visibility to autonomous action. Key implications:
+- **For Quantix as a carrier:** shipper customers using project44 will increasingly have AI agents managing carrier check calls, exception handling, and appointment confirmations — raising expectations for data connectivity and response latency. Being a project44-connected carrier becomes a differentiation factor.
+- **For Quantix's internal operations:** the LunaPath model (agents trained specifically for logistics workflows, grounded in operational data) is the architecture to watch for TMS/dispatch automation. "Bolt-on AI" approaches (adding LLM APIs to legacy systems) are explicitly called out as failing at scale.
+- **Broader signal:** AI in logistics is crossing from pilot stage to production M&A. This is no longer a 3–5 year horizon — carriers not integrating AI-native systems are already behind.
+
+**Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | agentic-AI | logistics-execution | TMS | carrier-integration | M&A | project44 | visibility | autonomous-operations | Quantix-relevant
+
+---
+
+### Insight 3: Kodiak AI Expands Autonomous Trucking to Midwest — I-70 Corridor (April 7, 2026)
+**Source:** FreightWaves — April 7, 2026
+**URL:** https://www.freightwaves.com/news/kodiak-expands-driverless-trucking-beyond-sun-belt-ohio-indiana
+**Knowledge Tier:** High-frequency (technology deployment development, April 2026)
+
+**Summary:**
+Kodiak AI completed its first autonomous trucking program outside the Sun Belt, partnering with DriveOhio (Ohio's connected/AV testing hub) to run driverless technology on Interstate 70 — one of North America's highest-volume freight corridors. Key details:
+- Partnership with Ohio DOT and Indiana DOT (INDOT)
+- Level 4 autonomous demonstrations at Transportation Research Center, East Liberty, OH
+- Scenarios tested: construction zones, highway merging, passing maneuvers, pedestrian response, disabled vehicle yielding
+- First-responder briefings at INDOT Traffic Management Center, Indianapolis
+- I-70 connects major Midwest freight hubs (St. Louis → Columbus → Pittsburgh corridor)
+
+This marks a geographic and seasonal capability expansion — Kodiak's prior operational domain was the Sun Belt (Texas, southeastern highways). Northern freight corridors involve different weather conditions, traffic patterns, and construction frequency.
+
+**SC Relevance for Quantix:**
+Autonomous trucking entering the Midwest I-70 corridor is directly relevant to Quantix's operational geography:
+- Quantix's network spans 50+ terminals with significant Midwest and Gulf Coast coverage
+- I-70 is a trunk route for plastic pellet and dry bulk flows between manufacturing hubs
+- Level 4 autonomous trucks are still in demonstration/regulatory phase — not threatening Quantix's driver model in the near term (18–36 months minimum before commercial scale)
+- **Strategic watch item:** Autonomous OTR is proving capability faster than regulation is keeping up. FMCSA rulemaking on federal AV standards remains pending. When it clears, large fleet operators like Quantix will face the make-vs-partner decision on AV integration
+- **Near-term signal:** Kodiak + DriveOhio partnerships with state DOTs are the political groundwork for eventual federal regulatory approval. Quantix's government affairs and fleet planning teams should be tracking this
+
+**Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | autonomous-trucking | OTR | Kodiak | Level-4-AV | Midwest | I-70 | driver-shortage | fleet-technology | Quantix-relevant | FMCSA | regulatory
+
