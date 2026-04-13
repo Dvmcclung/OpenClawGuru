@@ -3280,3 +3280,76 @@ Autonomous trucking entering the Midwest I-70 corridor is directly relevant to Q
 
 **Tags:** tag_domain=supply-chain | tag_type=insight | tag_source=external | autonomous-trucking | OTR | Kodiak | Level-4-AV | Midwest | I-70 | driver-shortage | fleet-technology | Quantix-relevant | FMCSA | regulatory
 
+
+---
+
+## Evening Update — 2026-04-13 (16:02 ET)
+
+### Insight 1: MIT Sloan 3-Pillar Framework for Geopolitical Supply Chain Risk
+**Date:** 2026-04-13
+**Source:** MIT Sloan Management Review, Spring 2026 — "Stay Ahead of Geopolitical Supply Chain Risks" (Cohen, Cui, Deshpande, Ernst, et al.)
+**URL:** https://sloanreview.mit.edu/article/stay-ahead-of-geopolitical-supply-chain-risks/
+
+**Summary:**
+The conventional SCRM playbook — built for natural disasters and supplier failures — is structurally inadequate for persistent geopolitical disruptions (trade wars, sanctions, armed conflict). A multi-university research team studying 13 multinationals identified three pillars that effective companies share:
+
+1. **Understand** — end-to-end supply chain visibility; scenario planning and geopolitical signal monitoring (not just first-tier suppliers)
+2. **Anticipate** — build flexible options before disruption hits; structural optionality in procurement networks
+3. **Adapt** — execute network reconfigurations quickly when disruptions materialize
+
+Key finding: companies that succeed share one trait — they prioritize *understanding contributions and risks at every supplier level*, even when the picture is incomplete.
+
+**SC Relevance (Quantix):**
+Quantix operates in bulk chemical logistics where customers face geopolitical exposure in feedstock sourcing (e.g., resin plants depending on imported precursors, chemical facilities with tariff-sensitive inputs). The 3-pillar framework is applicable both to Quantix's own network resilience planning and as a value-add advisory lens for shipper customers. The "Anticipate" pillar — building flexible options in advance — is directly relevant to terminal network design decisions.
+
+**Knowledge Tier:** Mid-frequency (peer-reviewed, Spring 2026 publication — relatively stable framework)
+**Tags:** #risk-management #geopolitical #SCRM #network-design #resilience #framework #MIT-Sloan #2026
+
+---
+
+### Insight 2: Bulk Tank Truck Sector 2025 Year in Review — AI Adoption & Regulatory Shifts
+**Date:** 2026-04-13
+**Source:** Bulk Transporter — "Year in Review: Top Tank Truck Stories from 2025" (Dec 29, 2025)
+**URL:** https://www.bulktransporter.com/fleet-management/article/55340021/year-in-review-top-tank-truck-stories-from-2025
+
+**Summary:**
+The bulk/tank truck sector in 2025 was shaped by four major forces:
+
+1. **Regulatory rollbacks** — Trump administration revoked CARB's Advanced Clean Trucks and Advanced Clean Cars II waivers (June 2025), eliminating California's de facto national emissions mandate. DOT also cracked down on non-domiciled CDL mills and streamlined ELD vetting — potentially reducing overcapacity that has suppressed freight rates.
+2. **Tariff-induced planning paralysis** — Unpredictable tariff deployments made capex and fleet planning extremely difficult; extended the freight recession and kept carrier profitability low.
+3. **AI and digital ecosystem adoption accelerating** — Fleets increasingly incorporating AI and connected TMS platforms (Trimble: "true value of AI lies in how quickly it can be operationalized throughout supply chains"). AI focused on equipment utilization optimization and route/load planning.
+4. **Domestic manufacturing investment** — Major new tank trailer facility investments (e.g., STE) signaling focus on domestic production resilience.
+
+**SC Relevance (Quantix):**
+Direct relevance to Quantix's 4,500+ truck fleet. Three action-relevant signals:
+- ZEV mandate rollback reduces compliance cost pressure in the near term — but should not halt electrification planning entirely (state-level patchwork remains)
+- Tariff uncertainty = reason to defer long-lead equipment commitments or build optionality into fleet procurement contracts
+- AI/TMS integration is now table stakes for competitive bulk carriers — Quantix should assess where in the operations stack AI can be operationalized fastest (dispatch, empty repositioning, driver utilization)
+
+**Knowledge Tier:** High-frequency (2025 industry recap — current but volatile; tariff/regulatory environment still shifting)
+**Tags:** #bulk-transport #tank-truck #fleet-management #AI-adoption #regulatory #ZEV #tariffs #Quantix-relevant #2025-recap
+
+---
+
+### Insight 3: Supply Chain Network Redesign as Sustained Cost Management — Deere & Company Case Study
+**Date:** 2026-04-13
+**Source:** Logistics Bureau — "8 Successful Supply Chain Management Case Studies" (Updated Feb 2026)
+**URL:** https://www.logisticsbureau.com/7-mini-case-studies-successful-supply-chain-cost-reduction-and-management/
+
+**Summary:**
+Deere & Company faced a high-cost, slow replenishment problem: weekly dealer replenishment via direct shipment from manufacturing-adjacent warehouses was too costly and too slow for their seasonal demand profile (80%+ of sales March–July). Their solution was a network redesign initiative targeting 10% supply chain cost reduction over 4 years:
+
+- Commissioned intermediate "merge centres" and optimized cross-dock terminal locations
+- Consolidated shipments and used break-bulk terminals during seasonal peak
+- Increased 3PL utilization to enable tactical network optimization
+
+**Results:** $1B inventory reduction, delivery lead time cut from 10 days to ≤5, ~5% annual transportation cost savings — sustained over multiple years.
+
+**Framework alignment:** This is a textbook APICS network design + DMAIC application. The "merge center" approach mirrors postponement/decoupling point theory. The use of break-bulk during peak = demand-aligned network flex, not permanent infrastructure spend.
+
+**SC Relevance (Quantix):**
+While Deere is a manufacturer, the terminal network logic maps directly to Quantix's 50+ terminal footprint. Key translatable principle: **terminal location decisions should be driven by load-weighted demand centroids and cross-dock optimization, not historical real estate**. Periodic network redesign (every 3-5 years) using freight flow data should be standard practice. The break-bulk/peak flex model also applies to surge capacity planning at Quantix terminals during chemical plant turnaround seasons.
+
+**Knowledge Tier:** Mid-frequency (case study facts are stable; framework application is durable)
+**Tags:** #network-design #cost-reduction #case-study #Deere #terminal-strategy #APICS #DMAIC #postponement #Quantix-relevant #2026
+
