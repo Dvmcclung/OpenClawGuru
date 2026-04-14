@@ -3404,3 +3404,36 @@ The strategic implication: the gap between AI-native freight platforms and legac
 
 **SC Relevance for Quantix:** Quantix is PE-owned. The PE AI overhaul playbook is directly relevant — it's either the strategy Quantix's backers may pursue, or the competitive dynamic Quantix faces from rivals who get there first. The project44/LunaPath acquisition also signals that the visibility-to-orchestration evolution discussed in Insight 1 is not theoretical — it's being capitalized now. Tracking this consolidation wave helps Dale understand where the freight-tech market is heading and where Quantix should be investing or partnering.
 
+
+---
+
+## 2026-04-14 — Evening Update (Cron: 4:02 PM ET)
+
+### Insight 1 — Cumulative Capabilities Drive Durable Operational Improvement
+**Date:** 2026-04-14
+**Source:** Harvard Business Review, March 2026 — "4 Capabilities that Drive Operational Improvement" (hbr.org/2026/03/4-capabilities-that-drive-operational-improvement)
+**Summary:** HBR research finds that organizations adopting the same Lean/Six Sigma practices show widely divergent outcomes. The differentiator is not the tools themselves but the sequenced build-up of *cumulative capabilities* — each capability layer enabling the next. Companies like Bank of America and HSBC outperformed peers not because their DMAIC was different, but because they built capability deliberately over time rather than through fragmented, standalone improvement cycles. Organizations that treat Lean/LSS as a project portfolio rather than a capability-building program consistently plateau.
+**SC Relevance:** High — directly applicable to Quantix CI programs. The risk for bulk carrier ops is treating DMAIC projects as one-offs rather than building the organization's problem-solving muscle. Carrier terminals with high supervisor turnover are especially vulnerable to capability decay. Implication: improvement programs need a succession and coaching layer, not just project governance.
+**Knowledge Tier:** Mid-frequency (research synthesis, March 2026)
+**Tags:** process-improvement, lean-six-sigma, DMAIC, operational-excellence, capability-building, organizational-learning
+
+---
+
+### Insight 2 — Sub-Tier Supplier Visibility Is Now Table Stakes for Tariff Risk Management
+**Date:** 2026-04-14
+**Source:** Ivalua / Thomson Reuters Global Trade Report 2026 — "How Tariffs and Trade Policy Shifts Impact Procurement and Supply Chains in 2026" (ivalua.com/blog/how-tariffs-impact-procurement-and-supply-chains/)
+**Summary:** Thomson Reuters' 2026 Global Trade Report confirms tariff-related disruptions have elevated supply chain risk from optimization concern to systemic resilience question. McKinsey (2025 SCRM Survey) reports >80% of companies affected by geopolitical tensions and tariff shifts. Key finding: organizations that can map sub-tier (tier 2/3) supplier exposure are dramatically better positioned to scenario-plan around tariff changes. First-tier supplier visibility alone is insufficient — you need to know where your suppliers source. Technology enablers (real-time risk monitoring, scenario planning platforms) are moving from competitive differentiator to baseline expectation.
+**SC Relevance:** Medium-High — Quantix operates as a carrier, not a manufacturer, so direct tariff exposure is limited. However: (1) chemical shipper customers face tariff pressure on imports/raw materials, which can shift freight volumes and lane demand; (2) equipment procurement (tractors, trailers, parts) has significant China/tariff exposure; (3) fuel and lubricant supply chain has upstream geopolitical sensitivity. Carrier procurement teams should map sub-tier for critical parts categories.
+**Knowledge Tier:** High-frequency (current events — tariff landscape volatile as of Q1-Q2 2026)
+**Tags:** risk-management, tariffs, geopolitical-risk, supplier-visibility, sub-tier-mapping, procurement, trade-policy, resilience
+
+---
+
+### Insight 3 — Bulk Storage & Transloading Safety: SOPs + Preventive Maintenance Are the Non-Negotiables
+**Date:** 2026-04-14
+**Source:** Twin Eagle Terminals & Logistics — "Best Safety Practices in Bulk Storage & Transloading" (teterminals.com/best-safety-practices-in-bulk-storage-transloading/); corroborated by Mitsui Chemicals Physical Internet WG announcement (April 2026) on tanker truck ancillary work standardization
+**Summary:** Industry consensus on bulk chemical/liquid logistics safety clusters around five non-negotiables: (1) Written SOPs for every material movement type — receipt, transfer, loading, emergency response; (2) Ongoing employee training including hazard recognition and spill response, not just onboarding; (3) Preventive maintenance programs covering pumps, hoses, valves, and loading arms before failure, not after; (4) Spill prevention infrastructure — secondary containment, overfill protection, spill kits at point-of-use; (5) Mandatory PPE enforcement. Separately, Mitsui Chemicals' Physical Internet Realization Council (April 2026) is formalizing industry standards in Japan for managing driver "ancillary work" (loading/unloading dwell time) under new Logistics Efficiency Act amendments effective April 2025 — a useful model for US bulk carriers facing driver wait-time pressure.
+**SC Relevance:** High / Direct — Quantix's 50+ terminal network is exactly the operational context described. Key gaps to probe: Are Quantix terminal SOPs standardized across all 50+ sites, or are they terminal-manager-dependent? Is preventive maintenance tracked centrally? The Japan ancillary work model (capping dwell time, defining driver vs. shipper responsibilities at loading) has direct relevance to Quantix's shipper detention/demurrage disputes.
+**Knowledge Tier:** Mid-frequency (operational best practices, stable; Japan regulatory note is current-event)
+**Tags:** bulk-logistics, chemical-transport, terminal-operations, safety, SOP, preventive-maintenance, spill-prevention, driver-dwell-time, demurrage, Quantix-relevant
+
