@@ -3353,3 +3353,54 @@ While Deere is a manufacturer, the terminal network logic maps directly to Quant
 **Knowledge Tier:** Mid-frequency (case study facts are stable; framework application is durable)
 **Tags:** #network-design #cost-reduction #case-study #Deere #terminal-strategy #APICS #DMAIC #postponement #Quantix-relevant #2026
 
+
+---
+
+## 2026-04-14 AM — Morning Knowledge Scan
+
+### Insight 1: Transportation Orchestration Is Replacing Point Optimization
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**URL:** https://logisticsviewpoints.com/2026/04/13/five-transportation-technology-trends-reshaping-supply-chains-in-2026/
+**Knowledge Tier:** High-frequency (current industry analysis, April 2026)
+**Tags:** `technology` `TMS` `AI` `visibility` `orchestration` `execution`
+
+The dominant structural shift in transportation technology is architectural — away from isolated point solutions (TMS for planning, visibility platform for tracking, dock scheduler as add-on) toward integrated **orchestration**. The new model links orders, shipments, inventory, appointments, labor, and exceptions into a coordinated execution environment. TMS value in 2026 is no longer measured by plan quality alone — it's measured by the system's ability to **continuously adjust** as conditions change: ETA confidence, exception prioritization, intelligent carrier recommendations, and service risk escalation. AI is becoming practical here (not theoretical): identifying what matters, what can wait, and what needs intervention now. The broader shift: transportation moving from "track-and-report" to **sense-and-coordinate**.
+
+**SC Relevance for Quantix:** This maps directly to Quantix's operational challenge — 4,500+ trucks, 50+ terminals, OTR bulk. A fragmented visibility + TMS + dispatch stack is the old model. The opportunity is connecting terminal appointment data, driver availability, load status, and carrier performance signals into a single execution layer. The AI-assisted exception management use case is immediately applicable: high-volume bulk chemical moves have narrow delivery windows; missed appointments have real chemical plant consequences. Orchestration — not just track-and-trace — is the architectural goal worth pursuing.
+
+---
+
+### Insight 2: Class 8 Orders Surge 100%+ for Second Straight Month + Hormuz Ceasefire Reshapes Fuel Cost Picture
+**Source:** Transport Topics (via Talking Logistics April 10, 2026 digest) + CNBC/Dow Jones
+**URL:** https://talkinglogistics.com/2026/04/10/above-the-fold-supply-chain-logistics-news-april-10-2026/
+**Knowledge Tier:** High-frequency (current market data — treat as volatile)
+**Tags:** `trucking` `capacity` `fuel` `Class8` `Hormuz` `risk` `macro`
+
+Two converging signals on the transportation macro environment:
+
+1. **Class 8 truck orders surged more than 100% for the second consecutive month** (Transport Topics, early April 2026). This signals fleets are front-loading equipment purchases — likely in anticipation of freight recovery or tariff-driven parts cost escalation. Two back-to-back months at this magnitude is a leading indicator of capacity expansion 12-18 months out, which historically compresses spot rates.
+
+2. **Hormuz ceasefire materially dropped crude oil prices** — U.S. crude posted its biggest single-day drop since 2020 following a U.S.-Iran ceasefire agreement. Brent crude rebounded to ~$100/bbl afterward. Separately, Dow Jones reported **high fuel costs are driving truckers off the road**, shrinking available capacity.
+
+The picture is contradictory: equipment orders signal expansion, but fuel-cost-driven driver exits signal near-term capacity tightening. The net effect depends on timeline. Near-term: tighter capacity + elevated fuel = rate pressure. 12-18 months: new equipment enters, but driver supply remains structurally constrained.
+
+**SC Relevance for Quantix:** Quantix operates dry bulk + liquid bulk (chemical carriers). Fuel costs are a direct margin variable. The Hormuz ceasefire-driven oil drop is a short-term tailwind, but the $100/bbl Brent rebound shows fragility. Class 8 surge is worth watching for competitive capacity dynamics — more trucks in the market 18 months from now affects both Quantix's customer pricing leverage and its ability to attract and retain drivers against well-capitalized competition.
+
+---
+
+### Insight 3: PE Firm Acquires Carrier Logistics, Pledges AI Overhaul — Consolidation + AI Investment Accelerating
+**Source:** FreightWaves (April 2026) + project44 acquires LunaPath.ai (Talking Logistics, April 10, 2026)
+**URL:** https://www.freightwaves.com/news/pe-firm-acquires-carrier-logistics-pledges-ai-overhaul | https://www.project44.com/press-releases/project44-acquires-lunapath
+**Knowledge Tier:** High-frequency (current M&A/investment events — treat as volatile)
+**Tags:** `AI` `M&A` `visibility` `freight-tech` `consolidation` `investment`
+
+Two parallel M&A signals point to an accelerating AI investment wave in freight tech:
+
+1. **PE firm acquires Carrier Logistics and pledges a full AI overhaul** of the platform. This is the PE playbook maturing: buy a legacy TMS/logistics software platform, inject AI capabilities, and extract value. Carrier Logistics is a long-standing LTL/trucking software provider. PE-funded AI overhauls are compressing the timeline for legacy players to modernize — raising the bar across the industry.
+
+2. **project44 acquires LunaPath.ai** to "accelerate AI agent orchestration across global supply chains." LunaPath.ai is an AI-native agent orchestration platform. project44 — already a market leader in supply chain visibility — is embedding agentic AI directly into its core visibility product. This is consistent with the broader trend: visibility platforms are evolving from data aggregation to autonomous action.
+
+The strategic implication: the gap between AI-native freight platforms and legacy systems is widening fast. Companies still operating on 5-10 year-old TMS or visibility tools without a clear AI roadmap will face a capability deficit within 24-36 months.
+
+**SC Relevance for Quantix:** Quantix is PE-owned. The PE AI overhaul playbook is directly relevant — it's either the strategy Quantix's backers may pursue, or the competitive dynamic Quantix faces from rivals who get there first. The project44/LunaPath acquisition also signals that the visibility-to-orchestration evolution discussed in Insight 1 is not theoretical — it's being capitalized now. Tracking this consolidation wave helps Dale understand where the freight-tech market is heading and where Quantix should be investing or partnering.
+
