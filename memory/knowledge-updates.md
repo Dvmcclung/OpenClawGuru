@@ -3437,3 +3437,58 @@ The strategic implication: the gap between AI-native freight platforms and legac
 **Knowledge Tier:** Mid-frequency (operational best practices, stable; Japan regulatory note is current-event)
 **Tags:** bulk-logistics, chemical-transport, terminal-operations, safety, SOP, preventive-maintenance, spill-prevention, driver-dwell-time, demurrage, Quantix-relevant
 
+
+---
+
+## 2026-04-15 AM — Morning Knowledge Scan
+
+### Insight 1: Transportation Orchestration Replacing Point Optimization — The Architecture Shift of 2026
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**URL:** https://logisticsviewpoints.com/2026/04/13/five-transportation-technology-trends-reshaping-supply-chains-in-2026/
+**Knowledge Tier:** High-frequency (industry analyst synthesis, current)
+
+The dominant transportation technology shift in 2026 is architectural, not feature-level. The era of buying separate point solutions (TMS for planning, visibility platform for tracking, dock scheduling as a standalone tool) is giving way to **transportation orchestration** — linking transportation data, operational constraints, and execution workflows into a unified coordinated response model. Key components:
+- **AI-assisted TMS decisioning**: The value question has shifted from "can it build a plan?" to "can it continuously adjust the plan as conditions change?" — ETA confidence, exception prioritization, carrier recommendations, escalation triggers
+- **Dock & yard orchestration**: Time slot management has expanded into gate activity, dock assignment, labor readiness, and yard movement. A truck delay propagates downstream into labor, inventory, and customer service if not caught at the handoff point
+- **Bounded autonomy scaling**: Autonomous trucking is no longer purely speculative. Commercial deployment has begun in specific bounded corridors with repeatable routes and favorable regulation. Scaling model: corridor-specific execution first, then outward
+- Framing shift: from **track-and-report** → **sense-and-coordinate**
+
+**SC Relevance for Quantix:** The dock/yard orchestration finding is directly applicable to Quantix's 50+ terminal network. Bulk carrier dwell time at customer facilities is a perennial cost driver — integrating terminal gate activity, driver arrival windows, and labor scheduling into a coordinated model is the precise application described here. Worth benchmarking current state against this framework.
+
+**Tags:** `#transportation` `#TMS` `#orchestration` `#AI-decisioning` `#yard-management` `#autonomy` `#bulk-carrier`
+
+---
+
+### Insight 2: Agentic AI Moving from Pilot to Operational Deployment in Supply Chains
+**Source:** Logistics Viewpoints — "Supply Chain and Logistics News April 6–9, 2026" (April 10, 2026) + Kinaxis / Manik Sharma commentary
+**URL:** http://logisticsviewpoints.com/2026/04/10/supply-chain-and-logistics-news-april-6th-9th-2026/
+**Knowledge Tier:** High-frequency (current industry reporting)
+
+The shift from AI experiments to operational impact is now measurable in SC deployments. Two key signals this week:
+1. **Agentic AI in supply chain**: Systems are moving beyond prediction (forecasting demand, flagging exceptions) into **active execution participation** — agentic systems that don't just recommend but take action within defined boundaries. Kinaxis framing: requires a shared semantic understanding of the business and orchestration layers connecting planning with real-time decision-making
+2. **ICS/OT Cybersecurity threat escalation**: CISA issued an urgent alert on Iranian-affiliated APT groups targeting programmable logic controllers (PLCs) in U.S. critical infrastructure and manufacturing supply chains — Rockwell/Allen-Bradley specifically named. Attack vector: internet-facing OT/SCADA. Advised mitigations: remove PLCs from direct internet exposure, monitor ports 44818 and 502 for anomalous overseas traffic
+3. Pattern: "Logistics leaders are no longer just *planning* for resilience — they are *deploying* tools to navigate a world where volatility is the only constant"
+
+**SC Relevance for Quantix:** Agentic AI is the next-level capability beyond current automation tooling. For a bulk chemical carrier, the highest-value agentic application is likely dynamic load assignment — where the system doesn't just flag a capacity gap but actively proposes a revised dispatch. The OT/SCADA cybersecurity alert is relevant if any Quantix terminal control systems or loading infrastructure have internet-facing PLCs — worth a security audit question to IT/OT team.
+
+**Tags:** `#agentic-AI` `#operational-AI` `#OT-security` `#cybersecurity` `#resilience` `#SCADA` `#critical-infrastructure`
+
+---
+
+### Insight 3: OEM-Embedded Telematics — Samsara / International Motors Factory Pre-Installation
+**Source:** Business Wire / Transport Topics — "Samsara Expands Pre-Delivery Installation Program with International Motors Partnership" (April 9, 2026)
+**URL:** https://www.businesswire.com/news/home/20260409176803/en/Samsara-Expands-Pre-Delivery-Installation-Program-with-International-Motors-Partnership
+**Knowledge Tier:** High-frequency (current industry news)
+
+Samsara and International Motors (IC Bus / International trucks) announced that Samsara telematics devices — including Vehicle Gateways, dash cams, AI Multicam, and external cameras — will be **pre-installed and activated at the assembly plant** before delivery. This moves telematics from an aftermarket add-on to standard OEM equipment.
+
+Significance:
+- Eliminates fleet retrofit cost and administrative overhead for new truck purchases
+- Establishes connected data infrastructure as a **baseline expectation**, not an option
+- Pattern generalizes: telematics is becoming what ABS and ELD already are — standard hardware, not optional upgrades
+- Samsara's "physical AI" framing (announced at their April 8 event): the integration of AI into physical systems/infrastructure — sensors, cameras, actuators — not just software layers
+
+**SC Relevance for Quantix:** Quantix runs 4,500+ trucks. As fleet units turn over, OEM-embedded telematics on new International purchases would arrive already provisioned. Two questions worth asking: (1) Does Quantix's current telematics contract with a vendor lock out OEM-installed hardware, or can it be integrated? (2) Pre-installed AI Multicam opens the door to automated safety scoring, load monitoring, and incident documentation without a field installation program.
+
+**Tags:** `#telematics` `#fleet-technology` `#Samsara` `#OEM-integration` `#physical-AI` `#bulk-carrier` `#safety`
+
