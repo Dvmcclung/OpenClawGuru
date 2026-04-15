@@ -3492,3 +3492,76 @@ Significance:
 
 **Tags:** `#telematics` `#fleet-technology` `#Samsara` `#OEM-integration` `#physical-AI` `#bulk-carrier` `#safety`
 
+
+---
+
+## 2026-04-15 — Evening Update (Process Improvement, Risk Management, Bulk/Chemical Logistics)
+
+### Insight 1: IBP Transformation at Scale — Kraft Heinz Case Study (SupplyChainBrain, Feb 2026)
+
+**Date:** 2026-04-15
+**Source:** SupplyChainBrain / Kraft Heinz (via OMP implementation), February 10, 2026
+**URL:** https://www.supplychainbrain.com/articles/43437-watch-supply-chain-planning-transformation-at-kraft-heinz-a-case-study
+
+**Summary:**
+Kraft Heinz executed a global IBP (Integrated Business Planning) transformation across 8,000 SKUs and 300+ manufacturing facilities using OMP planning software. The prior state was siloed planning with 300+ planners working independently — no cross-functional visibility, no end-to-end signal propagation. The transformation rolled out sequentially: China → Europe → North America. Key outcome: ~80% of planning output now runs untouched by human decision-makers ("self-healing" planning loop). Kraft Heinz cited "people transformation" as equally critical to technology — employee upskilling was a prerequisite, not an afterthought. Participation in vendor-run "innovation councils" enabled co-development of the roadmap with peer CPG companies.
+
+**SC Relevance (Quantix):**
+Directly applicable to S&OP maturity. Quantix operates across 50+ terminals with distributed planning — same fragmentation risk as pre-transformation Kraft Heinz. The 80% autonomous planning outcome is a credible benchmark for what IBP maturity looks like at scale. "People transformation first" aligns with the LSS change management principle: technical solutions fail without behavioral adoption. For Quantix, terminal-level dispatchers and planners are the equivalent of Kraft Heinz's 300 siloed planners.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — published Feb 2026)
+**Tags:** `#IBP` `#S&OP` `#planning-transformation` `#change-management` `#benchmark` `#CPG` `#case-study`
+
+---
+
+### Insight 2: Supply Chain Risk Management 2026 — Cascading Risk in Physical + Digital Chains (Panorays, April 2026)
+
+**Date:** 2026-04-15
+**Source:** Panorays Blog — "Supply Chain Risk Management Strategies for 2026," April 13, 2026
+**URL:** https://panorays.com/blog/supply-chain-risk-management-strategies/
+
+**Summary:**
+2026 SCRM has fundamentally shifted: the boundary between physical and digital supply chain risk has collapsed. Key findings:
+- **Nth-tier risk**: Most material risks now hide in 4th-party relationships (vendor's vendor's vendor) — not Tier 1. Cascading failure from a transitive dependency can propagate enterprise-wide in minutes.
+- **Software supply chain analogy to physical SC**: The 2025 CVE-2025-54313 incident (npm package eslint-config-prettier) demonstrates how a single compromised transitive dependency can be inherited by thousands of downstream operations — the same mechanism as a sole-source supplier failure in a physical chain.
+- **Regulatory pressure**: NIST CSF 2.0 elevated supply chain governance; SBOMs and VEX (Vulnerability Exploitability eXchange) are becoming operational signals, not compliance artifacts.
+- **Practical SCRM framework**: Identify → Assess → Mitigate → Monitor (loop, not linear). Must extend visibility beyond Tier 1 to Nth-tier ecosystems.
+
+**SC Relevance (Quantix):**
+Quantix's operational risk exposure spans both physical (fleet, terminals, weather, regulatory) and digital (TMS, ELD systems, carrier API integrations). The cascading risk model is directly applicable: a Tier 2 software provider (e.g., ELD vendor's cloud platform) failing is functionally equivalent to a sole-source equipment vendor going down. Action: map Nth-tier digital dependencies the same way you'd map a supplier network. Treat SaaS integrations and managed services as supply chain nodes — not IT overhead.
+
+**Knowledge Tier:** Mid-frequency (current research synthesis, April 2026)
+**Tags:** `#risk-management` `#SCRM` `#cascading-risk` `#digital-supply-chain` `#Nth-tier` `#resilience` `#NIST` `#cybersecurity`
+
+---
+
+### Insight 3: 2025-2026 Regulatory Upheaval in Trucking — CDL/ELP Enforcement & Fleet Compliance Implications (AIST Safety Consulting, Dec 2025)
+
+**Date:** 2026-04-15
+**Source:** AIST Safety Consulting — "Trucking Industry 2025 Reality Check," December 15, 2025
+**URL:** https://aistsafety.com/trucking-industry-2025-reality-check-and-what-2026-means-for-carriers-drivers-safety-managers/
+
+**Summary:**
+2025 brought the most significant regulatory restructuring of the US trucking workforce in decades — with direct fleet operations implications for 2026:
+
+1. **English Language Proficiency (ELP) enforcement reinstated**: April 2025 executive order directed FMCSA to enforce ELP requirements for CMV drivers. Effective June 25, 2025. By September 2025, 3,000+ drivers removed from service nationwide; Wyoming alone reported 497 OOS orders by October.
+
+2. **Non-domiciled CDL crackdown**: ~200,000 non-domiciled CDL holders flagged as potentially non-compliant in a late-2025 interim final rule. States including California required to pause new issuance. CDL verification and eligibility audits became mandatory operational practice.
+
+3. **Fleet operations impact**: Driver attrition accelerated — particularly affecting immigrant/non-domiciled driver segments. Carriers with lagging compliance infrastructure (manual DQF, no telematics integration) faced disproportionate enforcement risk and CSA score exposure.
+
+4. **2026 outlook**: Capacity tightening as non-compliant carriers exit; selective consolidation expected. Carriers running clean, compliant, and efficient operations gain competitive position.
+
+**SC Relevance (Quantix):**
+With 4,500+ trucks and a large distributed driver pool, this is a direct operational risk. The ELP and non-domiciled CDL crackdowns require Quantix to:
+- Run active CDL eligibility audits across the entire driver base (not just new hires)
+- Ensure DQF (Driver Qualification Files) are digitized and current
+- Review CSA score exposure for OOS-related citations that may have accumulated in H2 2025
+- Model capacity risk from driver attrition in affected segments — this is a supply constraint, not just a compliance issue
+
+The capacity tightening scenario is actually a strategic opportunity for compliant, large fleets: as smaller carriers exit or shed non-compliant drivers, lane availability and rate environment favor scale operators.
+
+**Knowledge Tier:** High-frequency (current regulatory environment — volatile, monitor closely)
+**Tags:** `#fleet-ops` `#DOT-compliance` `#FMCSA` `#CDL` `#ELP` `#driver-workforce` `#capacity` `#bulk-carrier` `#Quantix-relevant`
+
+---
