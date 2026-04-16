@@ -3565,3 +3565,65 @@ The capacity tightening scenario is actually a strategic opportunity for complia
 **Tags:** `#fleet-ops` `#DOT-compliance` `#FMCSA` `#CDL` `#ELP` `#driver-workforce` `#capacity` `#bulk-carrier` `#Quantix-relevant`
 
 ---
+
+## 2026-04-16 AM — Morning Knowledge Scan
+
+### Insight 1: Transportation Orchestration Replacing Point Optimization — The Architecture Shift That Changes TMS ROI
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**Knowledge Tier:** Mid-frequency (industry analyst synthesis — ARC Advisory-aligned, stable directional signal)
+
+The dominant framing in transportation technology has shifted from individual application deployment to **orchestration architecture**. Companies previously bought discrete tools — a TMS for planning, a visibility platform for tracking, dock scheduling as a separate layer. That model is breaking down in favor of integrated execution environments that link orders, shipments, inventory, dock appointments, labor, and exceptions into a single coordinated response system.
+
+Key signal from the article:
+- **TMS value is now measured by AI-assisted decisioning quality**, not optimization alone — can the system continuously re-plan as conditions change?
+- **Execution visibility and TMS are converging** — visibility as a separate layer is obsolete; it must be inseparable from execution
+- **AI use case is specific and practical:** identify what matters, what can wait, and what needs intervention *now* — not general-purpose ML
+- The shift is from **track-and-report → sense-and-coordinate**
+- Dock and yard coordination, previously an afterthought, is now central to the connected model
+
+**SC Relevance for Quantix:** Quantix operates 50+ terminals across a 4,500-truck bulk network — this orchestration model maps directly to terminal-level execution. The "sense-and-coordinate" framing aligns with the case for an AI-in-the-loop dispatch and load planning system. TMS evaluation should now prioritize real-time exception management and dock/yard integration over static optimization metrics.
+
+**Tags:** `#TMS` `#transportation-tech` `#AI-decisioning` `#orchestration` `#execution-visibility` `#Quantix-relevant` `#dock-yard` `#architecture-shift`
+
+---
+
+### Insight 2: SONAR Launches First-Ever Bulk Trucking Contract Rate Benchmarks — Closes Structural Pricing Transparency Gap
+**Source:** FreightWaves — "SONAR Launches Bulk Trucking Contract Rate Benchmarks via API" (April 8, 2026)
+**Knowledge Tier:** High-frequency (current market tool launch — volatile, monitor adoption)
+
+SONAR (FreightWaves' data platform) launched **Bulk Rates within the SONAR API** on April 8, 2026 — described as the **first standardized contract rate benchmarks for bulk trucking** ever made publicly accessible. Prior to this, bulk freight pricing was negotiated in near-total opacity: carriers built deep rate intuition from volume and experience, while shippers had zero independent benchmark. The information asymmetry structurally favored carriers in contract negotiations.
+
+The product delivers:
+- **Outbound state-based contract pricing** — market-level lane analysis by origin state
+- **Round-trip rates** — reflects actual carrier economics (round-trip utilization is critical to bulk route profitability)
+- **API-first delivery** — designed for embedding into TMS, quoting tools, and procurement workflows
+
+Sectors covered: agricultural products, **chemicals**, construction materials, energy inputs — all Quantix-adjacent or direct Quantix lanes.
+
+**SC Relevance for Quantix:** This is a direct competitive intelligence tool for a bulk carrier. Quantix pricing teams have been negotiating contracts in the same information void this product is designed to close — **for shippers**. That means shippers will increasingly arrive at contract conversations with data. Quantix needs to monitor this benchmark, understand how their rates compare by lane, and determine whether to subscribe as a carrier data user (the product is designed for both sides). Recommend Dale evaluate SONAR Bulk Rates API access.
+
+**Tags:** `#bulk-trucking` `#rate-benchmarks` `#SONAR` `#FreightWaves` `#pricing-intelligence` `#contract-rates` `#Quantix-critical` `#chemicals` `#carrier-economics`
+
+---
+
+### Insight 3: Truckload Market Tightening Fast — 2026 Costs Up 16–17% YoY as Capacity Exits Accelerate
+**Source:** C.H. Robinson Edge Report — "Freight Market Update: April 2026" (April 9, 2026)
+**Knowledge Tier:** High-frequency (current market conditions — volatile, monitor monthly)
+
+C.H. Robinson's April 2026 freight market report signals a faster-than-expected tightening across North American truckload markets. Key data points:
+
+- **Truckload costs up 16–17% year-over-year** — above earlier analyst forecasts
+- **Capacity constraints and carrier attrition** are sustaining rate pressure even through typically soft seasonal periods
+- **LTL** showing early signs of firming — some freight shifting from TL to LTL as TL rates rise
+- **Intermodal** showing early recovery — cost advantage vs. TL expected to widen as fuel climbs
+- **Cross-border (Mexico):** tightening as strong Mexico trade meets rising carrier costs + regulatory pressure
+- **Canada:** enforcement-driven capacity loss with muted seasonal relief
+- **Ocean:** rerouting and elevated fuel costs extending transit times across major trade lanes; tariff-related front-loading driving transpacific volume spike
+
+Macro context: This tightening is against a backdrop of ongoing tariff uncertainty, with USTR Section 301 actions creating supply chain repositioning pressure and cross-border complexity.
+
+**SC Relevance for Quantix:** A 16–17% TL cost increase YoY is a significant headwind and a significant *opportunity* for a bulk carrier. As TL spot and contract rates rise, Quantix's shipper customers face higher general freight costs — which can increase their receptivity to dedicated bulk logistics arrangements if positioned correctly. Internally, fuel cost management and intermodal substitution (where applicable to bulk) should be on the ops radar. Mexico cross-border tightening may affect chemical feedstock supply chains that flow through Quantix's customer base.
+
+**Tags:** `#freight-market` `#truckload` `#capacity-tightening` `#rate-increase` `#CH-Robinson` `#LTL` `#intermodal` `#cross-border` `#Mexico` `#tariffs` `#fuel-costs` `#Quantix-relevant`
+
+---
