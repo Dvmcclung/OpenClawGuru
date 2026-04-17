@@ -3687,3 +3687,39 @@ In a prolonged margin-compressed environment, the consensus from 25 transportati
 **Tags:** profitability, trucking, pricing, fleet-management, operations, discipline, margin
 **SC Relevance:** High — directly applicable to Quantix carrier economics and terminal P&L management
 
+
+---
+
+## 2026-04-17 — PM Knowledge Update
+
+### Insight 1: Green Lean Six Sigma (GLSS) for Supply Chain — Dual-Objective Process Improvement
+
+**Date:** 2026-04-17
+**Source:** *Taylor & Francis / International Journal of Lean Six Sigma* — "Green Lean Six sigma for multidimensional performance improvement: a case study on supply chain management" (published March 2026, doi:10.1080/19397038.2026.2644657); supplementary systematic review, Springer (2025)
+**Summary:** A peer-reviewed 2026 case study applies the GLSS (Green + Lean + Six Sigma) framework using DMAIC to simultaneously reduce waste, carbon emissions, and production defects in a supply chain context. GLSS extends traditional LSS by adding environmental KPIs (emissions, energy use, carbon footprint) alongside the classic productivity/quality metrics. The integrated framework uses SIPOC, Pareto, FMEA, Gage R&R, control charts, and DOE — same LSS toolkit, but the Analyze and Improve phases explicitly target environmental waste as a seventh form of Muda. The Springer systematic review confirms GLSS is moving from academic interest to documented industrial deployment, with case studies now appearing across manufacturing and logistics sectors.
+**SC Relevance:** Direct applicability to Quantix. As chemical carriers face increasing ESG pressure and potential carbon reporting requirements, embedding environmental metrics into existing DMAIC project charters costs almost nothing but positions the business ahead of regulatory curve. For a carrier of Quantix's scale, even 5% fuel/emissions improvement across 4,500 trucks is material. Terminal loading/unloading operations are natural GLSS project candidates — measurable cycle times + measurable fuel burn.
+**Knowledge Tier:** Mid-frequency (academic peer-reviewed, 2026 publication)
+**Tags:** `[METHOD]` `[FRAMEWORK]` — GLSS, DMAIC, Lean Six Sigma, sustainability, emissions reduction, process improvement
+
+---
+
+### Insight 2: Multi-Dimensional Supply Chain Risk Management — 2026 Disruption Landscape
+
+**Date:** 2026-04-17
+**Source:** MSU Online — "Supply Chain Resilience 2026: Why Disruption Is the New Normal" (April 2026), citing McKinsey Global Supply Chain Leader Survey and WEF Global Cybersecurity Outlook 2026; Setlog — "Alternative Routes: Why Supply Chains Need New Transport Strategies in 2026" (March 2026)
+**Summary:** 90% of organizations reported significant supply chain disruptions in 2024 (McKinsey). 2026 risk landscape is now explicitly multi-dimensional: (1) Geopolitical/trade — export restrictions on critical raw materials (OECD confirms sharp rise); (2) Cyber — 65% of large companies cite third-party/supply chain as a leading cybersecurity vulnerability (WEF 2026); (3) Climate — extreme weather events creating cascading delays across supplier networks; (4) Route instability — Red Sea disruptions, Panama Canal drought constraints, and Strait of Hormuz escalation are forcing reroutes. Historical efficiency-optimized logistics (single fastest route, maximum utilization) is increasingly brittle. Resilient approach: multimodal transport design with pre-planned alternatives, regional hub diversification, and multi-tier supplier visibility beyond Tier 1.
+**SC Relevance:** For Quantix, cyber risk and route risk are the most actionable. Over-the-road bulk/chemical is less exposed to maritime disruption, but the Tier 1/Tier 2+ supplier visibility gap directly applies — most bulk carriers have poor visibility into their chemical customers' upstream supply networks, which is where volume volatility originates. Cyber risk in logistics TMS/ELD systems is underappreciated. McKinsey's finding that "risk capabilities remain weak beyond first-tier suppliers" aligns exactly with what Quantix would face if a major chemical plant customer goes offline due to upstream feedstock disruption.
+**Knowledge Tier:** Mid-frequency (2026 research synthesis from McKinsey, WEF, OECD)
+**Tags:** `[SCOPE]` `[INTERP]` — supply chain risk management, geopolitical risk, cyber resilience, route diversification, multimodal, disruption management, Tier 2 visibility
+
+---
+
+### Insight 3: Chemical Logistics — Japan's Physical Internet Initiative on Tanker Driver Ancillary Work & Loading Safety
+
+**Date:** 2026-04-17
+**Source:** Physical Internet Realization Council (Japan METI/MLIT), Chemicals Working Group — press release via WebWire, April 7, 2026. 86-company coalition including Mitsui Chemicals, Mitsubishi Chemical, Tosoh, Toray; backed by Japan Chemical Industry Association and Japan Petrochemical Industry Association.
+**Summary:** Japan's chemical industry coalition has launched a formal initiative to standardize and regulate "ancillary work" performed by tanker truck drivers — a structural problem where drivers are routinely expected to perform loading/unloading tasks that legally belong to shipper/consignee personnel. Driven by worsening driver shortage and new law (Amended Logistics Efficiency Act, April 2025; Amended Subcontract Act, January 2026), the initiative: (1) Defines and limits what constitutes driver ancillary work vs. shipper responsibility; (2) Establishes safety standards specifically for tanker loading/unloading operations; (3) Requires consignors and logistics providers to cooperatively restructure worksite procedures to make truck driver roles sustainable. The underlying logic: driver shortage makes the old informal labor model (drivers absorbing shipper labor costs) structurally unsustainable.
+**SC Relevance:** Directly mirrors a live tension in US bulk chemical/plastic pellet trucking. At Quantix's scale, driver dwell time at terminals during loading/unloading is a significant cost and capacity drain — and much of it is driven by shipper-side inefficiency absorbed by Quantix drivers. Japan's legislative and industry-coalition model is a benchmark worth tracking: it signals where US regulatory pressure may eventually go, and the process of formally scoping "driver work vs. shipper work" is a legitimate terminal operations improvement lever available now. Dwell time reduction tied to proper work allocation is both a retention tool (drivers hate unnecessary wait) and a network capacity multiplier.
+**Knowledge Tier:** High-frequency (current regulatory/industry initiative, April 2026)
+**Tags:** `[SCOPE]` `[METHOD]` — bulk chemical logistics, driver ancillary work, terminal operations, dwell time, driver retention, regulatory compliance, loading/unloading safety
+
