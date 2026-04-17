@@ -3723,3 +3723,69 @@ In a prolonged margin-compressed environment, the consensus from 25 transportati
 **Knowledge Tier:** High-frequency (current regulatory/industry initiative, April 2026)
 **Tags:** `[SCOPE]` `[METHOD]` — bulk chemical logistics, driver ancillary work, terminal operations, dwell time, driver retention, regulatory compliance, loading/unloading safety
 
+
+---
+
+## 2026-04-17 PM — Evening Knowledge Scan
+
+### Insight 1: Geopolitical Risk Now Operates as a Single Interconnected Vector — Not Separate Domains
+**Source:** SupplyChainBrain — "Geopolitics Shockwaves That Your Supply Chain Can't Ignore" (April 2026)
+**URL:** https://www.supplychainbrain.com/blogs/1-think-tank/post/43686-geopolitics-shockwaves-that-your-supply-chain-cant-ignore
+**Knowledge Tier:** High-frequency (current events / market intelligence — volatile, verify before citing)
+**Tags:** #risk-management #geopolitical-risk #currency-volatility #procurement #resilience
+
+The traditional SCRM framework of treating geopolitical, currency, commodity, and cyber risks as separate domains is no longer sufficient. They now compound as a single interconnected risk vector — geopolitical tension reprices commodities, which fragments currencies, which reprices freight, which creates demand whiplash — all simultaneously.
+
+Key data points (April 2026):
+- Gold crossed $5,000/oz before pulling back — now functioning as a hedge against supply chain fragility, not just inflation
+- Iran conflict (Feb 28, 2026 US/Israel strike) pushed Brent crude to $110/barrel (Goldman Sachs estimate) — 62% above 2025 average
+- Precious metals market movements now driven more by geopolitical shock than organic demand
+- IEA director characterized Iran energy shock as worse than 1973 + 1979 oil crises combined
+
+**Actionable framework implication:** Static contracts are a structural vulnerability. Build index-based pricing triggers, auto-requoting clauses, and risk-sharing provisions into supplier agreements. Scenario planning must account for compound shock events, not single-factor disruptions.
+
+**Quantix relevance:** Bulk chemical carrier with 4,500+ trucks — diesel is a primary cost driver. Energy price spikes of this magnitude (62%+) require dynamic fuel surcharge structures and hedging exposure review. Terminal network across 50+ locations also creates distributed fuel procurement exposure.
+
+---
+
+### Insight 2: Iran War Disrupts Helium Supply — A Hidden Chemical Supply Chain Vulnerability
+**Source:** Xeneta — "The Price of Uncertainty: How Trade Volatility Is Breaking Chemical Supply Chains" (March 2026)
+**URL:** https://www.xeneta.com/blog/the-price-of-uncertainty-how-trade-volatility-is-breaking-chemical-supply-chains
+**Knowledge Tier:** High-frequency (current events / active conflict impact — highly volatile, verify status)
+**Tags:** #chemical-logistics #supply-risk #helium #iran-conflict #force-majeure #tariff-volatility
+
+Two compound disruptions are simultaneously hitting chemical supply chains in 2026:
+
+**Tariff whiplash pattern:** US chemical imports spiked to $20B+ in March 2025 (highest in 3+ years) as buyers front-loaded ahead of tariffs. Then imports collapsed sharply — leaving bloated inventories and soft demand. The stop-start cycle destroyed freight seasonality and rendered traditional budgeting unreliable. Chemical procurement teams faced stock rationing, expedited logistics costs, and emergency contract renegotiations.
+
+**Helium supply disruption:** Iranian strikes on Qatar's Ras Laffan Industrial City — the world's largest concentration of helium production infrastructure — forced QatarEnergy to halt all LNG and associated production (force majeure declared March 2, 2026). This removed ~27% of global helium supply. Helium is critical for semiconductor manufacturing, MRI equipment, fiber optics, and advanced manufacturing. Restart timeline: weeks to months post-conflict.
+
+**Actionable implication:** Multi-tier supply mapping must include energy inputs and co-produced industrial gases, not just direct materials. Helium is a classic case of a non-obvious dependency that only surfaces during a force majeure event. Chemical shippers should audit contracts for force majeure provisions triggered by conflict affecting upstream commodity infrastructure.
+
+**Quantix relevance:** Bulk chemical transport carries materials that feed into downstream sectors (automotive, ag, construction) now facing these supply shocks. Customers may face demand volatility, payment pressure, and volume fluctuations — anticipate freight demand softening in tariff-sensitive chemical lanes.
+
+---
+
+### Insight 3: Chemical Logistics Sustainability — Early Collaboration + Modal Shift Reduces Cost AND Emissions
+**Source:** Global Trade Magazine — "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026" (April 15, 2026)
+**URL:** https://www.globaltrademag.com/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/
+**Knowledge Tier:** Mid-frequency (research synthesis / practitioner guidance — relatively stable)
+**Tags:** #chemical-logistics #sustainability #modal-shift #intermodal #route-optimization #emissions #process-improvement
+
+Key finding: In chemical logistics, sustainability goals and cost/safety goals are NOT in tension — they align when the right approach is taken. The enabling conditions:
+
+1. **Early collaboration** — Chemical manufacturers and logistics providers must engage during *initial project design*, not after routes and specs are set. Late engagement locks in suboptimal modal choices.
+
+2. **Modal shift priority:**
+   - Rail and barge over truck for bulk heavy flows (lower carbon AND lower cost per ton-mile)
+   - Short-sea transport where route geography allows
+   - Barge specifically cited for heavy-duty transport: sustainability footprint improvement over rail + trucks, positive project budget impact, enhanced safety profile
+
+3. **Emissions-optimized routing:** Specially engineered route surveys determine optimal cargo dimensions and routes — minimize congestion, reduce transport risk, lower emissions. Modern equipment + route optimization compound savings vs. older assets.
+
+4. **Cargo design for transport:** Designing cargo/packaging to work with specific carrier types from project inception (vs. retrofitting) delivers further efficiency gains.
+
+**Lean/CI connection:** This mirrors Lean design-for-manufacturability principles applied to logistics — waste elimination is most effective when built in early, not inspected in late. The DMAIC equivalent is getting into Define phase of a logistics project at the design stage, not the Improve phase.
+
+**Quantix relevance:** As a bulk chemical carrier (plastic pellets + liquid chemicals), Quantix is the modal option for chemical manufacturers making these shift decisions. Understanding customers' sustainability pressures creates a commercial opportunity — position intermodal/rail coordination capabilities and emissions reporting as differentiators. Barge integration at terminal locations near waterways is worth mapping as a service extension.
+
