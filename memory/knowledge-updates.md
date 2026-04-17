@@ -3627,3 +3627,63 @@ Macro context: This tightening is against a backdrop of ongoing tariff uncertain
 **Tags:** `#freight-market` `#truckload` `#capacity-tightening` `#rate-increase` `#CH-Robinson` `#LTL` `#intermodal` `#cross-border` `#Mexico` `#tariffs` `#fuel-costs` `#Quantix-relevant`
 
 ---
+
+---
+
+## 2026-04-17 AM — Morning Knowledge Scan
+
+### Insight 1: Transportation Orchestration Is the New TMS Paradigm
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**Knowledge Tier:** High-frequency (industry analyst synthesis, current 2026)
+
+The framing of transportation technology has shifted from point optimization to **orchestration**. In 2026, TMS value is no longer measured by load planning quality alone — it's measured by how well the platform supports real-time execution decisioning as conditions change. Five trends identified by ARC Advisory Group:
+1. **Transportation Orchestration** — connecting orders, shipments, inventory, appointments, labor, and exceptions across a shared execution environment. Track-and-report → sense-and-coordinate.
+2. **AI-Assisted Decisioning in TMS** — ETA confidence, exception prioritization, intelligent carrier recommendations, real-time plan adjustment. AI is now practical infrastructure, not a pilot.
+3. **Dock & Yard Coordination** — becoming inseparable from transportation execution, not a bolt-on.
+4. **Bounded Autonomy** — selective autonomous freight deployment making economic sense in repeatable, bounded corridors with supportive regulation.
+5. **Execution Visibility** — visibility platforms no longer standalone; merged into the execution layer.
+
+**Application for Quantix:** Quantix's bulk chemical and plastic pellet network (50+ terminals, 4,500+ trucks) is a prime candidate for the orchestration model — terminal dock coordination, load-to-truck assignment, and exception management are all currently siloed. A TMS upgrade that links these into a shared execution environment would be the highest-ROI move in the technology stack.
+
+**Tags:** technology, TMS, orchestration, AI, visibility, execution
+**SC Relevance:** High — directly applicable to Quantix fleet operations and terminal network
+
+---
+
+### Insight 2: Commercial Driverless Trucking Goes Live on I-35 Corridor (TX)
+**Source:** Morningstar/BusinessWire, Trucking Dive — reporting on PlusAI/Ryder/International Motors program (March 31, 2026 launch)
+**Knowledge Tier:** High-frequency (breaking industry development, April 2026)
+
+Three-company consortium — **International Motors (OEM) + Ryder (operations) + PlusAI (autonomy software)** — launched commercial driverless truck operations on a ~600-mile daily lane between **Laredo and Temple, TX** (I-35 corridor). This is not a pilot. It is daily commercial freight movement on a public highway with no safety driver.
+
+Key structural elements:
+- OEM + fleet operator + software stack as a partnership model (not a single AV startup)
+- 600-mile lane is well within current AV commercial viability range
+- Laredo → Temple is a high-volume Mexico cross-border freight lane — strategic choice for demonstrating scalability
+
+Context: Kodiak became the first commercial driverless operation in the US (Dec 2024) on private West Texas roads. This I-35 program extends that to public highway at scale.
+
+**Application for Quantix:** The Laredo→Temple lane is Quantix-adjacent territory. The partnership model (OEM + ops + software) is the likely adoption path for large fleets — not build-it-yourself. Quantix should monitor for bulk chemical/hazmat AV viability timelines; regulatory approval for hazmat payloads will lag general freight.
+
+**Tags:** autonomous-vehicles, trucking, Texas, technology, transportation, AV, I-35
+**SC Relevance:** High — direct competitive and operational implication for a Texas-based bulk carrier
+
+---
+
+### Insight 3: Trucking Profitability Is Now Determined by Operational Precision, Not Market Conditions
+**Source:** Fleet Owner — "Trucking profitability in 2026: Why operational discipline drives growth" (April 14, 2026) — based on Optimal Dynamics 2026 Transportation Leadership Strategy Session (25 carrier executives)
+**Knowledge Tier:** High-frequency (current practitioner insight, April 2026)
+
+In a prolonged margin-compressed environment, the consensus from 25 transportation executives is clear: **profitability is no longer a market condition — it is an operational decision.** Five defining themes from the roundtable:
+
+1. **Market Discipline** — bid spreads narrowing from 15–20% to 5–10%. Strongest operators walk away from freight that doesn't hold economics rather than accepting bad freight to fill trucks.
+2. **Data-Driven RFP Strategy** — carriers bringing lane-level optimization outputs directly into RFP discussions. Pricing becomes defensible through network data, not rate intuition.
+3. **Fleet Rightsizing** — asking hard questions: Are we operating assets that don't justify their capital exposure? Utilization ≠ margin quality.
+4. **Automation as Commercial Leverage** — consistent, explainable decision systems make pricing defensible and move sales conversations to executive level (out of procurement).
+5. **Line-by-Line P&L Discipline** — lane-level economics and modeled award scenarios driving every growth decision.
+
+**Application for Quantix:** Quantix operates in a specialized bulk market with less spot exposure than dry van, but the same discipline applies. Lane-level profitability analysis, fleet rightsizing by terminal, and data-backed contract negotiations are all transferable. The "growth begins with restraint" framing is directly relevant for any terminal underperformance review.
+
+**Tags:** profitability, trucking, pricing, fleet-management, operations, discipline, margin
+**SC Relevance:** High — directly applicable to Quantix carrier economics and terminal P&L management
+
