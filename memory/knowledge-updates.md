@@ -3789,3 +3789,56 @@ Key finding: In chemical logistics, sustainability goals and cost/safety goals a
 
 **Quantix relevance:** As a bulk chemical carrier (plastic pellets + liquid chemicals), Quantix is the modal option for chemical manufacturers making these shift decisions. Understanding customers' sustainability pressures creates a commercial opportunity — position intermodal/rail coordination capabilities and emissions reporting as differentiators. Barge integration at terminal locations near waterways is worth mapping as a service extension.
 
+
+---
+
+## 2026-04-20 AM — Morning Knowledge Scan
+
+### Insight 1: Transportation Orchestration Replaces Point Optimization — Architectural Shift in 2026
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**Knowledge Tier:** High-frequency (industry analysis, current quarter — treat as volatile)
+
+The framing of transportation technology has shifted from isolated applications to **integrated orchestration**. Key developments:
+- **TMS is no longer a standalone optimizer** — value now comes from linking orders, shipments, inventory, appointments, labor, and exceptions into a coordinated execution environment
+- **AI-assisted decisioning** is the new TMS differentiator: not just producing a plan, but continuously adjusting it as conditions change — better ETA confidence, exception prioritization, intelligent carrier recommendations
+- **The thesis:** transportation is moving from "track-and-report" → "sense-and-coordinate"
+- **Visibility platforms are converging with execution** — no longer a separate layer
+- Bounded autonomy (dock/yard coordination, AI dispatch) is entering commercial deployment, not just pilot stage
+
+**Application for Quantix:** With 4,500+ trucks and 50+ terminals, Quantix sits squarely in the target architecture. The question is whether current TMS (if any) supports real-time AI-assisted exception management or is still operating as a static plan-and-execute system. Dock and yard coordination AI is directly applicable to terminal operations. This is the architecture to benchmark against.
+
+**Tags:** `#technology` `#TMS` `#AI` `#execution` `#transportation-orchestration` `#visibility`
+
+---
+
+### Insight 2: Iran War / Strait of Hormuz Closure Drives 50% Diesel Surge — Direct P&L Impact on U.S. Carriers
+**Source:** Reuters / Vision Times / WTVB (multiple corroborating sources, April 14–15, 2026); Wikipedia — "2026 Strait of Hormuz Crisis"
+**Knowledge Tier:** High-frequency (current market data — highly volatile, verify before use)
+
+The Iran–U.S. conflict effectively halted shipping through the Strait of Hormuz beginning in early 2026. Cascading supply chain impact:
+- **Brent crude surpassed $100/bbl on March 8, 2026** — first time in four years; peaked at $126/bbl
+- **National average retail diesel jumped $1.89 (≈50%)** since conflict onset
+- Diesel is the **second-largest operating expense** for U.S. truckers — this is a structural cost shock, not a short-term blip
+- Freight demand also under pressure as oil price spikes flow through to consumer goods prices
+- Trucking market exits (carrier bankruptcies/closures) slowed to lowest in years — counterintuitively, cost pressure is not yet triggering mass exit (possibly due to rate environment)
+
+**Application for Quantix:** Bulk chemical and plastic pellet transport is fuel-intensive. A 50% diesel spike directly compresses margin unless fuel surcharge mechanisms are current and trigger-responsive. Quantix should verify: (1) FSC escalation clauses are live and indexed to EIA weekly retail diesel, (2) hedging posture if any, (3) routing efficiency — fewer empty miles matters more at $5+ diesel. This is a live cost management trigger, not a planning scenario.
+
+**Tags:** `#fuel` `#diesel` `#geopolitical-risk` `#Iran` `#cost-management` `#fuel-surcharge` `#Quantix-direct`
+
+---
+
+### Insight 3: PE-Backed "Agentic AI" Push Into LTL Software — STG Acquires Carrier Logistics Inc.
+**Source:** FreightWaves / AJOT — "PE firm acquires Carrier Logistics, pledges AI overhaul" (April 13, 2026)
+**Knowledge Tier:** High-frequency (M&A announcement, current quarter)
+
+Private equity firm STG acquired Carrier Logistics Inc. (CLI), a 50-year-old TMS provider serving LTL and last-mile fleets. The stated goal: rebuild CLI's architecture as an "agentic AI" platform.
+- **Agentic AI** = AI that executes decisions autonomously, not just recommends — autonomous dispatch/routing, predictive dock workflow modeling, AI-managed exceptions with human escalation
+- STG's thesis: "Data is plentiful, but actionable intelligence is scarce" in the LTL terminal network environment
+- This follows a pattern: legacy TMS providers with installed base + PE capital + AI rebuild roadmap = attempt to leapfrog point-solution AI competitors
+- Signals industry consensus that terminal operations are the next AI automation frontier — not just planning or visibility
+
+**Application for Quantix:** The CLI/STG move validates the architecture direction in Insight 1 above — agentic AI for terminal operations is becoming the competitive baseline, not a differentiator. For a 50+ terminal carrier, this is a capability gap to track. Watch whether Quantix's current software vendors are on an AI-native roadmap or still bolting on features. The "actionable intelligence is scarce" framing maps directly to the kind of dispatch and exception management challenges bulk carriers face daily.
+
+**Tags:** `#technology` `#TMS` `#agentic-AI` `#LTL` `#terminal-operations` `#M&A` `#software-vendors`
+
