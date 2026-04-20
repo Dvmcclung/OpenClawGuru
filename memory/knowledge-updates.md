@@ -3842,3 +3842,68 @@ Private equity firm STG acquired Carrier Logistics Inc. (CLI), a 50-year-old TMS
 
 **Tags:** `#technology` `#TMS` `#agentic-AI` `#LTL` `#terminal-operations` `#M&A` `#software-vendors`
 
+
+---
+
+## 2026-04-20 PM — Evening Knowledge Scan
+
+### Insight 1: Tariff Volatility Has Doubled Supply Chain Risk Priority — 2026 Survey Data
+**Source:** Thomson Reuters Global Trade Report 2026 (survey of 225 upper-level trade professionals, North America, EU, UK, LATAM, APAC)
+**URL:** https://tax.thomsonreuters.com/blog/2026s-supply-chain-challenge-confronting-complexity-and-disruption-in-global-trade-tri/
+**Knowledge Tier:** High-frequency (current market data — volatile, treat as snapshot)
+**Tags:** risk-management, tariff, trade-disruption, sourcing-strategy, resilience
+
+**Summary:**
+Supply chain management has become the #1 strategic priority for trade professionals in 2026, cited by 68% — nearly double the 35% who flagged it the prior year. U.S. tariff volatility was identified as the most impactful regulatory change by 72% of respondents (up from 41% the prior year). Key findings:
+- 76% of trade professionals believe current U.S. tariffs represent a **permanent structural shift**, not a short-term negotiating tool — fundamentally altering sourcing and network decisions
+- Top mitigation strategies: change sourcing patterns (65%), renegotiate supplier contracts (57%), nearshore or reshore to U.S. (cited frequently)
+- 39% of companies are absorbing tariff costs rather than passing them to customers (up from 13% prior year) — margin compression is accelerating
+- Trade departments are shifting from cost centers to **strategic enterprise risk partners** — elevated organizational standing is a direct result of tariff complexity
+- Root cause chain: tariffs → raw material cost increases → manufacturing margin compression → export competitiveness erosion
+
+**Supply Chain Relevance for Quantix:**
+Quantix moves bulk chemicals for manufacturers and processors — the customers are absorbing cost pressure on both raw material inputs and finished goods. Expect more pressure on carrier rates and more urgency around transit predictability. The shift to domestic sourcing/reshoring (if sustained) could increase domestic chemical logistics volumes but may shift lane mix. Monitor customer base for nearshoring signals.
+
+---
+
+### Insight 2: Lean Six Sigma DMAIC in 3PL Warehouse Operations — Peer-Reviewed Case Study
+**Source:** ScienceDirect — "Development of an improvement framework for warehouse processes using Lean Six Sigma (DMAIC) approach: A case of third party logistics (3PL) services" (2023, published in Heliyon journal)
+**URL:** https://www.sciencedirect.com/science/article/pii/S2405844023021229
+**Knowledge Tier:** Mid-frequency (peer-reviewed academic synthesis — stable methodology, current application)
+**Tags:** DMAIC, lean-six-sigma, 3PL, warehouse, process-improvement, SPC, productivity
+
+**Summary:**
+Peer-reviewed case study applying DMAIC + statistical process control (SPC) tools to diagnose and resolve real-time warehouse productivity failures in a 3PL operation. Key methodological findings:
+- **Define:** Used supplier-customer-warehouse relationship mapping to scope the problem clearly before any data collection — a discipline many teams skip
+- **Measure/Analyze:** Qi Macros (Excel-embedded statistical toolset) used for SPC and process capability analysis — lower barrier to entry than full Minitab for operational teams
+- **Improve/Control:** Waste elimination steps targeted picking errors, idle time, and layout inefficiency — the three highest-frequency root causes
+- **Critical finding:** DMAIC outperformed ad-hoc Lean tools alone because it forced baseline measurement before improvement — without measurement, teams were solving symptoms not causes
+- **Transferability:** Framework applies directly to terminal operations, staging yards, and loading/unloading processes — any repetitive physical workflow with measurable cycle time
+
+**Supply Chain Relevance for Quantix:**
+Quantix's 50+ terminals are effectively 3PL-equivalent processing hubs. DMAIC framework is directly applicable to: loading/unloading cycle times, driver detention at customer sites, order-to-dispatch lead time, and maintenance workflow throughput. The Qi Macros / Excel SPC approach is operationally accessible without requiring full Black Belt certification for site managers.
+
+---
+
+### Insight 3: Key Risk Categories in Chemical Trucking and Professional Carrier Risk Management Protocols
+**Source:** All Chemical Transport Corp — "Key Risks in Chemical Trucking & How Professional Carriers Manage Them" (January 2026)
+**URL:** https://allchemical.com/key-risks-in-chemical-trucking/
+**Knowledge Tier:** Mid-frequency (operational best practice synthesis — stable core, regulatory details volatile)
+**Tags:** chemical-logistics, bulk-carrier, safety, compliance, DOT, FMCSA, OSHA, risk-management, driver-safety
+
+**Summary:**
+Comprehensive operational risk taxonomy for bulk chemical trucking with carrier mitigation protocols across five categories:
+
+1. **Hazardous Material Spills & Exposure:** DOT-approved tank/trailer standards, rigorous inspection & maintenance programs, secure loading procedures, spill response plans. Core principle: equipment integrity is a non-negotiable prerequisite — no shortcuts on tank certification.
+
+2. **Legal Liability & Regulatory Compliance:** Governed by DOT, OSHA, FMCSA, and EPA simultaneously. Professional carriers manage via regular compliance audits, accurate placarding/documentation, dedicated regulatory monitoring teams. Key risk: regulatory change velocity — passive compliance posture creates lag exposure.
+
+3. **Human Error & Driver Safety:** Traffic, weather, fatigue as primary drivers. Mitigations: Smith System training methodology, strict HOS scheduling, driver monitoring systems (telematics), safety-first culture reinforcement. Insight: safety culture is a lagging indicator — leading indicators (near-miss reporting, observation scores) are better early warning.
+
+4. **Mechanical Error & Equipment Failure:** Brake, tire, and tank integrity failures. Mitigations: preventative maintenance programs, pre/post-trip inspections (systematic, not cursory), immediate removal of at-risk equipment from service.
+
+5. **Route Planning & Hazard Avoidance:** Metro area transit, weather routing, infrastructure constraints. Advanced route planning reduces incident probability — GPS/routing software with hazmat restrictions is table stakes.
+
+**Quantix Relevance:**
+This is directly operational for Quantix's liquid bulk/ISO chemical fleet. The five-category framework maps well against a carrier audit protocol or internal safety maturity assessment. Of note: regulatory monitoring (category 2) is a gap area for many operators — this is where an AI-assisted compliance tracking system could reduce lag exposure. Smith System driver training (category 3) is a recognized industry standard worth benchmarking against current Quantix training protocols.
+
