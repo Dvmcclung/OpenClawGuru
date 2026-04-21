@@ -3969,3 +3969,67 @@ C.H. Robinson's April 2026 freight market update signals a faster-than-expected 
 **Supply Chain Relevance for Quantix:**
 A 16–17% TL rate increase YoY is material for any bulk carrier operating on contracted or spot lanes. For Quantix, this environment validates: (1) the value of disciplined contract management and rate renegotiation cycles — spot exposure in a tightening market is expensive; (2) intermodal as a displacement option for lanes where flexibility exists; (3) capacity investment decisions (like Prime Inc.'s $160M Georgia terminal) may be warranted if the tightening is structural. Cross-border Mexico pressure is also relevant if Quantix has any southbound chemical/plastics lanes.
 
+
+---
+
+## 2026-04-21 — Evening Knowledge Search (PM Cron)
+
+### Insight 1: Composite Risk Scoring Framework Moves to Boardroom Standard in 2026
+**Source:** StartUs Insights — "Global Supply Chain Risk Management [2026]: The Definitive Guide for Boards" (Oct 2025, updated 2026)
+**URL:** https://www.startus-insights.com/innovators-guide/global-supply-chain-risk-management/
+**Knowledge Tier:** Mid-frequency (annual synthesis — stable 12–18 months)
+**Tags:** risk-management, resilience, CRS-framework, cyber, geopolitics, carbon-costs, tariffs, digital-twins, freight-rates
+
+**Summary:**
+The 2026 SCRM landscape is characterized by risk becoming quantifiable and boardroom-visible in a way it wasn't before. Key framework developments:
+
+- **Composite Risk Score (CRS):** A five-factor scoring model (likelihood, impact, velocity, detectability, readiness) on a 1–5 scale. **Boards must treat CRS ≥ 3.5 as high/critical** requiring immediate playbook activation and quarterly refresh.
+- **TTR vs. TTS test:** Time-to-Recover vs. Time-to-Survive. Any gap between these two numbers is a survival gap — requires either buffer stock funding, dedicated capacity, or alternative sourcing pre-approved before the disruption occurs.
+- **Top 8 risks in 2026:** (1) Carbon-cost shock (ETS/CBAM becoming invoice line items, not balance-sheet buffers); (2) Mandatory data sharing (EU Data Act — API/audit log obligations); (3) Digital product passport gaps (DPPs, battery passports, EUDR); (4) Geopolitics & tariffs (Red Sea, canal chokepoints, tariff engineering); (5) Freight-rate whiplash; (6) Cyber threats to logistics networks; (7) Climate/extreme weather; (8) Tier 2+ supplier visibility gaps.
+- AI, digital twins, and geospatial intelligence are now standard playbook tools — not experimental.
+
+**SC Relevance for Quantix:**
+The TTR vs. TTS gap test is operationally actionable for Quantix's terminal network. For bulk chemical lanes with a single-carrier dependency, calculate TTS (how long can the shipper wait?) vs. TTR (how long to recover capacity?). Any gap = a pre-approved backup carrier or routing requirement. The CRS ≥ 3.5 threshold is a useful governance trigger for quarterly risk reviews. Cyber risk targeting logistics networks (dispatch systems, load boards, ELD integrations) is now a primary risk category, not an IT afterthought.
+
+---
+
+### Insight 2: Bulk Chemical Logistics — Personnel Continuity and Relationship Capital Are the Hidden Critical Path
+**Source:** Inbound Logistics — "The Chemistry of Trust: Logistics Leaders Reinvent Chemical Supply Chains" (June 2025)
+**URL:** https://www.inboundlogistics.com/articles/the-chemistry-of-trust-logistics-leaders-reinvent-chemical-supply-chains/
+**Knowledge Tier:** Mid-frequency (industry trade press — stable 6–12 months)
+**Tags:** chemical-logistics, driver-shortage, terminal-operations, bulk-transport, workforce, relationship-capital, compliance, operational-risk
+
+**Summary:**
+The chemical distribution sector directly/indirectly employs ~100,000 people serving 750,000 end users across nearly every US industry (Alliance for Chemical Distribution). Key operational findings:
+
+- **Driver shortage is structurally worse in chemicals** than general freight: chemical drivers must hold specialized hazmat endorsements, know commodity-specific regulations, and manage prior-cargo restriction requirements. The skill gap is not just volume — it's depth.
+- **Relationship capital is a load-bearing element:** "Much of the success of moving bulk chemicals relies on relationships and experience" (Heston Hodges, LMR Inc.). Non-standard equipment, insurance complexity, and prior cargo restrictions make spot-market sourcing genuinely dangerous in this sector.
+- **Non-driver personnel turnover is a cascading risk:** Terminal manager and office staff changes lead to performance degradation — ranging from late deliveries to product contamination. The institutional knowledge embedded in experienced personnel is not easily documented or replaced.
+- **The "butterfly effect" in chemical SC:** Regional disruptions propagate globally. Weather events, regulatory changes, and port congestion create second- and third-order effects that chemical shippers must model proactively.
+- **Response strategy:** Pre-qualification of backup carriers, documentation of institutional knowledge (SOPs), and investment in driver retention programs are the primary mitigation levers.
+
+**SC Relevance for Quantix:**
+This is directly applicable to Quantix's terminal operations. With 50+ terminals and 4,500+ trucks, personnel continuity risk is real at scale. Key actions: (1) Treat terminal manager retention as a supply chain risk, not just an HR function — calculate the cost of replacement vs. retention; (2) Document carrier-specific knowledge in SOPs before it walks out the door; (3) Pre-qualify backup carriers for every major lane now, not during a disruption. The relationship capital insight validates Quantix's carrier partnership model — in chemical bulk, the spot market is a failure mode, not a flex option.
+
+---
+
+### Insight 3: Chemical Logistics Sustainability — Multimodal Shift and Emissions Traceability Are Now Shipper Requirements
+**Source:** IndexBox / Chemical Engineering — "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026" (April 15, 2026)
+**URL:** https://www.indexbox.io/blog/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/
+**Knowledge Tier:** Mid-frequency (industry analysis — stable 12 months)
+**Tags:** chemical-logistics, sustainability, emissions, multimodal, intermodal, rail, barge, route-optimization, regulatory-compliance, ESG
+
+**Summary:**
+Chemical manufacturers are shifting from offsetting emissions to demanding **auditable, shipment-level emissions data** from logistics providers — and this is now being written into procurement requirements, not just ESG reports.
+
+Key operational findings:
+- **Multimodal displacement of trucking** is accelerating: rail, barge, and short-sea transport are being prioritized where route geometry allows. Barge transport for heavy-duty bulk is cited as a sustainability *and* budget improvement vs. truck.
+- **Early collaboration matters:** Sustainability gains are highest when logistics providers are involved in initial project design — not brought in after routing and volume are fixed. This is the logistics equivalent of design-for-manufacturability.
+- **Emissions traceability is table stakes:** Governmental regulations are forcing rigorous emissions tracking. Manufacturers now expect auditable emissions data (shipment-level, not fleet-average) as a baseline supplier requirement.
+- **Route engineering:** Specialized route surveys for optimal cargo dimensions and mode selection — not just GPS optimization — are being used to minimize congestion, reduce transport risk, and lower emissions simultaneously.
+- **Equipment modernity matters:** Newer transport assets consistently produce lower emissions than older fleets — creating a cost-and-sustainability alignment case for fleet renewal investment.
+- **Driver shortage + sustainability tension:** As trucking capacity tightens, manufacturers are showing growing interest in intermodal/rail to reduce dependence on a constrained driver pool.
+
+**SC Relevance for Quantix:**
+The auditable emissions data requirement is a near-term competitive differentiator for bulk chemical carriers. Quantix's ability to provide shipment-level emissions data (not just fleet averages) will increasingly determine shipper preference. Fleet age is a dual-lever: newer assets reduce emissions AND reduce maintenance cost — a capital investment case worth modeling. The multimodal trend (barge/rail for heavy bulk) is not a threat to OTR tanker operations for short-haul lanes, but it is a signal to monitor on long-haul chemical lanes where Quantix competes with intermodal alternatives.
+
