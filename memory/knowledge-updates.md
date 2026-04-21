@@ -3907,3 +3907,65 @@ Comprehensive operational risk taxonomy for bulk chemical trucking with carrier 
 **Quantix Relevance:**
 This is directly operational for Quantix's liquid bulk/ISO chemical fleet. The five-category framework maps well against a carrier audit protocol or internal safety maturity assessment. Of note: regulatory monitoring (category 2) is a gap area for many operators — this is where an AI-assisted compliance tracking system could reduce lag exposure. Smith System driver training (category 3) is a recognized industry standard worth benchmarking against current Quantix training protocols.
 
+
+---
+
+## 2026-04-21 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Breaks the 90% Automation Ceiling in Freight Operations
+**Source:** Transport Topics — "How AI Is Transforming Logistics Operations" (April 20, 2026)
+**URL:** https://www.ttnews.com/articles/how-ai-transforming-logistics
+**Knowledge Tier:** High-frequency (current deployment data — cite with date)
+**Tags:** agentic-ai, automation, freight-brokerage, 3pl, dispatch, operations, technology
+
+**Summary:**
+Agentic AI — AI that acts on data autonomously rather than merely analyzing it — is now crossing critical adoption thresholds in freight operations. Key data points from Manifest 2026 and industry reports:
+
+- **C.H. Robinson** has deployed 30+ autonomous AI agents executing millions of shipping tasks. Previous AI generations plateaued at 50–60% automation; agentic systems are "routinely breaking through 90%." Tasks handled: pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, ETA prediction, document handling, invoicing.
+- **DHL Supply Chain** (partnered with HappyRobot) is using AI agents to autonomously handle routine calls and emails — routing human employees toward exception management and higher-value customer interactions.
+- The shift is described as "rewiring the business" — not deploying a tool, but restructuring workflows around AI-executed steps from quote to cash.
+
+**Supply Chain Relevance for Quantix:**
+This is directly relevant to Quantix's dispatch and carrier coordination workflows. Agentic AI at 90%+ automation on quote-to-cash tasks means the competitive floor is shifting fast — carriers and brokers not adopting will face margin compression from those who do. For a fleet of 4,500+ trucks, AI-assisted load matching, driver scheduling, and exception-only human dispatch is operationally achievable now, not theoretical. The DHL "exception management" model maps well to Quantix terminal operations — humans handle edge cases, AI executes the routine.
+
+---
+
+### Insight 2: 2026 MHI Annual Industry Report — AI/Automation Crossing from Pilot to Scale
+**Source:** MHD Supply Chain (Australia) — "AI and automation drive supply chain shift in 2026 report" (April 16, 2026); sourced from 2026 MHI Annual Industry Report (500+ SC professionals surveyed)
+**URL:** https://mhdsupplychain.com.au/2026/04/16/ai-and-automation-drive-supply-chain-shift-in-2026-report/
+**Knowledge Tier:** Mid-frequency (annual industry survey — stable for 12–18 months)
+**Tags:** ai, automation, demand-planning, predictive-maintenance, transport-optimization, talent, technology-adoption, ROI
+
+**Summary:**
+The 2026 MHI Annual Industry Report (500+ SC professionals) signals the industry is moving from AI experimentation to scaled deployment:
+
+- **48%** rate AI as having significant or greater disruptive impact; **24%** call it transformational
+- **53%** of organizations are using AI today; uptake expected to rise sharply over next 5 years
+- Top use cases: demand & inventory optimization (33%), predictive maintenance (30%), transport optimization (26%)
+- **Barriers remain:** Building a business case is the #1 AI challenge (20%); budget constraints top the robotics hurdle (29%)
+- **Talent crisis:** 90% of organizations report talent shortages; nearly two-thirds classify it as a major challenge
+- **Investment discipline shifting:** 56% plan to increase SC tech spending, but focus is moving toward targeted ROI-driven initiatives vs. large transformation programs
+
+**Supply Chain Relevance for Quantix:**
+The talent shortage signal (90%) is critical context for Quantix's AI-in-the-loop strategy — the labor market constraint is a structural driver, not cyclical. This validates the investment thesis: automation and AI aren't optional efficiency plays, they're workforce gap fills. The shift toward ROI-driven (not transformation-first) investment patterns is also a useful framing for internal project justification — quantify the specific use case first, build ROI case, then scale.
+
+---
+
+### Insight 3: North American Truckload Rates Up 16–17% YoY in 2026 — Market Tightening Faster Than Expected
+**Source:** C.H. Robinson Edge Report — "Freight Market Update: April 2026" (April 9, 2026)
+**URL:** https://www.chrobinson.com/en-us/resources/insights-and-advisories/north-america-freight-insights/apr-2026-freight-market-update/
+**Knowledge Tier:** High-frequency (market rate data — valid for 30–60 days, verify before use)
+**Tags:** truckload, freight-rates, capacity, LTL, intermodal, cross-border, Mexico, market-conditions, cost-management
+
+**Summary:**
+C.H. Robinson's April 2026 freight market update signals a faster-than-expected tightening across North American surface freight:
+
+- **Truckload:** Rates up **16–17% year-over-year**. Capacity constraints, carrier attrition, and rising operating costs are sustaining rate pressure even during seasonally soft periods. This is a structural, not seasonal, tightening.
+- **LTL:** Early signs of firmer conditions; modest tonnage/shipment gains; some TL-to-LTL shift. Mixed regional picture. Fuel cost headwind persisting.
+- **Intermodal:** Showing early recovery. Cost advantage vs. TL widening as TL tightens — especially on long-haul lanes. This is a modal shift signal for shippers with flexibility.
+- **Cross-border (Mexico):** Tightening as strong Mexico trade volumes meet rising carrier costs + regulatory pressure. Compliance complexity increasing.
+- **Ocean:** Balanced but rerouting, elevated fuel, and capacity adjustments extending transit times and introducing variability.
+
+**Supply Chain Relevance for Quantix:**
+A 16–17% TL rate increase YoY is material for any bulk carrier operating on contracted or spot lanes. For Quantix, this environment validates: (1) the value of disciplined contract management and rate renegotiation cycles — spot exposure in a tightening market is expensive; (2) intermodal as a displacement option for lanes where flexibility exists; (3) capacity investment decisions (like Prime Inc.'s $160M Georgia terminal) may be warranted if the tightening is structural. Cross-border Mexico pressure is also relevant if Quantix has any southbound chemical/plastics lanes.
+
