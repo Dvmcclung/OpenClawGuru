@@ -4239,3 +4239,60 @@ A published peer-reviewed DMAIC case study applied to 3PL warehouse operations p
 
 **Application for Quantix:** This mirrors the LSS application opportunity in Quantix terminal operations — where loading, unloading, and dwell time sequences likely carry substantial NVA. A terminal-level Value Stream Mapping exercise would quantify the waste pool. The CSF ranking is useful for sequencing an LSS rollout: executive sponsorship must come first; skills and culture follow. The 40%→70% cycle efficiency gain is a compelling internal benchmark for any terminal improvement project proposal.
 
+
+---
+
+## 2026-04-22 PM — Evening Knowledge Scan
+
+### Insight 1: Green Lean Six Sigma — Empirically Validated Multi-Dimensional Framework (2026)
+**Source:** Taylor & Francis / *Production & Manufacturing Research* — "Green Lean Six Sigma for Multidimensional Performance Improvement: A Case Study on Supply Chain Management" (March 21, 2026)
+**URL:** https://www.tandfonline.com/doi/full/10.1080/19397038.2026.2644657
+**Knowledge Tier:** Mid-frequency (peer-reviewed, empirically validated, 2026)
+
+A 2026 Taylor & Francis case study empirically validates the Green Lean Six Sigma (GLSS) framework across multiple performance dimensions — cost, quality, delivery, and environmental sustainability — in a supply chain context. Key findings:
+- Despite growing academic interest since 2020, very few GLSS frameworks had been empirically validated before this study; most remained conceptual
+- The integrated GLSS approach simultaneously addresses waste elimination (Lean), process variation reduction (Six Sigma), and environmental footprint reduction (Green)
+- Comparative review of 2020–2025 studies found significant gaps in cross-functional and multi-site implementations
+- The study confirms GLSS generates measurable gains across *multiple* performance dimensions in a single DMAIC cycle — not just cost savings
+
+**Application for Quantix:** A GLSS DMAIC project targeting terminal-level operations could simultaneously reduce dwell time waste, decrease fuel consumption variation across the fleet, and improve emissions compliance posture — particularly relevant post-California waiver revocations. The environmental dimension adds regulatory value beyond traditional LSS.
+
+**SC Relevance:** High — directly applicable to bulk carrier operations. DMAIC scoping for a terminal or lane would be the right entry point.
+**Tags:** `#lean-six-sigma` `#DMAIC` `#green-logistics` `#process-improvement` `#peer-reviewed`
+
+---
+
+### Insight 2: 2026 Supply Chain Risk Landscape — Geopolitics, Tariff Structure Shifts, and N-Tier Supplier Visibility
+**Source:** Z2Data — "22 Critical Supply Chain Risks to Watch for in 2026" (April 2026)
+**URL:** https://www.z2data.com/insights/22-critical-supply-chain-risks-to-watch-for-in-2026
+**Knowledge Tier:** High-frequency (current risk intelligence — treat as volatile; validate against Gartner benchmarks)
+
+Three structural risk shifts are reshaping SCRM in 2026:
+1. **Geopolitics as top-tier disruption** — Armed conflict, reciprocal tariffs, and rare earth/critical mineral export restrictions are now recurring, not episodic. Supply chains with any Asia-Pacific or rare-material exposure face sustained pressure.
+2. **Tariff structure change** — Some semiconductors are now tariffed on **Country of Design (COD)** rather than Country of Origin (COO). This is a fundamental shift: sourcing geography alone no longer determines duty exposure. Design origin now matters.
+3. **N-tier supplier visibility gap** — Financial instability and regulatory non-compliance at sub-tier (Tier 2, 3) suppliers are emerging as the most disruptive and *least predictable* risks. 70% of organizations are now prioritizing supply chain visibility and resilience as their primary technology investment.
+
+**Application for Quantix:** While Quantix is OTR domestic (lower tariff exposure), the n-tier visibility risk is directly relevant. Chemical shipper clients are exposed to raw material sourcing risks 2–3 tiers upstream. Understanding where shipper feedstocks come from — and whether that supply is secure — is a competitive intelligence and relationship management opportunity. Additionally, regulatory compliance risk in the carrier base (CDL fraud, hazmat compliance) is Quantix's version of supplier financial stability risk.
+
+**SC Relevance:** High — SCRM framework applies to carrier supplier base, shipper client risk intelligence, and terminal regulatory compliance.
+**Tags:** `#risk-management` `#SCRM` `#geopolitics` `#tariffs` `#n-tier-visibility` `#2026`
+
+---
+
+### Insight 3: Tank Truck Industry 2025 Year-in-Review — Technology Adoption and Regulatory Tailwinds
+**Source:** *Bulk Transporter* — "Year in Review: Top Tank Truck Stories from 2025" (December 29, 2025)
+**URL:** https://www.bulktransporter.com/fleet-management/article/55340021/year-in-review-top-tank-truck-stories-from-2025
+**Knowledge Tier:** High-frequency (industry trade press, 2025 recap — directionally reliable, monitor for 2026 updates)
+
+Five defining themes for the tank truck sector in 2025 with forward implications for 2026:
+1. **Regulatory rollback tailwind** — Trump administration revoked California CARB waivers for Advanced Clean Trucks, Advanced Clean Cars II, and Heavy-Duty Omnibus in June 2025. This removed the ZEV mandate overhang that had been suppressing diesel fleet investment decisions. Result: more confidence in near-term diesel fleet capex.
+2. **AI and connected digital ecosystems** — Fleets are accelerating adoption of AI-driven dispatch, load optimization, and connected asset tracking. Key driver: prolonged freight recession forced operational efficiency over volume growth. Technology investment is the lever available.
+3. **Freight recession headwinds** — Tariff uncertainty and economic pressure created a prolonged low-rate environment. Carrier profitability remained compressed through 2025, setting up potential rate recovery in 2026 if volume recovers.
+4. **Domestic manufacturing investment** — STE (tank trailer manufacturer) opened a new domestic facility — signals supply chain reshoring in the equipment segment. Lead times for new tank trailers should improve.
+5. **Safety and CDL enforcement** — DOT cracked down on fraudulently issued non-domiciled CDLs, directly relevant to driver qualification compliance for Quantix's fleet.
+
+**Application for Quantix:** The regulatory rollback is net positive for fleet planning — longer useful life for current diesel assets. The AI adoption trend confirms the Insight Tech Conference direction: connected fleet management and AI-optimized dispatch are table-stakes competitive positioning for 2026. CDL enforcement crackdown is both a compliance risk and a competitive moat (carriers with clean driver qualification programs win shipper audits).
+
+**SC Relevance:** High — directly addresses Quantix's fleet, regulatory environment, and technology adoption decisions.
+**Tags:** `#bulk-transport` `#fleet-management` `#regulatory` `#AI-dispatch` `#tank-truck` `#2025-2026`
+
