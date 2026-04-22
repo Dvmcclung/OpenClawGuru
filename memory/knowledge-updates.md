@@ -4101,3 +4101,82 @@ C.H. Robinson's April 2026 freight market update signals tightening conditions a
 **ANALYSIS:** A tightening TL market is a rate-positive environment for asset carriers, but fuel and compliance cost inflation compress net margin.
 **JUDGMENT:** Quantix commercial team should assess contract rate escalator clauses before Q2-Q3 renewals; tighten fuel surcharge formulas given current trajectory.
 
+
+---
+
+## Knowledge Update — 2026-04-22 (Morning Cron)
+
+### Insight 1: Green Lean Six Sigma — Multidimensional SC Performance Framework (2026)
+**Date:** 2026-04-22
+**Source:** *Taylor & Francis / International Journal of Sustainable Engineering*, March 21, 2026 — "Green Lean Six Sigma for multidimensional performance improvement: a case study on supply chain management"
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis, stable framework content)
+**Tags:** `#lean-six-sigma` `#green-lss` `#process-improvement` `#sustainability` `#DMAIC` `#case-study`
+
+**Summary:**
+A 2026 peer-reviewed case study formalizes what practitioners have been doing informally: integrating environmental (Green) objectives into the LSS DMAIC framework. The research follows three phases — framework conception, testing, and validation — and produces a composite improvement model that addresses cost, quality, speed, AND sustainability simultaneously. Key finding: treating environmental KPIs as first-class DMAIC measures (not afterthoughts) improves framework adoption because sustainability goals often align with waste-elimination goals. Value-stream mapping of carbon and resource flows parallels standard VSM methodology.
+
+**SC Relevance for Quantix:**
+- Bulk chemical transport has explicit environmental exposure: spill risk, emissions reporting, regulatory compliance, customer sustainability requirements from chemical shippers (many Fortune 500 with ESG targets)
+- A Green LSS framing can be used to pitch process improvement projects internally AND as a value-add to shipper customers — "we run DMAIC on our environmental performance, not just our cost"
+- Practical entry point: map tank cleaning cycles and idle time as both an efficiency waste AND an emissions/resource waste — dual-optimization target
+
+**FACT:** A 2026 research framework integrates Green (sustainability) objectives directly into the LSS DMAIC structure, validated across a supply chain case study.
+**ANALYSIS:** Sustainability and waste elimination are structurally aligned — lean tools eliminate non-value-added activity, which simultaneously reduces resource consumption and emissions.
+**JUDGMENT:** Quantix should pilot a Green DMAIC project on a high-frequency lane or terminal operation — tank cleaning water usage, idle engine time, or empty repositioning miles are good candidates with dual (cost + ESG) ROI.
+
+---
+
+### Insight 2: 2026 Tariff Environment — Sub-Tier Visibility and Network Redesign Are the New Risk Imperatives
+**Date:** 2026-04-22
+**Source:** Ivalua — "How Tariffs and Trade Policy Shifts Impact Procurement and Supply Chains in 2026" (April 2026); corroborated by Supply Chain Dive — "Supply Chain Shortages: What's at Risk in 2026?" (January 28, 2026) and Thomson Reuters Global Trade Report 2026
+**Knowledge Tier:** High-frequency (current market/policy environment — verify against current trade news before citing specific rates)
+**Tags:** `#tariffs` `#supply-chain-risk` `#resilience` `#network-design` `#procurement` `#geopolitics` `#sub-tier-visibility`
+
+**Summary:**
+The 2026 tariff environment — led by US reciprocal tariffs, China restrictions, and shifting trade agreements — has pushed supply chain risk management from tactical disruption response to strategic network redesign. Thomson Reuters' Global Trade Report 2026 confirms tariff disruptions have elevated resilience from a KPI to a strategic priority. Key themes emerging from practitioners:
+
+1. **Sub-tier visibility is now mandatory.** Tier-1 supplier mapping is insufficient — tariff exposure often sits 2-3 tiers deep (components, raw materials). Companies without sub-tier maps are flying blind on cost exposure.
+2. **Network rearchitecting is active, not planned.** Abe Eshkenazi (ASCM CEO): *"Last year was about managing disruptions. Right now, it's about redesigning your global network."*
+3. **Inventory buffering as a shock absorber.** Companies are moving inventory forward and building strategic buffers to absorb short-term tariff shocks — an intentional shift from lean inventory toward managed buffer stock.
+4. **SKU rationalization as a response.** Some manufacturers are reducing SKU complexity to reduce tariff-exposed component count — a deliberate trade-off of product variety for supply resilience.
+5. **ISM identifies 21 tariff mitigation tactics** including free trade zones, tariff engineering, drawback programs, and first-sale valuation.
+
+**SC Relevance for Quantix:**
+- As a carrier (not an importer), Quantix is not directly exposed to tariff costs — but its chemical shipper customers ARE. Volume risk is real: if chemical manufacturers slow production or reshore, freight volumes on certain lanes shift.
+- Customers rearchitecting networks may change origin/destination points — lane demand will shift, potentially creating opportunities on near-shoring lanes (Gulf Coast petrochemical expansion) and risk on import-dependent corridors.
+- Procurement-side exposure: equipment parts, trailer components, and technology hardware used in Quantix operations may carry tariff surcharges — fleet maintenance cost risk.
+
+**FACT:** Thomson Reuters Global Trade Report 2026 confirms tariff disruptions have fundamentally shifted supply chain strategy from optimization to systemic resilience; ASCM CEO publicly characterizes 2026 as a network redesign moment.
+**ANALYSIS:** For carriers serving tariff-exposed chemical and plastics shippers, volume stability is a second-order tariff risk — shipper production decisions cascade into freight demand.
+**JUDGMENT:** Quantix commercial team should map top-10 customer exposure to tariff-affected supply chains and model volume scenarios. Near-shoring trends (Gulf Coast, Midwest) may present lane growth opportunities worth proactive capacity positioning.
+
+---
+
+### Insight 3: Bulk Carrier Safety Compliance 2026 — SOLAS Update and the Prior Cargo/Tank Spec Discipline Gap
+**Date:** 2026-04-22
+**Source:** DNV Expert Story — "How new rules and tools are reshaping bulk carrier safety and efficiency" (August 2025, effective January 2026); Monster Logistics — "How Bulk Liquid Transport Works: A Shipper's Complete Guide" (April 2026); Bulk Connection — "Bulk Chemical Transportation 101" (March 2025)
+**Knowledge Tier:** Mid-frequency (regulatory compliance — stable once confirmed, but verify FMCSA/DOT rule versions for operational use)
+**Tags:** `#bulk-chemical` `#tanker-safety` `#DOT-compliance` `#SOLAS` `#hazmat` `#prior-cargo` `#equipment-spec` `#OTR-carrier`
+
+**Summary:**
+Two converging compliance themes are shaping bulk carrier safety in 2026:
+
+**Theme A — SOLAS January 2026 Update (Maritime / ISO Tank context):**
+The SOLAS amendment effective January 2026 requires class surveys for lifting appliances installed on ships/ISO tanks on or after that date. Previously, any "competent person" could perform inspection. This creates a compliance gap for fleets that added equipment in late 2025/2026 without planning for class surveyor involvement. While this is primarily maritime, it has implications for Quantix on the ISO tank / intermodal segment of bulk chemical operations.
+
+**Theme B — OTR Tanker: Tank Spec Matching and Prior Cargo Discipline:**
+Industry guidance (Monster Logistics, Wicker Park, Bulk Connection) reinforces that one of the highest-risk failure modes in bulk chemical OTR is tank-spec mismatches and inadequate prior cargo controls:
+- DOT tanker specs (MC 307, DOT 407, DOT 412, MC 331, etc.) are commodity-driven — pressure rating, lining compatibility, and hazard classification must be validated per load, not per driver or per lane
+- Prior cargo restrictions are NOT generic — many chemical shippers require specific prior cargo histories (3 prior loads, no cross-contamination risk commodities)
+- Hazmat endorsement (H) + tanker endorsement (N) are CDL requirements; failure to verify both before dispatch is a compliance violation
+
+**SC Relevance for Quantix:**
+- Tank spec matching is a load-planning discipline issue, not just a driver issue — the dispatch function is responsible for confirming equipment eligibility before assignment
+- Prior cargo records must be maintained in a searchable format; shipper audits increasingly request digital prior cargo history
+- SOLAS lifting appliance rules may affect ISO tank inspection scheduling — coordinate with terminal ops on equipment placed in service after January 2026
+- Driver endorsement verification should be automated in TMS/fleet management system — manual spot-checks are an audit risk
+
+**FACT:** SOLAS January 2026 amendment mandates class surveys for new lifting appliances on bulk carriers/ISO tanks; FMCSA requires H+N endorsements for OTR hazmat tanker drivers; DOT equipment spec (MC/DOT number) must match commodity hazard class.
+**ANALYSIS:** Compliance failures in bulk chemical OTR are concentrated at three points: equipment spec assignment, prior cargo verification, and endorsement validation — all are process/system gaps, not knowledge gaps.
+**JUDGMENT:** Quantix should audit whether TMS enforces tank spec matching at load planning vs. relying on driver/dispatcher knowledge; prior cargo log digitization is a near-term risk reduction priority.
+
