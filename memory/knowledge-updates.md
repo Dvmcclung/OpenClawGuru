@@ -4033,3 +4033,71 @@ Key operational findings:
 **SC Relevance for Quantix:**
 The auditable emissions data requirement is a near-term competitive differentiator for bulk chemical carriers. Quantix's ability to provide shipment-level emissions data (not just fleet averages) will increasingly determine shipper preference. Fleet age is a dual-lever: newer assets reduce emissions AND reduce maintenance cost — a capital investment case worth modeling. The multimodal trend (barge/rail for heavy bulk) is not a threat to OTR tanker operations for short-haul lanes, but it is a signal to monitor on long-haul chemical lanes where Quantix competes with intermodal alternatives.
 
+
+---
+
+## 2026-04-22 AM — Morning Knowledge Scan
+
+### Insight 1: MHI 2026 Annual Industry Report — AI Crosses the Chasm from Pilot to Scale
+**Source:** MHI Annual Industry Report 2026 (via MHD Supply Chain, April 16, 2026)
+**Knowledge Tier:** High-frequency (industry survey, current year)
+**Tags:** `#AI` `#automation` `#workforce` `#ROI` `#technology-adoption`
+
+The 2026 MHI Annual Industry Report (500+ SC professionals) marks a structural shift: AI is no longer a pilot — it's entering scaled deployment. Key data:
+- **48%** rate AI as having "significant or greater" disruptive impact; **24%** call it "transformational"
+- **53%** of organizations are already using AI today; uptake projected to accelerate sharply over the next 5 years
+- Top AI use cases: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%)
+- **90%** of organizations report talent shortages; nearly two-thirds classify it as a major challenge
+- Investment is becoming more disciplined — 56% plan to increase SC tech spend, but focus is shifting to ROI-driven targeted initiatives, not big-bang transformations
+
+Barriers: building a business case (top AI barrier, 20% of respondents); budget constraints (top barrier for robotics, 29%).
+
+**SC Relevance for Quantix:** Transport optimization is the #3 use case — directly applicable to route optimization, load planning, and driver dispatch across a 4,500-truck fleet. The "disciplined ROI" framing validates pursuing targeted AI (e.g., terminal throughput, predictive tire/battery maintenance) over broad digital transformation programs. Talent shortage confirms need for AI to augment, not replace, operations staff.
+
+**FACT:** 53% of SC organizations using AI today; transport optimization cited by 26% of adopters.
+**ANALYSIS:** AI has crossed from experimentation to operational deployment. The competitive gap between early adopters and laggards will widen in 2026-2027.
+**JUDGMENT:** Quantix should prioritize 1-2 high-ROI AI use cases (route optimization, predictive maintenance) over broad platform investments.
+
+---
+
+### Insight 2: FHWA "Freedom to Drive" Initiative — Federal Push on Freight Congestion Bottlenecks
+**Source:** TheTrucker.com, April 21, 2026 / FHWA official release, April 20, 2026
+**Knowledge Tier:** High-frequency (current regulatory/policy development)
+**Tags:** `#infrastructure` `#freight-policy` `#congestion` `#FHWA` `#transportation`
+
+The Federal Highway Administration launched the **"Freedom to Drive" initiative** on April 20, 2026 — a national program asking state governors to identify their 2–5 worst congestion bottlenecks and develop actionable relief plans. FHWA will partner with states to fast-track projects using American technology and private-sector collaboration.
+
+Key data points:
+- In 2024, the average urban commuter spent **63 hours** stuck in traffic
+- Congestion cost **$269 billion in lost productivity** in 2024
+- Problem extends to rural areas via crashes, severe weather, and recreational travel disruptions
+- FHWA is providing a technical tools and congestion-relief strategies portal (ops.fhwa.dot.gov/freedom-to-drive-initiative.htm)
+
+**SC Relevance for Quantix:** Quantix's OTR bulk network runs through some of the most congested freight corridors in the US (Gulf Coast petrochemical, I-10, I-40). Reduced bottlenecks improve on-time delivery, lower driver detention costs, and improve asset utilization (trucks per terminal per day). Watch for state DOT responses — Texas, Louisiana, and Ohio corridors particularly relevant. Also: FHWA's private-sector partnership angle may open infrastructure investment or data-sharing opportunities.
+
+**FACT:** FHWA launched Freedom to Drive April 20, 2026; asked governors to identify top 2-5 bottlenecks.
+**ANALYSIS:** Federal emphasis on freight-relevant congestion relief signals potential near-term infrastructure investment in key OTR corridors.
+**JUDGMENT:** Quantix terminal operations and route planning teams should track Texas and Gulf Coast corridor nominations — improvement in these lanes directly impacts loaded mile economics.
+
+---
+
+### Insight 3: C.H. Robinson April 2026 Freight Market Update — Truckload Costs Up 16-17% YoY, Intermodal Recovering
+**Source:** C.H. Robinson Edge Report — North America Freight Insights, April 9, 2026
+**Knowledge Tier:** High-frequency (current market data, highly volatile)
+**Tags:** `#freight-rates` `#truckload` `#intermodal` `#capacity` `#market-conditions`
+
+C.H. Robinson's April 2026 freight market update signals tightening conditions across all modes, with truckload leading the pressure:
+
+- **Truckload:** Costs up **16–17% year over year** in 2026. Capacity constraints, carrier attrition, and rising operating costs are sustaining rate pressure even in typically soft seasonal windows.
+- **LTL:** Early signs of firmer conditions — modest tonnage gains, some freight shifting from TL to LTL. Uneven demand and rising fuel are keeping conditions mixed.
+- **Intermodal:** Showing early recovery; costs still competitive versus truckload and advantage expected to **widen** as TL capacity tightens and fuel climbs.
+- **Ocean:** Balanced on the surface but network disruptions (rerouting, fuel, capacity adjustments) are extending transit times and introducing variability on major trade lanes.
+- **Ports/Drayage:** Fluid overall, but inland rail constraints and rising drayage costs creating lane-specific execution risk.
+- **Cross-border (Mexico/Canada):** Tightening — strong Mexico trade volume meets rising carrier costs and regulatory pressure; Canada facing enforcement-driven capacity loss.
+
+**SC Relevance for Quantix:** As a bulk carrier (not shipper), rising TL rates could create a revenue tailwind if Quantix can hold or grow contract rates in this environment. However, rising fuel and operating costs offset margin. The intermodal recovery is an external competitive dynamic — shippers shifting to intermodal may reduce tendering to bulk truck carriers on longer lanes. Monitor contract renewal cycles closely in Q2-Q3 2026.
+
+**FACT:** TL costs projected up 16-17% YoY in 2026; intermodal showing early demand recovery per C.H. Robinson.
+**ANALYSIS:** A tightening TL market is a rate-positive environment for asset carriers, but fuel and compliance cost inflation compress net margin.
+**JUDGMENT:** Quantix commercial team should assess contract rate escalator clauses before Q2-Q3 renewals; tighten fuel surcharge formulas given current trajectory.
+
