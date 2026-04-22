@@ -4180,3 +4180,62 @@ Industry guidance (Monster Logistics, Wicker Park, Bulk Connection) reinforces t
 **ANALYSIS:** Compliance failures in bulk chemical OTR are concentrated at three points: equipment spec assignment, prior cargo verification, and endorsement validation — all are process/system gaps, not knowledge gaps.
 **JUDGMENT:** Quantix should audit whether TMS enforces tank spec matching at load planning vs. relying on driver/dispatcher knowledge; prior cargo log digitization is a near-term risk reduction priority.
 
+
+---
+
+## 2026-04-22 PM — Evening Knowledge Scan
+
+### Insight 1: Trade Volatility Is Structurally Breaking Chemical Supply Chain Planning Cycles
+**Source:** Xeneta — "The Price of Uncertainty: How Trade Volatility Is Breaking Chemical Supply Chains" (March 2026) + Geopolitical context: US/Israel–Iran conflict, Feb 28, 2026
+**Knowledge Tier:** High-frequency (current market events, volatile — flag accordingly)
+**Tags:** risk-management, chemical-logistics, geopolitical, tariff, freight-cost, disruption
+
+Chemical procurement leaders are now operating in a planning environment that cycles faster than their traditional annual/quarterly budgeting rhythms can absorb. Key dynamics:
+
+- **Tariff front-loading:** US chemical imports spiked to >$20B in March 2025 (highest in 3+ years) as buyers pre-bought ahead of anticipated tariffs — then collapsed in April, leaving teams with bloated inventories and soft demand. This stop-start pattern reshapes freight seasonality and makes budget modeling near-useless.
+- **Geopolitical overlay:** The US/Israel–Iran conflict (Feb 28, 2026) triggered an energy shock IEA director Birol described as more severe than the combined 1973 + 1979 oil crises. Brent crude averaged $110 in March–April (Goldman Sachs estimate) — a 62% jump from the 2025 annual average.
+- **Helium cascade:** Iranian strikes on Qatar's Ras Laffan Industrial City (world's largest helium production hub) forced force majeure on LNG contracts. ~27% of global helium supply is offline; spot prices up 70–100%. Downstream manufacturers dependent on helium for semiconductor, MRI, and specialty gas applications face acute supply risk.
+- **Hormuz scenario:** Goldman Sachs warns if Strait of Hormuz flows remain at 5% of normal for 10 weeks, oil prices could exceed the 2008 record high.
+
+**Application for Quantix:** Chemical customers are experiencing severe demand volatility and freight budget instability — both upstream (raw materials) and downstream (finished products). Quantix fleet utilization planning, spot rate exposure, and contract structure should assume continued disruption for the next 6–12 months. Terminal positioning relative to Gulf Coast petrochemical corridors becomes a strategic asset in supply disruption scenarios. Carriers with contracted capacity and predictable service records will command premium pricing.
+
+**Quantix-specific risk flag:** Bulk OTR chemical carriers are downstream of the oil price shock — diesel cost exposure is acute at current crude pricing.
+
+---
+
+### Insight 2: Digital Coordination — Not Optimization — Is the Core Weakness in Chemical Logistics
+**Source:** Maritime Executive — "Digital Collaboration in Chemical Logistics" by Lind, Lehmacher, Bentham et al. (Feb 21, 2026)
+**Knowledge Tier:** Mid-frequency (industry research synthesis, 2026 publication)
+**Tags:** chemical-logistics, digital-transformation, coordination, terminal-operations, decarbonization, bulk-liquid
+
+The authors (multi-institutional: Chalmers, WEF, Shell, others) make a pointed distinction: **within-company optimization is mature; cross-company coordination is not.** Key findings:
+
+- Shipping lines, terminals, and producers each have strong internal digital tools — but small differences in arrival timing or cargo sequencing trigger cascading last-minute changes to berth plans, tank assignments, and inland transport. The gap is *inter-organizational*, not intra.
+- In liquid bulk specifically: tankers carrying multiple chemicals in segregated, compatibility-constrained tanks require tight sequencing. When arrival windows shift even slightly, tank planning, inland transport, AND sometimes production all require adjustment — all manual, all costly.
+- Decarbonization adds a new coordination layer: low-carbon energy carriers (hydrogen, ammonia, methanol, synthetic fuels, advanced biofuels) are **chemical products by nature** — contamination-sensitive, hazardous, and tightly linked to plant/storage operations. These will move through existing chemical terminals as transition accelerates.
+- The paper advocates expanding just-in-time practices to the full end-to-end supply chain through shared data platforms — citing port community systems and digital twin concepts as leading approaches.
+
+**Application for Quantix:** This is a direct mirror of Quantix's operational environment. With 50+ terminals handling bulk liquid and dry bulk across a distributed network, inter-organizational coordination failure (customer plant ↔ terminal ↔ truck ↔ delivery point) is where cost and service variability originates. Investment in shared ETA visibility and digital handoff protocols at terminal level would address the core weakness described here. As chemical customers move toward sustainable fuel handling, tanker/terminal capability expansion is a positioning opportunity.
+
+---
+
+### Insight 3: DMAIC in 3PL Logistics — Process Cycle Efficiency Can Improve 75% with LSS Framework
+**Source:** ScienceDirect / Heliyon — "Development of an Improvement Framework for Warehouse Processes Using Lean Six Sigma (DMAIC) Approach: A Case of Third Party Logistics (3PL) Services" — Adeodu et al. (2023, peer-reviewed; 2026 MDPI citation forward)
+**Knowledge Tier:** Mid-frequency (peer-reviewed case study, validated methodology)
+**Tags:** process-improvement, DMAIC, lean-six-sigma, 3PL, warehouse, transportation, case-study
+
+A published peer-reviewed DMAIC case study applied to 3PL warehouse operations produced measurable, quantified results:
+
+- **Baseline:** Process cycle efficiency of only **40%** — meaning 60% of all warehouse activity was non-value-added (NVA)
+- **Post-DMAIC:** Cycle efficiency improved to **70%** — a 75% relative improvement in NVA elimination
+- **Critical Success Factors identified:**
+  1. Leadership and management commitment (ranked #1 — most perceived CSF)
+  2. Good communication
+  3. Skills and expertise
+  4. Organizational culture
+  5. Financial capability
+
+- The study applied full DMAIC structure: Value Stream Mapping in Measure phase, root cause fishbone + Pareto in Analyze, 5S + standard work in Improve, control charts in Control.
+
+**Application for Quantix:** This mirrors the LSS application opportunity in Quantix terminal operations — where loading, unloading, and dwell time sequences likely carry substantial NVA. A terminal-level Value Stream Mapping exercise would quantify the waste pool. The CSF ranking is useful for sequencing an LSS rollout: executive sponsorship must come first; skills and culture follow. The 40%→70% cycle efficiency gain is a compelling internal benchmark for any terminal improvement project proposal.
+
