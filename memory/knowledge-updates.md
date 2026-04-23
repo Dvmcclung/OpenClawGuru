@@ -4296,3 +4296,44 @@ Five defining themes for the tank truck sector in 2025 with forward implications
 **SC Relevance:** High — directly addresses Quantix's fleet, regulatory environment, and technology adoption decisions.
 **Tags:** `#bulk-transport` `#fleet-management` `#regulatory` `#AI-dispatch` `#tank-truck` `#2025-2026`
 
+
+---
+
+## 2026-04-23 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Breaks the 90% Automation Ceiling in Freight Brokerage
+**Date:** April 23, 2026
+**Source:** Transport Topics — "How AI Is Transforming Logistics Operations" (April 20, 2026) | ttnews.com
+**Knowledge Tier:** High-frequency (current industry deployment, rapidly evolving)
+**Tags:** #agentic-ai #automation #freight-brokerage #3PL #technology
+
+C.H. Robinson has deployed 30+ autonomous AI agents executing millions of freight tasks — pricing, planning, order processing, freight matching, capacity procurement, ETAs, document handling, and invoicing. Prior AI generations topped out at 50-60% automation; agentic systems are "routinely breaking through 90%" according to VP of AI Mark Albrecht. DHL Supply Chain has partnered with HappyRobot to deploy AI agents handling routine calls and emails autonomously, shifting human workers to exception management and higher-value tasks.
+
+**Key distinction — agentic vs. generative AI:** Earlier AI gathers/analyzes/generates. Agentic AI *acts* — it executes processes end-to-end without human handoffs.
+
+**SC Relevance for Quantix:** This is directly applicable to Quantix's operational model. Agentic AI could automate load tendering, carrier scheduling, appointment booking, and document processing across 50+ terminals. The 90% automation threshold is the benchmark to target. Exception management becomes the human role — not transaction processing. Bulk chemical / plastic pellet transport has high-volume, repetitive freight tasks that are prime candidates. Watch: C.H. Robinson, DHL, HappyRobot as implementation case studies.
+
+---
+
+### Insight 2: Truck Platooning Market Projected at 58.3% CAGR Through 2033 — Real-World Deployments Underway
+**Date:** April 23, 2026
+**Source:** DataM Intelligence / OpenPR — "Truck Platooning Market Size 2026" (April 21, 2026) | openpr.com
+**Knowledge Tier:** Mid-frequency (market research with live deployment data)
+**Tags:** #autonomous-vehicles #platooning #fuel-efficiency #trucking #driver-shortage #technology
+
+The global truck platooning market is projecting 58.3% CAGR through 2033. This is no longer purely speculative — real deployments are live: (1) Kratos Defense expanded platooning in Ohio/Indiana corridors with DriveOhio and INDOT (January 2026); (2) Locomation completed commercial trials with Wilson Logistics showing **30% fuel efficiency gains** on long-haul routes (July 2025). Key players: Daimler Truck (5-10% fuel savings via Freightliner Cascadia Production Platooning), Volvo (Vera system with 5G V2V, Level 4 driverless follower trucks), Scania (Active Platooning Assist with radar-lidar fusion). Japan advancing semi-autonomous trials targeting driver shortage mitigation.
+
+**SC Relevance for Quantix:** Bulk chemical and plastic pellet transport runs long, predictable interstate corridors — exactly the use case where platooning delivers fuel savings and addresses driver constraints. A 4,500-truck fleet with even 10-20% platooning penetration on key lanes could produce material fuel cost reduction. This is a 3-5 year horizon technology to monitor for procurement and fleet planning. Driver shortage mitigation angle is compelling given persistent trucking labor market tightness. Evaluate: which Quantix lanes (terminal pairs) have the highway-miles profile that fits platooning economics.
+
+---
+
+### Insight 3: Iran War Impact — Germany Halves 2026 Growth Forecast; Chemical/Plastics Supply Under Acute Pressure
+**Date:** April 23, 2026
+**Source:** SupplyChainBrain / Bloomberg — "Germany Halves Growth Forecast for 2026 After Hit From Iran War" (April 22, 2026) | supplychainbrain.com
+**Knowledge Tier:** High-frequency (active geopolitical disruption — volatile)
+**Tags:** #geopolitical-risk #energy-prices #chemical-supply #plastics #supply-disruption #Iran-war
+
+Germany cut its 2026 GDP growth forecast from 1.0% to 0.5% following energy price spikes triggered by U.S. military action in Iran. The Economy Minister cited "highly volatile" conditions. DIHK (German industry lobby) reports 83% of companies already experiencing negative consequences — specifically calling out **shortages of oil, gas, fuels, plastic products, and building materials**. The disruption compounds existing German economic headwinds: U.S. tariffs, Chinese competition in machinery/automotive, and a €140B budget shortfall. Energy-intensive industries (chemicals, manufacturing) face the sharpest exposure.
+
+**SC Relevance for Quantix:** This is a direct demand signal for Quantix's business. Two vectors: (1) **Upstream chemical supply disruption** — Iran conflict tightens feedstock (petrochemical precursors) availability globally; chemical shipper customers may face production disruption and/or increased urgency for reliable bulk transport as spot supply becomes unpredictable. (2) **Plastics volume implications** — Plastic pellet supply chains are petrochemical-derivative; if European production contracts, North American polymer producers may see export demand shifts. Monitor chemical shipper customer pipeline for disruption signals. This is a high-frequency, volatile situation — re-evaluate weekly.
+
