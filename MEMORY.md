@@ -136,5 +136,15 @@ _Initialized: 2026-03-03_
 - **C.H. Robinson deployed 30+ autonomous AI agents** routinely achieving 90%+ automation on shipping tasks (pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing). Prior AI generations plateaued at 50–60%. DHL (with HappyRobot) routing AI agents for routine calls/emails; humans reserved for exceptions. The competitive floor is shifting: routine dispatch and coordination AI is becoming table stakes for large carriers, not a differentiator.
 - **MHI Annual Industry Report 2026** (500+ SC professionals): 53% of organizations using AI today; 48% rate it as significant or greater disruptive impact. Top use cases: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% of organizations report talent shortages** — the labor gap is structural, not cyclical, and validates AI-in-the-loop as a workforce gap fill, not just an efficiency play. Investment discipline shifting toward targeted ROI-driven initiatives over large transformation programs.
 
+### FHWA "Freedom to Drive" Initiative — Federal Freight Congestion Push (April 2026)
+- FHWA launched April 20, 2026 — national program asking governors to identify top 2–5 congestion bottlenecks for fast-tracked relief. 2024 data: 63 hours/year average urban commuter delay; **$269 billion** in lost productivity. Private-sector partnership and American technology framing signals infrastructure investment signal.
+- Quantix action: monitor Texas, Louisiana, and Ohio corridor nominations — Gulf Coast petrochemical lanes (I-10, I-45, I-35) are core Quantix territory. Congestion relief on these corridors = direct improvement to loaded-mile economics, driver detention costs, and asset utilization. Track state DOT responses for terminal and lane planning input.
+
+### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
+- Chemical manufacturers are requiring **auditable, shipment-level emissions data** from logistics providers — written into procurement requirements, not just ESG reports (IndexBox/Chemical Engineering, April 15, 2026).
+- Multimodal displacement of trucking is accelerating: rail, barge, and short-sea transport prioritized where route geometry allows. Early collaboration (at project design stage) captures maximum sustainability and cost gains.
+- Fleet modernity is a dual-lever: newer assets reduce emissions **and** reduce maintenance cost — capital investment case for fleet renewal.
+- Quantix action: shipment-level emissions reporting capability is a near-term contract qualification requirement. Fleet age analysis needed. Terminal locations near waterways should be mapped for barge integration potential (sustainability credential + cost reduction).
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
