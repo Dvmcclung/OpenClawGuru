@@ -4428,3 +4428,82 @@ A conflict disrupting Strait of Hormuz transit is producing a cascading petroche
 
 **Tags:** #petrochemical #hormuz #geopolitical-risk #polymer-supply #plastic-pellets #crude-oil #fuel-costs #bulk-chemical #quantix-direct-impact
 
+
+---
+
+## 2026-04-24 — Evening Update (PM Cron)
+
+### Insight 1: Tariff Volatility as Systemic Supply Chain Risk — Structural Shift in Risk Management
+
+**Date:** 2026-04-24
+**Source:** Thomson Reuters Institute, "Tariffs are stress-testing manufacturers' supply chains" (April 23, 2026) + FreightWaves, "SMBs ditch 'wait-and-see' as tariffs force supply chain overhaul" (April 22, 2026)
+**URL:** https://www.thomsonreuters.com/en-us/posts/international-trade-and-supply-chain/tariffs-stressing-manufacturers-supply-chains/
+
+**Summary:**
+The 2025–2026 tariff environment has evolved from a cost headache into a systemic supply chain integrity risk. Key developments:
+- The U.S. Supreme Court ruled in *Learning Resources, Inc. v. Trump* (6-3) that the President lacked constitutional authority under IEEPA to impose tariffs — many Trump 2025 tariffs invalidated, but uncertainty persists as Congress reclaims trade authority.
+- Leading manufacturers are not waiting for policy clarity — they are adapting to "structured volatility" by diversifying suppliers, extending planning horizons, and leaning on data tools.
+- Nearshoring and scenario planning (stress-testing tariff shocks pre-event) are now considered baseline risk management, not best practice.
+- Gartner framing confirmed by Exiger: siloed risk views (logistics sees disruption, finance sees cost pressure, sourcing sees supplier gaps) are creating blind spots — the move is toward unified supplier risk visibility across functions.
+
+**SC Relevance for Quantix:**
+- Chemical shippers (Quantix customers) sourcing from affected countries face demand volatility — volume swings affect lane utilization and terminal throughput. Bulk carriers are downstream of this instability.
+- Scenario planning capability is now a customer expectation: shippers want carrier partners who can model lane disruptions.
+- Watch for nearshoring-driven volume: chemical manufacturing returning to Gulf Coast / SE US favors Quantix's terminal network.
+
+**Knowledge Tier:** High-frequency (geopolitical/regulatory — volatile, flag as current)
+**Tags:** #tariff-risk #supply-chain-risk #nearshoring #scenario-planning #geopolitical #regulatory #structured-volatility #IEEPA #procurement #quantix-indirect-impact
+
+---
+
+### Insight 2: ML-Driven "Optimal Decision" Replaces Forecast-Then-Optimize in Replenishment Planning
+
+**Date:** 2026-04-24
+**Source:** LTPLabs Case Study, "How Machine Learning Improves Supply Chain Resilience" (February 2026)
+**URL:** https://www.ltplabs.com/case-studies/how-machine-learning-improves-supply-chain-resilience
+
+**Summary:**
+A grocery retailer case study (published Feb 2026) demonstrates a fundamental shift in supply chain planning methodology — from the traditional "predict → optimize" architecture to what LTPLabs calls "Optimal Machine Learning" (Optimal Decision framework):
+
+- **Old model:** Demand forecast → optimizer → execution. Structural flaw: forecast errors propagate downstream; static models can't adapt to real-time disruptions; human bias creeps in.
+- **New model:** Data + business constraints + objectives integrated into a unified ML decision framework. Models trained on historical AND live data — continuous adaptation without needing forecast accuracy as a prerequisite.
+- Results: Improved service levels and order point optimization across thousands of SKUs, with explicit modeling of inventory, capacity, and cost constraints.
+
+**Process Improvement Framework Connection:**
+- APICS tie-in: This directly challenges the traditional S&OP "forecast → deploy" cycle. The finding validates the "sense and respond" supply chain model over "predict and optimize."
+- LSS angle: Root cause of traditional replenishment failure is forecast error propagation — this approach eliminates the root cause rather than managing the symptom.
+- Gartner language: Aligns with "composable supply chain" and "autonomous supply chain" trends — planning that adapts in real time rather than in planning cycles.
+
+**SC Relevance for Quantix:**
+- Lower direct application (Quantix is a carrier, not inventory holder at scale), but relevant for: (1) advising chemical shipper customers on planning modernization, (2) internal trailer/asset utilization optimization using similar adaptive logic.
+- High relevance for Dale's AI-in-the-loop automation work at Quantix — this case study provides a validated architecture pattern.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — validate before citing implementation specifics)
+**Tags:** #machine-learning #replenishment-planning #S&OP #forecast-accuracy #process-improvement #optimal-decision #autonomous-supply-chain #AI #case-study #APICS-sense-respond
+
+---
+
+### Insight 3: Japan Chemical Logistics — Driver Ancillary Work Standardization & Tanker Loading Safety Initiative
+
+**Date:** 2026-04-24
+**Source:** Physical Internet Realization Council / Mitsui Chemicals press release via WebWire (April 7, 2026)
+**URL:** https://www.webwire.com/ViewPressRel.asp?aId=352940
+
+**Summary:**
+Japan's Ministry of Economy, Trade and Industry (METI) and Ministry of Land, Infrastructure, Transport and Tourism (MLIT) are pushing a formal industry initiative — 86 companies + 1 university — to standardize two long-standing problem areas in chemical tanker logistics:
+
+1. **Driver ancillary work:** Tanker truck drivers in Japan (and by industry parallel, the US) routinely perform work outside core driving — loading/unloading assist, paperwork, hose connection, sampling. This "ancillary work" is often uncompensated, undefined in scope, and inconsistently applied across terminals. New legislation requires it to be: (a) consensually defined, (b) scoped in writing, (c) compensated.
+2. **Tanker loading/unloading safety:** The industry acknowledged that loading and unloading operations occur "in unsafe work environments in some cases." The initiative promotes standardized safety protocols across consignors, carriers, and receiving facilities.
+
+**Legal foundation:** Amended Logistics Efficiency Act (Japan, April 2025) + Act on Proper Transactions with Specified Entrusted Business Operators (January 2026).
+
+**SC Relevance for Quantix (high):**
+- This mirrors known US issues: driver detention at chemical terminals is a major operational pain point and driver satisfaction/retention risk.
+- "Ancillary work" is the US equivalent of "lumping" or "assisted unloading" — a documented waste category in Lean terms.
+- The Japan initiative provides a policy-backed framework Quantix could adapt for terminal SOP standardization: define driver scope of work per terminal, document it, enforce consistently.
+- **LSS application:** Ancillary work scope creep = non-value-adding waste (Type I muda — unnecessary processing). Standardization is the corrective action.
+- Driver detention + undefined ancillary burden = documented retention risk (connects to prior hive memory on chemical driver shortage).
+
+**Knowledge Tier:** Mid-frequency (industry regulatory — specific to Japan law but principle generalizes)
+**Tags:** #chemical-logistics #tanker-truck #driver-retention #ancillary-work #detention #terminal-operations #loading-unloading #safety #standardization #lean-waste #muda #quantix-direct-impact #Japan-regulatory-analog
+
