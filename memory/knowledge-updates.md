@@ -4367,3 +4367,64 @@ Germany cut its 2026 GDP growth forecast from 1.0% to 0.5% following energy pric
 **Knowledge Tier:** High-frequency (current industry trend reporting, April 2026 — treat as directional, not established doctrine)
 **Tags:** chemical-logistics, sustainability, intermodal, emissions, visibility, cargo-design, bulk-transport, scope3, fleet-modernization, shipper-expectations
 
+
+---
+
+## 2026-04-24 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Crosses the 90% Automation Threshold in Freight Brokerage
+**Source:** Transport Topics — "How AI Is Transforming Logistics Operations" (April 20, 2026)
+**URL:** https://www.ttnews.com/articles/how-ai-transforming-logistics
+**Knowledge Tier:** High-frequency (current industry deployment data — verify quarterly)
+
+Earlier AI automation in freight hit a ceiling at 50–60% before requiring human intervention. Agentic AI systems — autonomous AI agents that *act* rather than just analyze — have broken through that wall. Key data points:
+- **C.H. Robinson** has deployed 30+ autonomous agents executing millions of freight tasks; routine processes now take seconds vs. hours or days
+- **DHL Supply Chain** is deploying AI agents for calls and scheduling, redirecting human staff toward exception management and high-value customer work
+- Previous automation ceiling: ~55% → agentic ceiling: routinely exceeding 90% for brokers
+- Source: Manifest 2026 (Las Vegas) panel + SMC³ JumpStart 2026 conference
+
+**SC Relevance for Quantix:** Agentic AI is no longer experimental in logistics — it is production-deployed at scale at the largest 3PLs. For a 4,500-truck carrier, the analog is autonomous load-matching, driver dispatch optimization, and customer quote generation. The gap between carriers and brokers on automation maturity is widening fast. This is a competitive exposure window.
+
+**Tags:** #agentic-ai #freight-brokerage #automation #3pl #technology-adoption #competitive-risk
+
+---
+
+### Insight 2: U.S. Freight Market — Tightening Capacity, Gradual Rate Recovery
+**Source:** Great American Insurance Group — "Freight Market Outlook" (April 2026)
+**URL:** https://www.greatamericaninsurancegroup.com/content-hub/property-casualty-insights/trucking/trucking-insights/freight-market-outlook
+**Knowledge Tier:** High-frequency (current market data — verify monthly)
+
+The U.S. truckload market is exiting a 2-year correction cycle with structural tightening now underway:
+- **TSI (Freight Transportation Services Index)** fell 1.2% YoY through October 2025 — confirming the prolonged soft market
+- **Carrier exits** and **reduced fleet investment** are shrinking available capacity heading into 2026
+- **Driver shortage** persists; regulatory changes removed additional drivers from the pool, slowing new entrant flow
+- **Rate trajectory:** Spot markets volatile; contract rates stabilized; analysts expect gradual rate growth H2 2026 — not a sharp spike
+- Freight-dense regions showing most sensitivity: **Midwest, Texas, Southeast**
+
+**SC Relevance for Quantix:** Tightening capacity is good news for asset-based carriers like Quantix — pricing power improves as brokers and shippers compete for available trucks. Texas footprint positions Quantix well in one of the most capacity-constrained regions. However, the driver shortage remains a structural cost and service constraint. Proactive driver retention programs have outsized ROI in this environment.
+
+**Tags:** #freight-market #truckload #capacity #rate-cycle #driver-shortage #carrier-strategy #texas
+
+---
+
+### Insight 3: Gulf/Hormuz Petrochemical Supply Shock — Months-to-Years Duration, Direct Polymer Impact
+**Source:** Chemistry World — "Gulf chemicals supply disruption will continue for months to years" (April 21, 2026)
+**URL:** https://www.chemistryworld.com/news/gulf-chemicals-supply-disruption-will-continue-for-months-to-years/4023296.article
+**Knowledge Tier:** High-frequency (active geopolitical disruption — monitor weekly)
+
+A conflict disrupting Strait of Hormuz transit is producing a cascading petrochemical supply shock with direct implications for plastic pellet and chemical logistics:
+- **Crude oil:** Spiked from ~$60/bbl to ~$100/bbl (with higher transient spikes) due to Hormuz disruption
+- **Feedstock impact:** Japan imports 70% of naphtha from Middle East; South Korea 50% — both facing severe cracker shutdowns
+- **Polymer output cuts:** Ethylene and propylene operating rates dropped 5–6%; downstream polyethylene, polypropylene, and styrene production cut significantly
+- **Inventory buffer burning:** Retailers still consuming existing polymer inventory — the full demand-side shock has not yet materialized
+- **Morningstar analysis:** "Even if the strait fully reopened, the bigger part of the supply shock has yet to take hold"
+- **China advantage:** Strategic oil reserves + coal-to-chemicals capacity provides partial insulation vs. Japan/South Korea
+
+**SC Relevance for Quantix:** This is a direct-impact event. Quantix's dry bulk business (plastic pellets) and liquid bulk business (chemicals) are both affected:
+1. **Plastic pellet demand:** Polypropylene/polyethylene production cuts in Asia reduce available pellet volumes — North American producers may see demand pull but also feedstock cost pressure
+2. **Chemical tanker demand:** Potential surge in chemical rerouting through Gulf Coast terminals as Asian supply falls short
+3. **Fuel costs:** $100/bbl crude directly hits operating cost structure for a 4,500-truck fleet
+4. **Strategic play:** Carriers with strong Gulf Coast / Texas terminal presence (Quantix) are better positioned to capture spot volume from supply chain rerouting
+
+**Tags:** #petrochemical #hormuz #geopolitical-risk #polymer-supply #plastic-pellets #crude-oil #fuel-costs #bulk-chemical #quantix-direct-impact
+
