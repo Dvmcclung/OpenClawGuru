@@ -4507,3 +4507,85 @@ Japan's Ministry of Economy, Trade and Industry (METI) and Ministry of Land, Inf
 **Knowledge Tier:** Mid-frequency (industry regulatory — specific to Japan law but principle generalizes)
 **Tags:** #chemical-logistics #tanker-truck #driver-retention #ancillary-work #detention #terminal-operations #loading-unloading #safety #standardization #lean-waste #muda #quantix-direct-impact #Japan-regulatory-analog
 
+
+---
+
+## 2026-04-27 AM — Morning Knowledge Scan
+
+### Insight 1: The Agentic Supply Chain — Deloitte Frames the Next Automation Paradigm
+**Date:** 2026-04-27
+**Source:** Deloitte Insights — "Resilient by Design: The Agentic Supply Chain" (April 2026)
+**URL:** https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/agentic-supply-chain-artificial-intelligence-manufacturing.html
+**Knowledge Tier:** Mid-frequency (consulting research synthesis, current-year)
+
+**Summary:**
+Deloitte's new piece frames agentic AI as the next structural shift in supply chain automation — moving decisively beyond deterministic RPA (rules-based scripts) toward probabilistic, context-aware AI agents that reason, adapt, and take governed action across enterprise systems. Key constructs:
+
+- **Domain agents as orchestration owners:** e.g., an "Inventory Agent" with deep knowledge of safety stock, service levels, holding costs, lead-time variability, and stockout risk — continuously adjusting inventory policies within defined guardrails, escalating strategic trade-offs to humans.
+- **Cross-functional agents for enterprise risk:** shared governance across planning, finance, and operations.
+- **Gartner stat cited:** 40% of enterprise applications will be integrated with task-specific AI agents by end of 2026 (up from <5% today).
+- **DHL example:** Expanding AI agents for carrier calls and scheduling — shifting employees toward exception management and higher-value customer work.
+
+**SC Relevance for Quantix (high):**
+- With 4,500+ trucks and 50+ terminals, Quantix has the scale where agent-based orchestration of load assignment, driver dispatch, and terminal scheduling creates measurable ROI.
+- The "Inventory Agent" pattern is directly analogous to a "Load Planning Agent" or "Driver Assignment Agent" in a bulk carrier context.
+- Exception-management model aligns with Lean: humans handle non-standard; agents handle standard. This is a formalization of the 80/20 rule for decision-making.
+- Governance guardrails are the key design challenge — agentic AI without them creates new risk (rogue optimization against the wrong KPI).
+- **APICS connection:** This operationalizes the CPIM concept of hierarchical planning — strategic constraints flow down to tactical execution, now enforced by AI guardrails rather than human policy.
+
+**Knowledge Tier:** Mid-frequency (consulting research, current-year — framework is stable, specific platform implementations are volatile)
+**Tags:** #agentic-ai #automation #supply-chain-technology #AI-agents #dispatch #load-planning #exception-management #lean #APICS #quantix-direct-impact #2026-trend
+
+---
+
+### Insight 2: Truckload Capacity Tightening — First Confirmed Cycle Turn After 40-Month Downturn
+**Date:** 2026-04-27
+**Source:** FreightWaves — "Covenant sees tightening capacity, rate momentum building in 2026" (April 2026); Intrepid IB April 2026 SC&L Market Update
+**URL:** https://www.freightwaves.com/news/covenant-sees-tightening-capacity-rate-momentum-building-in-2026
+**Knowledge Tier:** High-frequency (real-time market data — volatile, flag for staleness)
+
+**Summary:**
+Multiple sources confirm the truckload freight market is entering a cycle turn after a prolonged 40-month downcycle:
+
+- **Covenant Logistics (CVLG) CEO David Parker (Q1 2026 earnings):** "For the first time in 40 months, drivers are starting to get tight out there." Driver pay discussions are reemerging across large customer accounts.
+- **Spot rates:** Truckload spot rates have continued their rally amid structural capacity tightening (Intrepid IB, April 2026).
+- **Demand shift:** Shippers seeking dedicated capacity at levels not seen since 2021-22; Covenant's Managed Freight revenue surged ~60% YoY in Q1 following late-2025 acquisitions.
+- **Macro overlay:** Strait of Hormuz tensions + tariffs are adding supply chain disruption pressure, increasing domestic freight demand.
+- **M&A acceleration:** Three billion-dollar transactions already announced in 2026; public markets reopening for logistics sector.
+
+**SC Relevance for Quantix (direct):**
+- A capacity tightening cycle in truckload directly affects Quantix's competitive position and pricing power — this is a favorable market signal.
+- Driver scarcity returning after a prolonged soft market means driver retention and pay benchmarking become urgent again. Quantix should be monitoring driver pay comps closely right now.
+- Dedicated capacity demand surge is Quantix's lane — bulk chemical is inherently dedicated/specialized. Customer appetite for contracted dedicated service is at a multi-year high.
+- **LSS connection:** Capacity tightening = external constraint (Theory of Constraints). Strategy should shift from cost-reduction mode to throughput-maximization mode: maximize revenue per truck, per terminal, per driver.
+- Intrepid's note on M&A acceleration is relevant for PE-owned Quantix — bid premiums are rising in this sector.
+
+**Knowledge Tier:** High-frequency (live market data — verify quarterly; this snapshot is April 2026)
+**Tags:** #truckload-market #capacity-tightening #freight-cycle #driver-shortage #dedicated-capacity #rate-momentum #M&A #quantix-direct-impact #PE-context #TOC #2026-market
+
+---
+
+### Insight 3: Bulk Chemical Supply Chains Face Compounding Disruption — Tariffs + Hormuz + Freight Inflation
+**Date:** 2026-04-27
+**Source:** Pinnacle Marketing — "How Global Supply Chains Are Reshaping the Bulk Chemicals Market" (April 2026); Espace Global Freight — "Freight Industry Insights April 2026"
+**URL:** https://www.pinnacle-marketing.com/how-global-supply-chains-are-reshaping-the-bulk-chemicals-market/
+**Knowledge Tier:** High-frequency (market conditions — volatile)
+
+**Summary:**
+Bulk chemical supply chains are absorbing simultaneous hits from three directions in April 2026:
+
+1. **Red Sea / Strait of Hormuz routing disruptions:** Geopolitical pressure on key shipping routes is adding freight cost and transit time uncertainty. For chemicals that trade in thin-margin environments, significant freight cost increases are not trivially absorbed — shippers are being forced to reroute or absorb surcharges.
+2. **Tariff cascades:** Trade wars and tariffs are disrupting efficient goods flow. Energy-intensive industries (chemicals, steel) in particular are seeing surcharges and cost inflation emerging.
+3. **Freight cost inflation:** UK/EU sources report energy-intensive industries facing compounding cost pressure. US domestic chemical carriers benefit from rerouting away from international options, but also absorb tariff-related input cost increases.
+4. **Chemical tanker market expansion:** Rederiet MH Simonsen signed for 8 new stainless steel chemical tankers (China/New Jiangzhou Shipbuilding) in April 2026 — signaling mid-term capacity investment despite near-term disruption. Heavy-duty industrial bulk packaging market projected to grow from $30.2B (2026) to $38B (2031) at 4.8% CAGR.
+
+**SC Relevance for Quantix (high):**
+- Quantix's domestic bulk chemical and plastic pellet operations are partially insulated from international shipping route disruptions — but not from the chemical plant feedstock cost inflation that follows.
+- Tariff-driven reshoring of chemical production (particularly plastics/petrochemicals) could increase domestic freight volumes — a tailwind for Quantix's plastic pellet business.
+- Chemical customers facing freight cost inflation will put pressure on Quantix's rates. The carrier that provides cost-certainty through dedicated/contracted service will be preferred — aligns with the dedicated demand surge noted in Insight 2.
+- **APICS connection:** This is a textbook supply chain disruption scenario requiring the S&OP process to stress-test demand assumptions — chemical customers may be pulling forward inventory (frontloading before tariff escalation), creating artificial demand peaks that will correct.
+- **Risk flag:** If customers are frontloading, Quantix's current strong demand signal may partially reflect pull-forward, not structural growth. Worth surfacing to Dale for S&OP discussion.
+
+**Knowledge Tier:** High-frequency (market conditions — April 2026 snapshot; verify monthly)
+**Tags:** #chemical-logistics #tariffs #trade-war #Hormuz #freight-inflation #bulk-chemical #plastic-pellets #reshoring #dedicated-capacity #S&OP #demand-sensing #quantix-direct-impact #risk-flag #2026-market
+
