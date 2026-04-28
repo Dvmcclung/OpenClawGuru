@@ -4682,3 +4682,62 @@ Escalating Middle East conflict in early 2026 has elevated the Strait of Hormuz 
 **Knowledge Tier:** High-frequency (current events/market data — volatile, flag for re-verification in 30 days)
 **Tags:** `geopolitical-risk` `energy-prices` `Hormuz` `Middle-East` `chemical-logistics` `demand-volatility` `bulk-chemical` `risk-management` `current-events`
 
+
+---
+
+## 2026-04-28 AM — Morning Knowledge Scan
+
+### Insight 1: The Agentic Supply Chain — From Dashboards to Autonomous Domain Agents
+**Source:** Deloitte Insights — "Resilient by design: The agentic supply chain" (April 2026)
+**Knowledge Tier:** Mid-frequency (industry research synthesis — emerging practice, review in 90 days)
+
+Deloitte's April 2026 analysis identifies a structural shift in how AI is being applied to supply chains: moving from passive analytics and dashboards to *agentic AI* — autonomous domain agents that sense, reason, and act within defined guardrails. Key architecture elements:
+- **Domain agents** (e.g., Inventory Agent) own outcomes, enforce policies, and coordinate task-specific sub-agents
+- Unlike RPA, which follows deterministic rules, domain agents reason probabilistically across complex conditions and adapt dynamically
+- **Human roles shift** from routine execution to oversight, orchestration, and strategic judgment
+- Cross-functional agents provide enterprise-wide risk intelligence across planning, finance, and operations
+- High-impact trade-offs or actions outside guardrails are escalated to humans
+
+Use cases highlighted: always-on disruption detection/resolution, inventory policy optimization, agile sourcing amid uncertainty.
+
+**Quantix application:** An Inventory/Fleet Agent for Quantix could continuously optimize empty trailer repositioning, tank wash scheduling, and load planning — within guardrails — and escalate only anomalies. The "agentic resume" framing is useful for scoping what each agent *knows*, *can do*, and *has access to*. This is the architecture Dale is building toward.
+
+**Tags:** `agentic-AI` `supply-chain-technology` `AI-agents` `inventory-optimization` `digital-transformation` `Deloitte` `2026` `automation`
+
+---
+
+### Insight 2: Global Freight Under Tariff Uncertainty — "Nobody's Structurally Changing Anything"
+**Source:** Transport Topics — "A New Era For Global Freight" (Nov 2025, still current signal)
+**Knowledge Tier:** High-frequency (current market conditions — volatile, re-verify in 30 days)
+
+Global freight flows entered structural disruption in 2025–2026 due to U.S. trade war tariffs that are severe, frequently changing, and largely unpredictable. Key findings from industry executives:
+- **Lars Jensen (Vespucci Maritime):** "The challenge for the North American supply chain right now is the utter lack of predictability" — shippers can handle disruption if plannable, but not the *unknown*
+- Result: shippers stuck with existing supply chain configurations — "Nobody's structurally changing anything until it's a stable landscape"
+- Day-to-day firefighting has replaced strategic planning as the dominant operational mode
+- Port activity in 2025–2026: demand surges ahead of tariff hikes, followed by slowdowns when levies take effect
+- Prolonged freight rate recession creating "very difficult market" for motor carriers
+- Investment is being deferred, not abandoned — prudent growth continues for well-capitalized operators
+
+**Quantix application:** Domestic bulk chemical/plastic pellet carriers are partially insulated from direct tariff impact (OTR domestic moves), but downstream effects matter. If petrochemical customers defer production investment or reconfigure supply chains, Quantix load volume could soften. This also validates the strategic case for agentic flexibility — the ability to sense and respond quickly when the environment shifts unpredictably.
+
+**Tags:** `tariffs` `trade-war` `freight-market` `global-supply-chain` `uncertainty` `rate-recession` `domestic-trucking` `demand-volatility` `current-events` `high-frequency`
+
+---
+
+### Insight 3: Bulk Liquid Transport Packaging — 8% CAGR Through 2035, But Structural Shifts Underway
+**Source:** IndexBox / Industry Research Biz — Bulk Liquid Transport Packaging Market Analysis (March–April 2026)
+**Knowledge Tier:** Mid-frequency (market research synthesis — review in 6 months)
+
+The global bulk liquid transport packaging market (IBCs, ISO tanks, drums) enters 2026 with broader demand fundamentals and more disciplined procurement behavior. Key data points:
+- Global chemical logistics market: valued at **$282.7B in 2026**, forecast to reach **$411.8B by 2035** at **8.07% CAGR**
+- Heavy-duty industrial bulk packaging: **$30.2B in 2026** → **$46.2B by 2035** (4.8% CAGR)
+- IMO announced new regulations for bulk liquid carriage set to take effect **2026** — compliance pressure increasing
+- Demand drivers: expansion of global chemical manufacturing, food-grade bulk logistics growth, stringent hazmat safety regulations
+- Constraints: polymer and steel input cost volatility; capital intensity of reusable IBC system adoption
+- Regional dynamic: Asia-Pacific consolidating as dominant hub; North America/Europe shifting to high-value, specialized, and sustainable packaging solutions
+- Market characterized by consolidation among large integrated suppliers + niche players in material innovation
+
+**Quantix application:** Sustained 8% CAGR in chemical logistics is a tailwind for Quantix's liquid bulk segment. The emerging IMO regulations for bulk liquid carriage may create compliance complexity but also raise the bar for carriers who lack documentation and traceability capability — potential competitive differentiator. The shift toward sustainable/composite packaging may affect tank and container specifications over the medium term.
+
+**Tags:** `bulk-liquid` `chemical-logistics` `market-growth` `IBC` `ISO-tank` `IMO-regulations` `sustainability` `market-research` `2026-2035` `Quantix-relevant`
+
