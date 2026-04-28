@@ -4741,3 +4741,50 @@ The global bulk liquid transport packaging market (IBCs, ISO tanks, drums) enter
 
 **Tags:** `bulk-liquid` `chemical-logistics` `market-growth` `IBC` `ISO-tank` `IMO-regulations` `sustainability` `market-research` `2026-2035` `Quantix-relevant`
 
+
+---
+
+## 2026-04-28 — Evening Update (PM Cron)
+
+### Insight 1: LSS-DMAIC Applied to Manufacturing Supply Chains — Quantified Results
+
+**Date:** 2026-04-28
+**Source:** Global Journal of Industrial Management — "Manufacturing Supply Chain Excellence Through Lean Six Sigma: A Case Study Approach" (Gomaa, 2025). https://ojs.sin-chn.com/index.php/GJIM/article/view/2032
+**Summary:**
+Case study of an Egyptian electrical control panel manufacturer applying DMAIC across procurement, production, inventory, and distribution functions. Results: **10% improvement in first-pass quality, 35% reduction in processing time**, measurable gains in OEE and customer satisfaction. The study introduces a conceptual framework aligning LSS implementation with long-term strategic KPIs — framing LSS not as a project methodology but as a strategic alignment tool. Key finding: LSS delivers outsized returns in resource-constrained environments where baseline variability is high.
+**SC Relevance:**
+High — validates the CPIM/CSCP principle that variability reduction (LSS) and strategic planning integration are not separable. For Quantix, this reinforces the value of applying DMAIC to terminal dwell time, driver utilization, and load-cycle efficiency rather than treating process improvement as one-off firefighting. 35% cycle time reduction is the kind of number that justifies a Black Belt project formally.
+**Knowledge Tier:** Mid-frequency (peer-reviewed synthesis, June 2025)
+**Tags:** LSS, DMAIC, process-improvement, manufacturing-SC, KPIs, CPIM-aligned
+
+---
+
+### Insight 2: Tariff Volatility as Systemic SC Risk — Supreme Court IEEPA Ruling Reshapes Trade Risk Management
+
+**Date:** 2026-04-28
+**Source:** Thomson Reuters Institute — "Tariffs Are Stress-Testing Manufacturers' Supply Chains" (April 2026). https://www.thomsonreuters.com/en-us/posts/international-trade-and-supply-chain/tariffs-stressing-manufacturers-supply-chains/
+**Summary:**
+2026 is reshaping SC risk management around trade policy uncertainty. Key developments: (1) The U.S. Supreme Court ruled 6-3 (*Learning Resources v. Trump*, Feb 2026) that the President lacked authority under IEEPA to impose tariffs unilaterally — shifting tariff governance to Congress. This creates a **different risk profile**: slower to change, politically negotiated, subject to legislative stalemates. (2) 10% minimum global tariff + China-specific measures remain active. (3) Leading manufacturers are not waiting for policy clarity — they're adapting via nearshoring, supplier diversification, inventory buffering, and sub-tier supplier visibility mapping. KPMG frames the current environment as a "resilience imperative."
+**SC Relevance:**
+Moderate-High for Quantix. As a bulk chemical carrier, Quantix's customers (chemical manufacturers and plastics producers) are directly exposed to input cost volatility from tariffs on feedstocks and precursors. Shipper volume decisions — and hence Quantix's lane demand — are downstream of these disruptions. Understanding the legislative risk shift (executive → congressional) is critical for any multi-year capacity or contract planning conversations. Scenario planning against tariff stalemate scenarios should be on the radar.
+**Knowledge Tier:** High-frequency / volatile (April 2026 — rapidly evolving policy landscape)
+**Tags:** risk-management, tariffs, trade-policy, resilience, nearshoring, supplier-diversification, high-frequency
+
+---
+
+### Insight 3: Tank Summit 2025 — 7 Safety Innovations + VARIANCE Act for Dry Bulk Efficiency
+
+**Date:** 2026-04-28
+**Source:** Tank Transport — "Tank Summit 2025 Unveils 7 Groundbreaking Innovations in Tanker Safety" (July 2025). https://tanktransport.com/2025/07/tank-summit-2025-innovations-safety/
+**Summary:**
+The 2025 Tank Summit (hosted at Kraft Tank's new 56,000-sq-ft La Porte, TX facility — Gulf Coast petrochemical corridor) surfaced seven tanker safety innovations and two notable industry/regulatory developments:
+1. **SafeHeat electric cargo-heating systems** — eliminate combustion risk in thermal product transport
+2. **AI-driven smart trailers** (Drōv Technologies) — real-time sensor monitoring of cargo, pressure, temperature
+3. **Streamlined hazmat credential pathways** — regulatory momentum to reduce endorsement friction
+4. **VARIANCE Act (bipartisan, June 2025)** — proposes 10% axle weight variance for dry bulk without raising the 80,000 lb gross limit. Would allow bulk carriers to legally maximize payloads and reduce underloading — direct efficiency gain for dry bulk (plastics pellets, sand, cement, chemicals)
+5. **Kraft's $1M+ parts inventory hub (La Porte)** — regional service availability for chemical/crude/dry bulk/petroleum haulers; reduces maintenance downtime
+**SC Relevance:**
+Very High for Quantix. The VARIANCE Act, if enacted, directly benefits dry bulk plastic pellet operations — allowing fuller loads without legal exposure, improving revenue per mile. The AI trailer telemetry trend aligns with fleet visibility investments. The La Porte facility is in Quantix's operational territory. SafeHeat and smart trailer tech are relevant for liquid/chemical side of the fleet. Flag: monitor VARIANCE Act legislative progress.
+**Knowledge Tier:** Mid-frequency (July 2025 industry event synthesis; VARIANCE Act = high-frequency pending legislation)
+**Tags:** bulk-logistics, tank-truck, safety-innovation, VARIANCE-Act, dry-bulk, pellets, fleet-technology, regulatory, Quantix-relevant
+
