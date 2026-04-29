@@ -4788,3 +4788,74 @@ Very High for Quantix. The VARIANCE Act, if enacted, directly benefits dry bulk 
 **Knowledge Tier:** Mid-frequency (July 2025 industry event synthesis; VARIANCE Act = high-frequency pending legislation)
 **Tags:** bulk-logistics, tank-truck, safety-innovation, VARIANCE-Act, dry-bulk, pellets, fleet-technology, regulatory, Quantix-relevant
 
+
+---
+
+## 2026-04-29 AM — Morning Knowledge Scan
+
+### Insight 1: Supply Chain Decision Intelligence — The Layer Above the Stack
+**Date:** 2026-04-29
+**Source:** ARC Advisory Group / Logistics Viewpoints — "What Is Supply Chain Decision Intelligence, and Why It Matters Now" (April 23, 2026)
+**Knowledge Tier:** Mid-frequency (analyst research synthesis, emerging category definition)
+
+A new technology category is crystallizing above traditional SC application stacks: **Supply Chain Decision Intelligence (SCDI)**. The premise is that large enterprises already have enough software — ERP, TMS, WMS, planning systems, visibility tools. The problem is fragmentation: critical decisions span all of them, signals arrive unevenly, and context is scattered. SCDI is the interpretive layer that:
+- Connects and contextualizes signals across fragmented systems
+- Assesses tradeoffs and prioritizes actions
+- Routes operational exceptions (e.g., a late shipment that is simultaneously a customer-service, inventory, sourcing, and production problem)
+- Applies A2A (Agent-to-Agent) coordination, MCP (Model Context Protocol), retrieval architectures, and graph-enhanced reasoning
+
+The framing shift: from "application category" taxonomy to "intelligence layer" — where differentiation increasingly lives.
+
+**SC Application for Quantix:**
+Quantix's data is spread across TMS, dispatch systems, terminal ops, and ERP. SCDI-class tools — or agentic AI built on that architecture — could provide a single interpretive layer: "this late tanker pickup isn't just a driver problem — it's a chemical plant production risk." That's the decision quality gap. Worth watching as a technology investment category; also relevant to how we scope agentic AI internally.
+**Tags:** AI, decision-intelligence, SCDI, agentic-AI, technology-stack, visibility, planning, Quantix-relevant
+
+---
+
+### Insight 2: North American Freight Market Has Crossed a Rate Cycle Threshold — Q2 2026
+**Date:** 2026-04-29
+**Source:** TRAFFIX Trends Q2 2026 Market Update (GlobeNewswire, April 27, 2026)
+**Knowledge Tier:** High-frequency (live market data — treat as volatile; update quarterly)
+
+TRAFFIX (North American logistics provider) is warning that the freight market has entered a **new rate cycle** — ending 3+ years of historically low, stable freight pricing. Key data points:
+- Outbound tender volume up ~10% YoY, reaching a seasonally adjusted multi-year high
+- U.S. manufacturing returned to expansion territory for multiple consecutive months (new orders + production growth)
+- Inventory levels remain lean (demand pull is real, not restocking buffer)
+- Dry-van and flatbed rates projected to stay elevated through mid-2026
+- Reefer capacity tightening ahead of produce season
+- Intermodal volumes growing ~10% YoY
+- Diesel costs sharply higher — compounding carrier cost pressure
+- Three planning scenarios modeled vs. 2025: base case projects freight cost inflation in the 8–15% range
+
+**SC Application for Quantix:**
+This is directly relevant. Quantix operates in a market where carrier capacity and fuel are the primary cost levers. If spot market rates continue tightening:
+1. Shippers may seek to lock in contracted capacity — potential opportunity for Quantix to renegotiate rate structures
+2. Fuel surcharge pass-through mechanisms need review — confirm FSC indices are current
+3. Lean inventory levels at chemical producers means tighter pull signals and less scheduling flexibility — dispatch responsiveness matters more
+**Immediate action flag:** Alert Dale to review contracted rate structures and FSC clauses in Q2 2026.
+**Tags:** freight-market, rates, capacity, diesel, fuel-surcharge, truckload, intermodal, Q2-2026, Quantix-relevant, high-frequency
+
+---
+
+### Insight 3: The Agentic Supply Chain — Deloitte Defines the Architecture
+**Date:** 2026-04-29
+**Source:** Deloitte Insights — "Resilient by Design: The Agentic Supply Chain" (April 2026)
+**Knowledge Tier:** Mid-frequency (major consulting firm research; framework-grade)
+
+Deloitte has published a formal framework for **agentic supply chains** — AI systems where autonomous agents (not just copilots) take governed action across supply chain functions. Key architectural principles:
+- **Domain agents** function like human specialists with "resumes" — unique knowledge, skills, tool access, and defined guardrails
+- **Example: Inventory Agent** — knows inventory positions, service levels, holding costs, lead-time variability, stockout risk; can autonomously adjust safety stock within thresholds; escalates high-stakes tradeoffs to humans
+- **Task-specific agents** sit beneath domain agents — retrieve/structure data, perform bounded analysis, execute specific actions via APIs
+- **Cross-functional agents** provide enterprise-wide risk intelligence (planning ↔ finance ↔ operations governance)
+- Critical distinction from RPA: agents reason probabilistically across complex conditions and **adapt dynamically** — not just executing scripts
+- Human escalation is built-in: actions outside guardrails surface to human decision-makers
+
+**SC Application for Quantix:**
+This maps directly to what Quantix is building. The Deloitte framework validates the architecture Dale is pursuing. Specific applications:
+- **Dispatch Agent** — monitors tanker availability, driver HOS, pickup windows, chemical plant schedules; autonomously reschedules within tolerance; escalates to humans when customer SLA is at risk
+- **Safety/Compliance Agent** — monitors HAZMAT documentation, DOT compliance windows, permit expirations
+- **Load Optimization Agent** — targets payload maximization within legal limits (ties to VARIANCE Act opportunity)
+
+Deloitte's framing of "agent resumes" is useful language for explaining the architecture to operations staff.
+**Tags:** agentic-AI, AI-agents, supply-chain-technology, Deloitte, automation, dispatch, inventory, compliance, Quantix-relevant, framework
+
