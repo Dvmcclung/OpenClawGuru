@@ -4859,3 +4859,61 @@ This maps directly to what Quantix is building. The Deloitte framework validates
 Deloitte's framing of "agent resumes" is useful language for explaining the architecture to operations staff.
 **Tags:** agentic-AI, AI-agents, supply-chain-technology, Deloitte, automation, dispatch, inventory, compliance, Quantix-relevant, framework
 
+
+---
+
+## 2026-04-29 — Evening Knowledge Update
+
+### Insight 1: Tariff Volatility Has Fundamentally Restructured Supply Chain Risk Priorities in 2026
+**Date:** 2026-04-29
+**Source:** Thomson Reuters 2026 Global Trade Report (225 upper-level trade professionals, North America + EU + LATAM + APAC) — https://tax.thomsonreuters.com/blog/2026s-supply-chain-challenge-confronting-complexity-and-disruption-in-global-trade-tri/
+**Summary:**
+- 72% of trade professionals cite U.S. tariff volatility as most impactful regulatory change (up from 41% prior year)
+- Supply chain management is now the dominant strategic priority for 68% — nearly double the 35% from the prior year
+- Companies are treating supply chain issues (supplier reliability, customs delays) as *enterprise risk*, not logistics problems
+- 76% believe new tariff regime is permanent (4+ year horizon), not a negotiating tactic
+- 39% of respondents are absorbing tariff costs rather than passing to customers (up from 13% prior year) — margin compression signal
+- Cross-functional "trade risk councils" emerging organically to manage tariff exposure
+- Tariff rates context: China ~145% effective rate; average US tariff ~17% (highest since Smoot-Hawley 1930); vs. 2.4% average in 2023
+- ESG compliance continues intensifying in international markets alongside tariff complexity
+**Supply Chain Relevance (Quantix context):**
+Quantix operates domestic OTR bulk — tariffs on Chinese-made equipment (trailers, parts, electronics) and chemical feedstocks could affect customer cost structures and Quantix's own capex/maintenance costs. Chemical customers facing margin compression may slow production volumes, directly impacting load volumes. Strategic opportunity: position Quantix as a *stable domestic* logistics asset when global supply chains are being restructured.
+**Knowledge Tier:** High-frequency (volatile — market/regulatory data; verify quarterly)
+**Tags:** risk-management, tariffs, trade-policy, enterprise-risk, 2026
+
+---
+
+### Insight 2: Supply Chain Resilience Playbook for Tariff Environment — Five Tactical Strategies That Work
+**Date:** 2026-04-29
+**Source:** Gray Group International — Supply Chain Resilience in 2026: How Smart Businesses Are Navigating the Tariff Storm (March 2026) — https://www.graygroupintl.com/blog/supply-chain-resilience-2026-tariff-strategy/
+**Summary:**
+The article identifies two types of firms: those absorbing costs and hoping for resolution, and those actively restructuring. The second group is deploying five proven strategies:
+1. **Supply chain visibility investment** — real-time tracking across all tiers, automated tariff cost calculation, scenario modeling for tariff changes, supplier performance monitoring, early warning indicators
+2. **Supplier diversification** (nearshoring/friendshoring) — reducing concentration in high-tariff countries; Mexico and Canada (USMCA-qualifying goods) remain strategic despite 25% baseline rates
+3. **Tariff classification optimization** — HTS code review, first-sale valuation, bonded warehouses, and free trade zones to reduce effective tariff burden
+4. **Demand-side buffer building** — strategic inventory positioning ahead of tariff escalation; "just-in-case" vs. lean balance shifting
+5. **Long-term contract structures** — locking in rates with domestic carriers and logistics providers to insulate against cost volatility
+**Supply Chain Relevance (Quantix context):**
+Point 5 is directly actionable for Quantix — position long-term contract offerings to chemical shippers as a hedge against logistics cost volatility. Customers in tariff-disrupted supply chains need *stable* carrier relationships now more than ever. Also: customers doing scenario modeling will be stress-testing their logistics costs — Quantix should have a clear landed-cost value proposition ready.
+**Knowledge Tier:** Mid-frequency (strategy synthesis; verify semi-annually)
+**Tags:** risk-management, tariffs, resilience, nearshoring, carrier-strategy, bulk-chemical
+
+---
+
+### Insight 3: Lean Six Sigma DMAIC Applied to 3PL Warehouse Processes — Key CSFs Identified
+**Date:** 2026-04-29
+**Source:** ScienceDirect (Heliyon) — "Development of an improvement framework for warehouse processes using lean six sigma (DMAIC) approach. A case of third party logistics (3PL) services" (2023) — https://www.sciencedirect.com/science/article/pii/S2405844023021229
+**Summary:**
+Peer-reviewed case study applying DMAIC to a 3PL warehouse. Key validated critical success factors (CSFs) for LSS implementation in supply chain management contexts:
+1. **Leadership commitment** — top-down sponsorship is the single most predictive factor for project success
+2. **Data infrastructure readiness** — teams that cannot measure baseline performance reliably in the Measure phase consistently fail to sustain improvements in Control
+3. **Cross-functional team composition** — projects with operations + IT + finance representation outperform single-function teams on defect reduction
+4. **Voice of Customer (VOC) linkage** — improvements tied to customer-measurable outcomes (on-time delivery, damage rates) have higher sustainment than internally-focused metrics
+5. **Standardization before automation** — organizations that attempted to automate before standardizing processes saw automation entrench defects rather than eliminate them
+Quantified result from cited manufacturing DMAIC cases: defect rate consistently below 1% after full implementation (vs. typical pre-project rates of 3–8%)
+**Supply Chain Relevance (Quantix context):**
+CSF #5 (standardize before automating) is directly relevant to Quantix's AI-in-the-loop automation buildout. Dale's work on agentic AI systems should be preceded by rigorous process standardization — automating a broken process produces a faster broken process. Also: DMAIC's Measure phase rigor maps well to establishing baseline KPIs before deploying any AI dispatch or routing optimization.
+**Knowledge Tier:** DC tier (methodology/framework — stable, cite directly)
+**Tags:** process-improvement, DMAIC, lean-six-sigma, 3PL, warehouse, automation-readiness
+
+---
