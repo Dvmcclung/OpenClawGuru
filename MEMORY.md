@@ -162,5 +162,12 @@ _Initialized: 2026-03-03_
 - Fleet modernity is a dual-lever: newer assets reduce emissions **and** reduce maintenance cost — capital investment case for fleet renewal.
 - Quantix action: shipment-level emissions reporting capability is a near-term contract qualification requirement. Fleet age analysis needed. Terminal locations near waterways should be mapped for barge integration potential (sustainability credential + cost reduction).
 
+### Chemical Logistics Market — Size & Growth (April 2026)
+- **Global chemical logistics market: $282.7B (2026) → $411.8B (2035) at 8.07% CAGR** (IndexBox/Industry Research Biz, April 2026)
+- Heavy-duty industrial bulk packaging: $30.2B (2026) → $46.2B (2035) at 4.8% CAGR
+- IMO announced new regulations for bulk liquid carriage — effective 2026; compliance bar raised for carriers without documentation/traceability capability
+- Asia-Pacific consolidating as dominant hub; North America shifting to high-value/specialized/sustainable solutions
+- Quantix action: 8.07% CAGR is a structural tailwind for liquid bulk segment; audit IMO 2026 compliance for ISO tanks and bulk liquid equipment in fleet
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
