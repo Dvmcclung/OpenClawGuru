@@ -4917,3 +4917,56 @@ CSF #5 (standardize before automating) is directly relevant to Quantix's AI-in-t
 **Tags:** process-improvement, DMAIC, lean-six-sigma, 3PL, warehouse, automation-readiness
 
 ---
+
+## 2026-04-30 AM — Morning Knowledge Scan
+
+### Insight 1: The Agentic Supply Chain — Deloitte's Architecture for AI-in-the-Loop Operations
+**Source:** Deloitte Insights — "Resilient by Design: The Agentic Supply Chain" (April 2026)
+**Knowledge Tier:** Mid-frequency (industry research synthesis — current)
+
+Deloitte has published a detailed architecture for "agentic supply chains" — networks of domain-specific AI agents that operate as orchestration layers with defined guardrails, rather than simple automation scripts. Key findings:
+- **Agent "resumes":** Deloitte frames AI agents as having knowledge, skills, and tool access — analogous to human job roles. An *Inventory Agent* could autonomously manage safety stock, recalculate service levels, and balance working capital vs. production continuity within defined thresholds.
+- **Escalation guardrails:** High-impact trade-offs outside defined parameters escalate to humans — preserving human oversight while maximizing autonomous throughput.
+- **Cross-functional agents:** Shared governance agents span planning, finance, and operations — providing enterprise-wide risk intelligence rather than siloed optimization.
+- **40% of enterprise apps** will be integrated with task-specific AI agents by end of 2026, up from <5% today (Gartner forecast cited by Deloitte).
+- Adoption is already accelerating in manufacturing and industrial supply chains.
+
+**SC Relevance for Quantix:** This architecture maps directly to Dale's AI-in-the-loop buildout. The "domain agent + guardrail + escalation" model is the right pattern for bulk chemical transportation — e.g., a Dispatch Agent that autonomously assigns loads within defined parameters, escalating exceptions to a human dispatcher. The cross-functional agent model addresses the terminal-level fragmentation Quantix faces across 50+ locations.
+
+**Tags:** agentic-ai, autonomous-supply-chain, AI-in-the-loop, dispatch-automation, Quantix-relevant, technology-strategy
+
+---
+
+### Insight 2: North American Freight Market — Rate Cycle Has Shifted, Window Has Closed for Cheap Capacity
+**Source:** TRAFFIX Trends Q2 2026 Market Update (GlobeNewswire, April 27, 2026) + Summar Financial Freight Outlook 2026 (ACT Research)
+**Knowledge Tier:** High-frequency (current market data — volatile, treat as point-in-time)
+
+The North American freight market has crossed a definitive cycle inflection point in Q2 2026:
+- **Three years of soft rates are over.** TRAFFIX (major NA logistics provider) states: "The freight market has crossed a threshold, and the data is no longer ambiguous." Shippers who treat current conditions as temporary will be unprepared.
+- **Capacity tightening is real:** Truck postings on load boards at 10-year lows. Spot rates for dry van and refrigerated freight are **20%+ higher year-over-year**.
+- **Mode-by-mode outlook (TRAFFIX Q2):** Dry-van and flatbed rates elevated through mid-2026; reefer capacity tightening ahead of produce season; intermodal volumes growing ~10% YoY.
+- **Class 8 production accelerating:** Paccar executives confirm Q2 2026 Class 8 truck sales/production set to accelerate significantly — a lagging indicator of carrier confidence.
+- **ATA data:** Early 2026 showed strongest truckload demand since late 2024, though volumes remain below long-term peaks.
+- Diesel costs sharply higher — a direct margin pressure on asset-based carriers.
+
+**SC Relevance for Quantix:** As a 4,500+ truck asset carrier in bulk chemicals/plastics, Quantix operates in a tightening market that is now favorable for rate negotiations. This is the moment to lock in contract rates with key shippers, reduce spot exposure, and capitalize on competitors who exited the market during the downturn. Also: higher diesel costs elevate the ROI case for route optimization and empty-mile reduction.
+
+**Tags:** freight-market, rate-cycle, truckload-rates, capacity, bulk-carrier, Quantix-relevant, market-intelligence
+
+---
+
+### Insight 3: AI-Native Freight Tech — TruckSmarter Launches Chat-Based Dispatch Interface
+**Source:** FreightWaves / TruckSmarter-SONAR Partnership Announcement (April 25, 2026)
+**Knowledge Tier:** High-frequency (emerging technology — early adoption stage)
+
+TruckSmarter has launched "Dispatch" — described as the freight industry's first chat-based AI interface built specifically for truck drivers and owner-operators. Key details:
+- Integrates with SONAR (FreightWaves' freight market intelligence platform) to deliver real-time TRAC spot rates directly into the chat interface.
+- Drivers can **ask anything** to find loads — eliminating hours of manual load board scrolling.
+- AI agents can be **deployed to execute actions** on the driver's behalf (bidding, load matching) — not just surface information.
+- Represents a shift from passive data tools to autonomous action in freight execution at the driver level.
+
+**SC Relevance for Quantix:** This is a directional signal, not an immediate operational play for Quantix's company fleet. However, it illustrates the maturation trajectory: AI agents are moving from back-office planning into real-time field execution. For Quantix's driver-facing tools and terminal operations, the chat-based interaction model is worth monitoring — it reduces friction in load acceptance and could inform future dispatcher-driver communication tooling. The owner-operator market (which Quantix also serves) will adopt this faster than large fleets.
+
+**Tags:** freight-technology, AI-dispatch, driver-tools, load-boards, owner-operator, technology-adoption, innovation-watch
+
+---
