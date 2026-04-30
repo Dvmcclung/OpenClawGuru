@@ -4970,3 +4970,69 @@ TruckSmarter has launched "Dispatch" — described as the freight industry's fir
 **Tags:** freight-technology, AI-dispatch, driver-tools, load-boards, owner-operator, technology-adoption, innovation-watch
 
 ---
+
+---
+
+## Knowledge Update — 2026-04-30 (Evening Cron)
+
+### Insight 1: "Total Value" Replaces Resilience as the Primary Supply Chain Objective (KPMG, April 2026)
+
+**Date:** 2026-04-30
+**Source:** KPMG US — "Key supply chain trends shaping 2026: What leaders need to prepare for now" (kpmg.com/us/en/articles/2026/supply-chain-trends-2026.html)
+**Knowledge Tier:** Mid-frequency (research synthesis — note: April 2026)
+
+**Summary:**
+KPMG's 2026 supply chain trends report identifies a significant strategic pivot: leading organizations are moving beyond "resilience" (which is now treated as table stakes, not a differentiator) toward "Total Value" — a framework integrating Total Experience (customer + employee + partner + digital) and Total Performance across the enterprise. Key inflection points:
+- Supply chain disruption is now structural, not cyclical — volatility planning is the default posture, not a contingency
+- Global Business Services (GBS) centralization is accelerating to unlock scale, analytics, and automation at the enterprise level
+- AI is transitioning from pilots to platform — but decision governance frameworks are lagging; this is the new risk
+- New performance metrics are being built around decision quality, adaptability speed, and value realization — not just cost and OTIF
+- Tariffs and trade volatility require digital scenario modeling + integrated landed-cost volatility tracking (not just static cost-to-serve models)
+
+**SC Relevance for Quantix:**
+The "resilience is table stakes" framing is important for Quantix's strategy positioning. If resilience is no longer differentiating, the value proposition for a bulk carrier must shift toward Total Experience (shipper/driver/terminal interactions) and Total Performance (on-time, damage-free, compliant delivery at competitive landed cost). The GBS centralization trend also signals that chemical shippers will increasingly expect carriers to plug into their centralized logistics platforms — interoperability is becoming a baseline expectation. The AI governance gap is directly relevant to Quantix's agentic AI buildout: deploying AI without governance frameworks in dispatch/routing is the same risk KPMG flags at the enterprise level.
+
+**Tags:** strategy, total-value, resilience, AI-governance, tariffs, scenario-planning, GBS, shipper-expectations, Quantix-relevance
+
+---
+
+### Insight 2: Tariff Volatility Driving "Just-in-Case" Inventory Strategy Shifts and Landed-Cost Instability (Thomson Reuters / Inbound Logistics, April 2026)
+
+**Date:** 2026-04-30
+**Source:** Thomson Reuters Institute — "Tariffs are stress-testing manufacturers' supply chains" (thomsonreuters.com); Inbound Logistics — "Tariff Volatility: 18 Strategies for a Resilient Supply Chain" (inboundlogistics.com, April 2026)
+**Knowledge Tier:** High-frequency (current market conditions — volatile, verify before citing)
+
+**Summary:**
+Two converging April 2026 sources document the operational response to sustained tariff uncertainty:
+- Companies facing unstable landed costs are shifting from just-in-time (JIT) toward just-in-case (JIC) strategies — holding more inventory, extending forecast horizons, and in some cases redesigning production/sourcing footprints entirely
+- The shift is not uniform: companies with strong supplier visibility technology are using scenario modeling to quantify tariff exposure and make targeted adjustments; companies without it are making blunt, expensive decisions (stockpiling, dual-sourcing at premium)
+- Maersk's head of North America Ocean Products (Michael Britton, quoted in IL): "Shippers who embrace AI-powered solutions can mitigate short-term disruptions and long-term structural inefficiencies"
+- 18 identified mitigation strategies cluster into three themes: (1) Supplier diversification / nearshoring, (2) Technology-enabled real-time risk monitoring and scenario planning, (3) Stronger carrier/logistics provider relationships to maintain flexible capacity access
+
+**SC Relevance for Quantix:**
+This is primarily a shipper-side trend, but it has direct carrier implications. JIC inventory buildup means higher inbound chemical/plastic pellet volumes in the near term — potential upside for bulk transport demand. However, if shippers nearshore production, the trade lane geography changes; terminals and routes need to be evaluated for alignment. The "strong carrier relationship" strategy (point 3) is directly actionable: shippers in tariff-volatile environments are willing to pay relationship premiums for reliable capacity — which is a positioning opportunity for Quantix's key account management. Recommend Dale consider a targeted communication to top 10 shipper accounts reinforcing reliability and capacity commitment during the tariff uncertainty period.
+
+**Tags:** tariffs, trade-disruption, just-in-case, inventory-strategy, landed-cost, scenario-planning, nearshoring, carrier-relationships, demand-signal, Quantix-opportunity
+
+---
+
+### Insight 3: Transloading as a Strategic Flexibility Tool in Bulk Liquid Chemical Logistics (Kenan Advantage Group / KAG, April 2026)
+
+**Date:** 2026-04-30
+**Source:** Kenan Advantage Group (KAG) — "5 Reasons Why Transloading Is a Game-Changer for Bulk Liquid Transportation" (thekag.com, April 2026)
+**Knowledge Tier:** Mid-frequency (practitioner analysis from major bulk liquid carrier)
+
+**Summary:**
+KAG — one of the largest bulk liquid carriers in North America and a direct competitive analog to Quantix's liquid bulk business — published a structured case for transloading as a core supply chain flexibility mechanism. Key points:
+1. **Cost savings of 10–30%** on long-haul moves by substituting rail for the trunk portion and tanker trucks for last-mile/regional delivery
+2. **Flexibility advantage:** Non-fixed routes allow real-time adjustments during peak demand, supply disruptions, or seasonal swings — eliminates the rigidity problem of pure OTR bulk
+3. **Market access expansion:** Rail-to-truck transload opens markets without rail infrastructure — a genuine network coverage multiplier without proportional asset investment
+4. **Inventory positioning:** Regional transload facilities function as forward deployment points — product can be redirected, split, or rerouted in transit; effectively a mobile buffer stock strategy
+5. **Safety/compliance control:** Designed facilities with secondary containment, fixed transfer systems, and trained operators reduce spill/incident risk vs. ad hoc field transfers — directly relevant for regulated chemicals (HAZMAT, DOT, EPA compliance)
+
+**SC Relevance for Quantix:**
+Quantix's 4,500+ truck fleet and 50+ terminal network is inherently OTR-focused. This KAG piece is a competitor's strategic rationale for a hybrid rail-truck model — worth monitoring as a market positioning question. If chemical shippers increasingly demand 10–30% cost advantages through transloading, Quantix faces a strategic choice: (1) partner with rail operators to offer hybrid solutions, (2) position terminal network as transload-capable regional hubs (reframe 50+ terminals as flexibility assets, not just staging), or (3) compete on service quality / compliance differentiation where transloading introduces handling risk. Option 2 deserves further internal analysis — the terminal network is an underutilized strategic asset if it can serve as regional transfer/buffer points.
+
+**Tags:** bulk-liquid, transloading, rail-truck-hybrid, terminal-strategy, last-mile, cost-reduction, flexibility, HAZMAT, compliance, Quantix-strategy, competitor-analysis, KAG
+
+---
