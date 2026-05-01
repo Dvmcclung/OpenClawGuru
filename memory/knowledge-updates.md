@@ -5036,3 +5036,59 @@ Quantix's 4,500+ truck fleet and 50+ terminal network is inherently OTR-focused.
 **Tags:** bulk-liquid, transloading, rail-truck-hybrid, terminal-strategy, last-mile, cost-reduction, flexibility, HAZMAT, compliance, Quantix-strategy, competitor-analysis, KAG
 
 ---
+
+---
+
+## 2026-05-01 AM — Morning Knowledge Scan
+
+### Insight 1: PwC 2026 Digital Trends in Ops — The Optimism-Execution Gap
+**Source:** PwC 2026 Digital Trends in Operations Report (via The Supply Chain Xchange, April 29, 2026) — 767 U.S. operations/SC leaders surveyed
+**Knowledge Tier:** High-frequency (primary survey data, current year; volatile)
+**Tags:** #digital-transformation #AI #data-quality #operations #survey
+
+PwC's 2026 survey exposes a striking contradiction in supply chain digital transformation: 85% of respondents claim to be *ahead of competitors* in digitization, yet 89% say their technology investments haven't fully delivered expected results. Key findings:
+
+- **AI agents/automation:** 83% believe AI agents will break down functional silos — but only 27% have fully embedded AI strategy across business units, and just 37% are comfortable assigning AI agents to end-to-end process execution
+- **Data quality failure:** 87% say poor data quality has hampered digital initiative value; only 30% report significant improvement in data reliability
+- **Operating model lag:** 94% intend to shift to horizontal/networked models, but only 41% operate that way today
+
+**SC Relevance for Quantix:** This pattern is familiar across bulk transportation. The gap isn't technology access — it's data foundation and change management. Before deploying AI agents at terminal or dispatch level, Quantix must audit data quality in TMS/ERP sources. "AI-ready" means clean, trusted data — not just tool access. The silo breakdown finding is also directly relevant to S&OP/dispatch integration.
+
+**Application:** Treat data quality as a prerequisite gate for any AI pilot. Run a data quality assessment (completeness, accuracy, timeliness) across key SC data feeds before scaling AI decision tools.
+
+---
+
+### Insight 2: Aurora Innovation + Hirschbach — 500 Autonomous Semi-Trucks Ordered for 2027 Delivery
+**Source:** Pittsburgh Business Times / CDLLife / Motley Fool (April 30, 2026 — multiple outlets, confirmed deal)
+**Knowledge Tier:** High-frequency (current events; volatile)
+**Tags:** #autonomous-vehicles #AV #trucking #fleet-technology #driver-shortage
+
+Aurora Innovation (AUR) announced an expanded partnership with Hirschbach Motor Lines — a refrigerated carrier — for the purchase and delivery of **500 Aurora Driver-powered self-driving semi-trucks starting in 2027**. Aurora stock moved +15.52% on the news ($5.88 close April 30). Key context:
+
+- Aurora has been operating commercial driverless routes (Texas corridors) since 2024
+- Hirschbach is a well-established temperature-controlled carrier — this is the largest autonomous truck fleet commitment announced to date
+- Delivery begins 2027; full fleet deployment likely 2027–2029 timeframe
+- Aurora is simultaneously pursuing other carrier partnerships
+
+**SC Relevance for Quantix:** This is a dry-van/refrigerated play, not bulk — but the competitive signal matters. Autonomous trucking is moving from pilot to fleet-scale procurement. Bulk carriers (tankers, pneumatics) face different regulatory and loading complexity barriers than dry van, which will delay AV adoption in Quantix's specific segments. However: **the driver economics argument accelerates**. If competitor modes become driverless at scale, shippers will begin comparing cost structures. Quantix should monitor AV readiness timelines for bulk/hazmat specifically.
+
+**Watch indicator:** When AV OEMs announce bulk tanker or pneumatic trailer integrations, that's the inflection signal for Quantix's competitive landscape.
+
+---
+
+### Insight 3: Argonne National Lab Opens Heavy-Duty Truck Test Facility — Accelerating Fleet Technology Validation
+**Source:** Argonne National Laboratory / Highways Today (April 29, 2026)
+**Knowledge Tier:** High-frequency (new facility announcement; current)
+**Tags:** #freight-efficiency #fleet-technology #propulsion #AV #electrification #R&D
+
+Argonne National Laboratory (DOE-backed) has launched a **Heavy-Duty Dynamometer Test Facility** for medium and heavy-duty trucks. The facility allows indoor simulation of real-world freight conditions, enabling validated testing of: propulsion systems, alternative fuels, automation platforms, and connected vehicle technologies. Key details:
+
+- Reduces development time, technical risk, and investment uncertainty for OEMs and fleets
+- Targets efficiency gains of **2–3%** across freight networks — which translate to significant long-term economic value at fleet scale
+- Supports testing across: battery-electric, hydrogen, advanced diesel hybrid, and autonomous systems
+- Designed for both government and private-sector use
+
+**SC Relevance for Quantix:** Independent validation infrastructure is the missing link between "promising technology" and "boardroom-approved procurement." Carriers historically face technology adoption risk because new propulsion or automation systems haven't been proven at load, temperature, and distance conditions relevant to bulk operations. Argonne's facility lowers that barrier. For Quantix specifically: any future evaluation of alternative propulsion (CNG, hydrogen, EEV diesel) for terminal tractors or long-haul should factor in DOE-validated performance data as available — it's higher-quality evidence than OEM claims alone.
+
+**Application:** Track Argonne facility outputs as a reference source for fleet technology decisions. Flag to Dale when bulk-specific propulsion test results are published.
+
