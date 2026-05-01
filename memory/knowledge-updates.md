@@ -5092,3 +5092,86 @@ Argonne National Laboratory (DOE-backed) has launched a **Heavy-Duty Dynamometer
 
 **Application:** Track Argonne facility outputs as a reference source for fleet technology decisions. Flag to Dale when bulk-specific propulsion test results are published.
 
+
+---
+
+## Knowledge Update — 2026-05-01 PM (Evening Run)
+
+### Insight 1: Multi-Dimensional Risk Is Now the Baseline — 2026 Supply Chain Resilience Framework
+**Source:** Michigan State University Online / McKinsey Global Supply Chain Leader Survey 2024 / WEF Global Cybersecurity Outlook 2026
+**Knowledge Tier:** Mid-frequency (research synthesis; current)
+**Tags:** #risk-management #resilience #geopolitical #cyber #climate #visibility #multi-tier
+
+**Summary:**
+A synthesis of 2025–2026 research confirms that supply chain disruption has shifted from episodic to endemic. Key findings:
+- **9 in 10 organizations** reported significant supply chain challenges in 2024 (McKinsey)
+- **65% of large companies** now identify third-party and supply-chain vulnerabilities as a leading cybersecurity challenge (WEF Cybersecurity Outlook 2026)
+- OECD data: export restrictions on industrial raw materials have increased sharply since 2023 — particularly critical minerals (batteries, electronics, renewables)
+- **Multi-tier visibility remains the core gap**: McKinsey notes risk capabilities are weak beyond first-tier suppliers, meaning vulnerabilities originate below the line of sight
+
+**The 2026 Resilience Model** requires four simultaneous capabilities:
+1. Multi-dimensional risk assessment: geopolitical + cyber + climate + regulatory — across supplier tiers, not just Tier 1
+2. Diversified sourcing: reshoring and geographic spread to reduce single-point exposure
+3. Adaptable architecture: supply chain design that allows fast reconfiguration (not just backup vendors)
+4. Proactive vs. reactive posture: intelligence-driven resilience, not incident response
+
+**SC Relevance for Quantix:** Quantix's supplier base for truck components, fuel, terminals, and chemicals are all exposed to multi-dimensional risk. The most acute gap is likely **cyber + Tier 2 visibility** — especially in chemical shipper supply chains where ingredient sourcing can expose Quantix customers to compliance disruptions that cascade to shipping volumes. Fleet procurement lead times are now also geopolitical risk exposure (rare metals in EV/hybrid powertrains).
+
+**Action flag:** Assess whether Quantix's current risk review process looks beyond Tier-1 carriers and vendors to Tier-2 (component suppliers, chemical feedstocks for key accounts).
+
+---
+
+### Insight 2: Green Lean Six Sigma (GLSS) — Empirically Validated Multi-Dimensional Gains in Supply Chain (2026)
+**Source:** Taylor & Francis / International Journal of Lean Six Sigma (March 21, 2026) — "Green Lean Six Sigma for multidimensional performance improvement: a case study on supply chain management"
+**Knowledge Tier:** Mid-frequency (peer-reviewed; current)
+**Tags:** #DMAIC #lean-six-sigma #process-improvement #sustainability #green-SC #case-study
+
+**Summary:**
+A March 2026 peer-reviewed case study empirically validates a **Green Lean Six Sigma (GLSS)** framework — integrating environmental sustainability objectives into the DMAIC structure. Key findings from the comparative study (2020–2025 literature + new empirical case):
+
+- GLSS produces gains across three dimensions simultaneously: **operational efficiency, quality improvement, and emissions reduction** — without trade-off between them in the studied cases
+- The DMAIC backbone (Define, Measure, Analyze, Improve, Control) remains the core — green metrics are added at the Measure and Control phases
+- Despite growing academic interest since 2020, few frameworks had been empirically validated before this study — the 2026 paper fills that gap
+- Prior 3PL warehouse case (ScienceDirect, 2023): LSS DMAIC improved **process cycle efficiency from 40% to 70%** — a 30-point jump by eliminating non-value-added activities
+- EV parts manufacturing case (ScienceDirect, 2025): LSS reduced **freight costs and improved supplier selection rigor** through lean sourcing process redesign
+
+**Methodological insight:** The multi-dimensional framework integrates KPIs across cost, quality, delivery, and sustainability — enabling projects that justify CI investment on more than one dimension, which is increasingly required for capital approval.
+
+**SC Relevance for Quantix:** Two direct applications:
+1. **Terminal operations**: DMAIC projects targeting loading/unloading cycle time efficiency could incorporate CO2-per-load metrics — both improving throughput AND creating ESG audit data that large chemical shippers increasingly require from carriers
+2. **Supplier qualification**: LSS-based sourcing process redesign (as in the EV case study) applies directly to vendor selection for maintenance parts, fuel contracts, and third-party terminal services
+
+**Application:** When scoping the next CI project, test whether GLSS framing opens additional justification (ESG reporting compliance, shipper contract requirements).
+
+---
+
+### Insight 3: Sustainable Chemical Logistics — Emissions Reporting Shifts from Optional to Contractual (2026)
+**Source:** IndexBox / Chemical Engineering / Global Trade Magazine (April 15, 2026) — "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026"
+**Knowledge Tier:** High-frequency (industry analysis; current)
+**Tags:** #chemical-logistics #sustainability #emissions #intermodal #visibility #regulatory #ESG #bulk-transport
+
+**Summary:**
+A 2026 industry analysis of chemical logistics sustainability confirms a structural shift: **emissions tracking is moving from voluntary ESG reporting to contractual shipper requirement**. Key findings:
+
+**Regulatory and market drivers:**
+- Governmental regulations are forcing more rigorous emissions tracking
+- Chemical manufacturers now expect **auditable emissions data** and lower-carbon transport options from logistics suppliers — not as a nice-to-have but as a sourcing criterion
+- Sustainability has become a **core business strategy pillar** for chemical manufacturers, not just an offset program
+
+**Operational levers cited:**
+1. **Intermodal/multimodal shift**: Prioritizing rail, barge, or short-sea over pure OTR reduces carbon footprint AND resilience against fuel price volatility. Barge transport specifically cited as better sustainability footprint than rail or truck for heavy-duty bulk
+2. **Modern equipment compliance**: Newer trucks/transport meeting current environmental standards outperform older fleets on emissions — fleet age is now a sustainability metric
+3. **Shipment-level visibility**: Fine-grained visibility enables efficiency adjustments AND produces the documentation required for emissions reporting and future decision-making
+4. **Route optimization**: Emissions-optimized mode selection, not just least-cost routing — cargo dimension surveys to minimize congestion and transport risk
+5. **Cargo design collaboration**: Early engagement between chemical manufacturers and logistics providers at project design phase yields multi-lever gains (lower emissions, lower cost, improved safety simultaneously)
+
+**SC Relevance for Quantix (High Priority):**
+This is a direct operational threat and opportunity. Quantix serves chemical shippers who are under increasing ESG pressure from their own customers. The chain: *chemical shipper's customer requires emissions data → shipper requires auditable transport emissions → Quantix must provide load-level emissions data*.
+
+**Specific gaps to assess:**
+- Does Quantix currently capture per-load emissions data at terminal level?
+- Is fleet age profile tracked against emissions benchmarks by terminal/lane?
+- Has Quantix assessed barge integration on Gulf Coast and river corridor chemical lanes?
+
+**Watch indicator:** When a top-5 shipper account adds emissions reporting to contract language, that becomes a fleet procurement trigger. Getting ahead of it with a visibility platform is the competitive move.
+
