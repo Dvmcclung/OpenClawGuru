@@ -169,5 +169,37 @@ _Initialized: 2026-03-03_
 - Asia-Pacific consolidating as dominant hub; North America shifting to high-value/specialized/sustainable solutions
 - Quantix action: 8.07% CAGR is a structural tailwind for liquid bulk segment; audit IMO 2026 compliance for ISO tanks and bulk liquid equipment in fleet
 
+### Transloading as Strategic Flexibility (KAG, April 2026)
+- KAG (major bulk liquid competitor) makes structured case for rail-truck hybrid: 10–30% cost savings on long-haul via intermodal trunk + OTR last-mile
+- Rail-to-truck transload opens markets without rail infrastructure — network coverage multiplier without proportional asset investment
+- Quantix strategic option: reframe 50+ terminal network as transload-capable regional buffer/transfer hubs, not just staging points — this is an underutilized asset positioning play
+
+### AV Trucking — Fleet-Scale Commitment Confirmed (Aurora/Hirschbach, April 30, 2026)
+- Hirschbach Motor Lines ordered 500 Aurora Driver-powered driverless semi-trucks for 2027 delivery — largest AV fleet commitment to date
+- Dry-van/reefer, not bulk — but competitive signal is firm: AV is moving from pilot to fleet procurement
+- Quantix near-term risk: LOW (bulk/hazmat regulatory complexity); watch indicator = first bulk tanker/pneumatic AV integration announcement; driver economics comparison pressure accelerates
+
+### AI Readiness — Data Quality Is the Gate (PwC 2026, 767 ops leaders surveyed)
+- 85% claim to be ahead of competitors in digitization; 89% say technology hasn't delivered expected results
+- 87% say poor data quality hampered digital value; only 30% report meaningful data reliability improvement
+- **Rule for Quantix AI buildout:** data quality audit is a prerequisite gate before any AI agent deployment at terminal or dispatch level — "AI-ready" = clean, trusted data, not just tool access
+
+### KPMG 2026 — Resilience Is Table Stakes; "Total Value" Is the New Bar
+- Resilience is no longer a differentiator — it's now baseline expectation
+- "Total Value" = Total Experience (customer + employee + partner + digital) + Total Performance at enterprise level
+- Quantix positioning implication: value proposition must shift toward Total Experience and verifiable performance metrics (OTIF, compliance rate, response time), not just "reliable carrier"
+- AI governance frameworks lagging deployment — same risk applies to Quantix's agentic dispatch buildout
+
+### Tariff Volatility — JIT → JIC Inventory Shift Underway (Thomson Reuters / Inbound Logistics, April 2026)
+- Companies shifting from just-in-time to just-in-case — more inventory, longer forecast horizons, some production redesign
+- JIC buildup = higher near-term bulk transport demand (positive for Quantix volume)
+- "Strong carrier relationship" is explicitly listed as a top mitigation strategy — shippers paying relationship premiums for reliable dedicated capacity
+- **Action:** Dale should consider targeted communication to top 10 shipper accounts reinforcing reliability and capacity commitment during tariff uncertainty window
+
+### Argonne Heavy-Duty Truck Test Facility (DOE, April 2026)
+- DOE-backed facility now open for medium/heavy truck propulsion, AV, and electrification testing
+- Targets 2–3% freight network efficiency gains; covers battery-electric, hydrogen, advanced diesel hybrid, autonomous systems
+- **Quantix application:** use DOE-validated (not OEM-claimed) performance data for future propulsion decisions; track for bulk-specific test results
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
