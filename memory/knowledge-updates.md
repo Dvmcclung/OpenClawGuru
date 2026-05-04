@@ -5175,3 +5175,79 @@ This is a direct operational threat and opportunity. Quantix serves chemical shi
 
 **Watch indicator:** When a top-5 shipper account adds emissions reporting to contract language, that becomes a fleet procurement trigger. Getting ahead of it with a visibility platform is the competitive move.
 
+
+---
+
+## 2026-05-04 AM — Morning Knowledge Scan
+
+### Insight 1: AI Is Moving from Dashboards to Decision Intelligence — But "Autonomous Supply Chain" Remains Hype
+**Source:** Logistics Management, "2026 Technology Roundtable: The Next Phase of Supply Chain Technology" (April 30, 2026) — Nathanael Powrie (MainePoint), Gartner's Suzie Petrusic, St. Onge Co.
+**Knowledge Tier:** Mid-frequency (industry practitioner roundtable, 2026)
+**Tags:** #AI #decision-intelligence #automation #SC-technology #execution
+
+The 2026 practitioner consensus is clear: supply chain technology has moved past the visibility era. The competitive differentiator is no longer *knowing* what's happening — it's *executing* on that knowledge faster than your competitors. AI is delivering measurable ROI today in high-frequency operational decision loops: inventory positioning, warehouse slotting, transportation planning, and supplier performance management.
+
+Key findings from the roundtable:
+- **Slotting optimization** models that continuously adapt to order patterns reduce warehouse travel time by **10–20%**
+- **Predictive demand models** are right-sizing safety stock without sacrificing fill rates
+- **AI-driven routing and carrier selection** are improving load consolidation and cutting empty miles
+- 83% of survey respondents say AI agents and automation will accelerate the **breakdown of functional silos** — a structural org change, not just a tech upgrade
+- Where hype still outpaces reality: **fully autonomous supply chains** — most implementations still require human-in-the-loop at critical decision points
+- The real differentiator is **orchestration** — not individual automation pilots, but integrating robots, AI, and human workflows into a cohesive operating system
+
+**SC Relevance for Quantix:** The shift to decision intelligence directly applies to load planning, carrier dispatch, and terminal scheduling. The insight about breaking down functional silos is operationally significant — Quantix's terminal ops, dispatch, and maintenance functions are still largely siloed. Automation pilots at individual nodes won't compound unless orchestration connects them. The empty-miles reduction signal is directly relevant to repositioning cost across a 4,500-truck fleet.
+
+**Application:** Assess whether Quantix's TMS/dispatch tools are moving toward embedded decision support (AI-recommended lane assignments, load configurations) or still purely reporting dashboards. If the latter, that's a 2026 capability gap.
+
+---
+
+### Insight 2: AI Creates a New Bottleneck — Coordination Layer Is Now the Constraint (Not the Function)
+**Source:** Rinchem Weekly Supply Chain Review, citing Supply Chain Brain / SupplyChainBrain.com (April 30, 2026)
+**Knowledge Tier:** High-frequency (industry commentary, flag as current signal)
+**Tags:** #AI #system-constraints #coordination #demand-sensing #network-design
+
+One of the most counterintuitive supply chain findings of the year: AI is simultaneously solving individual function problems *and* creating new network-level constraints. The mechanism is classic Theory of Constraints — you optimize one node, and the bottleneck migrates downstream.
+
+Key finding: AI-driven demand sensing reduces forecasting error by **~30%** — but that improved signal velocity overwhelms suppliers with more frequent order changes. Better dynamic routing disrupts scheduling stability for downstream partners. Each AI-optimized function accelerates at a different speed, *exposing gaps in coordination, data sharing, and decision timing*.
+
+The implication is a shift in where competitive advantage actually lives in 2026:
+- **Old model:** Optimize individual functions (warehouse, transport, procurement)
+- **New model:** Build the **coordination layer** — data interoperability, governance, aligned decision cycles — so the entire network moves as a system
+
+This is a Theory of Constraints principle applied to AI architecture: the constraint is no longer a silo — it's the *handoff* between optimized silos.
+
+**SC Relevance for Quantix:** A Quantix-specific version of this risk: if terminal ops deploys AI-driven load scheduling but dispatch still runs on manual call-out cycles, the faster terminal signal jams the dispatch function. Similarly, if demand sensing improves on the shipper side, Quantix needs to be a fast receiver of that signal — not a lagging respondent. This is an argument for EDI/API connectivity upgrades with top shipper accounts.
+
+**Watch metric:** Track order-change frequency from top 10 shippers. An increase in frequency (driven by their AI forecasting) is the leading indicator that Quantix needs better demand signal ingestion capability.
+
+---
+
+### Insight 3: Electric Trucks Enter Port Drayage at Scale — Tesla Semi Mass Production Begins
+**Source:** Electrek / Tesevo (April 29–May 2, 2026) — MDB Transportation pilot at Ports of LA/Long Beach; Seoul Economic Daily on Tesla Semi mass production
+**Knowledge Tier:** High-frequency (active market development — flag as volatile/evolving)
+**Tags:** #electric-trucks #EV #drayage #fleet-tech #decarbonization #Tesla-Semi
+
+Two converging developments in the same week:
+
+**1. MDB Transportation Tesla Semi Port Pilot (April 29, 2026)**
+MDB, a Compton-based drayage operator, launched a 3-week live freight pilot of the Tesla Semi at the Ports of LA/Long Beach — the second port trucking company to do so after Hight Logistics. Key specs of the production Semi:
+- 82,000 lbs GCW capacity
+- Up to 500 miles range
+- <2 kWh/mile energy consumption
+- 60% range recovery in 30 minutes (Megacharger)
+- Three independent rear-axle motors (instant torque, hill-hold advantage)
+
+MDB is tracking energy efficiency, cycle time, and driver experience — the three vectors that will determine fleet ROI.
+
+**2. Tesla Semi Mass Production Begins (May 2, 2026)**
+Tesla has commenced mass production of the Semi using 4680 battery technology and with FSD (Full Self-Driving) integration. The production vehicle is rated for ~800km range — enough to cover meaningful over-the-road corridors, not just drayage cycles.
+
+**Why port drayage is the wedge market:** Short, repetitive routes that return to a home depot make charging logistics manageable. It's the proving ground before EV heavy trucks move to regional and eventually long-haul.
+
+**SC Relevance for Quantix:** Quantix is a long-haul bulk carrier — not a drayage operator. Direct near-term exposure is low. However:
+1. **Competitive monitoring:** Asset-based carriers that electrify first gain both emissions compliance advantages and fuel cost advantages. Monitoring fleet electrification rates among Quantix's peer group is warranted.
+2. **Shipper expectations:** If major chemical shippers (BASF, Dow, LyondellBasell) are tracking Scope 3 emissions, they will eventually prefer carriers with credible EV transition plans.
+3. **Technology trajectory:** The mass production signal means EV heavy trucks are no longer experimental. Quantix's 5-year fleet procurement plan should include an EV scenario for terminal-to-terminal and regional chemical delivery lanes (not long-haul yet).
+
+**Watch indicator:** When a Class 8 EV demonstrates 500+ mile range with <2-hour charging in summer heat loads (chemical tank trailers run heavy), the economics for chemical carriers change. That's 2–3 years out but the procurement cycle starts now.
+
