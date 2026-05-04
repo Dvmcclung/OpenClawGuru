@@ -5287,3 +5287,59 @@ Tesla has commenced mass production of the Semi using 4680 battery technology an
 **Knowledge Tier:** Mid-frequency (research synthesis — multiple corroborating sources, Apr 2026)
 **Tags:** chemical-logistics, sustainability, emissions-reporting, intermodal, barge, OTR-bulk, carrier-strategy, ESG, Quantix-relevant
 
+
+---
+
+## 2026-05-04 PM — Evening Knowledge Update
+
+### Insight 1: Optimal Machine Learning for Supply Chain Replenishment (Process Improvement Case Study)
+
+**Date:** 2026-05-04
+**Source:** LTPLabs Case Study — "How Machine Learning Improves Supply Chain Resilience" (ltplabs.com, Feb 2026)
+**URL:** https://www.ltplabs.com/case-studies/how-machine-learning-improves-supply-chain-resilience
+
+**Summary:**
+A grocery retailer partnered with LTPLabs/AD3 to replace traditional predict-then-optimize planning (which propagated forecast error downstream) with "Optimal Machine Learning" — a unified framework that integrates data, constraints, and objectives simultaneously rather than sequentially. The system trains on both historical and live data, models capacity/inventory/cost constraints explicitly, and automates replenishment decisions without forecast-accuracy dependency.
+
+**Results:** 6% inventory reduction with no service level degradation; more precise category-specific replenishment; cost embedded directly into operational decisions.
+
+**SC Relevance:**
+Direct applicability to S&OP and inventory planning at Quantix. The root failure mode — forecast error propagating into downstream decisions — is endemic to any carrier or 3PL that plans asset utilization or terminal throughput off customer-provided demand signals. The "no-forecast" framing is worth evaluating for bulk segment capacity planning where load patterns are irregular.
+
+**Knowledge Tier:** Mid-frequency (research synthesis, Feb 2026)
+**Tags:** process-improvement, inventory-optimization, ML, replenishment, S&OP, demand-planning
+
+---
+
+### Insight 2: Tariff Volatility as Systemic Supply Chain Risk — IEEPA Ruling Shifts the Playing Field
+
+**Date:** 2026-05-04
+**Source:** Thomson Reuters Institute — "Tariffs are stress-testing manufacturers' supply chains" (thomsonreuters.com, April 2026)
+**URL:** https://www.thomsonreuters.com/en-us/posts/international-trade-and-supply-chain/tariffs-stressing-manufacturers-supply-chains/
+
+**Summary:**
+The U.S. Supreme Court's February 2026 ruling in *Learning Resources, Inc. v. Trump* (6-3) held the President lacked IEEPA authority to impose tariffs, invalidating many Trump-era 2025 tariffs. The decision shifts tariff governance to Congress — meaning trade policy becomes legislatively negotiated, slower, and potentially more durable once codified. Key risk framing: "Unpredictability is the real threat" — changing duty rates undermine forecasting and inventory planning regardless of the direction of change. Leading manufacturers are adapting now rather than waiting for policy clarity, via: holding strategic inventory buffers, extending forecast horizons, and redesigning production/sourcing footprints.
+
+**SC Relevance:**
+Direct risk to Quantix's chemical shipper customer base. Chemical manufacturers (Quantix's shippers) are directly exposed to tariff-driven reshoring decisions — US chemical manufacturing establishments grew 10.2% from 2017–2022 (per SUR+ data) and that trend is accelerating. For Quantix, reshoring chemical production is a volume growth tailwind for domestic OTR bulk — but it also means shippers may restructure supply lanes, alter terminal locations, and renegotiate carrier contracts faster than historical cycles. Risk management implication: scenario-plan for lane reconfiguration, not just cost pass-through.
+
+**Knowledge Tier:** High-frequency (current policy event, April 2026 — treat as volatile)
+**Tags:** risk-management, tariffs, trade-policy, reshoring, chemical-industry, regulatory, supply-chain-resilience
+
+---
+
+### Insight 3: Chemical Logistics Sustainability — Multimodal and Visibility-Driven Best Practices
+
+**Date:** 2026-05-04
+**Source:** Global Trade Magazine — "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026" (globaltrademag.com, April 2026)
+**URL:** https://www.globaltrademag.com/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/
+
+**Summary:**
+Chemical logistics providers in 2026 are building sustainability by: (1) Early collaboration with chemical manufacturers beginning at project design phase — not at RFP stage; (2) Prioritizing intermodal/multimodal solutions (rail, barge, short sea) to reduce trucking dependence and improve fuel price resilience; (3) Shipment-level visibility enabling fine-grained efficiency adjustments and auditable emissions reporting; (4) Cargo design optimization — planning cargo modularity and consolidation from the start to reduce total transport count; (5) AI/ML for dynamic routing, emissions-optimized mode selection, and proactive exception management. Governments are now mandating emissions tracking, making auditable transport data a supplier qualification criterion.
+
+**SC Relevance:**
+For Quantix (OTR bulk carrier), the multimodal competition framing is important: chemical shippers are actively evaluating barge and rail as alternatives for heavy-duty bulk moves. The "early collaboration" finding reinforces the strategic account management principle — carriers that embed themselves in shipper project planning cycles before the RFP gain structural advantage. The emissions reporting mandate is a near-term compliance risk for Quantix's larger chemical shipper customers who will cascade that requirement to their carrier base. Quantix should assess whether TMS/telematics data can generate auditable CO2-per-shipment reporting.
+
+**Knowledge Tier:** Mid-frequency (industry synthesis, April 2026)
+**Tags:** chemical-logistics, sustainability, multimodal, visibility, emissions-reporting, OTR-bulk, intermodal, strategic-accounts
+
