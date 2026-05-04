@@ -5251,3 +5251,39 @@ Tesla has commenced mass production of the Semi using 4680 battery technology an
 
 **Watch indicator:** When a Class 8 EV demonstrates 500+ mile range with <2-hour charging in summer heat loads (chemical tank trailers run heavy), the economics for chemical carriers change. That's 2–3 years out but the procurement cycle starts now.
 
+
+---
+
+## 2026-05-04 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: ML-Driven "Optimal Machine Learning" Replaces Forecast-Then-Optimize in Replenishment
+
+**Date:** 2026-05-04
+**Source:** LTPLabs Case Study — "How Machine Learning Improves Supply Chain Resilience" (ltplabs.com, Feb 2026)
+**Summary:** A grocery retailer partnered with LTPLabs/AD3 to replace traditional predict-then-optimize replenishment with an Optimal Machine Learning approach that integrates data, constraints, and objectives into a single unified decision framework. Key outcomes: 6% inventory reduction with no service-level degradation; replenishment decisions now explicitly embed cost structures, packaging constraints, and category-specific dynamics. The system trains on both historical and live data, enabling continuous adaptation — removing dependency on forecast accuracy entirely.
+**SC Relevance:** Direct applicability to demand planning and inventory optimization. The shift from forecast-dependent to constraint-aware ML planning is a significant structural improvement. For bulk/chemical carriers, an analogous approach could optimize fleet utilization and terminal load scheduling by embedding operational constraints (hazmat routing rules, prior cargo restrictions, driver HOS) directly into planning models rather than layering them on top of a forecast.
+**Knowledge Tier:** Mid-frequency (research synthesis — case study published Feb 2026)
+**Tags:** inventory-optimization, demand-planning, machine-learning, replenishment, process-improvement, technology
+
+---
+
+### Insight 2: Tariff Volatility Forcing SMBs from "Wait-and-See" to Active Supply Chain Restructuring
+
+**Date:** 2026-05-04
+**Source:** FreightWaves / Netstock 2026 Tariff Impact Report (freightwaves.com, Apr 2026)
+**Summary:** Netstock's 2026 survey of SMBs found 97% now deploying at least one active tariff mitigation strategy — a sharp break from 2025's passive posture. Key data points: 35% of SMBs changed suppliers in the past year; ~50% now source from multiple regions; 74% cite China as most impacted region; 75% extended inventory planning horizons; 82% are passing tariff costs downstream via price increases (up sharply YoY). Companies describe the environment as "structured volatility." Hybrid sourcing (maintaining legacy + adding secondary suppliers) is fragmenting freight flows and altering traditional shipping lanes.
+**SC Relevance:** High relevance to Quantix SCS. As chemical shipper customers restructure sourcing, freight volumes and lane patterns will shift — potentially opening new terminal opportunities in Southeast Asia-adjacent and Mexico-adjacent import corridors while legacy Gulf/Midwest lanes see volume changes. The 82% price-pass-through also signals downstream demand elasticity risk for chemical manufacturers — which flows into transportation demand. The planning horizon extension (75% of shippers) creates an opportunity for carriers with good visibility tools to offer longer-term commitments as a differentiator.
+**Knowledge Tier:** High-frequency (current market data — use with caution, volatile)
+**Tags:** tariff-risk, supply-chain-risk, sourcing-strategy, supplier-diversification, inventory-planning, freight-demand, bulk-chemical
+
+---
+
+### Insight 3: Chemical Logistics Sustainability — Intermodal, Emissions Auditing, and Early Collaboration Now Table Stakes
+
+**Date:** 2026-05-04
+**Source:** Global Trade Magazine — "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026" (globaltrademag.com, Apr 2026); cross-ref indexbox.io
+**Summary:** Multiple sources confirm that chemical manufacturers now require auditable, shipment-level emissions data as a standard contract requirement — not a reporting add-on. Providers without this capability face contract disqualification. Key strategic levers cited: (1) Early collaboration between chemical manufacturers and logistics providers starting in initial project design — described as "paramount"; (2) Intermodal/multimodal prioritization — barge transport specifically cited as improving sustainability footprint vs. truck or rail while also reducing fuel price exposure; (3) AI/ML for emissions-optimized routing and dynamic mode selection; (4) Blockchain for verifiable emissions reporting and secure cargo tracking; (5) Route surveys engineering cargo dimensions to minimize congestion and transport risk.
+**SC Relevance:** Directly reinforces prior hive memory (2026 chemical logistics emissions contracts). Quantix SCS needs to develop shipment-level emissions reporting capability — this is now a competitive threshold, not a differentiator. Barge integration on Gulf/river corridors is the most actionable near-term move: lower emissions profile + fuel price resilience + cost competitiveness. The "early collaboration" finding aligns with APICS partnership models — carriers who embed in customer project design phases will lock in longer contract terms.
+**Knowledge Tier:** Mid-frequency (research synthesis — multiple corroborating sources, Apr 2026)
+**Tags:** chemical-logistics, sustainability, emissions-reporting, intermodal, barge, OTR-bulk, carrier-strategy, ESG, Quantix-relevant
+
