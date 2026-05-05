@@ -5405,3 +5405,70 @@ CargoNet's Q1 analysis covers supply chain theft trends — this is an ongoing c
 
 **Tags:** procurement-disruption, cargo-theft, supply-chain-risk, Q1-2026, tariff-evasion, Strait-of-Hormuz, customer-intelligence, terminal-security, high-frequency
 
+
+---
+
+## 2026-05-05 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: Gartner 2026 — Supplier Risk Management Must Become Cross-Functional and AI-Driven
+
+**Date:** 2026-05-05
+**Source:** Exiger / Gartner Supply Chain Symposium preview (exiger.com, May 2026); Gartner press release (March 2026)
+**URL:** https://www.exiger.com/perspectives/supplier-risk-management-shifts-2026/
+
+**Summary:**
+Gartner predicts that by 2031, 60% of supply chain disruptions will be resolved without human intervention as AI enables autonomous supply chains. The 2026 Symposium/Xpo agenda centers on AI, visibility, resilience, and faster decisions under pressure. Key finding: most organizations still manage supplier risk in silos — procurement owns continuity, compliance owns sanctions/forced labor, logistics monitors disruption, finance tracks cost. The gap shows up daily. A tariff change cascades into compliance, then cost. A weather event hits service levels. A cyber issue buried in a tier-2 dependency affects physical operations. Gartner's message: supplier risk management must connect these threads faster than current organizational design allows. Geopolitics is no longer background context — it is part of the sourcing decision itself.
+
+**Supply Chain Relevance (Quantix/Bulk Chemical OTR context):**
+- Direct applicability to carrier network risk: terminal concentration, route dependency, and regulatory exposure (HAZMAT, FMCSA) all require cross-functional visibility
+- For bulk chemical carriers, a single regulatory change (EPA, DOT, state-level) can cascade through compliance → asset deployment → customer service levels — exactly the silo failure Gartner describes
+- Tariff volatility affects chemical raw material flows, which shifts shipper volumes and routing requests — carrier must be ready to adapt network faster than shipper can reforecast
+
+**Knowledge Tier:** High-frequency (Gartner current research, May 2026 — treat as volatile; re-verify at next Symposium)
+**Tags:** risk-management, supplier-risk, AI-automation, geopolitics, cross-functional, gartner, disruption-response
+
+---
+
+### Insight 2: Chemical Logistics Strategic Playbook 2025 — Compliance Complexity and Modal Shift Accelerating
+
+**Date:** 2026-05-05
+**Source:** Rawsource.com — "Logistics in Chemical Industry: 2025 Strategic Playbook" (December 2025)
+**URL:** https://rawsource.com/logistics-in-chemical-industry-2025-playbook/
+
+**Summary:**
+Chemical logistics is undergoing structural pressure from five simultaneous forces in 2025-2026: (1) Supply chain fragmentation from geopolitical re-routing; (2) Regulatory tightening across major markets (overlapping dangerous-goods regs, labeling, export controls); (3) Escalating port congestion reducing hazmat throughput; (4) Hazmat personnel shortages making safe handling harder to maintain at scale; (5) Customer sustainability transparency demands moving from "declarations" to "demonstrated performance." The playbook notes chemical companies are shifting bulk flows to rail and short-sea freight to reduce empty runs and lower emissions. Key pressure point: documentation errors cause shipment holds — compliance is a continuous process, not a one-time checkpoint. Port infrastructure for hazardous goods remains a bottleneck with limited dangerous-goods storage zones and higher inspection frequencies.
+
+**Supply Chain Relevance (Quantix/Bulk Chemical OTR context):**
+- The hazmat personnel shortage finding directly amplifies the institutional knowledge risk already logged from Inbound Logistics 2025 — this is now a multi-source confirmed pattern
+- Rail/short-sea modal shift is a competitive pressure: if chemical shippers diversify mode, OTR tanker volume per lane could decrease — Quantix needs a view on which commodity/lane pairs are most substitutable
+- Port congestion and hazmat zone scarcity is less direct (Quantix is OTR, not port-based) but affects inbound chemical feedstock moves that generate outbound bulk pellet flows — indirect demand signal
+- Sustainability reporting pressure is arriving faster than most OTR carriers have planned for — emissions-per-load tracking is becoming a shipper RFP requirement
+
+**Knowledge Tier:** Mid-frequency (industry trade synthesis, Dec 2025 — applicable for 12-18 months)
+**Tags:** chemical-logistics, hazmat, modal-shift, regulatory-compliance, sustainability, driver-shortage, port-congestion, OTR
+
+---
+
+### Insight 3: DMAIC Applied to Delivery Performance — 50% Reduction in Failed Deliveries (Scientific Reports, Dec 2025)
+
+**Date:** 2026-05-05
+**Source:** Scientific Reports / Nature Publishing — "Enhancement in production efficiency using DMAIC methodology of six sigma" (December 22, 2025)
+**URL:** https://www.nature.com/articles/s41598-025-32861-7
+
+**Also citing:** MDPI Logistics — "Applying Lean Six Sigma DMAIC to Improve Service Logistics" (November 2025): Turkish plastics manufacturer reduced costly road transport from 13% to 5% of total freight cost using DMAIC modal optimization.
+
+**Summary:**
+Two peer-reviewed 2025 studies provide fresh quantitative validation of DMAIC applied to logistics and delivery performance:
+
+1. **Scientific Reports study**: DMAIC application achieved a 50% reduction in failed deliveries. DPMO dropped from 81,038 (2.9σ) to 39,636 (3.3σ). Demonstrates that even a 0.4σ improvement in a logistics process has material operational impact when volume is high.
+
+2. **MDPI/Turkey plastics case**: DMAIC cycle analysis of freight mode selection reduced expensive road transport from 13% to 5% of freight spend. The structured root-cause work (Analyze phase) identified that expedited road moves were masking upstream scheduling failures — fixing the schedule eliminated the premium freight trigger.
+
+**Supply Chain Relevance (Quantix/Bulk Chemical OTR context):**
+- The DPMO framework is directly applicable to on-time delivery and load completion rate tracking at Quantix — if OTD is at 90%, that's 100,000 DPMO (2.8σ). DMAIC targets are now benchmarkable against published results
+- The Turkish plastics finding is a textbook example of fixing the root cause vs. the symptom: expedited freight (expensive) was the symptom; poor scheduling (upstream) was the cause. This maps cleanly to terminal dispatch → driver assignment → pickup timing chains in bulk OTR
+- For DMAIC project selection at Quantix: terminal turn-time, load-to-depart interval, and documentation error rate are all measurable, high-volume processes where 0.3-0.5σ improvement produces significant financial and service results
+
+**Knowledge Tier:** DC tier (peer-reviewed academic, stable methodology with fresh quantitative benchmarks — cite directly)
+**Tags:** DMAIC, lean-six-sigma, process-improvement, delivery-performance, DPMO, sigma-level, OTR-transport, benchmarks, LSS-Black-Belt
+
