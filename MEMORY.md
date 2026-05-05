@@ -201,5 +201,14 @@ _Initialized: 2026-03-03_
 - Targets 2–3% freight network efficiency gains; covers battery-electric, hydrogen, advanced diesel hybrid, autonomous systems
 - **Quantix application:** use DOE-validated (not OEM-claimed) performance data for future propulsion decisions; track for bulk-specific test results
 
+### AI Decision Intelligence vs. Autonomous SC Hype (Logistics Management, April 30, 2026)
+- Real ROI in high-frequency loops: slotting (10–20% travel time ↓), safety stock right-sizing, routing/carrier selection. Competitive differentiator = orchestration (robots + AI + human workflows), not isolated pilots. Fully autonomous SC remains hype — human-in-loop still required. Quantix: assess TMS/dispatch for embedded decision support vs. reporting dashboard only.
+
+### AI Creates Coordination Bottleneck — TOC Applied to AI Architecture (SupplyChainBrain, April 30, 2026)
+- AI demand sensing reduces forecast error ~30% but overwhelms suppliers with order-change frequency — classic TOC bottleneck migration. New model: build coordination layer (data interoperability, aligned decision cycles). Quantix: AI terminal scheduling + manual dispatch = signal jam. EDI/API with top shippers is the fix. **Watch:** order-change frequency from top 10 shippers as leading indicator.
+
+### Electric Trucks — Tesla Semi Mass Production + Port Drayage Pilot (April 29–May 2, 2026)
+- Tesla Semi mass production confirmed (4680 battery, FSD, ~800km range). MDB Transportation live pilot at LA/Long Beach ports. Quantix near-term exposure: LOW. Strategic watch: Scope 3 shipper requirements; 5-year fleet plan should include EV scenario for terminal-to-terminal regional lanes. Trigger: Class 8 EV at 500+ miles in heat/heavy load = ~2–3 years out.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
