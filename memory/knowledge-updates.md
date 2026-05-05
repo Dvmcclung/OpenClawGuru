@@ -5343,3 +5343,65 @@ For Quantix (OTR bulk carrier), the multimodal competition framing is important:
 **Knowledge Tier:** Mid-frequency (industry synthesis, April 2026)
 **Tags:** chemical-logistics, sustainability, multimodal, visibility, emissions-reporting, OTR-bulk, intermodal, strategic-accounts
 
+
+---
+
+## 2026-05-05 AM — Morning Knowledge Scan
+
+### Insight 1: AI Shifts from Visibility to Decision Execution in Supply Chain Operations
+**Date:** 2026-05-05
+**Source:** Logistics Management — 2026 Technology Roundtable (logisticsmgmt.com, published late April 2026); contributors include MainePoint, Gartner (Suzie Petrusic), St. Onge Co.
+**Knowledge Tier:** Mid-frequency (industry practitioner synthesis, current cycle)
+
+Supply chain AI is entering a second phase. The first phase was about dashboards and visibility — "here's what's happening." The current phase is about embedded decision intelligence — "here's what to do, and it's already been done." Key practitioner findings:
+
+- **Measurable ROI today:** AI applied to high-frequency operational loops — inventory positioning, warehouse slotting, transportation planning, supplier performance management. These are delivering 10–20% travel time reduction in DCs through continuous slotting optimization. Predictive demand models right-sizing safety stock without sacrificing fill rates.
+- **Transportation-specific:** AI-driven routing and carrier selection improving load consolidation and reducing empty miles — directly relevant to OTR bulk.
+- **What's still hype:** "Fully autonomous supply chains." Most organizations are embedding AI into specific decision loops, not replacing end-to-end planning.
+- **Gartner framing:** Resilience now requires reducing complexity and aligning risk strategy to business priorities — not just adding more technology layers.
+- **Orchestration as differentiator:** St. Onge argues orchestration (integrating automation layers into a coherent decision fabric) is the real competitive separator — not the individual robots or AI models.
+
+**SC Relevance for Quantix:** The carrier selection and load consolidation AI use case maps directly to Quantix's dispatch and load planning operations. The "orchestration" lens is useful for how Dale is thinking about agent-in-the-loop automation — not individual AI tools, but how they work together in the workflow. The Gartner complexity-reduction point is a discipline reminder: more tech ≠ more resilience.
+
+**Tags:** AI-decision-intelligence, automation, orchestration, transportation-planning, carrier-selection, load-optimization, SC-technology, Gartner, CPIM-execution
+
+---
+
+### Insight 2: Autonomous Trucking Crosses the Commercialization Threshold — Aurora & SaaS Driver Model
+**Date:** 2026-05-05
+**Source:** Primary Ignition — "The Autonomous Trucking Catalyst" (May 3, 2026); cites Aurora Innovation, Hirschbach Motor Lines, ATA driver shortage data
+**Knowledge Tier:** High-frequency (current commercial developments — volatile; verify before citing)
+
+Autonomous long-haul trucking is moving from pilot to commercialization — slower than the hype predicted, but real. Key developments:
+
+- **Aurora Innovation:** 250,000+ driverless miles completed on I-45 (Dallas–Houston corridor) without incident. Fleet expanding from 10 trucks (Dec 2025) to 200+ by end of 2026. Revenue projected to scale ~5x this year ($3M → $14–16M).
+- **Hirschbach MOU (May 2026):** Iowa refrigerated carrier committed to 500 Aurora-Driver-powered trucks by 2027. Critical detail: Hirschbach owns the hardware, Aurora supplies the "virtual driver" via subscription — a **SaaS model for autonomous trucking**. Capital-light for Aurora, capital-efficient for the carrier. This is the business model that makes autonomous trucking financeable.
+- **Aurora Driver Gen 2:** Next-gen system scheduled for Q2 2026; projected to cut cost-per-mile from ~$1.00 to ~$0.85.
+- **Driver shortage context:** ATA projects shortfall near 1.2 million drivers by late 2020s. Autonomous trucks can run 20 hours/day vs. 11 hours under HOS regulations — effectively 1.8x the productive capacity per unit.
+- **Lanes:** Focus is I-45 (TX), I-10 (TX/NM/AZ triangle) — which overlaps Quantix terminal geography.
+
+**SC Relevance for Quantix:** The I-45 corridor is core Quantix territory. The SaaS "virtual driver" model is worth watching — if it scales to bulk/chemical trailers, it changes the competitive economics of OTR bulk. For now, bulk tanker/dry bulk autonomy lags behind dry van (regulatory complexity, hazmat handling). But the technology maturation in those corridors is a leading indicator. The driver shortage figure (1.2M) reinforces the labor risk that Quantix already faces in recruitment and retention.
+
+**Tags:** autonomous-trucking, Aurora-Innovation, driver-shortage, OTR, I-45-corridor, SaaS-logistics, commercialization, HOS, labor-risk, high-frequency
+
+---
+
+### Insight 3: Direct Procurement Disruptions Costing $16M/Year; Q1 2026 Supply Chain Risk Trends Show Cargo Theft Spike
+**Date:** 2026-05-05
+**Source:** TalkingLogistics "Above the Fold" digest (May 1, 2026); citing PRNewswire/direct procurement study and CargoNet Q1 2026 Theft Trends report
+**Knowledge Tier:** High-frequency (current data — verify primary sources before acting)
+
+Two risk signals from Q1 2026 worth tracking:
+
+**A) Direct Procurement Disruptions — $16M Annual Cost**
+A PRNewswire-cited study reports organizations are losing an average of **$16 million annually** from direct procurement disruptions. "Direct procurement" = materials and components that go into the product (vs. indirect/MRO). This is the category most sensitive to supplier concentration risk and tariff volatility — both of which have spiked in 2026 (tariff evasion alone cost U.S. companies $107B in 2025 per Dow Jones Risk Journal). The magnitude ($16M average) suggests this is now a board-level risk, not just a procurement operations issue.
+
+**B) Q1 2026 Cargo Theft Trends (CargoNet)**
+CargoNet's Q1 analysis covers supply chain theft trends — this is an ongoing concern for bulk carriers. Cargo theft is increasingly sophisticated (fictitious pickup, identity-based fraud) rather than traditional smash-and-grab. Chemical/plastics carriers face both physical theft and documentation fraud risk.
+
+**Additional signal from the digest:** Strait of Hormuz tension (crude price surge) and USMCA trade deal uncertainty with foreign automakers — both feeding into supply disruption risk modeling for Q2 2026.
+
+**SC Relevance for Quantix:** The procurement disruption figure is customer-facing intelligence — Quantix's shipper customers (chemical, petrochemical manufacturers) are dealing with direct procurement volatility. Carriers that can provide supply chain visibility data to support shipper risk management gain stickiness. The cargo theft trend is a direct operational risk for terminal security protocols.
+
+**Tags:** procurement-disruption, cargo-theft, supply-chain-risk, Q1-2026, tariff-evasion, Strait-of-Hormuz, customer-intelligence, terminal-security, high-frequency
+
