@@ -5547,3 +5547,101 @@ Real-world example: An AI agent detecting a shipment delay → cross-references 
 
 **Tags:** #agentic-AI #autonomous-execution #logistics-tech #Gartner #decision-automation #AI-agents #Quantix-relevance
 
+
+---
+
+## Knowledge Update — 2026-05-06 (Evening)
+
+### Insight 1: Cyber-Attacks on Logistics — The #1 Emerging Supply Chain Risk for 2026
+**Source:** Everstream Analytics — "2026 Annual Supply Chain Risk Report" (January 12, 2026)
+**URL:** https://www.everstream.ai/articles/are-you-prepared-for-the-supply-chain-disruptions-of-2026/
+**Knowledge Tier:** High-frequency (current threat intelligence — treat as directionally valid, verify with your own IT/security function)
+
+Everstream Analytics flags **cyber-attacks on logistics infrastructure** as the breakout risk of 2026:
+
+- **61% surge** in cyber-attacks specifically targeting logistics in 2025
+- **965% increase** in logistics-targeted cyber-attacks between 2021–2025 — not a trend, an acceleration
+- Threat actors: state-sponsored actors targeting ports, carriers, 3PLs, and maritime infrastructure as **hybrid warfare instruments**, not just financially-motivated hackers
+- GPS jamming and spoofing by Russian/Belarusian actors active in the Baltic Sea since August 2024 — affecting an economic zone handling **15% of global cargo shipping**
+- Drone and airspace violation incidents in Europe 2025 caused airport closures and border disruptions
+
+**Other top 2026 risks flagged:**
+- Aging infrastructure (ports, bridges, power grids) — McKinsey 2025 assessment highlights systemic underinvestment
+- Extreme weather (perennial, now compounding with infrastructure fragility)
+- Geopolitical disruption (tariffs, sanctions, trade route instability)
+
+**Mitigation framework recommended (Everstream):** Procurement, Planning, and Logistics response strategies segmented by time horizon — short, mid, and long-term. Cross-functional supply chain risk committee (weekly/biweekly cadence) with real-time supplier scorecards and alternative supplier recommendations baked in.
+
+**SC Relevance for Quantix:**
+- Bulk chemical carriers are not immune to cyber exposure — TMS, dispatch systems, ELD networks are attack surfaces
+- A 4,500-truck fleet with 50+ terminal touchpoints creates substantial distributed digital exposure
+- GPS spoofing is a real operational risk for OTR bulk fleets — driver safety, dispatch accuracy, and load tracking all depend on GPS integrity
+- Quantix's AI-in-the-loop systems themselves represent a new attack surface that requires hardening alongside deployment
+
+**Tags:** #cyber-risk #logistics-security #supply-chain-risk #GPS-spoofing #hybrid-warfare #Everstream #2026-risk-report #Quantix-relevance
+
+---
+
+### Insight 2: IFCL 1200:2024 — New International Standard for Hazmat Tanker Loading/Unloading Safety
+**Source:** International Foundation for Chemical Logistics (IFCL) — Standard IFCL 1200:2024 (October 27, 2024)
+**URL:** https://www.chemical-logistics.org/2024/10/26/new-standard-ifcl-12002024-introduced-to-improve-safety-in-hazardous-material-tanker-operations/
+**Knowledge Tier:** Mid-frequency (regulatory/standards body — stable, high credibility, watch for adoption timeline)
+
+The IFCL released **Standard IFCL 1200:2024**, the first consolidated international protocol specifically governing **loading and unloading of hazardous materials in tanker trucks**. Built on international ADR (European Agreement on Dangerous Goods by Road) regulations but designed for cross-regional applicability.
+
+**Four key pillars of IFCL 1200:2024:**
+
+| Pillar | What It Requires |
+|--------|----------------|
+| **Enhanced Site Safety** | Supervised, designated loading/unloading zones to limit exposure and accident risk |
+| **Defined Roles & Responsibilities** | Clear task delineation for carriers, loaders, unloaders, and fillers — accountability at every handoff |
+| **Comprehensive Risk Assessment** | Rigorous pre-handling evaluation of fire, explosion, and contamination risk scenarios |
+| **Standardized Emergency Response** | Structured response plans with scenario maps for flammable liquids, corrosives, and other common hazmat classes |
+
+**Why this matters beyond compliance:**
+- Inconsistent loading/unloading procedures are historically a primary source of chemical logistics incidents — near-misses, spills, and driver injuries
+- The "defined roles" pillar directly addresses the diffuse accountability problem that plagues carrier/shipper/receiver boundaries in chemical logistics
+- Emergency response standardization reduces response time and severity in the event of an incident at terminal or customer site
+
+**SC Relevance for Quantix:**
+- Quantix operates liquid bulk (chemicals/ISO) alongside dry bulk — the IFCL 1200:2024 standard is directly applicable to the liquid/chemical side of the fleet
+- 50+ terminals = 50+ loading/unloading risk points; standardized protocol adoption could meaningfully reduce incident frequency
+- Customers (chemical manufacturers) increasingly require carrier compliance with international standards as a contract condition
+- This is a differentiator opportunity: carriers who adopt and can demonstrate IFCL 1200:2024 compliance have a credible safety story in RFPs
+- Cross-reference with prior KB insight: auditable per-load emissions data is already becoming a contract requirement — safety certifications are following the same trajectory
+
+**Tags:** #IFCL-1200 #hazmat #tanker-safety #chemical-logistics #loading-unloading #ADR #regulatory-compliance #liquid-bulk #Quantix-relevance
+
+---
+
+### Insight 3: Green Lean Six Sigma (GLSS) — Validated Framework for Multi-Dimensional SC Performance Improvement (2026)
+**Source:** Taylor & Francis / Tandfonline — "Green Lean Six Sigma for Multidimensional Performance Improvement: A Case Study on Supply Chain Management" (March 21, 2026)
+**URL:** https://www.tandfonline.com/doi/full/10.1080/19397038.2026.2644657
+**Knowledge Tier:** Mid-frequency (peer-reviewed academic, 2026 — empirically validated, framework is DC-tier stable; specific results are case-specific)
+
+A 2026 peer-reviewed study published in a Taylor & Francis journal provides one of the first empirically validated applications of **Green Lean Six Sigma (GLSS)** in supply chain management. GLSS extends traditional LSS by integrating environmental performance metrics alongside operational and quality metrics.
+
+**Framework structure (GLSS DMAIC adaptation):**
+1. **Define** — map process + environmental impact simultaneously
+2. **Measure** — baseline operational KPIs *and* carbon/waste/energy metrics
+3. **Analyze** — root cause analysis for operational defects AND environmental waste streams
+4. **Improve** — select solutions that optimize both operational efficiency and environmental footprint
+5. **Control** — error-proof (poka-yoke) solutions; sustain with dual scorecards (ops + green)
+
+**Key finding from the comparative review (2020–2025 studies):**
+- Despite growing academic interest since 2020, few GLSS frameworks had been empirically validated at the supply chain level before this study
+- The DMAIC structure remains intact — GLSS is not a replacement but an augmentation; the operational rigor is unchanged
+- "Multidimensional performance improvement" = simultaneous gains in cost, quality, delivery, and environmental metrics — not trade-offs
+
+**Separate supporting finding (LSS in EV parts manufacturing, ScienceDirect, Aug 2025):**
+- LSS applied to sourcing process → improved supplier selection, strengthened performance monitoring, **reduced overall freight costs**
+- Validates that LSS is not limited to manufacturing floor application — sourcing and logistics are legitimate and productive LSS deployment zones
+
+**SC Relevance for Quantix:**
+- The sustainability pressure in chemical logistics is real (prior KB entry: auditable per-load emissions data now a contract requirement)
+- GLSS gives Quantix a structured framework to run improvement projects that deliver both operational gains AND defensible sustainability metrics — simultaneously satisfying PE owner pressure (cost/margin) and customer pressure (ESG)
+- DMAIC structure Dale already knows; GLSS is a lateral extension, not a retraining exercise
+- For terminal operations: a GLSS kaizen on loading dwell time, for example, could simultaneously reduce detention costs AND idle engine emissions — two value streams, one project
+
+**Tags:** #GLSS #Green-Lean-Six-Sigma #DMAIC #sustainability #ESG #process-improvement #supply-chain #LSS #Quantix-relevance #peer-reviewed #2026
+
