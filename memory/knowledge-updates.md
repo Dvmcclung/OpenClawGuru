@@ -5472,3 +5472,78 @@ Two peer-reviewed 2025 studies provide fresh quantitative validation of DMAIC ap
 **Knowledge Tier:** DC tier (peer-reviewed academic, stable methodology with fresh quantitative benchmarks — cite directly)
 **Tags:** DMAIC, lean-six-sigma, process-improvement, delivery-performance, DPMO, sigma-level, OTR-transport, benchmarks, LSS-Black-Belt
 
+
+---
+
+## 2026-05-06 AM — Morning Knowledge Scan
+
+### Insight 1: AI Shifts from Visibility to Execution — "Decision Intelligence" Is the New Standard
+**Source:** Logistics Management — "2026 Technology Roundtable: The Next Phase of Supply Chain Technology" (Apr 30, 2026)
+**URL:** https://www.logisticsmgmt.com/article/2026_technology_roundtable_the_next_phase_of_supply_chain_technology
+**Knowledge Tier:** High-frequency (industry trade press, 2026 — treat as current signal)
+
+For years SC tech investment was justified by "visibility." In 2026, the bar has moved: organizations are now expected to **act** on data, not just see it. The industry consensus from this roundtable:
+
+- AI is moving from analytics dashboards to **embedded decision support** in daily operational workflows
+- Highest ROI applications: inventory positioning, warehouse slotting, transportation planning, supplier performance management
+- **Slotting optimization** models reduce warehouse travel time 10–20%
+- **Predictive demand models** right-size safety stock without sacrificing fill rates
+- **AI-driven routing and carrier selection** improve load consolidation and cut empty miles
+- Where hype still outpaces reality: fully autonomous supply chains — most organizations are in hybrid human+AI decision models
+- **Orchestration** (not just automation) is the real differentiator — making robots, WMS, TMS, and humans work as a unified system
+- Robotics is moving beyond pilots into integration/scalability/workforce readiness phase
+
+**Application for Quantix:** The shift from visibility to execution is directly applicable. Quantix has 4,500+ trucks and 50+ terminals generating enormous operational data. The ROI opportunity is in embedding AI decision loops into dispatch, load planning, and terminal ops — not just dashboards. Carrier selection and routing optimization are proven, deployable today.
+
+**Tags:** #AI #decision-intelligence #robotics #orchestration #warehouse #transportation-planning #2026-roundtable
+
+---
+
+### Insight 2: Trucking Market Enters Supply-Driven Recovery — EPA 2027 Creating Urgency
+**Source:** ACT Research — "2026 Trucking Industry Forecast & Market Outlook" (Updated Apr 30, 2026)
+**URL:** https://www.actresearch.net/resources/blog/trucking-industry-forecast-for-2026
+**Knowledge Tier:** High-frequency (market data, volatile — validate before using in financial planning)
+
+ACT Research characterizes 2026 as a **supply-driven transition year** in trucking — not a demand surge, but a structural tightening:
+
+- **Spot truckload rates** above prior-year levels; contract pricing beginning to respond
+- Carrier exits + slower fleet expansion + growing **driver constraints** = capacity tightening
+- Class 8 demand strengthening as fleets respond to better freight conditions AND upcoming **EPA 2027 emissions requirements**
+- Medium-duty markets softer (more tied to housing/small-business activity)
+- **C.H. Robinson revised 2026 truckload volume growth outlook from 6% → ~8% YoY** (half of that increase front-loaded in H1)
+- Recovery described as healthier market discipline being restored rather than boom conditions
+
+**EPA 2027 strategic signal:** Fleets are reassessing purchase timing and replacement schedules now, creating a near-term window of elevated capex activity before the new emissions standard locks in cost increases.
+
+**Application for Quantix:** As a 4,500-truck fleet, Quantix is directly exposed to these market dynamics. If contract rates are firming, now is the time to negotiate multi-year rate structures before the market fully re-prices. EPA 2027 also warrants a fleet renewal strategy review — particularly for the bulk chemical portion of the fleet where equipment specs are more constrained.
+
+**Tags:** #trucking #freight-market #capacity #EPA-2027 #contract-rates #Class-8 #fleet-planning #2026-outlook
+
+---
+
+### Insight 3: Agentic AI in Logistics — From Copilot to Autonomous Execution
+**Source:** Ampcome — "AI Agents in Logistics & Supply Chain: Use Cases & ROI 2026" (May 5, 2026)
+**URL:** https://www.ampcome.com/post/ai-agents-in-logistics-and-supply-chain
+**Knowledge Tier:** High-frequency (vendor/analyst synthesis, 2026 — directionally strong, some promotional framing)
+
+The distinction being drawn in 2026 between **AI assistants** and **AI agents** is operationally important:
+
+| Tool Type | Output | Human in loop? |
+|-----------|--------|----------------|
+| Predictive analytics | Insight (what will happen) | Yes — human decides |
+| RPA | Task execution (fixed rules) | Yes — breaks on exceptions |
+| AI Copilot | Suggestion/draft | Yes — human acts |
+| **AI Agent** | **Autonomous action + exception escalation** | **Only for out-of-scope decisions** |
+
+Key market data:
+- Agentic AI in logistics/SC estimated at **$8.67B in 2025 → $16.84B by 2030**
+- Broader AI-in-SC market: **$13.93B (2025) → $50B+ by 2032**
+- **Gartner projects** that by 2030, **50% of cross-functional SC management solutions** will use intelligent agents to automate decisions (up from <5% in 2025)
+- The gap between data and action is "still measured in days — sometimes weeks" in most enterprises — AI agents close it
+
+Real-world example: An AI agent detecting a shipment delay → cross-references alternative carriers → re-routes the order → updates WMS → notifies customer → escalates to human only if exception falls outside governance boundaries. Zero human involvement for standard exceptions.
+
+**Application for Quantix:** This is directly aligned with Quantix's AI-in-the-loop build thesis. The practical framing — agent vs. copilot vs. RPA — is worth internalizing as Quantix evaluates technology investments. Dale's agentic build is ahead of the 5% early-mover baseline. The 2030 inflection (50% adoption) suggests ~4 years before this becomes table stakes, meaning first-mover advantage is still available but the window is closing.
+
+**Tags:** #agentic-AI #autonomous-execution #logistics-tech #Gartner #decision-automation #AI-agents #Quantix-relevance
+
