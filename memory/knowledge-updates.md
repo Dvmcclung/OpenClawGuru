@@ -5645,3 +5645,36 @@ A 2026 peer-reviewed study published in a Taylor & Francis journal provides one 
 
 **Tags:** #GLSS #Green-Lean-Six-Sigma #DMAIC #sustainability #ESG #process-improvement #supply-chain #LSS #Quantix-relevance #peer-reviewed #2026
 
+
+---
+
+## 2026-05-07 — Evening Update (PM Cron)
+
+### Insight 1: APS Implementation in Chemical SC — Arxada/EY Case Study
+**Date:** 2026-05-07
+**Source:** EY Consulting Case Studies — https://www.ey.com/en_us/insights/consulting/ey-consulting-case-studies/arxada-chemical-supply-chain-planning
+**Summary:** Arxada (specialty chemicals, 24 plants, 100+ countries) replaced manual planning via spreadsheets and Word documents with an OMP-powered Advanced Planning System (APS) deployed by EY in record time. Key pain points addressed: demand volatility, overproduction penalties, shelf-life degradation, and capacity firefighting. APS features leveraged include lot traceability and shelf-life management — both critical in chemical environments. The EY "turnkey" approach accelerated value realization vs. traditional multi-year APS rollouts.
+**SC Relevance:** Directly applicable to bulk/chemical carrier context. Quantix operates a multi-terminal, multi-commodity environment with similar traceability and segregation constraints. The case validates that APS (with lot traceability) is achievable without a 3-5 year implementation runway if structured correctly. Key APICS alignment: Demand Management, Production Planning, Inventory Management (CPIM Module 3/4).
+**Knowledge Tier:** Mid-frequency (case study synthesis, published March 2026)
+**Tags:** process-improvement, APS, chemical-sc, inventory-management, lot-traceability, implementation
+
+---
+
+### Insight 2: Sustainable Chemical Logistics — Modal Shift and Early Collaboration (2026)
+**Date:** 2026-05-07
+**Source:** Global Trade Magazine — https://www.globaltrademag.com/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/
+**Summary:** Chemical logistics providers are building sustainability into operations via four levers: (1) Early collaboration — logistics providers engaged at project design phase, not after. (2) Modal shift — intermodal/multimodal solutions (rail, barge, short sea) reduce truck dependency, lower carbon footprint, and improve fuel price resilience. Barge transport specifically cited as superior sustainability footprint for heavy-duty bulk. (3) Visibility — shipment-level tracking enables fine-grained adjustments and auditable emissions reporting now required by regulators. (4) Equipment modernization — newer assets generate lower emissions and lower lifecycle costs simultaneously. Government mandates now require auditable emissions data, pushing chemical shippers to demand accountability from carriers.
+**SC Relevance:** High relevance for Quantix. The shift away from truck-only toward intermodal for bulk chemicals maps directly to the Quantix fleet mix (dry bulk pellets + liquid/ISO). The regulatory push for auditable emissions data will hit Quantix customers — establishing intermodal capability and emissions visibility is becoming a competitive requirement, not a nice-to-have. APICS alignment: Transportation Management, Network Design (CSCP Module 2).
+**Knowledge Tier:** Mid-frequency (published April 2026)
+**Tags:** bulk-chemical-logistics, intermodal, sustainability, emissions, modal-shift, carrier-strategy, regulatory
+
+---
+
+### Insight 3: Gartner-Surfaced Supplier Risk Management Shifts for 2026
+**Date:** 2026-05-07
+**Source:** Exiger / Gartner Symposium Preview — https://www.exiger.com/perspectives/supplier-risk-management-shifts-2026/
+**Summary:** Gartner predicts 60% of supply chain disruptions will be resolved without human intervention by 2031 as AI enables autonomous SC operations. The 2026 Symposium theme: AI, visibility, resilience, and faster decisions under pressure. Key structural shift identified: supplier risk management is fragmented across silos (procurement, compliance, logistics, finance) — each sees part of the picture, none sees the full risk. This fragmentation is now a competitive liability as tariff changes cascade across sourcing → compliance → cost simultaneously. Geopolitics is now a first-order input to supplier selection and routing, not background context. The prescription: integrate risk signals across functions, move from alerts to coordinated action, and build AI-enabled visibility that connects threads (tariff → sourcing → compliance → cost) in near-real-time.
+**SC Relevance:** Directly relevant to Quantix's carrier/shipper risk exposure. The fragmented-silo problem maps to how most carriers manage compliance, lane risk, and customer credit risk independently. For Quantix: the integration of regulatory risk (HazMat, EPA), geopolitical lane risk (chemical origin country exposure), and customer financial risk into a unified view is a maturity gap worth closing. APICS/CSCP alignment: Supply Chain Risk Management, Supplier Relationship Management. Gartner Tier: DC-tier principle framing (verified against Gartner Symposium agenda).
+**Knowledge Tier:** DC tier (Gartner framework) with mid-frequency synthesis layer
+**Tags:** risk-management, supplier-risk, AI, geopolitics, tariffs, gartner, visibility, resilience, SCRM
+
