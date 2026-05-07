@@ -233,5 +233,20 @@ _Initialized: 2026-03-03_
 - Freight lanes fragmenting as sourcing hybridizes — new Mexico/SE-Asia-adjacent corridor opportunities
 - Carriers with strong visibility tools can offer longer-term commitments as differentiator
 
+### DMAIC Delivery Performance — Quantitative Benchmarks (Scientific Reports, Dec 2025)
+- Peer-reviewed DMAIC case: 50% reduction in failed deliveries; DPMO fell from 81,038 (2.9σ) to 39,636 (3.3σ). Even 0.4σ improvement is material at bulk carrier volumes.
+- Turkish plastics DMAIC case: root cause on expedited freight spend revealed upstream scheduling failures as cause; fixing schedule eliminated premium freight trigger (13% → 5% of freight cost). Classic symptom vs. root cause.
+- Quantix application: OTD rate, terminal turn-time, load-to-depart interval, and documentation error rate are DMAIC-ready. DPMO framework makes performance benchmarkable and auditable.
+
+### EPA 2027 Emissions Standard — Fleet Renewal Timing Signal (ACT Research, April 2026)
+- EPA 2027 Class 8 emissions standard is creating elevated near-term capex activity: fleets reassessing purchase timing and replacement schedules NOW before new standard locks in cost increases.
+- ACT Research 2026: supply-driven capacity tightening (carrier exits + driver constraints + slower fleet expansion); C.H. Robinson revised 2026 TL volume growth to ~8% YoY (half front-loaded H1).
+- Quantix action: bulk chemical equipment specs are more constrained — fleet renewal strategy review needed with EPA 2027 as hard planning horizon. Window for pre-standard procurement is open now.
+
+### Agentic AI in Logistics — Market Size + Gartner 2030 Inflection (May 2026)
+- Agentic AI in logistics: $8.67B (2025) → $16.84B (2030). Broader AI-in-SC: $13.93B (2025) → $50B+ (2032).
+- Gartner: by 2030, 50% of cross-functional SC management solutions will use intelligent agents to automate decisions (up from <5% in 2025). ~4-year window before table stakes.
+- Practical framing: AI agent vs. copilot vs. RPA distinction is operationally important. Agents handle full decision-to-action loops with human escalation only for out-of-scope exceptions. Dale's Quantix build is ahead of the 5% early-mover baseline.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
