@@ -5678,3 +5678,36 @@ A 2026 peer-reviewed study published in a Taylor & Francis journal provides one 
 **Knowledge Tier:** DC tier (Gartner framework) with mid-frequency synthesis layer
 **Tags:** risk-management, supplier-risk, AI, geopolitics, tariffs, gartner, visibility, resilience, SCRM
 
+
+---
+
+## 2026-05-08 — Morning Update (AM Cron)
+
+### Insight 1: AI Control Towers — From Dashboards to Autonomous Decision-Execution
+**Date:** 2026-05-08
+**Source:** Robotics & Automation News — "The Rise of the Autonomous Network Control Tower" (May 7, 2026) — https://roboticsandautomationnews.com/2026/05/07/the-rise-of-the-autonomous-network-control-tower-how-ai-is-becoming-the-supply-chains-central-nervous-system/101282/
+**Summary:** The logistics industry is crossing a threshold from visibility-driven control towers to *autonomous* network control towers. Traditional TMS systems capture and display — humans make decisions. New AI-native platforms (e.g., Libera) use a Think-Decide-Act loop: continuously process real-time data, identify potential failures, and automatically execute corrective actions without human trigger. Vendors are reporting 30% reduction in operational inefficiencies, 35% faster decision cycles, and 40% reduction in human error. The key architectural shift: ML-based recommendations → predictive/prescriptive analytics → autonomous execution. The system compounds intelligence over time rather than resetting per exception.
+**SC Relevance:** This is the 2026 articulation of what Gartner has been calling "autonomous supply chain" since 2022, now arriving in commercial TMS products. For Quantix: the 4,500-truck, 50-terminal scale is exactly the environment where human-decision-loop TMS breaks down. At that volume, exception management becomes noise. An AI-native dispatch/routing layer that *closes the loop* — not just surfaces alerts — is the architecture worth evaluating. Cross-references hive memory on WiseTech/CargoWise platform consolidation and the API-first imperative. APICS alignment: Transportation Management, Control Theory (CPIM/CSCP execution planning modules).
+**Knowledge Tier:** High-frequency (commercial product claim, May 2026) — validate ROI figures independently before citing
+**Tags:** #TMS #AI #control-tower #autonomous-sc #decision-intelligence #logistics-technology #Quantix-relevance #2026
+
+---
+
+### Insight 2: Aurora Innovation Goes Fully Driverless — Dallas-Houston Corridor Live
+**Date:** 2026-05-08
+**Source:** Highways Today — "Autonomous Freight Reshaping America's Food Supply Chain" (May 7, 2026) — https://highways.today/2026/05/07/autonomous-freight-food-supply-chain/
+**Summary:** Aurora Innovation has launched fully driverless (SAE Level 4) commercial freight operations for McLane Company (Berkshire Hathaway) on the Dallas–Houston corridor. Key facts: Aurora logged 280,000+ supervised autonomous miles and 1,400+ loads during testing. The operational model targets *middle-mile* long-haul; human drivers retain last-mile delivery. Texas is the leading deployment state due to favorable regulations, high freight density, and highway infrastructure. The partnership focuses on food distribution freight — not chemical — but the same corridor infrastructure directly overlaps Quantix's Texas operations. Aurora's investor concern (cash burn vs. expansion velocity) reflects the capital-intensity of the autonomy ramp.
+**SC Relevance:** Strategic watch item for Quantix. The Aurora-McLane deployment validates that SAE Level 4 middle-mile autonomy is operational (not just pilot) in Texas — the same geography where Quantix runs bulk chemical/pellet loads. Timeline implication: human-driver cost structures in the Dallas–Houston corridor could face pricing pressure within 3–5 years as autonomous capacity scales. APICS alignment: Transportation Mode Selection, Network Design. Quantix strategic framing: bulk chemical and hazmat loads will face additional regulatory hurdles for autonomous operation (DOT/PHMSA classification), creating a window where traditional carriers hold advantage — but that window has a clock.
+**Knowledge Tier:** High-frequency (live operational news, May 7, 2026) — watch for regulatory updates on autonomous HazMat transport
+**Tags:** #autonomous-trucking #Aurora #SAE-Level-4 #Texas #middle-mile #transportation-disruption #driverless #Quantix-watch #2026
+
+---
+
+### Insight 3: SC Technology in 2026 — From Insight to Execution Is the New Battleground
+**Date:** 2026-05-08
+**Source:** Logistics Management — "2026 Technology Roundtable: The Next Phase of Supply Chain Technology" (May 2026) — https://www.logisticsmgmt.com/article/2026_technology_roundtable_the_next_phase_of_supply_chain_technology
+**Summary:** Logistics Management's 2026 expert roundtable (MainePoint, Gartner, St. Onge Co.) converges on a clear theme: the supply chain technology conversation has shifted from *visibility* to *operationalization*. Where hype previously centered on dashboards and real-time data, the 2026 ROI discussion centers on workflow-embedded AI that closes decision loops. Measurable ROI today: (1) slotting optimization — 10–20% warehouse travel time reduction; (2) predictive demand modeling — right-sized safety stock without fill-rate sacrifice; (3) AI-driven routing/carrier selection — improved load consolidation and fewer empty miles. Where hype still exceeds reality: fully autonomous supply chains. Gartner's Suzie Petrusic adds: resilience depends on reducing complexity and aligning risk strategy to business priorities — not just adding more sensors. St. Onge's Howard Turner: orchestration (not individual automation) is the real differentiator as robotics moves from pilots to production.
+**SC Relevance:** This is the clearest 2026 articulation of the "pilot-to-production" maturity gap. For Quantix: the AI-driven routing and carrier selection ROI case (empty miles reduction, load consolidation) maps directly to dispatch optimization at scale. The "orchestration over individual automation" principle from St. Onge is a strong design guideline for any Quantix technology stack build — avoid point solutions, architect for integrated execution. APICS alignment: CSCP Network Design, Transportation Planning. Gartner Tier: DC-tier principle (operationalization imperative) with mid-frequency synthesis.
+**Knowledge Tier:** Mid-frequency (expert synthesis, May 2026, Logistics Management)
+**Tags:** #AI-ROI #decision-intelligence #logistics-technology #orchestration #robotics #TMS #routing-optimization #Quantix-relevance #gartner #2026
+
