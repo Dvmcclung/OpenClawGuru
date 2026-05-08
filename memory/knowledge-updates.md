@@ -5711,3 +5711,63 @@ A 2026 peer-reviewed study published in a Taylor & Francis journal provides one 
 **Knowledge Tier:** Mid-frequency (expert synthesis, May 2026, Logistics Management)
 **Tags:** #AI-ROI #decision-intelligence #logistics-technology #orchestration #robotics #TMS #routing-optimization #Quantix-relevance #gartner #2026
 
+
+---
+
+## 2026-05-08 PM — Evening Knowledge Scan
+
+### Insight 1: Tariff Volatility Has Permanently Reshaped Supply Chain Risk Posture (2026)
+**Source:** Thomson Reuters Global Trade Report 2026 (n=225 senior trade professionals, multi-region)
+**Knowledge Tier:** High-frequency (current market intelligence, volatile — flag for refresh in 90 days)
+**Tags:** risk-management, tariffs, trade-disruption, network-redesign, geopolitics
+
+2026 marks a structural inflection point: supply chain management is now cited as the #1 strategic priority by 68% of trade professionals — nearly double the 35% from just one year prior. Key findings:
+
+- **72% of trade professionals** identified U.S. tariff volatility as the most impactful regulatory change (up from 41% in 2025) — this is no longer cyclical noise, it's a persistent operating condition
+- **39% of companies** are now absorbing tariff costs rather than passing them to customers (up from 13% prior year) — margin compression is accelerating
+- **76% believe** current tariff structures are a permanent regime lasting at least 4 more years — "just-in-case" inventory buffers and network rearchitecting are the dominant responses
+- "Trade risk councils" and cross-functional working groups are emerging organically — supply chain is being elevated from cost center to strategic partner
+
+**Application for Quantix:** Chemical shippers facing tariff-driven feedstock cost pressure will seek to rationalize carrier relationships and lock in capacity commitments. Quantix should position contract structures to capture volume consolidation from shippers reducing spot exposure. The "network redesign" trend means terminals near reshored/nearshored chemical production nodes will see demand shifts — worth monitoring Gulf Coast and Midwest terminal utilization.
+
+**APICS linkage:** CSCP Module 2 — Supply Chain Risk Management; Strategic Sourcing under uncertainty.
+
+---
+
+### Insight 2: Lean Six Sigma Applied to Supplier Selection Reduces Freight Costs in Complex Supply Chains (2025 Peer Review)
+**Source:** ScienceDirect / Manufacturing Letters — "Lean Six Sigma and Sustainable Supply Chain Management: A Case Study in Electric Vehicle Parts Manufacturing" (Aug 2025)
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis; findings generalizable)
+**Tags:** process-improvement, lean-six-sigma, supplier-management, freight-cost, DMAIC
+
+A 2025 peer-reviewed case study confirms that applying LSS/DMAIC methodology to the *sourcing process itself* — not just internal operations — yields measurable results:
+
+- **DMAIC applied to supplier selection** established a thorough, lean sourcing process with structured performance monitoring criteria
+- **Freight cost reduction** was a direct output — not just quality improvement — validating LSS as a cost tool in the SC network, not just the plant
+- **Sustainability integration**: LSS improved supplier compliance with environmental and ethical sourcing standards, an increasingly mandatory capability
+- The case demonstrated that Lean principles (eliminate waste, reduce variability) translate directly to supplier evaluation workflows
+
+**Application for Quantix:** Quantix's carrier qualification process and subhauler onboarding likely has significant DMAIC opportunity — define carrier performance criteria, measure current qualification cycle time, analyze defects (late loads, cargo incidents), improve screening, control with SPC-style dashboards. This is a tractable Black Belt project scope.
+
+**APICS linkage:** CPIM Part 2 — Managing Supplier Relationships; Lean Six Sigma DMAIC Roadmap (Define → Measure → Analyze → Improve → Control).
+
+---
+
+### Insight 3: Prior Cargo Contamination Risk and Load Optimization Are the Two Highest-Leverage Operational Levers in Bulk Tanker Logistics (2024)
+**Source:** Wicker Park Logistics — "Bulk Tanker Shipping of Chemicals, Lubricants, and Fuels: Best Practices" (Oct 2024); American Chemical Council 2024–2025 Outlook
+**Knowledge Tier:** Mid-frequency (practitioner synthesis; commodity market data is high-frequency)
+**Tags:** bulk-chemical-logistics, tanker-operations, prior-cargo, load-optimization, safety, OTR
+
+Two operational levers dominate bulk tanker efficiency and safety in OTR chemical/lubricant transport:
+
+1. **Prior cargo contamination control**: The China cooking oil/fuel tanker incident (2024) highlighted that inadequate prior cargo protocols create both quality failure and catastrophic reputational risk. Best practice requires: documented prior cargo history per tank, chemical compatibility matrices between prior and current load, and carrier certification of tank cleaning to spec. This is not just a compliance checkbox — it's a load quality control gate.
+
+2. **Load optimization**: Efficiently loading tankers maximizes cargo space, reducing trips and lowering unit transportation cost. Proper load distribution also minimizes rollover and accident risk — making load planning simultaneously a cost and safety lever.
+
+Market context: ACC projects 2.2% growth in domestic chemical output (2024) and 1.9% in 2025, with Gulf Coast and Midwest leading. Demand growth without proportional fleet growth means asset utilization discipline matters more, not less.
+
+**Application for Quantix:** Both levers have direct application:
+- **Prior cargo protocol**: Standardize tank cleaning certification documentation across all 4,500+ units; build into dispatch workflow so prior cargo is auto-checked against customer product spec before assignment
+- **Load optimization**: Bulk pellet loads (dry) may have fill-rate variance — quantify current average fill % per load type and target improvement; every 1% fill rate gain across the fleet has significant revenue impact at Quantix's scale
+
+**APICS linkage:** CPIM Part 1 — Operations Planning; Lean waste elimination (underutilization of assets = Transportation waste in TIM WOODS framework).
+
