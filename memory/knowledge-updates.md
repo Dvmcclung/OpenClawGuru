@@ -5771,3 +5771,68 @@ Market context: ACC projects 2.2% growth in domestic chemical output (2024) and 
 
 **APICS linkage:** CPIM Part 1 — Operations Planning; Lean waste elimination (underutilization of assets = Transportation waste in TIM WOODS framework).
 
+
+---
+
+## 2026-05-11 AM — Morning Knowledge Scan
+
+### Insight 1: Autonomous Middle-Mile Trucking Goes Commercial — McLane/Aurora in Texas
+**Source:** CNBC — "Berkshire-owned distribution giant to deploy driverless big rigs across U.S. Sun Belt" (May 6, 2026)
+**Knowledge Tier:** High-frequency (current industry development — monitor for updates)
+
+McLane (Berkshire Hathaway subsidiary, one of the largest U.S. distributors) is expanding its autonomous trucking pilot with Aurora Innovation from a supervised prototype into **approved driverless operations** between Dallas and Houston, with new Sun Belt routes planned by year-end. Key facts:
+- 280,000 autonomous miles logged since 2023 pilot launch; 1,400 loads delivered
+- Operational model: Aurora Driver handles the "middle mile" (distribution center to last-mile handoff point); human drivers retain last-mile delivery
+- Two round-trips daily, 7 days/week on the Dallas–Houston corridor
+- McLane: 80+ DCs, ~25,000 employees, moves perishables to restaurant brands nationwide
+
+This is the first major commercial-scale deployment of driverless middle-mile trucking by a Fortune 100 subsidiary — a signal that the technology has crossed from pilot to operational.
+
+**Application for Quantix:** The middle-mile autonomy model maps directly to bulk carrier terminal-to-terminal movements. Quantix's Texas hub density (The Woodlands HQ, Sun Belt routes) puts it in the same corridor as McLane/Aurora operations. Watch for: (1) insurance/regulatory frameworks being established that bulk carriers can leverage, (2) whether chemical/hazmat classification creates additional certification barriers for autonomous operation, (3) driver workforce planning implications if middle-mile automation accelerates.
+
+**APICS linkage:** CPIM — Transportation mode selection and cost trade-offs; capacity planning under technology disruption scenarios.
+
+**Tags:** autonomous-trucking | middle-mile | Texas | Aurora-Innovation | McLane | workforce-implications | bulk-carrier-relevance
+
+---
+
+### Insight 2: May 2026 Freight Market — Stacked Disruptions Driving Truckload Rate Pressure
+**Source:** C.H. Robinson Edge Report — "Freight Market Update: May 2026" (May 7, 2026)
+**Knowledge Tier:** High-frequency (current market conditions — data will shift monthly)
+
+The May 2026 truckload market faces converging disruptions simultaneously:
+- **Mother's Day volume surge** + **Roadcheck Week** (driver inspection compliance crackdown) + **produce season** all hitting simultaneously
+- Capacity already tight entering the period; rate pressure and service risk elevated into early summer
+- **LTL:** Demand recovering from Q1 2026 lows; carriers reporting stronger shipment trends and firm pricing discipline
+- **Ocean:** Broadly stable but **blank sailings, SE Asia hub congestion, and Middle East vessel displacement** reshaping carrier networks; departure reliability degrading
+- **Intermodal:** Gaining share — high diesel prices, new regulations, and truckload capacity constraints pushing shippers toward rail
+- **Macro:** Supplier deliveries slowed for 5th consecutive month; diesel/oil costs rising; tariff uncertainty persisting
+
+**Application for Quantix:** Truckload rate pressure in Q2 2026 is real. For bulk chemical carriers, Roadcheck Week is operationally significant — HazMat placarding, brake inspection compliance, and driver HOS logs get heightened scrutiny. Quantix terminal managers should confirm pre-inspection readiness protocols are active. The intermodal shift trend bears watching: if shipper customers route more volume to rail, that affects spot bulk trucking demand.
+
+**APICS linkage:** CPIM — Logistics capacity planning; transportation mode trade-off analysis; supply chain risk from stacked disruption events.
+
+**Tags:** truckload-rates | Roadcheck-Week | capacity | tariffs | intermodal-shift | May-2026 | bulk-trucking-ops | HazMat-compliance
+
+---
+
+### Insight 3: AI Supply Chain Software Consolidating — Augmentation vs. Replacement Debate Clarifying
+**Source:** Viewpoint Analysis — "Supply Chain AI Software Options 2026" (May 7, 2026)
+**Knowledge Tier:** Mid-frequency (analyst synthesis — stable for 6–12 months)
+
+The 2026 SC AI software landscape is bifurcating into two camps:
+1. **Platform replacers** — full-suite AI-native planning platforms (e.g., E2open, Infor Nexus for network visibility/collaboration)
+2. **Augmenters** — AI decision layers that sit on top of existing systems without replacing them (e.g., Aera Technology's "decision intelligence" model)
+
+Key analyst guidance for buyers in 2026:
+- **Problem specificity before platform selection** — the market is broad; right tool depends entirely on primary use case
+- The gap between AI-powered vs. legacy-tools companies is widening measurably in 2026
+- Legacy APS/spreadsheet-driven planning cycles are now a competitive liability at scale
+- Shift: signal-to-decision time compressing from weeks to minutes in AI-native environments
+
+**Application for Quantix:** The augmenter model (Aera-style decision intelligence layered on existing TMS/ERP) is likely the more practical near-term path for a carrier of Quantix's complexity — 4,500 trucks, 50+ terminals, existing dispatch/TMS infrastructure. A full platform replacement is high-risk and long-cycle. The key diagnostic: where is Quantix's current signal-to-decision latency on load planning, driver assignment, and equipment repositioning? If it's measured in hours or days, that's the target for AI augmentation.
+
+**APICS linkage:** CPIM — Information systems in supply chain; S&OP technology enablement; continuous improvement via technology (Lean: eliminate wait/motion waste in decision loops).
+
+**Tags:** supply-chain-AI | decision-intelligence | augmentation | Aera | platform-selection | TMS | Quantix-tech-strategy | planning-systems
+
