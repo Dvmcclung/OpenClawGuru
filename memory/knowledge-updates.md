@@ -5836,3 +5836,69 @@ Key analyst guidance for buyers in 2026:
 
 **Tags:** supply-chain-AI | decision-intelligence | augmentation | Aera | platform-selection | TMS | Quantix-tech-strategy | planning-systems
 
+
+---
+
+## 2026-05-11 PM — Evening Knowledge Scan
+
+### Insight 1: Third-Party Failure Is Now the #1 Supply Chain Disruption Source
+**Source:** Thomson Reuters — "Top 10 Supply Chain Risk Mitigation Strategies" (citing BCI Horizon Scan Report 2025 + BCI Continuity & Resilience Report 2025)
+**URL:** https://tax.thomsonreuters.com/en/insights/articles/supply-chain-risk-management-strategies
+**Knowledge Tier:** High-frequency (industry report synthesis, 2025 data — flag as volatile)
+**Tags:** risk-management, supplier-risk, business-continuity, third-party, compliance
+
+According to the BCI Horizon Scan Report 2025, third-party failures are now the single biggest cause of supply chain disruption — accounting for 9.3% of all incidents and ranking in the top five disruptive events tracked. Despite this:
+- Only **48% of organizations** assess and mitigate supply chain disruption as part of their business continuity programs (BCI Continuity & Resilience Report 2025)
+- That means >50% of companies have significant blind spots in their SCRM
+- The 2026 Global Trade Report (Thomson Reuters) found **54% of respondents** already use automation for supply chain visibility — accelerating adoption curve
+
+**Key shift in practice:** Supplier due diligence has moved from self-attestation ("Yes, we have a plan") to evidence-based validation: documented BCP, proof of testing, audit trails. Smaller legacy vendors are struggling to meet this bar.
+
+**Application for Quantix:** Quantix's carrier/vendor base spans 4,500+ trucks and 50+ terminals. Third-party risk is structural. Action items:
+1. Segment the vendor base by criticality — apply SCRM rigor to Tier 1 first
+2. Formalize BCP review requirements for key terminal operators and specialized sub-carriers
+3. Automate monitoring for key compliance indicators (HazMat certification expiry, insurance lapse, DOT audit triggers)
+
+---
+
+### Insight 2: Chemical Logistics Decarbonization Is Forcing End-to-End Coordination — and Exposing Fragmentation Gaps
+**Source:** The Maritime Executive — "Digital Collaboration in Chemical Logistics" (Feb 21, 2026)
+**URL:** https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+**Authors:** Mikael Lind, Wolfgang Lehmacher, Jeremy Bentham et al. (Global Maritime Forum 2025 synthesis)
+**Knowledge Tier:** Mid-frequency (research synthesis, published 2026 — note compilation date)
+**Tags:** chemical-logistics, bulk-liquid, decarbonization, coordination, digital-collaboration, multimodal, just-in-time
+
+Key finding: Chemical logistics is well-optimized *within* individual companies (scheduling tools, terminal standards, digital production management) but fragmented *between* organizations. That inter-organizational gap is now the primary bottleneck.
+
+In a decarbonizing system:
+- Low-carbon fuels (methanol, ammonia, e-fuels, advanced biofuels) will move through existing chemical logistics infrastructure — but they're **contamination-sensitive, hazardous, and sequencing-critical**
+- Small timing/readiness mismatches between ship, terminal, and inland transport trigger cascading replanning (berth reassignment, emergency storage, spot chartering)
+- The proposed fix: **corridor-based coordination** — multi-actor digital platforms that enable sequencing optimization without requiring actors to disclose commercially sensitive data
+
+**Application for Quantix (OTR bulk context):** The coordination fragmentation problem maps directly to OTR bulk. Terminal-to-terminal handoffs, load sequencing across 50+ locations, and multi-carrier dispatch all suffer from the same inter-organizational blind spots. Digital dispatch coordination platforms (similar to corridor logic) are the OTR analog of what maritime chemical logistics is now building. This is an architecture decision worth evaluating in Quantix's TMS/dispatch stack.
+
+---
+
+### Insight 3: LSS DMAIC in Logistics — Documented Results: 3PL Warehouse Process Cycle Efficiency Improved from 40% to 70%
+**Source:** ScienceDirect — "Development of an improvement framework for warehouse processes using lean six sigma (DMAIC) approach: A case of third party logistics (3PL) services" (2023, peer-reviewed)
+**URL:** https://www.sciencedirect.com/science/article/pii/S2405844023021229
+**Knowledge Tier:** DC tier for methodology; mid-frequency for specific results (peer-reviewed, stable but case-specific)
+**Tags:** DMAIC, lean-six-sigma, warehouse, 3PL, process-improvement, PCE, waste-elimination
+
+This peer-reviewed case study quantifies LSS DMAIC impact in a 3PL warehouse context:
+- Baseline **Process Cycle Efficiency (PCE): 40%** — meaning 60% of all warehouse activity was non-value-added
+- Post-DMAIC implementation: **PCE improved to 70%** — a 75% relative improvement in value-add ratio
+- Non-value-added activities identified via value stream mapping included: waiting, excessive motion, redundant inspection, and batch processing misalignment
+
+Supporting data point (from same search, MDPI 2025): In a Turkish plastics manufacturer, applying DMAIC to transport mode selection **reduced costly road transport share from 13% to 5%** — a direct cost reduction with measurable carrier-mode shift.
+
+**Methodological note:** PCE = (Value-Added Time) / (Total Lead Time). A 40% PCE baseline is unfortunately common in bulk/chemical terminal operations — most terminal dwell time studies suggest 35–50% PCE without structured improvement.
+
+**Application for Quantix:** Terminal operations (loading, cleaning, inspection, documentation) at Quantix's 50+ locations are high-leverage PCE improvement targets. A structured DMAIC project scoped to one high-volume terminal could:
+1. Baseline PCE using value stream mapping
+2. Identify top 3–5 NVA time categories
+3. Pilot countermeasures (parallel sequencing, pre-staging, digital doc processing)
+4. Control via standard work + KPI dashboards
+
+Expected result based on case study benchmarks: 20–40% reduction in terminal cycle time is achievable without capital investment.
+
