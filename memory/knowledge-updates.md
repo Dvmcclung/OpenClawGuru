@@ -5902,3 +5902,71 @@ Supporting data point (from same search, MDPI 2025): In a Turkish plastics manuf
 
 Expected result based on case study benchmarks: 20–40% reduction in terminal cycle time is achievable without capital investment.
 
+
+---
+
+## 2026-05-12 AM — Morning Knowledge Scan
+
+### Insight 1: Supply Chain Interoperability Is the True Bottleneck for AI-Enabled Logistics
+**Source:** Logistics Viewpoints — "Supply Chain Interoperability Is Becoming the Foundation for AI-Enabled Logistics" (May 6, 2026)
+**URL:** https://logisticsviewpoints.com/2026/05/06/supply-chain-interoperability-is-becoming-the-foundation-for-ai-enabled-logistics/
+**Knowledge Tier:** High-frequency (current industry analysis, 2026)
+**Tags:** AI, interoperability, TMS, WMS, ERP, decision-intelligence, visibility, integration, digital-supply-network
+
+As AI transitions from pilots to operational execution, the critical constraint is rarely the model — it's whether enterprise systems, logistics partners, data layers, and execution workflows can **interoperate in real time**.
+
+Key distinction surfaced: **Connectivity ≠ Interoperability.**
+- Connectivity = systems can exchange data
+- Interoperability = systems exchange data that is timely, trusted, contextual, and operationally useful
+
+A shipment status update arriving 6 hours late is "connected" but useless for dynamic exception management. Carrier data lacking standardized location, timestamp, or shipment reference is technically transmitted but doesn't support automation.
+
+The article argues that modern supply chains need to operate as **connected decision networks** — not just message-passing pipes. Better dashboards and more alerts without underlying interoperability produce a familiar failure pattern: improved visibility, degraded execution.
+
+Frameworks referenced: OSI model applied to supply chain layers; APIs as the next interoperability frontier; agentic AI requiring semantic data exchange, not just syntactic.
+
+**Application for Quantix:** This is directly relevant to Quantix's carrier/TMS/visibility stack. If real-time load status, GPS position, and terminal availability aren't interoperating at the decision layer, AI tools layered on top will underperform expectations. Before investing in AI-enabled dispatch or exception management, validate data quality and timing at each integration point.
+
+---
+
+### Insight 2: Truckload Market Entering Tight Capacity Cycle — Rates Rising, Intermodal Gaining Share
+**Source:** FreightWaves — "White Paper: State of the Industry – May 2026" (May 6, 2026), co-produced with Ryder
+**URL:** https://www.freightwaves.com/news/white-paper-state-of-the-industry-may-2026
+**Knowledge Tier:** High-frequency (current market data, volatile — verify before using in rate negotiations)
+**Tags:** truckload, capacity, rates, intermodal, diesel, tender-rejection, freight-market, contract-rates, spot-rates
+
+FreightWaves May 2026 State of the Industry report highlights a tightening freight market with several signals relevant to bulk carriers:
+
+- **Spot and contract rates both rising** — tender rejection rates remain elevated, signaling continued pricing pressure through mid-year
+- **Contract rates up ~8% since last fall**, with further increases likely as shippers push onto secondary capacity amid persistent tightness
+- **Domestic intermodal growing strongly** — attractive rate spreads and improved service levels are pulling volume from OTR; available container capacity is supporting the shift
+- **Diesel prices highly volatile** — geopolitical sensitivity complicating rate signals; cost/risk management strategies essential
+- **U.S. manufacturing returned to expansion** — supporting flatbed, rail, and LTL demand; retail/consumer spending holding despite inflation
+
+Supplementary signal (FreightWaves trucking news, May 7): **Daimler Truck North America sales pacing +50% in Q2 2026 vs. Q1** — suggesting fleet operators are actively investing in new equipment, a leading indicator of capacity expectations.
+
+**Application for Quantix:** Tight truckload conditions typically benefit asset-based carriers on rate (Quantix) but increase operating cost pressure through driver availability and fuel. The intermodal growth signal deserves attention — if rate spreads remain attractive, some Quantix customers may explore rail alternatives for non-time-sensitive bulk moves. Monitor carefully.
+
+---
+
+### Insight 3: AI-Driven Stockout-to-Execution Bridging — FourKites Cuts Resolution Time from Hours to Minutes
+**Source:** Logistics Viewpoints — "Supply Chain and Logistics News Week of May 7th 2026" (May 8, 2026); also references Hormuz disruption reshaping energy logistics
+**URL:** https://logisticsviewpoints.com/2026/05/08/supply-chain-and-logistics-news-week-of-may-7th-2026/
+**Knowledge Tier:** High-frequency (product launch / current events, 2026)
+**Tags:** AI, visibility, stockout, exception-management, FourKites, energy-logistics, Hormuz, risk, resilience, geopolitical
+
+**Two high-signal items from this week's roundup:**
+
+**A. FourKites launches unified stockout-detection to freight-execution solution:**
+- Reduces resolution time from stockout detection to freight execution from **hours to less than 5 minutes**
+- Bridges the traditional gap between visibility platforms (which alert) and TMS/execution (which acts)
+- Represents the agentic AI pattern in logistics: detect → decide → execute without manual handoffs
+- Relevant context: ties directly to Insight 1 above — interoperability between visibility and execution layers is what makes this possible
+
+**B. Strait of Hormuz risk is redrawing energy supply chain geography:**
+- The Strait handles ~20% of global oil and LNG — repeated disruption has transformed pipelines, storage terminals, and deep-water ports *outside* the Persian Gulf into high-value strategic assets
+- Companies are no longer treating alternate routes as contingency — they're redesigning networks around **physical redundancy as primary strategy**, not lowest-cost optimization
+- This is a supply chain resilience design shift: geography and recovery optionality are now weighted above cost efficiency in energy network design
+
+**Application for Quantix (chemical/bulk):** The Hormuz risk signal is directly material. Chemical shippers using Quantix are exposed to feedstock and finished-product supply disruptions from Middle East instability. Customers may begin stress-testing their tank/rail/truck allocations for alternative sourcing scenarios — Quantix should be positioned to support rerouting flexibility and expedited capacity commitments as a value-add.
+
