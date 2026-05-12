@@ -194,6 +194,13 @@ _Initialized: 2026-03-03_
 - Targets 2–3% freight network efficiency gains; covers battery-electric, hydrogen, advanced diesel hybrid, autonomous systems
 - **Quantix application:** use DOE-validated (not OEM-claimed) performance data for future propulsion decisions; track for bulk-specific test results
 
+### AI SC Software — Augmenter vs. Platform Replacer Bifurcation (May 2026)
+- 2026 SC AI market bifurcating: full-suite **platform replacers** (E2open, Infor Nexus) vs. **decision-intelligence augmenters** (Aera Technology, similar).
+- Analyst consensus: augmenter model (AI layer on existing TMS/ERP stack) is lower-risk for complex multi-asset carriers — no full platform replacement required.
+- **Diagnostic:** Signal-to-decision latency. If load planning, driver assignment, or equipment repositioning decisions take hours/days → that's the AI augmentation target.
+- Gap widening between AI-powered and legacy-tool companies; legacy APS/spreadsheet cycles now a competitive liability at scale.
+- Quantix application: assess current dispatch decision latency before selecting architecture; augmenter model is the lower-disruption entry point at 4,500-truck scale.
+
 ### AI Decision Intelligence vs. Autonomous SC Hype (updated May 5, 2026)
 - Real ROI in high-frequency loops: slotting (10–20% travel time ↓), safety stock right-sizing, routing/carrier selection, load consolidation, empty mile reduction. Competitive differentiator = orchestration (integrating automation layers into coherent decision fabric), not isolated pilots. Fully autonomous SC still hype — human-in-loop required.
 - **Phase 2 shift (May 2026):** AI moving from dashboards/visibility to embedded decision execution — "here's what to do, already done." Carrier selection + load optimization is delivering measurable ROI in OTR now.
