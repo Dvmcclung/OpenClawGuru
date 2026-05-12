@@ -5970,3 +5970,63 @@ Supplementary signal (FreightWaves trucking news, May 7): **Daimler Truck North 
 
 **Application for Quantix (chemical/bulk):** The Hormuz risk signal is directly material. Chemical shippers using Quantix are exposed to feedstock and finished-product supply disruptions from Middle East instability. Customers may begin stress-testing their tank/rail/truck allocations for alternative sourcing scenarios — Quantix should be positioned to support rerouting flexibility and expedited capacity commitments as a value-add.
 
+
+---
+
+## 2026-05-12 PM — Evening Knowledge Scan
+
+### Insight 1: Smart Supply Chain — Integrating Lean Six Sigma with Industry 4.0/5.0 (DMAIC Framework)
+**Source:** *Intelligent and Sustainable Manufacturing* — "Smart Supply Chain Management Integrating Lean Six Sigma and Industry 4.0–5.0" (Published April 13, 2026) | DOI: 10.70322/ism.2026.10007
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis, published April 2026)
+
+Peer-reviewed framework study from Benha University (Cairo) proposes a Smart Supply Chain Management (SSCM) model that embeds DMAIC as the organizing spine for digital transformation. Key findings:
+
+- **The core argument:** Conventional cost-reduction/standardization strategies alone are insufficient for resilience. Supply chains need DMAIC + I4.0 + I5.0 integration.
+- **I4.0 enablers within DMAIC:** AI, IoT, big data analytics, digital twins, and robotics deliver real-time visibility, automation, and predictive insights — mapped into Measure and Analyze phases.
+- **I5.0 human-centric layer:** Collaborative robots, AR/VR, and emotional AI address workforce engagement, creativity, and ergonomic safety — mapped into Improve and Control phases.
+- **ESG integration:** Sustainability KPIs embedded across all DMAIC phases, not bolted on at the end.
+- **Remaining gaps cited:** Fragmented digital adoption, limited human-AI collaboration, demand volatility — these are the Define phase inputs the framework is designed to address.
+
+**Application for Quantix:** The DMAIC spine is already our framework of choice. The actionable add is the I4.0 mapping: IoT sensors at terminals for real-time tank status (Measure), AI-driven predictive maintenance on tractors and trailers (Analyze), and digital twins for terminal throughput modeling (Improve). The I5.0 human layer is relevant to driver retention — AR-assisted onboarding for new drivers on prior cargo restriction protocols is an underexplored application.
+
+**Tags:** `LSS` `DMAIC` `Industry4.0` `digital-twins` `IoT` `AI` `sustainability` `resilience` `framework`
+
+---
+
+### Insight 2: Geopolitics as a Permanent Structural Constraint — Regionalization vs. Globalization
+**Source:** *Global Trade Magazine* — "How Geopolitical Tensions in 2026 Are Reshaping Global Supply Chain Strategies" (Published ~May 2026)
+**Knowledge Tier:** High-frequency (current market intelligence — treat as volatile; re-verify in 90 days)
+
+2026 consensus is hardening: geopolitical risk is not cyclical — it is a permanent structural input to network design and sourcing strategy. Key findings:
+
+- **The shift:** Companies built on global efficiency (concentrated low-cost manufacturing → worldwide distribution) are accelerating toward **regionalization** — production and sourcing closer to end markets.
+- **Three-hub model emerging:** North America, Europe, Asia-Pacific as semi-autonomous regional supply chains with limited cross-hub single points of failure.
+- **Digital risk monitoring:** AI-driven real-time monitoring for port congestion, terminal delays, and geopolitical triggers is becoming standard operating practice (not a differentiator).
+- **Trade compliance burden:** Export controls, sanctions, and tariff volatility have elevated trade compliance from a back-office function to a frontline operational constraint.
+- **Thomson Reuters synthesis (May 2026):** "Manufacturers best positioned for continued disruption are not waiting for policy clarity — they are building flexibility into sourcing, inventory, and trade compliance now."
+
+**Application for Quantix:** Quantix operates domestically (OTR bulk), so direct import/export geopolitical exposure is low. The indirect exposure is through **chemical shipper customers**: if their global supply chains regionalize, domestic feedstock transport volumes (plastic pellets, chemicals) could shift. Terminal locations relative to reshored/nearshored production sites become a strategic asset. Flag for S&OP conversations with key chemical shipper accounts — ask where their sourcing footprint is moving.
+
+**Tags:** `geopolitical-risk` `network-design` `regionalization` `tariffs` `trade-compliance` `resilience` `risk-management` `high-frequency`
+
+---
+
+### Insight 3: ICS Tanker Safety Guide (Chemicals) — Sixth Edition Released April 2026
+**Source:** *ICS / BunkerMarket* — "ICS Elevates Chemical Tanker Safety With Launch of Sixth Edition Guide" (April 21, 2026) | Developed with Shell, Stolt Tankers
+**Knowledge Tier:** DC tier (regulatory/standards document — stable reference)
+
+The International Chamber of Shipping released the sixth edition of the *Tanker Safety Guide (Chemicals)* — first published 1971, the authoritative standard for hazardous liquid cargo operations. The 2026 edition is the most significant update in years.
+
+**Key technical enhancements in the 6th Edition:**
+- **Refined enclosed space entry protocols** — highest-risk activity in tanker/terminal operations, now with clearer procedural discipline
+- **New shore power safety guidelines** — addresses decarbonized port operations (cold ironing); relevant as ports electrify
+- **Detailed flowchart: Annex I → Annex II cargo changeovers** — operational gray area where cross-contamination and safety risks peak; now has explicit procedural map
+- **MARPOL Annex II bridge:** Translates high-level regulations into executable shipboard procedures — the "regulation to operations" gap is explicitly addressed
+
+**Why this matters for OTR bulk carriers:** Quantix operates over-the-road liquid bulk, not marine tankers, but the regulatory philosophy is directly applicable:
+- Prior cargo restriction knowledge and changeover discipline are the same problem domain — tank cleaning protocols, contamination risk, documentation
+- The ICS guide's approach of translating MARPOL into executable checklists is a model for Quantix's own SOP development for prior cargo restrictions
+- Shore power/decarbonization guidelines signal where EPA and DOT may push for OTR equivalents (zero-emission terminal operations)
+
+**Tags:** `chemical-logistics` `safety` `regulatory` `prior-cargo` `tank-cleaning` `contamination-control` `bulk-liquid` `OTR-relevance` `standards`
+
