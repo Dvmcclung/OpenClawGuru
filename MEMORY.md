@@ -206,6 +206,12 @@ _Initialized: 2026-03-03_
 - **Phase 2 shift (May 2026):** AI moving from dashboards/visibility to embedded decision execution — "here's what to do, already done." Carrier selection + load optimization is delivering measurable ROI in OTR now.
 - Quantix: assess TMS/dispatch for embedded decision support vs. reporting-only. Gartner: resilience = reducing complexity, not adding tech layers.
 
+### Supply Chain Interoperability Is the True AI Bottleneck (Logistics Viewpoints, May 2026)
+- **Connectivity ≠ Interoperability.** Connectivity = systems can exchange data. Interoperability = data is timely, trusted, contextual, and operationally useful. A 6-hour-late shipment status is "connected" but useless for dynamic exception management.
+- AI tools layered on non-interoperable stacks produce a predictable failure: improved visibility, degraded execution. Modern supply chains need connected **decision networks**, not just message-passing pipes.
+- Agentic AI requires semantic data exchange (not just syntactic) — API readiness at every integration node is the prerequisite gate.
+- **Quantix action:** Before investing in AI-enabled dispatch or exception management, validate data quality, timing, and context at each TMS/ELD/terminal integration point. Interoperability audit precedes AI deployment.
+
 ### AI Creates Coordination Bottleneck — TOC Applied to AI Architecture (SupplyChainBrain, April 30, 2026)
 - AI demand sensing reduces forecast error ~30% but overwhelms suppliers with order-change frequency — classic TOC bottleneck migration. New model: build coordination layer (data interoperability, aligned decision cycles). Quantix: AI terminal scheduling + manual dispatch = signal jam. EDI/API with top shippers is the fix. **Watch:** order-change frequency from top 10 shippers as leading indicator.
 
