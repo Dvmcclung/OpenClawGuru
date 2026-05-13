@@ -6096,3 +6096,80 @@ Key capabilities in autonomous network control towers:
 
 **Tags:** `AI-control-tower` `TMS` `autonomous-decision-making` `visibility` `agentic-AI` `dispatch-optimization` `spot-market` `logistics-technology` `mid-frequency`
 
+
+---
+
+## 2026-05-13 PM — Evening Knowledge Scan
+
+### Insight 1: Tank Truck Sector 2025 in Review — Tech Adoption + Regulatory Tailwinds Entering 2026
+**Source:** Bulk Transporter — "Year in Review: Top Tank Truck Stories from 2025" (Dec 29, 2025)
+**URL:** https://www.bulktransporter.com/fleet-management/article/55340021/year-in-review-top-tank-truck-stories-from-2025
+**Knowledge Tier:** High-frequency (industry news, current/volatile — verify before citing in strategy work)
+
+The tanker/bulk trucking sector closed 2025 with a mixed but directionally positive picture for 2026. Key findings:
+- **Regulatory relief:** Trump revoked California's CARB waivers (Advanced Clean Trucks, ACC II, Heavy-Duty Omnibus) in June 2025, eliminating the de facto national ZEV mandate — significant cost/capex relief for carriers like Quantix that would have faced compliance timelines.
+- **CDL enforcement:** DOT crackdown on non-domiciled CDLs and "CDL mills" may tighten driver supply short-term but is expected to reduce overcapacity and support rate recovery in 2026.
+- **ELD vetting overhaul:** FMCSA streamlined the ELD vetting process — reduces vendor fragmentation risk in fleet tech stacks.
+- **AI and connected ecosystems:** Fleets are moving toward AI-driven operations optimization and equipment utilization improvement — specifically highlighted at the 2025 Insight Tech Conference (New Orleans). The driver is a prolonged freight recession depressing rates; operators are extracting efficiency rather than growing capacity.
+- **Freight recession persists:** Tariff uncertainty and economic headwinds extended the downcycle. Industry is cautiously optimistic about 2026 upturn but not banking on it.
+
+**Application for Quantix:**
+- CARB waiver revocation buys time on fleet electrification capex decisions — defer large ZEV commitments, redirect to operational AI tools.
+- Driver supply tightening from CDL enforcement could create spot-market rate pressure; lean into contracted lanes to buffer.
+- 2026 freight market: position for rate recovery, but operate as if the recession continues for planning purposes.
+
+**Tags:** bulk-tanker | regulatory | technology | fleet-management | driver-supply | CARB | ELD | AI-operations
+
+
+### Insight 2: 22 Critical Supply Chain Risks in 2026 — Geopolitical & Supplier Visibility at the Top
+**Source:** Z2Data — "22 Critical Supply Chain Risks to Watch for in 2026" (2026)
+**URL:** https://www.z2data.com/insights/22-critical-supply-chain-risks-to-watch-for-in-2026
+**Knowledge Tier:** Mid-frequency (research synthesis, practitioner-focused — verify data points against primary sources for high-stakes decisions)
+
+Z2Data's 2026 risk taxonomy surfaces three macro themes directly relevant to chemical/bulk SC operations:
+
+1. **Geopolitical/Trade Risk is structural, not episodic.** China's April 2025 export controls on rare earth materials caused Ford to shut a plant for weeks. Tariff structures are now changing at the COD (Country of Design) level, not just COO — meaning supply chain mapping must go deeper than Tier 1.
+
+2. **Supplier financial stability and n-tier visibility.** Supplier bankruptcies are emerging as "most disruptive and least predictable" risks — organizations without n-tier visibility have no early warning. For chemical carriers: terminal suppliers, equipment OEMs, and specialized component vendors for tanker trailers are all exposure points.
+
+3. **Regulatory compliance as a supply chain risk.** ESG-driven regulations (EU supply chain due diligence, deforestation exposure, emissions traceability) are requiring granular data collection across supply chains. Non-compliance triggers financial penalties and mandatory remediation — not just reputational risk.
+
+**APICS Framework Alignment:** This maps directly to SCOR's Enable > Manage Risk subprocess. Risk identification → probability/impact assessment → risk response planning. The Z2Data taxonomy is a useful input for a Quantix Supply Chain Risk Register.
+
+**Application for Quantix:**
+- Build or update a formal Supply Chain Risk Register using a structured taxonomy (geopolitical, supplier, regulatory, operational, cyber).
+- Tier-1 supplier mapping for key tanker components and terminal services is table stakes now.
+- Tariff volatility on imported tanker parts/equipment is a concrete exposure — assess domestic sourcing alternatives.
+
+**Tags:** risk-management | SCRM | geopolitical | tariffs | supplier-risk | n-tier-visibility | regulatory | chemical-SC
+
+
+### Insight 3: KPMG Supply Chain Trends 2026 — "Total Value" Replaces Resilience as the Strategic North Star
+**Source:** KPMG US — "Key Supply Chain Trends Shaping 2026: What Leaders Need to Prepare For" (April/May 2026)
+**URL:** https://kpmg.com/us/en/articles/2026/supply-chain-trends-2026.html
+**Knowledge Tier:** Mid-frequency (professional services research synthesis, high-quality — note advisory firm perspective)
+
+KPMG identifies six trends reshaping supply chain leadership in 2026. The most strategically important:
+
+**1. "Total Value" as the new operating objective.**
+Supply chain leaders are shifting from a resilience-first posture to a Total Value framework — combining Total Experience (customer/employee/partner touchpoints) and Total Performance (operational metrics). The implication: supply chain is being repositioned as an enterprise value driver, not a cost center to protect. For Quantix, this is the argument for SC as strategic differentiator — not just cost optimization.
+
+**2. AI shifting from pilots to platform.**
+AI is no longer a proof-of-concept exercise. Organizations are deploying AI at scale and now face a governance challenge: how do you maintain decision quality when AI is making operational calls? KPMG flags "decision governance" as the critical gap — models need guardrails, audit trails, and human-in-the-loop checkpoints for consequential decisions.
+
+**3. Global Business Services (GBS) centralization accelerating.**
+Leading supply chains are centralizing analytics, automation, and SC execution under GBS structures to unlock scale. For a 4,500-truck carrier, this translates to: centralized dispatch analytics, terminal performance dashboards, and shared-service SC operations functions vs. terminal-by-terminal silos.
+
+**4. New metrics redefining performance.**
+Traditional metrics (on-time delivery, cost-per-mile) are being supplemented with decision quality, adaptability, and value realization metrics. This aligns with the Lean Six Sigma shift from lagging to leading indicators.
+
+**5. Tariffs demand digital scenario modeling.**
+KPMG specifically calls out landed-cost volatility as requiring digital scenario modeling capability — static annual budgets are no longer fit for purpose in a high-tariff-volatility environment.
+
+**Application for Quantix:**
+- Position SC transformation work under a "Total Value" narrative — stronger internal buy-in than a resilience or cost-reduction pitch.
+- AI governance framework is a near-term need if AI-driven dispatch or load optimization is deployed — don't wait until an AI decision causes a service failure.
+- Build scenario modeling capability for fuel surcharge and equipment cost volatility (tariff-driven) — relevant to bulk chemical carrier P&L.
+
+**Tags:** strategy | total-value | AI-governance | GBS | metrics | tariffs | scenario-modeling | SC-leadership | KPMG
+
