@@ -6030,3 +6030,69 @@ The International Chamber of Shipping released the sixth edition of the *Tanker 
 
 **Tags:** `chemical-logistics` `safety` `regulatory` `prior-cargo` `tank-cleaning` `contamination-control` `bulk-liquid` `OTR-relevance` `standards`
 
+
+---
+
+## 2026-05-13 AM — Morning Knowledge Scan
+
+### Insight 1: Autonomous Middle-Mile Trucking Goes Commercial — McLane + Aurora in the Sun Belt
+**Source:** CNBC — "Berkshire-owned distribution giant to deploy driverless big rigs across U.S. Sun Belt" (May 6, 2026) | Aurora Innovation press release
+**Knowledge Tier:** High-frequency (active commercial deployment, 2026)
+
+Berkshire Hathaway subsidiary McLane (one of the largest U.S. distributors — 80+ DCs, 25,000 employees) has approved fully driverless operations between Dallas and Houston using Aurora Innovation's autonomous driver technology. The program, running since 2023, has logged 280,000 autonomous miles across 1,400 loads. By year-end 2026, McLane plans to expand to new Sun Belt routes between distribution centers. A parallel development: Kodiak + Roehl Transport have begun autonomous freight runs between Dallas, Houston, Oklahoma City, Atlanta, and El Paso.
+
+**Key operational detail:** The "middle-mile" model — autonomous long-haul between DCs, human drivers on last-mile — is the deployment pattern gaining commercial traction. Aurora's new International LT trucks (200 units by EOY) will operate with no in-cab observer. Waabi has also raised $1B for AI-first autonomous trucks with Uber Freight as backer.
+
+**Application for Quantix:**
+- Quantix runs OTR bulk (not middle-mile distribution), but the Texas-to-Texas corridor overlap is direct. Dallas–Houston is a core Quantix lane.
+- Autonomous trucking will first pressure the highest-volume, most-predictable long-haul lanes — exactly the lanes bulk chemical carriers depend on for driver economics.
+- Watch for driver wage pressure dynamics: as autonomous trucks compress spot rates on standard lanes, bulk specialty carriers (hazmat, temperature-sensitive, prior-cargo restricted) will command increasing premium. This is Quantix's defensible position.
+- Strategic flag: monitor Aurora + Waabi partnerships. If a bulk-tanker OEM (Heil, Mac Trailer) integrates AV hardware, the timeline for automation in bulk liquid accelerates sharply.
+
+**Tags:** `autonomous-trucking` `middle-mile` `aurora-innovation` `mclane` `kodiak` `OTR` `Texas-corridor` `transportation-technology` `high-frequency`
+
+---
+
+### Insight 2: "Liberation Day" Reshoring — The Data Doesn't Support the Narrative
+**Source:** IoT Analytics — "US manufacturing reshoring boom: What the data says one year after 'Liberation Day' tariffs" (May 13, 2026)
+**Knowledge Tier:** High-frequency (macro data synthesis, current — use with volatility flag)
+
+One year after the April 2025 "Liberation Day" tariffs, IoT Analytics' 34-page Industrial Macro Pulse report finds no evidence of a manufacturing reshoring boom in the U.S. macro data:
+- **Manufacturing employment:** Down 1% since tariffs took effect (slight uptick in Feb/Mar 2026)
+- **Kearney Reshoring Index:** Improved marginally (-115 → -86), but still deeply negative
+- **Manufactured goods output:** Fell 0.4%
+- **Manufacturing construction spending:** Down overall, led by a **44% slowdown** in electronics/semiconductor fab spending since mid-2024 peak
+- **Excluding electronics:** A modest 5.6% rise in non-electronics manufacturing construction — real, but not a boom
+
+The *actual* construction story: **data centers and power grid infrastructure** are driving U.S. industrial investment — not factories. The CEO announcement wave in Q2 2025 (227 public firms announcing footprint changes) has not yet translated into measurable output.
+
+**Application for Quantix:**
+- This is the critical distinction APICS calls out in network design: **announced intent ≠ operational supply network change**. Reshoring timelines are measured in years, not quarters.
+- For Quantix's bulk chemical business: chemical plant nearshoring is a longer-cycle event. Don't reposition terminals or route assets in anticipation of reshoring that hasn't materialized in the data.
+- The real demand signal is **data center + power grid construction** — both are heavy users of bulk material transport (resins, construction chemicals, coatings). This is a lane opportunity worth mapping.
+- Tariff volatility continues to be the primary supply chain risk driver — KPMG data (March 2026) shows 48% of U.S. companies actively modeling tariff mitigation, with 41% deploying AI for trade compliance.
+
+**Tags:** `reshoring` `tariffs` `macro-data` `liberation-day` `network-design` `manufacturing-construction` `data-centers` `bulk-chemicals` `lane-opportunity` `high-frequency`
+
+---
+
+### Insight 3: AI Network Control Towers — From Visibility to Autonomous Decision-Making
+**Source:** Robotics & Automation News — "The Rise of the Autonomous Network Control Tower: How AI is Becoming the Supply Chain's Central Nervous System" (May 7, 2026)
+**Knowledge Tier:** Mid-frequency (technology capability description, 2026 deployment state)
+
+The next phase of supply chain technology is shifting from **visibility** (see what's happening) to **autonomous action** (AI makes operational decisions in real time). Traditional TMS platforms capture and display. Emerging platforms (e.g., Libera) implement a **Think → Decide → Act** workflow — continuously processing real-time data, identifying failure modes, and executing corrective actions without human intervention. Benchmark claims: 99.96% on-time delivery in complex marketplace conditions.
+
+Key capabilities in autonomous network control towers:
+- **Proactive exception management** — AI identifies failure risk and closes the loop before a human notices
+- **Autonomous bidding** — simultaneous spot and contract bids evaluated on performance data, not carrier relationships
+- **Automated invoicing** — contract-term matching plus document verification (e-ways, insurance, copy of record) before truck moves
+- **Agentic AI dispatch** — route assignments, exception escalation, driver coordination with minimal human intervention
+
+**Application for Quantix:**
+- This is the maturity progression Quantix should map against its current TMS capabilities. Most bulk carriers are still in the "display" phase. The "autonomous decision" phase is where Quantix's AI-in-the-loop vision becomes a competitive differentiator.
+- The Think-Decide-Act framework is a useful architecture guide for the agentic systems Dale is building — this is the supply chain expression of what OpenClaw agents do in other domains.
+- Autonomous bidding is particularly relevant for Quantix's spot market exposure — if AI can evaluate carrier performance rather than defaulting to relationships, asset utilization improves materially.
+- Practical first step: assess current TMS against a 3-stage maturity model (Capture → Visibility → Autonomous Action) and identify which decisions are ripe for AI delegation.
+
+**Tags:** `AI-control-tower` `TMS` `autonomous-decision-making` `visibility` `agentic-AI` `dispatch-optimization` `spot-market` `logistics-technology` `mid-frequency`
+
