@@ -6173,3 +6173,65 @@ KPMG specifically calls out landed-cost volatility as requiring digital scenario
 
 **Tags:** strategy | total-value | AI-governance | GBS | metrics | tariffs | scenario-modeling | SC-leadership | KPMG
 
+
+---
+
+## 2026-05-14 AM — Morning Knowledge Scan
+
+### Insight 1: Aurora Innovation Launches Commercial Driverless Freight in Texas — Level 4 Autonomy Goes Live
+**Source:** Highways Today — "Autonomous Freight Reshaping America's Food Supply Chain" (May 7, 2026)
+**URL:** https://highways.today/2026/05/07/autonomous-freight-food-supply-chain/
+**Knowledge Tier:** High-frequency (current industry development — flag as volatile)
+
+Aurora Innovation and McLane Company (Berkshire Hathaway) have launched fully driverless SAE Level 4 freight hauls on the Dallas–Houston corridor. Aurora logged 280,000+ autonomous miles and 1,400+ commercial loads in testing before go-live. Texas's highway network and regulatory posture made it the proving ground; the corridor is one of the highest-volume commercial freight lanes in the US.
+
+Key signals:
+- **SAE Level 4** = no safety driver required; this is the threshold that changes the economics model
+- **Waabi raised $1B** from Uber Freight for AI-first autonomous trucks (separate development, same wave)
+- **Gatik** has been running driverless commercial operations since January 2026
+- Aurora targeting 200+ driverless trucks by end of 2026
+
+**SC Relevance for Quantix:** This is directly in Quantix's lane — over-the-road, long-haul, Texas corridors. The question is not "will autonomous trucking arrive?" — it's already here for dry van. Bulk chemical and liquid tanker applications face added complexity (hazmat regulations, specialized loading/offloading equipment, FMCSA rules for Class III hazmat). Anticipate 3–5 year lag vs. dry van for bulk autonomy, but the labor math is identical. Quantix should be watching regulatory dockets at FMCSA now, not when trucks start arriving.
+
+**Tags:** #autonomous-trucking #technology #transportation #Texas #labor #Level4 #FMCSA
+
+
+### Insight 2: Transportation Orchestration Supplanting Point Optimization — The Architectural Shift in TMS/Visibility
+**Source:** Logistics Viewpoints — "Five Transportation Technology Trends Reshaping Supply Chains in 2026" (April 13, 2026)
+**URL:** https://logisticsviewpoints.com/2026/04/13/five-transportation-technology-trends-reshaping-supply-chains-in-2026/
+**Knowledge Tier:** Mid-frequency (research synthesis, April 2026)
+
+The Logistics Viewpoints/ARC analysis identifies a structural architectural shift in transportation technology: the industry is moving from **point optimization** (best-of-breed TMS + separate visibility + separate dock scheduling) toward **orchestration** — a coordinated execution environment that links orders, shipments, inventory, appointments, labor, and exceptions in a single data model.
+
+The shift can be summarized as: **track-and-report → sense-and-coordinate.**
+
+Key signals:
+- TMS platforms now competing on **AI-assisted decisioning**, not just rate optimization and load planning
+- **Dock and yard coordination** becoming the bottleneck that determines whether better visibility actually translates to better execution
+- **Bounded autonomy** (partial, human-supervised AI decision-making) is the practical middle ground being deployed at scale in 2026 — full autonomy is still the long game
+
+**SC Relevance for Quantix:** This reframes how to evaluate any TMS or visibility platform investment. The question is no longer "does this system have good tracking?" — it's "does this system connect tracking data to dispatch action, appointment scheduling, and exception workflows?" For a 4,500-truck fleet with 50+ terminals, the orchestration layer between the TMS and terminal operations is the value gap to close. This maps directly to the dock-scheduling and appointment-management capability gaps common in bulk carrier operations.
+
+**Tags:** #TMS #technology #orchestration #visibility #AI #dispatch #yard-management #architecture
+
+
+### Insight 3: Strait of Hormuz Risk Is Redrawing Energy Logistics Geography — Direct Impact on Chemical Supply Chains
+**Source:** Logistics Viewpoints — "Hormuz Risk Is Redrawing the Supply Chain Geography of Energy" (May 7, 2026) / Reuters reporting (April 29, 2026)
+**URL:** https://logisticsviewpoints.com/2026/05/07/hormuz-risk-is-redrawing-the-supply-chain-geography-of-energy/
+**Knowledge Tier:** High-frequency (geopolitical development — highly volatile, verify before decisions)
+
+Ongoing instability in the Strait of Hormuz — a chokepoint for ~20% of global oil and natural gas shipments — is forcing energy logistics operators to abandon lowest-cost network design in favor of **geopolitically resilient routing**. This accelerates reshoring and nearshoring of energy supply and feedstock sourcing, with direct downstream effects on petrochemical supply chains.
+
+Key signals:
+- Major chemical producers sourcing from Middle East feedstocks (naphtha, ethane, propane) face route risk and insurance cost escalation
+- Alternative routing via Cape of Good Hope adds 10–14 days and meaningful freight cost premium
+- US Gulf Coast petrochemical producers (directly relevant to Quantix's customer base) benefit from feedstock cost advantage as Middle East disruption persists
+- Reshoring momentum for chemical manufacturing accelerates when feedstock security is uncertain
+
+**SC Relevance for Quantix:** Quantix's customers are heavily concentrated in US Gulf Coast chemical and plastics production. Hormuz disruption that disadvantages Middle East and Asian competitors is a net positive for Gulf Coast producer volume — which is positive for Quantix truck demand. Watch for:
+1. Increased outbound volume from USGC chemical plants (plastics pellets, chemical intermediates)
+2. Potential spot freight rate firming on key USGC-to-Midwest corridors
+3. Customers potentially pulling forward inventory given import uncertainty — temporary demand spike
+
+**Tags:** #geopolitics #Hormuz #chemical #energy #risk #USGC #demand-signal #feedstock
+
