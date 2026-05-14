@@ -6235,3 +6235,77 @@ Key signals:
 
 **Tags:** #geopolitics #Hormuz #chemical #energy #risk #USGC #demand-signal #feedstock
 
+
+---
+
+## 2026-05-14 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: SCRM as Core Business Capability — Visibility Beyond Tier 1
+**Date:** 2026-05-14
+**Source:** Panorays — "Supply Chain Risk Management Strategies for 2026" (April 13, 2026) | Ivalua — "Mastering Supply Chain Risk Management: Strategies & Solutions" (April 7, 2026)
+**URLs:** https://panorays.com/blog/supply-chain-risk-management-strategies/ | https://www.ivalua.com/blog/supply-chain-risk-management/
+
+**Summary:**
+The 2026 consensus on SCRM has shifted from reactive mitigation to proactive capability building. Three structural shifts are prominent:
+
+1. **Nth-tier visibility is now table stakes.** The "Tier 1 supplier audit" model is insufficient — cascading failures routinely propagate through Tier 3/4 relationships. The 2025 eslint-config-prettier npm compromise (CVE-2025-54313) demonstrated this: a phished open-source maintainer pushed malicious code via routine CI dependency updates, impacting enterprise pipelines that never directly chose the component.
+
+2. **Digital and physical supply chain risks are converging.** Factories running on cloud platforms and IoT sensors inherit cyber attack surfaces. NIST CSF 2.0 C-SCRM guidance is moving supply chain governance to board-level, not just procurement-level.
+
+3. **70% of organizations now prioritize SC visibility and resilience as primary technology investment areas.** Cross-functional integration (security + procurement + operations) is the structural response — single-function SCRM programs are being flagged as insufficient.
+
+**SC Relevance — Quantix:**
+Quantix's 4,500-truck network touches multiple carriers, brokers, terminal operators, and technology vendors. The "hidden Tier N" risk applies directly — particularly in TMS integrations, ELD vendor supply chains, and chemical shipper portal connections. A single compromised software vendor with deep TMS integration could cascade into load visibility failures. The recommendation to formalize Nth-tier visibility and Zero Trust for third parties is actionable at the technology vendor level even if not operationally urgent at the carrier tier.
+
+**Knowledge Tier:** High-frequency (SCRM landscape — evolving rapidly)
+**Tags:** risk-management, visibility, cyber-supply-chain, tiered-suppliers, NIST-CSF, technology-integration
+
+---
+
+### Insight 2: Green Lean Six Sigma (GLSS) — Multidimensional Performance in Supply Chains
+**Date:** 2026-05-14
+**Source:** Taylor & Francis / *International Journal of Sustainable Engineering* — "Green Lean Six Sigma for multidimensional performance improvement: a case study on supply chain management" (March 21, 2026); ScienceDirect — "Lean Six Sigma and sustainable supply chain management: a case study in EV parts manufacturing" (August 2025)
+**URLs:** https://www.tandfonline.com/doi/full/10.1080/19397038.2026.2644657 | https://www.sciencedirect.com/science/article/abs/pii/S2040416625000311
+
+**Summary:**
+The 2025–2026 academic literature on LSS applied to supply chains has moved to a "Green Lean Six Sigma" (GLSS) framing — integrating environmental performance as a third improvement dimension alongside quality and speed. Key findings:
+
+1. **GLSS frameworks remain under-validated in practice.** Despite growing academic interest since 2020, few GLSS frameworks have been empirically tested. Most published studies are theoretical or single-industry. The comparative literature review (2020–2025) identifies this gap explicitly.
+
+2. **LSS in EV parts manufacturing SC (2025 case study) confirmed:** LSS applied to sourcing process design produced a "thorough and lean sourcing process," improved supplier selection and performance monitoring, and reduced overall freight costs. DMAIC structure applied to supplier evaluation criteria directly.
+
+3. **The practical implication:** LSS tools — Value Stream Mapping, DMAIC, Cpk analysis — remain the dominant validated method for SC process improvement. GLSS is promising but not yet a replacement standard; organizations adding sustainability KPIs to DMAIC Define/Measure phases are ahead of the curve.
+
+**SC Relevance — Quantix:**
+For a bulk carrier managing 4,500+ trucks across 50+ terminals, the freight cost reduction finding from LSS supplier selection is directly applicable to carrier procurement and preferred carrier programs. The green dimension (carbon-per-load, empty mile reduction) is increasingly relevant as chemical shippers (Quantix's customers) face Scope 3 emissions reporting requirements — carriers that can report and reduce transport emissions will have a procurement advantage.
+
+**Knowledge Tier:** Mid-frequency (peer-reviewed, compilation date matters — March 2026)
+**Tags:** lean-six-sigma, GLSS, DMAIC, sustainability, supplier-selection, freight-cost, process-improvement, Scope-3
+
+---
+
+### Insight 3: Bulk Material Transport — TMS-Driven Multimodal Optimization and Compliance
+**Date:** 2026-05-14
+**Source:** Bulk Transporter — "Best Practices in Transporting Bulk Materials" (undated, current)
+**URL:** https://www.bulktransporter.com/fleet-management/article/55252413/best-practices-in-transporting-bulk-materials
+
+**Summary:**
+Bulk Transporter's current best-practices synthesis for bulk material transport (dry, liquid, and pneumatic) highlights several optimization themes relevant to carrier operations:
+
+1. **End-to-end TMS visibility is the anchor capability.** Real-time GPS + sensor monitoring is now standard expectation — not a differentiator. The value has shifted to *multimodal optimization*: TMS platforms that can coordinate truck, rail, barge, and vessel legs on a single planning surface are reducing empty miles and transit time in complex supply chains.
+
+2. **Compliance automation is reducing cost and risk.** Hazmat documentation, DOT regulatory compliance, and HAZMAT route management are increasingly automated within modern TMS platforms. Manual compliance processes are flagged as a cost and liability exposure point.
+
+3. **Physical differentiation by material type remains non-negotiable:**
+   - Liquid bulk (chemicals): Requires tanker spec matching to commodity (viscosity, temperature, prior cargo restrictions)
+   - Dry bulk (pellets): Moisture protection, covered/sealed trailer requirements
+   - Pneumatic (powder): Air pressure offload systems, contamination prevention protocols
+   
+   The paper confirms that prior cargo restrictions and commodity-specific handling knowledge cannot be commoditized — consistent with the existing Quantix KB finding on hazmat driver scarcity.
+
+**SC Relevance — Quantix:**
+Directly applicable. Quantix operates liquid bulk (chemical tankers) and dry bulk (plastic pellet hopper/pneumatic). The TMS multimodal optimization angle is relevant as shippers increasingly request intermodal solutions. The compliance automation finding supports investment in TMS platforms with embedded DOT/FMCSA rule logic. The prior cargo restriction point reinforces driver/equipment specialization as a competitive moat — hard to replicate quickly on spot market.
+
+**Knowledge Tier:** High-frequency (industry best practices — operational currency)
+**Tags:** bulk-logistics, TMS, multimodal, hazmat-compliance, liquid-bulk, dry-bulk, prior-cargo-restrictions, DOT, Quantix-relevant
+
