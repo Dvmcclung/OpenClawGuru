@@ -6309,3 +6309,69 @@ Directly applicable. Quantix operates liquid bulk (chemical tankers) and dry bul
 **Knowledge Tier:** High-frequency (industry best practices — operational currency)
 **Tags:** bulk-logistics, TMS, multimodal, hazmat-compliance, liquid-bulk, dry-bulk, prior-cargo-restrictions, DOT, Quantix-relevant
 
+
+---
+
+## 2026-05-15 AM — Morning Knowledge Scan
+
+### Insight 1: SAP Launches Autonomous Supply Chain Management at Sapphire 2026
+**Date:** May 14–15, 2026
+**Source:** SAP News Center — "Moving Toward a More Autonomous Supply Chain" (news.sap.com, May 2026)
+**Knowledge Tier:** High-frequency (vendor product release — current market signal)
+
+SAP announced Autonomous Supply Chain Management at SAP Sapphire 2026, extending its Supply Chain Orchestration platform (launched Oct 2025) with AI-driven agents and assistants across planning, manufacturing, logistics, and asset operations. The core architecture shift: from "detect and alert" to "anticipate, coordinate, and resolve" — with humans remaining in control but removed from routine intervention loops.
+
+Key architectural principles SAP is betting on:
+- **AI grounded in enterprise data** — agents are embedded in ERP/EWM/TM processes, not standalone; SAP's argument is that AI without trusted, integrated data doesn't scale or earn operational trust
+- **Autonomous Enterprise vision** — supply chain is the first domain getting the full treatment; phased GA throughout 2026
+- **Orchestration layer** — connects planning, execution, and exception management across complex supply networks without requiring a rip-and-replace of underlying systems
+
+**SC Relevance for Quantix:**
+For a 4,500-truck carrier, this matters on two fronts: (1) shipper customers running SAP will increasingly expect their carriers to connect into autonomous exception workflows — EDI isn't enough anymore; (2) the "AI grounded in trusted data" argument is the right framework for evaluating any AI initiative internally — garbage data in, garbage recommendations out. Quantix's data quality in TMS/ERP is a prerequisite gate before any autonomous dispatch or load optimization can deliver value.
+
+**Tags:** autonomous-supply-chain, SAP, AI-agents, supply-chain-orchestration, ERP-integration, data-quality, logistics-tech, Quantix-relevant
+
+---
+
+### Insight 2: Autonomous Trucking Reaches Commercial Scale — Gatik, Aurora, Waabi Milestones (2026)
+**Date:** May 11, 2026
+**Source:** AngelHack DevLabs — "AI in Logistics: Use Cases, Benefits, and What to Expect in 2026" (devlabs.angelhack.com)
+**Knowledge Tier:** High-frequency (live market developments — volatile, verify before citing)
+
+The autonomous trucking infrastructure layer is materializing faster than most operators expected:
+- **Gatik** has been running **driverless commercial operations since January 2026** on fixed middle-mile routes
+- **Aurora** is targeting **200+ driverless trucks by year-end 2026**
+- **Waabi** raised **$1 billion** for its AI-first autonomous truck platform — partnered with Uber Freight
+- AI route optimization at UPS (ORION system): 97% of 55,000+ U.S. delivery routes covered; **100M miles eliminated annually; $300–400M/year in savings**; 10M gallons of fuel prevented
+- BCG survey caveat: only **5% of companies generate measurable AI value at scale** — the deployment gap between pilots and scaled value remains wide
+
+**SC Relevance for Quantix:**
+Middle-mile autonomous is the near-term threat/opportunity zone for bulk carriers. Gatik's fixed-route driverless ops are currently parcel/grocery — not bulk — but the regulatory and operational playbook is being written now. For Quantix: (1) driver scarcity remains the #1 capacity constraint; autonomous middle-mile on dedicated chemical/plastic pellet lanes (terminal-to-terminal) is a 3–5 year planning horizon item worth tracking; (2) the 5% scale value stat is a useful benchmark — Quantix should not count autonomous ROI until it has the data infrastructure and operational discipline to be in that 5%.
+
+**Tags:** autonomous-trucking, Gatik, Aurora, Waabi, AI-route-optimization, UPS-ORION, driver-scarcity, middle-mile, bulk-transport, Quantix-relevant
+
+---
+
+### Insight 3: Warehouse Automation — Tariff Inflation Distorts Market Growth; Port Front-Loading Fades
+**Date:** May 2026
+**Source:** Inbound Logistics — "Key Takeaways Shaping the Future of the Global Supply Chain" (inboundlogistics.com, citing Interact Analysis research)
+**Knowledge Tier:** Mid-frequency (industry research synthesis — 2025–2026 data)
+
+Two related findings on the capital investment and inventory cycle:
+
+**Warehouse Automation:**
+- 2025 order intake grew **7% YoY** — but partially illusory: steel/aluminum tariffs (25%) inflated system prices, so real volume growth was lower
+- "Great Divide" in vendor performance: large vendors with enterprise accounts (Toyota Industries +65%, TGW +55%, Dematic +50%) surged; SME-focused vendors struggled (AutoStore -5%)
+- Mobile robot segment outperformed: **Geek+ reported 30% H1 growth** despite broader softness — but segment remains volatile (EK Robotics bankruptcy)
+- **2026 outlook:** brownfield modernization (extracting more from installed assets) is the dominant investment thesis — capex-constrained companies optimizing what they have, not buying new
+
+**Port/Inventory Cycle:**
+- Port activity expected to **flatten or ease in H2 2026** as tariff front-loading effects fade
+- More sophisticated inventory analytics now helping smooth import cycles — the panic-buy bulge is moderating
+- Structural challenges (labor scarcity, compliance costs) continue to limit trucking capacity expansion and sustain upward rate pressure
+
+**SC Relevance for Quantix:**
+The brownfield modernization trend at shippers means terminal investment justification needs to shift from "new build" to "optimize existing." Lean tools (5S, VSM, TPM) for terminal throughput are the right play in this capex climate. The port moderation thesis also implies domestic freight volumes may ease mid-year — a softer rate environment for spot trucking. Quantix's contract mix vs. spot exposure should be reviewed against this cycle signal.
+
+**Tags:** warehouse-automation, tariffs, brownfield-modernization, mobile-robots, port-volumes, inventory-cycles, trucking-rates, freight-market, terminal-ops, Quantix-relevant
+
