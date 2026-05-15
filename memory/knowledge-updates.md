@@ -6375,3 +6375,62 @@ The brownfield modernization trend at shippers means terminal investment justifi
 
 **Tags:** warehouse-automation, tariffs, brownfield-modernization, mobile-robots, port-volumes, inventory-cycles, trucking-rates, freight-market, terminal-ops, Quantix-relevant
 
+
+---
+
+## 2026-05-15 PM — Evening Knowledge Scan
+
+### Insight 1: Freight Market Enters Historic "Uncharted Territory" — LMI April 2026
+**Source:** Bulk Transporter / Logistics Managers' Index (April 2026 Report) — published May 14, 2026
+**URL:** https://www.bulktransporter.com/fleet-management/news/55377676/report-freight-market-enters-uncharted-territory
+**Knowledge Tier:** High-frequency (current market data — volatile; verify before acting)
+
+The April 2026 Logistics Managers' Index (LMI) read at **69.9** (up 4+ pts from March's 65.7), signaling strong industry expansion — but with deeply distorted internal dynamics:
+- **Transportation capacity: 28.4** — second-lowest reading in the index's nearly 10-year history
+- **Transportation prices: 95** — second-highest measure ever recorded
+- **Spread: 66.6 points** — the largest gap between freight costs and available capacity ever measured
+- Warehousing prices (72.7) and inventory costs (74.7) both above the 70.0 "significant expansion" threshold
+- Aggregate logistics costs at **242.4** — highest since April 2022; prior readings above 240 have historically preceded supply-driven inflation
+- Per Steven Carnovale (FAU): "Previous readings signaled tightening and price escalation — but this large a gap is notable"
+
+**SC Relevance for Quantix:** A 66-point capacity-price spread means shippers are bidding hard for scarce truck capacity. For a carrier with 4,500+ trucks, this is a revenue tailwind — but it also means your customers are under cost pressure. Expect rate negotiation tension. Fleet positioning and load acceptance strategy becomes a tactical weapon right now. The inflation warning also signals potential cost pass-through risk for fuel, maintenance, and equipment.
+
+**Tags:** market-dynamics, freight-rates, capacity, transportation-cost, Quantix-revenue-impact
+
+---
+
+### Insight 2: Proactive Fleet Management Displacing Reactive Compliance — J.J. Keller 2026 State of Fleet Management
+**Source:** J.J. Keller Center for Market Insights, 6th Annual State of Fleet Management Study — cited Bulk Transporter, May 15, 2026
+**URL:** https://www.bulktransporter.com/fleet-management/news/55377978/study-top-fleet-managers-are-increasingly-proactive
+**Knowledge Tier:** Mid-frequency (annual industry study, 2026 edition)
+
+Leading fleet managers are shifting decisively from **reactive compliance** to **proactive prevention** — the defining operational trend in trucking as margins compress. Key findings:
+- Top fleet management priorities: preventative maintenance (avoid breakdowns/accidents), regulatory tracking, driver qualification assurance, real-time non-compliance detection, identifying repair needs before incidents
+- Compliance is evolving from **documentation-based** to **real-time visibility + action**
+- 2/3 of fleet managers describe the role as "very or moderately challenging" — citing regulatory change, hiring/retention, documentation, and maintenance as chronic pressures
+- Per J.J. Keller senior compliance expert Daren Hansen: *"Small gaps in compliance, training or maintenance can quickly turn into major issues. A structured safety and compliance program helps fleets stay ahead of risk."*
+
+**SC Relevance for Quantix:** This directly validates an investment thesis for Quantix: building real-time driver compliance monitoring, predictive maintenance workflows, and structured safety programs isn't just safety-oriented — it's margin-protective. At 4,500+ trucks and 50+ terminals, a systemic proactive maintenance program is a Six Sigma define-worthy opportunity: measure cost-per-breakdown vs. cost-per-preventative-intervention. DMAIC this.
+
+**LSS Application:** Define phase = unplanned breakdown rate + cost delta vs. PM cost. Measure = current breakdown frequency by asset type/age/terminal. Analyze = Pareto by failure type/region. Improve = PM schedule tightening + predictive sensor data. Control = dashboard + escalation protocol.
+
+**Tags:** fleet-management, preventative-maintenance, compliance, driver-safety, Quantix-operations, DMAIC, process-improvement
+
+---
+
+### Insight 3: Lean Six Sigma for Sustainable Supply Chain — Freight Cost Reduction via Sourcing Process Improvement (2025 Peer-Reviewed)
+**Source:** ScienceDirect — "Lean Six Sigma and Sustainable Supply Chain Management: A Case Study in Electric Vehicle Parts Manufacturing" (Aug 2025)
+**URL:** https://www.sciencedirect.com/org/science/article/abs/pii/S2040416625000311
+**Knowledge Tier:** Mid-frequency (peer-reviewed case study, 2025 — stable methodology, recent validation)
+
+A 2025 peer-reviewed case study confirms LSS application in supply chain sourcing delivers measurable, durable gains. Key validated findings:
+- LSS established a **thorough and lean sourcing process** — eliminating non-value-added steps in supplier qualification and onboarding
+- **Supplier selection and performance monitoring** improved through structured DMAIC-driven criteria
+- **Overall freight costs reduced** as a direct result of the sourcing process improvement — not just from rate negotiation, but from waste elimination in the process itself
+- Framework integrates LSS methodology with sustainability objectives (Green Lean Six Sigma) — aligning cost reduction with ESG commitments
+- Validated across three phases: framework conception → testing → validation (PRISMA-aligned literature review grounded the tool selection)
+
+**SC Relevance for Quantix:** This is the academic validation for what Dale already knows operationally: DMAIC applied to carrier sourcing, lane assignment, and supplier qualification processes produces freight cost reduction even when the market rate environment is unfavorable. In the current high-price freight environment (see Insight 1), controlling process waste in sourcing and carrier management is the controllable lever. The sustainability angle also matters: chemical shippers increasingly require ESC/sustainability documentation from carriers — Quantix should position Responsible Care participation (per ACC awards to KAG and Schneider Bulk, May 2026) as a competitive differentiator.
+
+**Tags:** lean-six-sigma, DMAIC, sourcing, freight-cost, supplier-management, sustainability, Green-LSS, process-improvement, Quantix-competitive-positioning
+
