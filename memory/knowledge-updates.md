@@ -6496,3 +6496,70 @@ This matters because Amazon now has scale in: air freight (ATSG/Amazon Air), las
 
 **Tags:** #Amazon #vertical-integration #3PL #freight-management #competitive-landscape #Quantix-strategy #market-disruption
 
+
+---
+
+## 2026-05-18 PM — Evening Knowledge Scan
+
+### Insight 1: Multi-Dimensional SC Risk Management — Cyber, Climate, and Geopolitical Convergence (2026)
+**Source:** Michigan State University Online / McKinsey Global Supply Chain Leader Survey synthesis — "Supply Chain Resilience 2026: Why Disruption Is the New Normal" (April 2026)
+**URL:** https://www.michiganstateuniversityonline.com/resources/supply-chain/supply-chain-resilience-in-2026-why-disruption-is-the-new-normal-and-how-leaders-are-preparing/
+**Knowledge Tier:** Mid-frequency (research synthesis; cites McKinsey 2024 survey + WEF Global Cybersecurity Outlook 2026)
+
+**Summary:**
+- 9 in 10 organizations reported significant SC challenges in 2024 (McKinsey Global SC Leader Survey)
+- Four converging risk vectors are reshaping 2026 SCRM: geopolitical trade restrictions (OECD data shows export restrictions on critical raw materials rising sharply), cyber threats (WEF: 65% of large companies cite third-party/SC vulnerabilities as top cybersecurity challenge), climate-related infrastructure disruption, and tier-2+ visibility gaps
+- Key finding: most organizations still lack visibility beyond first-tier suppliers — McKinsey notes SC risk capabilities "remain weak beyond first-tier suppliers," leaving upstream vulnerabilities invisible until they cascade
+- Resilience in 2026 is defined as embedding adaptability into strategy — not just maintaining buffer stock or backup vendors
+
+**SC Relevance:**
+Directly applicable to Quantix's risk posture. Quantix's 50+ terminal, 4,500+ truck network spans multiple states and commodity types — an export restriction on chemical feedstocks or a cyberattack on a TMS/ERP system could cascade rapidly. The tier-visibility gap is especially relevant: if a shipper's chemical plant is downstream of a constrained raw material, Quantix needs early signal, not a Friday call saying "no product to move." Proactive risk dashboards and shipper partnership protocols should be on the agenda.
+
+**Tags:** risk-management, cybersecurity, geopolitical, tier-visibility, resilience, multi-dimensional-risk
+**Tier classification:** Mid-frequency (cite compilation date; underlying McKinsey/WEF data is 2024–2026)
+
+---
+
+### Insight 2: 2026 SC Disruption Preparedness — Digital Twins, Dual-Sourcing, and Real-Time Data Unification as Operational Standard
+**Source:** Scope Recruiting — "Preparing for 2026 Supply Chain Disruptions: 10 Expert Strategies" (April 2026); Xeneta — "The Biggest Supply Chain Risks of 2026" (February 2026)
+**URLs:** https://www.scoperecruiting.com/blog/supply-chain-disruption-preparedness-2026 | https://www.xeneta.com/blog/the-biggest-supply-chain-risks-of-2026-and-how-to-navigate-them
+**Knowledge Tier:** High-frequency (practitioner interviews + market intelligence; volatile — reflect 2026 conditions)
+
+**Summary:**
+Top 10 practitioner-sourced actions from logistics/operations leaders for 2026 disruption readiness:
+1. **Re-map sourcing corridors** to China+1 hubs (Vietnam, India) with bonded warehouse / pre-cleared customs protocols before a port closure forces the issue
+2. **Unified data view first** — system integration precedes resilience; fragmented data creates false confidence
+3. **Replace static schedules with predictive reordering** driven by real-time demand signals
+4. **Digital twin modeling** — simulate disruption scenarios before they happen; don't trust the plan without testing it
+5. **Dual-supplier strategy with early-warning dashboards** that flag delays at the carrier/lane level
+6. **Infrastructure mirroring + documented role succession** — not just IT backup but key-person continuity
+
+Xeneta adds: 2026 market-timing risk is acute — tariff uncertainty, Red Sea capacity flux, and Chinese New Year timing are creating a narrow window to lock in favorable contract rates. Shippers waiting for clarity may miss the window; shippers locking too early may overpay if Red Sea reopening floods capacity.
+
+**SC Relevance:**
+The digital twin insight is high-value for Quantix at scale. With 4,500+ assets across 50+ terminals, scenario modeling for major disruptions (terminal closure, driver shortage spike, bridge/port restriction) could shift decision-making from reactive to pre-positioned. The key-person continuity point reinforces existing hive memory on personnel risk in hazmat/chemical logistics. The unified data view imperative aligns with Quantix's AI-in-the-loop strategy — data fragmentation kills the value of any AI overlay.
+
+**Tags:** risk-management, digital-twin, sourcing-diversification, data-visibility, continuity-planning, contract-timing
+**Tier classification:** High-frequency — flag as current conditions; re-verify after Q3 2026
+
+---
+
+### Insight 3: Agrochemical Bulk Chemical Transport — Flexible Metered-Trailer + Dry Van Hybrid Carrier Model Improves On-Time Delivery
+**Source:** Schneider National Case Study — "Bulk Chemical Transport Helps Supplier Deliver Products On Time" (March 2025)
+**URL:** https://schneider.com/resources/case-study/bulk-chemical-transport-helps-supplier-deliver-products-on-time
+**Knowledge Tier:** DC tier (case study documenting a repeatable carrier model; logistics principles are stable)
+
+**Summary:**
+Agrochemical supplier was running a multi-regional carrier model for seasonal chemical deliveries to farms. Key failure modes:
+- Chemical tankers require **specialized meters** for accurate dispensing — most carriers don't stock metered trailers as standard equipment, leading to short-shipments and overbilling disputes
+- Seasonal demand swing (metered bulk tanker in-season → dry van truckload off-season) forced most carriers to refuse or under-serve the account
+- Multi-regional carrier fragmentation created communication gaps and on-time delivery failures
+
+Solution: consolidate to a single carrier (Schneider) capable of providing **both metered tanker and dry van truckload**, switching by season. Outcome: eliminated equipment mismatch disputes, improved on-time delivery, simplified carrier relationship management.
+
+**SC Relevance:**
+This is a direct analog to Quantix's operational model — bulk chemical OTR with specialized equipment requirements. The core lesson: **carrier specialization and equipment flexibility are competitive differentiators in chemical bulk**. A multi-regional, fragmented carrier base introduces coordination overhead and equipment-fit risk. For Quantix, it's a validation that consolidating complex accounts (specialized equipment + seasonal swing) under a carrier with dedicated metered-trailer capacity is a defensible value proposition. Worth incorporating into Quantix sales/BD materials as a case study framework — "we solve what generalist carriers can't."
+
+**Tags:** bulk-chemical, metered-trailer, carrier-consolidation, agrochemical, seasonal-demand, equipment-specialization, OTR
+**Tier classification:** DC tier (principles stable; case facts from 2025 case study)
+
