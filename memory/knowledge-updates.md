@@ -6434,3 +6434,65 @@ A 2025 peer-reviewed case study confirms LSS application in supply chain sourcin
 
 **Tags:** lean-six-sigma, DMAIC, sourcing, freight-cost, supplier-management, sustainability, Green-LSS, process-improvement, Quantix-competitive-positioning
 
+
+---
+
+## 2026-05-18 AM — Morning Knowledge Scan
+
+### Insight 1: Truckload Market in "Stacked Disruption" — Rates Surging +23% YOY
+**Source:** C.H. Robinson NA Truckload Freight Market Update, May 2026 + KCH Transportation Monthly Freight Update, May 2026
+**Knowledge Tier:** High-frequency (current market data — volatile; verify before quoting in contracts)
+
+The 2026 truckload market is entering a "stacked disruption" period that analysts weren't forecasting this severely three months ago. Several compounding forces are driving rate escalation:
+
+- **C.H. Robinson raised its 2026 dry van cost-per-mile forecast from +17% to +23% YOY** — a significant upward revision mid-cycle
+- **Capacity is materially tighter than any recent comparable cycle** — driven by two years of carrier exits, reduced fleet investment, and persistent driver shortage
+- **Q2 disruption stack:** Mother's Day freight surge (South Florida flowers), Roadcheck Week May 12–14 (CVSA focus: ELD tampering + cargo securement), Memorial Day scheduling disruption, and compressed produce season from late southern freezes — all hitting simultaneously
+- **Flatbed** is the wild card: AI data center buildout is generating massive demand for structural steel, transformers, and industrial hardware. Flatbed spot linehaul rates were **+27% YOY in May** — within range of the June 2021 record high
+- **Port import surge:** LA/Long Beach saw import volumes +28.8%, +44.5%, +47.6% YOY across the last week of April and first two weeks of May — likely tariff-driven pull-forward creating downstream freight pressure
+
+**Application for Quantix:** Bulk chemical carriers won't feel flatbed dynamics directly, but tighter overall capacity means competition for qualified drivers intensifies. Lane pricing on spot exposure needs to be reassessed — the +23% YOY dry van benchmark will pull tank rates upward. This is also a meaningful signals environment for S&OP: if shipper customers are pulling forward inventory, their order patterns in Q3 may dip sharply.
+
+**Tags:** #freight-rates #capacity #truckload #seasonal #tariff-impact #bulk-chemical #S&OP
+
+---
+
+### Insight 2: AI as "System of Action" — The Shift from Insight to Automated Execution
+**Source:** Inbound Logistics — Top Supply Chain Technology Trends Reshaping Logistics in 2026 (May 2026, annual survey)
+**Knowledge Tier:** Mid-frequency (annual industry survey with vendor benchmarks — directionally stable)
+
+The definitive signal from Inbound Logistics' 2026 annual technology survey: **AI has crossed from decision-support tool to autonomous execution engine** in leading supply chains. Key findings:
+
+- **AI orchestration platforms** (e.g., Aera Technology, Decklar) are now described as "always-on decision intelligence agents" — proactive rather than reactive
+  - Aera's Skills platform moves workflows from reactive to proactive; claims up to **15% reduction in logistics costs**
+  - Decklar fuses physical sensor signals with enterprise data to trigger immediate action (no human in loop) for Global 2000 firms
+- **Lucas Systems' AI orchestration engine** has powered 112 billion+ picks — warehouse AI is no longer experimental
+- **Causal AI** (Deposco) is prescribing *why* costs are rising and auto-correcting WMS decisions; helped Psycho Bunny cut short-ships by 90%
+- **Brownfield modernization** is the dominant investment thesis for 2026: extracting more from installed assets rather than full network resets — driven by capital constraints
+- **Distributed network design** is winning over consolidated footprints: local-for-local sourcing, shorter response loops, reduced single-point-of-failure exposure
+- **Top innovation adoption priorities (Kenco data):** AI/ML (27%), computer vision (23%), supply chain digitization (18%), generative AI (17%)
+
+**Application for Quantix:** The "AI as executor" paradigm is the right frame for Quantix's AI-in-the-loop automation thesis. The brownfield modernization trend directly validates the approach of layering intelligence on existing terminal/fleet assets rather than replacing them. Computer vision (23% adoption priority) is particularly relevant for terminal yard management and load verification.
+
+**Tags:** #AI-orchestration #automation #warehouse #brownfield #decision-intelligence #computer-vision #Quantix-alignment
+
+---
+
+### Insight 3: Amazon Unifies Logistics — Existential Pressure on 3PLs and Asset Carriers
+**Source:** FreightWaves, May 2026 (trucking news summary)
+**Knowledge Tier:** High-frequency (breaking market development — monitor for follow-on reporting)
+
+Amazon announced it has **stitched together its logistics services into a single unified supply chain product** targeting manufacturers and retailers to move and distribute both heavy freight and parcels. This is a direct competitive threat to:
+
+- **Asset-based carriers** who handle manufacturer-to-retailer moves
+- **Freight management platforms** and 3PL intermediaries
+- **Traditional TMS/freight brokerage** models
+
+This matters because Amazon now has scale in: air freight (ATSG/Amazon Air), last-mile (DSP network), middle-mile trucking, and fulfillment centers. Unifying these into a single product offering removes the need for shippers to coordinate across providers — and removes the margin layer that intermediaries have historically captured.
+
+**APICS lens:** This is textbook vertical integration strategy (APICS CPIM Module 2: Supply Chain Design). Amazon is leveraging its existing asset base and data advantage to eliminate coordination costs for shippers — a classic "captive logistics" play. The parallel is DHL Supply Chain and XPO building integrated offerings, but Amazon's data advantage is structurally superior.
+
+**Application for Quantix:** Direct threat is moderate for bulk/chemical segment (Amazon doesn't do bulk hazmat or tanker), but the model sets a benchmark expectation: shippers will increasingly expect single-provider, data-transparent, end-to-end coverage. Quantix's 4,500-truck + 50-terminal footprint is a natural moat *if* data and visibility capabilities are built to match. This reinforces the urgency of the AI-in-the-loop automation agenda.
+
+**Tags:** #Amazon #vertical-integration #3PL #freight-management #competitive-landscape #Quantix-strategy #market-disruption
+
