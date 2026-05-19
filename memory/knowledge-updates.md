@@ -6563,3 +6563,74 @@ This is a direct analog to Quantix's operational model — bulk chemical OTR wit
 **Tags:** bulk-chemical, metered-trailer, carrier-consolidation, agrochemical, seasonal-demand, equipment-specialization, OTR
 **Tier classification:** DC tier (principles stable; case facts from 2025 case study)
 
+
+---
+
+## 2026-05-19 AM — Morning Knowledge Scan
+
+### Insight 1: AI Becomes "System of Action" — Decision Orchestration Replaces Decision Support
+**Source:** Inbound Logistics — "Top Supply Chain Technology Trends Reshaping Logistics in 2026" (May 14, 2026)
+**URL:** https://www.inboundlogistics.com/articles/supply-chain-technology-trends-2026/
+**Knowledge Tier:** High-frequency (annual industry survey — reflects current adoption, re-verify annually)
+
+**Summary:**
+The 2026 Inbound Logistics Top 100 Technology Providers survey signals a decisive shift: AI has moved from decision-support (dashboards, alerts) to **decision orchestration** — "always-on" agents that proactively execute logistics workflows without human initiation. Key data points:
+- Providers like **Aera Technology** deploy AI "Skills" that shift reactive workflows to proactive orchestration, reducing logistics costs **up to 15%**
+- **Shipwell's** production-grade AI now automates **up to 80% of freight decisions** end-to-end
+- **Causal AI** (Deposco) not only flags cost increases but auto-triggers WMS corrections — one brand cut short-ships by 90%
+- 2026 warehouse investment is pivoting to **brownfield modernization** — squeezing more from installed assets rather than building new facilities
+- Network design preference shifting to **smaller, distributed footprints** (local-for-local) to reduce single-point-of-failure risk and shorten response loops
+
+**SC Relevance for Quantix:**
+The "system of action" framing aligns directly with Dale's AI-in-the-loop automation thesis. For a carrier with 4,500+ trucks and 50+ terminals, agentic orchestration of load assignment, empty repositioning, and driver dispatch could drive meaningful cost reduction without requiring full network redesign. The brownfield modernization angle is also relevant — Quantix doesn't need to rebuild; it needs AI layers on existing dispatch and TMS systems. The local-for-local network preference among shippers is a tailwind for regional bulk carriers that can offer terminal proximity.
+
+**Tags:** agentic-AI, decision-orchestration, warehouse-automation, brownfield-modernization, network-design, TMS, freight-automation
+**Tier classification:** High-frequency — flag as current; re-verify annually against next IL survey
+
+---
+
+### Insight 2: Global Supply Chain Pressure Index Rises for Third Consecutive Month — Iran Conflict + Energy Costs Reviving COVID-Era Disruptions
+**Source:** Rinchem Weekly Supply Chain Review, citing NY Fed Global Supply Chain Pressure Index & Fast Company (May 14, 2026)
+**URL:** https://www.rinchem.com/supply-chain-review-may-13-2026/
+**Knowledge Tier:** High-frequency (current market conditions — volatile; re-verify monthly)
+
+**Summary:**
+The NY Fed's **Global Supply Chain Pressure Index (GSCPI)** has risen for three consecutive months as of May 2026 — a leading indicator of sustained disruption, not a one-off spike. Driving factors:
+- **Iran conflict** driving geopolitical instability and energy cost escalation
+- Companies **rerouting cargo away from the Red Sea** (same pattern as Houthi disruptions), adding transit days and cost
+- **40% of U.S. container traffic** moves through the Panama Canal — climate-driven drought risk remains a structural vulnerability
+- Indicators rising across: shipping congestion, delivery delays, transportation costs, and inventory pressure
+- Pattern rhymes with COVID-era crisis: "stockpile and reroute" behavior re-emerging
+
+**SC Relevance for Quantix:**
+For bulk chemical transportation, rising energy costs directly compress carrier margins (fuel is the largest variable cost). Geopolitical instability affecting feedstock and chemical raw material imports creates demand volatility — Quantix customers may see input shortages that shift volume patterns. The Panama Canal vulnerability (40% of U.S. container traffic) underscores structural chokepoint risk for any SC dependent on imported inputs. Customers shipping chemical precursors via ocean freight will face higher costs and longer lead times — pressure that typically flows downstream to domestic carriers as customers try to offset with domestic sourcing speed. Watch for demand pull from petrochemical customers reshoring import volumes.
+
+**Tags:** GSCPI, geopolitical-risk, Red-Sea, Iran-conflict, Panama-Canal, energy-costs, freight-disruption, bulk-chemical
+**Tier classification:** High-frequency — current conditions; re-verify monthly
+
+---
+
+### Insight 3: Supreme Court Rules Freight Brokers Owe "Duty of Ordinary Care" in Carrier Selection — Carrier Vetting Tech Stack Now a Legal Necessity
+**Source:** FreightWaves — "The Carrier Vetting Tech Stack Is the New Line of Defense in Freight" (May 2026)
+**URL:** https://www.freightwaves.com/news/the-carrier-vetting-tech-stack-is-the-new-line-of-defense-in-freight
+**Knowledge Tier:** DC tier (legal ruling — permanent shift in broker/3PL liability standard; the ruling itself is stable)
+
+**Summary:**
+On **May 14, 2026**, the U.S. Supreme Court ruled (in *Montgomery*) that freight brokers owe a **duty of ordinary care** in carrier selection — meaning brokers, shippers, and 3PLs can now be held liable for carrier-caused incidents if they failed to vet the carrier adequately. This affects all 28,000+ licensed freight brokers in the U.S.
+
+Key implications:
+- **Carrier vetting is no longer optional** — it is a legal standard of care; documentation of the vetting process will be scrutinized in litigation
+- **Technology stack** required: SMS/SaferWatch compliance checks, CSA score monitoring, insurance verification, and incident history — all timestamped and logged
+- Brokers and 3PLs without documented vetting processes are now exposed to plaintiff attorneys armed with this ruling
+- **Cargo theft** and freight fraud (fake carriers, double-brokering) have been rising — this ruling creates financial incentive to close those gaps
+- The insurance gap corollary: broker cargo and liability policies will now be stress-tested against this standard of care doctrine
+
+**SC Relevance for Quantix:**
+Quantix operates as a carrier — this ruling is a competitive tailwind. Shippers and 3PLs will now prefer carriers with clean CSA scores, documented safety records, and hazmat compliance documentation. For bulk chemical (which carries additional DOT/EPA liability exposure), the due diligence bar will be even higher. Quantix should:
+1. Ensure CSA scores and safety records are current and marketable
+2. Consider proactively providing vetting packages to broker/3PL partners
+3. Monitor whether this ruling accelerates consolidation away from spot-market anonymous carriers toward relationship-based, vetted carrier programs
+
+**Tags:** carrier-vetting, Supreme-Court, broker-liability, duty-of-care, freight-safety, CSA, regulatory, hazmat-compliance, cargo-theft
+**Tier classification:** DC tier (legal ruling is settled; implications are permanent)
+
