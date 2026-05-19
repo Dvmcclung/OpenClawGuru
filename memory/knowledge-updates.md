@@ -6634,3 +6634,69 @@ Quantix operates as a carrier — this ruling is a competitive tailwind. Shipper
 **Tags:** carrier-vetting, Supreme-Court, broker-liability, duty-of-care, freight-safety, CSA, regulatory, hazmat-compliance, cargo-theft
 **Tier classification:** DC tier (legal ruling is settled; implications are permanent)
 
+
+---
+
+## 2026-05-19 — PM Knowledge Update (Cron 4:02 PM ET)
+
+### Insight 1: APS Implementation in Chemical Manufacturing — Arxada Case Study (EY, March 2026)
+
+**Date:** 2026-05-19
+**Source:** EY Consulting Case Study — "How can you inject speed in the supply chain planning formula?" (March 2026)
+**URL:** https://www.ey.com/en_us/insights/consulting/ey-consulting-case-studies/arxada-chemical-supply-chain-planning
+
+**Summary:**
+Arxada (specialty chemical manufacturer, 24 plants, 100+ countries) struggled with high inventory, high obsolescence costs, manual planning processes, spreadsheets, and Word-document-based capacity planning. Their transformation: implementation of an OMP-based Advanced Planning System (APS) with EY as integrator. Key results: inventory reductions, lot traceability, shelf-life management, and elimination of daily firefighting. The integration reportedly delivered value faster than typical multi-year APS timelines.
+
+**Why it matters for bulk/chemical SC:**
+- Confirms that manual planning tools (spreadsheets, phone-call-based capacity dispatch) are a root-cause failure mode in chemical supply chains — not just a symptom
+- Shelf-life management and lot traceability are compliance requirements, not optional enhancements — any Quantix chemical terminal that handles time-sensitive cargoes (hazmat, specialty) faces similar constraints
+- APS implementations in chemical environments must accommodate prior cargo restrictions, segregation requirements, and regulatory traceability — this is a differentiated complexity vs. general freight TMS
+- "Years of effort and millions of dollars" to realize APS value is the historical benchmark — the case study claims a new model breaks this; worth watching for how OMP + EY packaged a faster-ROI approach
+
+**SC Relevance:** HIGH — directly applicable to chemical carrier operations planning, terminal capacity dispatch, and inventory visibility
+**Knowledge Tier:** Mid-frequency (case study synthesis, March 2026)
+**Tags:** #advanced-planning #chemical-logistics #APS #inventory-management #process-improvement #EY #arxada
+
+---
+
+### Insight 2: Five Pillars of Geopolitical Supply Chain Resilience (DSV, 2026 Hormuz Crisis Context)
+
+**Date:** 2026-05-19
+**Source:** DSV Expert Opinion — "Protect pharma supply chains from geopolitics" (May 2026)
+**URL:** https://www.dsv.com/en-us/insights/expert-opinions/protect-pharma-supply-chains-from-geopolitics
+
+**Summary:**
+DSV published a framework for protecting supply chains from geopolitical disruption, anchored by an illustrative 2026 Strait of Hormuz crisis scenario. The five pillars identified are: (1) **Agility** — multi-modal networks to bypass bottlenecks; (2) **Regionalization** — building production/sourcing closer to end markets to reduce tariff and trade-restriction exposure; (3) **Local presence and intelligence** — human-on-the-ground networks that function when digital tools fail; (4) **Zero-tolerance compliance** — GxP and regulatory standards must hold even during crisis routing; (5) **E2E visibility** — end-to-end monitoring with rapid risk assessment capability for new routes. Additional data point: Asia now represents 85%+ of global growth in innovative drug pipelines; API production has shifted dramatically (India 43%, China 45% of DMF filings in 2024 vs. near-zero in 1981), creating structural geographic risk for Western supply chains.
+
+**Why it matters for bulk/chemical SC:**
+- The "digital tools fail during crisis, burden shifts to human relationships" finding is directly applicable to Quantix terminal ops — during disruptions (weather, port closures, regulatory holds), dispatch coordinators and terminal managers become the actual risk mitigation layer, not the TMS
+- Regionalization driving investment in NA production hubs (chemicals, plastics) is a favorable demand signal for Quantix's Gulf Coast terminal network
+- The zero-tolerance compliance principle echoes the chemical carrier regulatory context: DOT, hazmat endorsements, and prior cargo restrictions cannot be waived under load pressure — this is a cultural competency, not a system control
+- 72% of SC executives say automated mitigation is now mandatory (Tradeverifyd 2026 stat, same research cycle) — yet human redundancy remains the actual backstop
+
+**SC Relevance:** HIGH — risk management frameworks, terminal network strategy, driver/coordinator role in crisis response
+**Knowledge Tier:** Mid-frequency (expert opinion, current 2026 events)
+**Tags:** #risk-management #geopolitical-risk #resilience #regionalization #supply-chain-disruption #DSV #hormuz #human-capital
+
+---
+
+### Insight 3: Dry Bulk Terminal Operations — Optimization Model Review (ScienceDirect, June 2025)
+
+**Date:** 2026-05-19
+**Source:** ScienceDirect — "Dry bulk terminal operations: A critical review of models and optimization methods" (Transportation Research Part C, June 2025)
+**URL:** https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002256
+
+**Summary:**
+Peer-reviewed review article categorizing dry bulk terminal (DBT) optimization into four operational zones: (1) **Landside** — truck/rail loading/unloading, interface between terminal and internal transport; (2) **Stockyard** — material storage, segregation, and flow management; (3) **Quayside** — vessel/berth operations; (4) **Seaside** — maritime approach/departure. The review synthesizes optimization models across each zone, finding that landside truck turnaround time and stockyard flow are the most common bottlenecks in high-throughput DBT environments. Simulation, mixed-integer programming, and AI-assisted scheduling are the leading methods applied to landside gate optimization and truck appointment systems.
+
+**Why it matters for bulk/chemical SC:**
+- For Quantix's dry bulk (plastic pellet) terminals, the landside zone is the primary operational domain — truck gate throughput, trailer appointment scheduling, and pneumatic offload sequencing are exactly the problem class this research addresses
+- Truck turnaround time (TAT) at terminal gates is a well-documented OTR carrier pain point; simulation-based gate optimization has shown 15-30% TAT reduction in port contexts — translatable to closed terminal environments
+- Truck Appointment Systems (TAS) are highlighted as a high-ROI intervention: pre-scheduling arrivals smooths peak demand, reduces driver wait, and improves terminal throughput utilization
+- AI-assisted scheduling in stockyard flow management reduces manual sequencing labor — relevant if Quantix terminals still use manual dispatch boards or whiteboard scheduling
+
+**SC Relevance:** HIGH — directly applicable to Quantix bulk terminal gate operations, truck appointment scheduling, and throughput optimization
+**Knowledge Tier:** DC tier (peer-reviewed academic review, stable methodology)
+**Tags:** #dry-bulk #terminal-operations #truck-appointment-system #gate-optimization #plastic-pellets #OTR #throughput #simulation
+
