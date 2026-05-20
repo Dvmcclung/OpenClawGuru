@@ -6700,3 +6700,70 @@ Peer-reviewed review article categorizing dry bulk terminal (DBT) optimization i
 **Knowledge Tier:** DC tier (peer-reviewed academic review, stable methodology)
 **Tags:** #dry-bulk #terminal-operations #truck-appointment-system #gate-optimization #plastic-pellets #OTR #throughput #simulation
 
+
+---
+
+## 2026-05-20 AM — Morning Knowledge Scan
+
+### Insight 1: Supply Chain AI's Real Barrier Is Data Quality, Not Model Quality
+
+**Date:** 2026-05-20
+**Source:** Forbes Business Council — "The Next Phase Of Supply Chain AI: 4 Predictions For 2026" (Rana Hajirasouli, University of Cambridge / The Surpluss, May 13 2026)
+**URL:** https://www.forbes.com/councils/forbesbusinesscouncil/2026/05/13/the-next-phase-of-supply-chain-ai-4-predictions-for-2026/
+
+**Summary:**
+Gartner forecasts supply chain management software with agentic AI will grow from under $2B in 2025 to **$53 billion by 2030**. But RAND Corporation research finds over 80% of AI projects fail — twice the rate of other IT projects — and the failure driver is almost never the model. It's the data. The author coins "**classification debt**" — the accumulated mess of inconsistent item master data, unstandardized supplier records, and incomplete transaction history that no AI agent can reason across. By end of 2026, the boardroom conversation is predicted to shift from "which AI vendor?" to "**is our master data even ready for any agent at all?**" Separately, over 40% of agentic AI projects are predicted to be canceled before 2027.
+
+**Why it matters for supply chain practitioners:**
+- This is the operational reality that separates companies that close the AI gap from those that don't — the differentiator is data governance and master data quality, not vendor selection
+- For Quantix: before deploying any AI-in-the-loop automation on dispatch, load planning, or terminal ops, the data foundation (load records, equipment master, lane history, customer/carrier data cleanliness) is the investment that determines whether the model works at all
+- "Classification debt" is a useful concept — SKU proliferation, inconsistent unit of measure, duplicate vendor records, and incomplete carrier profiles are all forms of this debt in a bulk carrier context
+- Agentic AI promises autonomous negotiation, rerouting, and PO execution — but only if the underlying data can support machine-readable decisions
+
+**SC Relevance:** HIGH — strategic AI deployment framing directly applicable to Quantix's AI-in-the-loop build
+**Knowledge Tier:** High-frequency tier (current industry analysis, 2026 — treat as current, subject to revision)
+**Tags:** #AI #agentic-AI #master-data #data-quality #digital-transformation #classification-debt #supply-chain-technology #2026-trends
+
+---
+
+### Insight 2: Autonomous Trucking Reaches Commercial Operations — Dallas to Houston Lane Goes Live
+
+**Date:** 2026-05-20
+**Source:** Aurora Innovation Press Release — "Volvo Autonomous Solutions and DSV announce autonomous freight operations in Texas" (May 13, 2026) + FreightWaves reporting
+**URL:** https://ir.aurora.tech/news-events/press-releases/detail/140/volvo-autonomous-solutions-and-dsv-announce-autonomous-freight-operations-in-texas-usa
+
+**Summary:**
+Volvo Autonomous Solutions (V.A.S.) and DSV have launched **commercial autonomous freight operations** between Dallas and Houston, Texas, using the Volvo VNL Autonomous integrated with the Aurora Driver. This is a depot-to-depot production setup — not a demo. A safety driver is present in the initial phase per Volvo's current operational mode, but the stated ambition is round-the-clock operations and lane expansion. Separately, Einride and EASE Logistics announced a **Level 4 autonomous electric truck pilot in Ohio** (Marysville), extending the ODOT/DriveOhio Truck Automation Corridor. Industry analysts are now calling 2026 the "**commercial readiness year**" for autonomous trucking, with the sector valued at $575.7M and growing. PlusAI and other AV developers are signing operational contracts with freight carriers.
+
+**Why it matters for bulk/chemical transportation:**
+- The Dallas-Houston corridor is a primary lane for the Gulf Coast petrochemical and plastics industry — directly overlapping Quantix's operational geography
+- Autonomous trucking addresses the **driver shortage** (currently the industry's #1 capacity constraint) and enables **24/7 asset utilization** — both high-value for bulk carriers managing dedicated and spot fleets
+- Bulk chemical/plastic pellet hauling involves specialized equipment (pneumatic tankers, dry bulk trailers) not suited for early-generation AV platforms — but **autonomous tractor technology is separable from trailer type**, meaning the industry relevance is real but adoption will lag dry van/flatbed by 3-5 years
+- The regulatory and infrastructure groundwork (ODOT corridors, FMCSA exemptions, depot-to-depot legal frameworks) is being laid now — strategic planning horizon is 2028-2032 for bulk carrier meaningful impact
+
+**SC Relevance:** HIGH (medium-term) — directionally critical for OTR trucking labor strategy; Quantix should monitor AV adoption curves on Gulf Coast lanes
+**Knowledge Tier:** High-frequency tier (live commercial operations announcement, May 2026)
+**Tags:** #autonomous-trucking #AV #OTR #driver-shortage #Aurora #Volvo #DSV #Texas #logistics-innovation #bulk-transport #2026
+
+---
+
+### Insight 3: SCOTUS Broker Liability Ruling Creates New Carrier Safety Vetting Standard
+
+**Date:** 2026-05-20
+**Source:** FreightWaves — "SCOTUS broker liability ruling a tailwind for Samsara's safety platform" (May 2026) — covers *Montgomery v. Caribe Transport II, LLC* (SCOTUS, May 14, 2026)
+**URL:** https://www.freightwaves.com/news/scotus-broker-liability-ruling-a-tailwind-for-samsaras-safety-platform
+
+**Summary:**
+The U.S. Supreme Court ruled **9-0** in *Montgomery v. Caribe Transport II, LLC* (May 14, 2026) that state-law **negligent hiring and selection claims** against freight brokers are **not preempted** by the Federal Aviation Administration Authorization Act (FAAAA). The Court held that such claims fall under the FAAAA's safety exception — meaning freight brokers (and potentially shippers and digital freight platforms) now face direct tort liability when they select carriers with poor safety records and harm results. The ruling immediately impacts carrier vetting standards: safety screening is no longer a best practice, it is a legal exposure point. Samsara (NYSE: IOT) described it as "the start of a new chapter for the freight brokerage industry" and noted demand accelerating for its carrier safety monitoring and AI dashcam platforms.
+
+**Why it matters for bulk chemical carriers:**
+- Quantix operates as a **carrier**, not a broker — but this ruling has both direct and indirect implications:
+  - **Direct:** Customers (chemical shippers, polymer producers) who broker loads to Quantix are now legally incentivized to vet carrier safety records more rigorously. Quantix's safety metrics (CSA scores, FMCSA record, incident rates) become a **revenue-affecting asset**, not just a compliance requirement
+  - **Indirect:** Brokers and 3PLs routing bulk chemical loads will actively de-select carriers with marginal safety profiles. This is a **competitive differentiation opportunity** for carriers with strong safety programs
+  - **Strategic implication:** Investment in driver coaching, AI dashcams, ELD compliance, and safety culture is now directly tied to shipper access and load allocation — the ROI calculation on safety technology just changed
+- "Safety coaching is what really changes the culture" (Samsara VP of Product) — aligns with Lean Six Sigma principle of systemic root cause over symptom treatment
+
+**SC Relevance:** HIGH — direct impact on carrier selection economics and shipper-carrier relationships in the Quantix market
+**Knowledge Tier:** High-frequency tier (SCOTUS ruling May 14, 2026 — legally operative, permanent precedent)
+**Tags:** #safety #carrier-vetting #SCOTUS #broker-liability #FMCSA #CSA-scores #fleet-telematics #Samsara #risk-management #OTR #negligent-hiring #2026
+
