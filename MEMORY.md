@@ -57,7 +57,7 @@ _Initialized: 2026-03-03_
 - **OSHA Heat Standard — Active enforcement 2026:** Two-trigger (80°F/90°F HI). Gulf Coast/Texas terminals are primary exposure zones.
 
 ### Geopolitical & Chemical Supply Risk
-- **Iran/Hormuz energy shock (ongoing — months-to-years duration):** Brent ~$100/bbl (ceasefire fragile). IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — cracker shutdowns; PE/PP cuts live. Polymer production cuts live; demand-side shock still ahead (Morningstar). Duration: months to years. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel cost at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Chemical companies now designing networks around physical redundancy (alternate pipelines, deep-water ports). Re-evaluate weekly.
+- **Iran/Hormuz energy shock (ongoing — months-to-years duration):** Brent ~$100/bbl (ceasefire fragile). IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — cracker shutdowns; PE/PP cuts live. Demand-side shock still ahead. NY Fed **GSCPI rising for 3rd consecutive month** (May 2026) — rerouting from Red Sea adding transit days + cost; 40% of U.S. container traffic via Panama Canal (climate-drought structural risk). Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel cost at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Chemical companies designing networks around physical redundancy. Re-evaluate monthly.
 - **Geopolitics as permanent structural constraint:** Three-hub model (NA/Europe/APAC). Reshoring data: NO manufacturing boom — Kearney Index deeply negative; employment -1%. Real U.S. investment = data centers + power grid (bulk material lane opportunity). 76% of trade professionals view current tariffs as permanent (4+ year horizon). JIC inventory shift = near-term bulk demand tailwind. Contracted capacity = predictability premium.
 - **Chemical logistics sustainability:** Rail/barge lower carbon AND cost per ton-mile. Shipment-level emissions data now a shipper procurement requirement (April 2026). Terminal near waterways = barge integration + sustainability credential.
 
@@ -136,9 +136,8 @@ _Initialized: 2026-03-03_
 - **C.H. Robinson deployed 30+ autonomous AI agents** routinely achieving 90%+ automation on shipping tasks (pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing). Prior AI generations plateaued at 50–60%. DHL (with HappyRobot) routing AI agents for routine calls/emails; humans reserved for exceptions. The competitive floor is shifting: routine dispatch and coordination AI is becoming table stakes for large carriers, not a differentiator.
 - **MHI Annual Industry Report 2026** (500+ SC professionals): 53% of organizations using AI today; 48% rate it as significant or greater disruptive impact. Top use cases: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% of organizations report talent shortages** — the labor gap is structural, not cyclical, and validates AI-in-the-loop as a workforce gap fill, not just an efficiency play. Investment discipline shifting toward targeted ROI-driven initiatives over large transformation programs.
 
-### FHWA "Freedom to Drive" Initiative — Federal Freight Congestion Push (April 2026)
-- FHWA launched April 20, 2026 — national program asking governors to identify top 2–5 congestion bottlenecks for fast-tracked relief. 2024 data: 63 hours/year average urban commuter delay; **$269 billion** in lost productivity. Private-sector partnership and American technology framing signals infrastructure investment signal.
-- Quantix action: monitor Texas, Louisiana, and Ohio corridor nominations — Gulf Coast petrochemical lanes (I-10, I-45, I-35) are core Quantix territory. Congestion relief on these corridors = direct improvement to loaded-mile economics, driver detention costs, and asset utilization. Track state DOT responses for terminal and lane planning input.
+### FHWA "Freedom to Drive" Initiative (April 2026)
+- FHWA asking governors to nominate top congestion bottlenecks for fast-tracked relief. Monitor TX/LA/OH corridor nominations — I-10, I-45, I-35 are core Quantix lanes. Relief = loaded-mile improvement, detention cost reduction, better asset utilization.
 
 ### Freight Cycle & Rate Update — May 2026 (HIGH-FREQUENCY)
 - **Cycle turn confirmed** (April 2026): First in 40 months. Covenant Logistics CEO: *"Drivers are starting to get tight."* Managed Freight +~60% YoY Q1. M&A: 3 billion-dollar logistics deals closed 2026 already.
@@ -184,9 +183,7 @@ _Initialized: 2026-03-03_
 - **Action:** Dale should consider targeted communication to top 10 shipper accounts reinforcing reliability and capacity commitment during tariff uncertainty window
 
 ### Argonne Heavy-Duty Truck Test Facility (DOE, April 2026)
-- DOE-backed facility now open for medium/heavy truck propulsion, AV, and electrification testing
-- Targets 2–3% freight network efficiency gains; covers battery-electric, hydrogen, advanced diesel hybrid, autonomous systems
-- **Quantix application:** use DOE-validated (not OEM-claimed) performance data for future propulsion decisions; track for bulk-specific test results
+- DOE facility open for Class 8 propulsion/AV/electrification testing. Quantix: use DOE-validated (not OEM-claimed) performance data for future propulsion decisions.
 
 ### SAP Autonomous Supply Chain — "AI Grounded in Enterprise Data" (Sapphire 2026)
 - SAP launched Autonomous SCM at Sapphire 2026 — extending its Supply Chain Orchestration platform with AI agents across planning, manufacturing, logistics, and asset ops. Architecture: "anticipate, coordinate, resolve" (replaces "detect and alert"). Agents embedded in ERP/EWM/TM processes — SAP's core argument: AI without trusted, integrated data doesn't scale or earn operational trust.
@@ -215,6 +212,12 @@ _Initialized: 2026-03-03_
 
 ### Electric Trucks — Tesla Semi Mass Production + Port Drayage Pilot (April 29–May 2, 2026)
 - Tesla Semi mass production confirmed (4680 battery, FSD, ~800km range). MDB Transportation live pilot at LA/Long Beach ports. Quantix near-term exposure: LOW. Strategic watch: Scope 3 shipper requirements; 5-year fleet plan should include EV scenario for terminal-to-terminal regional lanes. Trigger: Class 8 EV at 500+ miles in heat/heavy load = ~2–3 years out.
+
+### Supreme Court — Freight Broker Duty of Care in Carrier Selection (May 14, 2026, DC-Tier Legal Ruling)
+- SCOTUS ruled in *Montgomery* that freight brokers owe a **duty of ordinary care** in carrier selection — brokers/3PLs now legally liable for carrier-caused incidents if vetting was inadequate. Affects all 28,000+ licensed brokers.
+- Carrier vetting must be documented: SMS/SaferWatch compliance, CSA score history, insurance verification, incident history — timestamped and logged.
+- **Quantix competitive tailwind:** shippers and 3PLs will consolidate toward carriers with clean CSA scores and documented hazmat compliance. Bulk chemical's DOT/EPA overlay raises the vetting bar further — Quantix can market a proactive vetting package to broker/3PL partners.
+- Secondary signal: accelerates shift from spot-market anonymous carriers toward vetted carrier programs.
 
 ### Cargo Theft Spike + Procurement Disruption Costs (Q1 2026, May 5, 2026)
 - **CargoNet Q1 2026:** Cargo theft increasingly sophisticated — fictitious pickup, identity-based fraud replacing smash-and-grab. Chemical/plastics carriers face both physical theft and documentation fraud risk at terminal level.
@@ -267,10 +270,7 @@ _Initialized: 2026-03-03_
 - Source: *Intelligent and Sustainable Manufacturing*, DOI: 10.70322/ism.2026.10007
 
 ### ICS Tanker Safety Guide — 6th Edition (April 2026, DC-Tier Standard)
-- ICS released 6th edition of *Tanker Safety Guide (Chemicals)* — most significant update since 1971 original. Developed with Shell + Stolt Tankers.
-- Key updates: refined enclosed space entry protocols; new shore power safety guidelines; Annex I→II cargo changeover flowchart (explicit procedural map for highest cross-contamination risk point); MARPOL Annex II → executable shipboard procedures bridge.
-- OTR bulk relevance: prior cargo restriction changeover discipline and tank cleaning protocols are the same problem domain as marine changeover procedures. ICS approach (regulation → executable checklist) is a direct model for Quantix SOP development.
-- Shore power decarbonization guidelines signal direction of EPA/DOT push for OTR zero-emission terminal operations.
+- Most significant update since 1971. Key: Annex I→II cargo changeover flowchart, enclosed space entry protocols, MARPOL Annex II → executable procedures. OTR bulk relevance: ICS regulation→checklist model is the SOP development template for Quantix prior cargo restriction and tank cleaning protocols.
 
 ### Tank Truck Sector — CARB Waiver Revocation + 2025 Status (May 2026)
 - **CARB waiver revocation (June 2025):** Trump revoked California's Advanced Clean Trucks, ACC II, and Heavy-Duty Omnibus waivers — eliminating the de facto national ZEV mandate. Significant capex relief for Quantix: defer large EV fleet commitments; redirect to operational AI tools. State-specific California ZEV exposure remains on 5–10 year horizon only.
