@@ -6767,3 +6767,69 @@ The U.S. Supreme Court ruled **9-0** in *Montgomery v. Caribe Transport II, LLC*
 **Knowledge Tier:** High-frequency tier (SCOTUS ruling May 14, 2026 — legally operative, permanent precedent)
 **Tags:** #safety #carrier-vetting #SCOTUS #broker-liability #FMCSA #CSA-scores #fleet-telematics #Samsara #risk-management #OTR #negligent-hiring #2026
 
+
+---
+
+## 2026-05-20 — Evening Update (PM Cron)
+
+### Insight 1: Chemical Supply Chain APS Implementation — Arxada / EY Case Study
+**Date:** 2026-05-20
+**Source:** EY Consulting Case Studies — Arxada Chemical Supply Chain Planning (March 2026)
+**URL:** https://www.ey.com/en_us/insights/consulting/ey-consulting-case-studies/arxada-chemical-supply-chain-planning
+
+**Summary:**
+Arxada (specialty chemicals, 24 manufacturing plants, 100+ countries) replaced manual planning — spreadsheets, Word documents, phone calls — with an Advanced Planning System (APS) built on OMP, implemented by EY. The core problem: planners had no visibility across the full supply chain and were perpetually firefighting. Overproduction risks were compounded by the unique nature of chemicals: segregation requirements eat warehouse space, and aging inventory creates safety and regulatory liability. EY's "turnkey" APS approach delivered value faster than traditional multi-year APS programs by using a pre-configured chemical-specific template.
+
+**Key takeaways:**
+- Lot traceability and shelf-life management are non-negotiable requirements for chemical APS — generic manufacturing templates don't fit
+- Manual capacity planning (Word docs + phone calls) is a systemic risk in chemical environments, not just inefficiency
+- Demand volatility + economic uncertainty = the two dominant S&OP stressors for upstream chemical manufacturers
+- "Turnkey" pre-configured APS implementations are emerging as a faster path to value vs. bespoke builds
+
+**SC Relevance (Quantix):** Directly applicable to carrier-side planning visibility. While Quantix operates transport, not manufacturing, the same planning discipline applies to terminal throughput planning, equipment allocation, and load/unload scheduling. The "daily firefighting with no proactive time" pattern is a carrier failure mode too.
+
+**Knowledge Tier:** Mid-frequency (applied case study, 2026; EY is credible practitioner source)
+**Tags:** APS, chemical-logistics, inventory-management, shelf-life, planning-transformation, lot-traceability, process-improvement
+
+---
+
+### Insight 2: SCRM Evolves — From Real-Time Alerts to Action-Oriented Decision Systems
+**Date:** 2026-05-20
+**Source:** Logistics Management — "Supply chain risk management moves from alerts to action" (May 2026)
+**URL:** https://www.logisticsmgmt.com/article/supply_chain_risk_management_moves_from_alerts_to_action
+
+**Summary:**
+The dominant SCRM theme going into H2 2026 is the shift from *monitoring* disruptions to *responding* to them in real time. The article synthesizes the 2025-2026 environment: tariff whiplash (25% tariff one day, reversed four days later), Winter Storm Fern disruption, cyber exposure through vendors, and port labor threats running simultaneously. Key data point from Marsh: global supply chain disruptions cost an estimated $184 billion annually, with 65% of companies facing at least one bottleneck at any given time. The emerging capability gap: most companies have visibility platforms that alert them to risk — very few have the decision governance frameworks and playbooks to *act* on those alerts in real time.
+
+**Key takeaways:**
+- SCRM maturity model now has a clear step function: Tier 1 = reactive (no visibility), Tier 2 = aware (alerts, monitoring), Tier 3 = action-oriented (pre-built playbooks, AI-driven scenario response)
+- Tariff volatility in 2025 forced companies to maintain dedicated tariff-watch teams — a symptom of inadequate decision automation
+- Simultaneous multi-front risks (weather + cyber + geopolitical + labor) are now the baseline assumption, not the exception
+- Companies treating disruption as "cyclical" rather than "structural" are systematically underinvesting in resilience infrastructure
+
+**SC Relevance (Quantix):** For a 4,500-truck OTR carrier: weather events (ice storms, hurricane evacuation routes), port congestion in chemical corridors, driver HOS and detention disruptions, and hazmat regulatory changes are all simultaneous risk vectors. The action-oriented framework means Quantix should have pre-built response playbooks — not just tracking dashboards — for each major risk category.
+
+**Knowledge Tier:** High-frequency (current events / market conditions, 2026; cite as current-state with volatility caveat)
+**Tags:** SCRM, risk-management, tariff-risk, disruption-resilience, decision-governance, playbooks, action-oriented, OTR-carrier
+
+---
+
+### Insight 3: ICS Tanker Safety Guide (Chemicals) 6th Edition — Updated Standards for Chemical Cargo Operations
+**Date:** 2026-05-20
+**Source:** International Chamber of Shipping / Bunker Market (April 21, 2026)
+**URL:** https://bunkermarket.com/ics-chemical-tanker-safety-sixth-edition-guide/
+
+**Summary:**
+The International Chamber of Shipping released the 6th edition of its benchmark Tanker Safety Guide (Chemicals) in April 2026 — the first major update in years. Developed with Shell, Stolt Tankers, and other global operators. Key additions: (1) Decision flowchart for Annex I to Annex II cargo changeovers — previously a high-gray-area, high-risk operation now has step-by-step logic; (2) Expanded enclosed space entry (ESE) protocols emphasizing situational awareness and human factor, not just checklists; (3) Washing water analysis guidance to verify tank cleanliness without physical entry (reduces ESE incidents); (4) Shore power safety protocols (first-ever in this guide, reflects port electrification trend).
+
+**Key takeaways:**
+- Annex I→II cargo changeover (oil to chemical) is a documented high-risk transition point; structured flowchart guidance reflects recognition that human error in this step is a persistent industry failure mode
+- ESE incidents are still the leading cause of preventable fatalities in chemical transport; the industry is moving from checklist compliance to situational-awareness-based training
+- Remote tank wash water analysis = practical risk reduction tool; reduces frequency of confined space entries during cleaning cycles
+- Shore power integration is entering operational safety guidance — signals port electrification is progressing past pilot stage
+
+**SC Relevance (Quantix):** Quantix operates OTR bulk (dry pellets + liquid/ISO chemicals), not marine tankers. However: (a) terminal operations at Quantix facilities involve equivalent confined space and changeover risks on the ground side; (b) chemical carrier customers who use marine legs before OTR segments are now operating under this updated standard — Quantix terminal interfaces with these flows; (c) the human factor / situational awareness framing is directly applicable to Quantix's terminal safety culture and driver pre-trip protocols.
+
+**Knowledge Tier:** DC tier (ICS guide is an authoritative regulatory/standards document; principles are durable)
+**Tags:** chemical-logistics, tanker-safety, cargo-changeover, confined-space, ESE, ICS-standards, terminal-safety, regulatory-compliance, human-factor
+
