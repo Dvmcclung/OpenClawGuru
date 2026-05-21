@@ -28,7 +28,7 @@ _Initialized: 2026-03-03_
 
 ### Fleet Technology
 - **OTA software updates (Volvo, March 2026):** 24% reduction in unplanned stops; fleet pushed from 25%→80%+ software currency in 6 months. "Trucks are smartphones on wheels." Quantix: determine % of 4,500-truck fleet that is OTA-capable; gap = unplanned downtime cost.
-- **AV trucking — commercial milestones (2026):** McLane/Aurora fully driverless Dallas–Houston (280,000+ miles, 1,400 loads); Aurora 200+ driverless trucks by EOY 2026; Waabi raised $1B (Uber Freight backing); Gatik commercial driverless since Jan 2026; Kodiak expanding I-70 Midwest; PlusAI/Ryder daily ops I-35. I-45 (Dallas–Houston) is core Quantix corridor. Near-term Quantix risk: LOW (bulk/hazmat regulatory gap). Watch signal: first bulk tanker AV integration announcement = Quantix planning trigger. ATA projects 1.2M driver shortfall late 2020s. Aurora Gen 2 targets $0.85/mile vs. ~$1.00/mile.
+- **AV trucking — commercial milestones (2026):** McLane/Aurora fully driverless Dallas–Houston (280,000+ miles, 1,400 loads); Aurora 200+ driverless trucks by EOY 2026; Waabi raised $1B (Uber Freight backing); Gatik commercial driverless since Jan 2026; Kodiak expanding I-70 Midwest; PlusAI/Ryder daily ops I-35. **May 2026 update:** Volvo Autonomous Solutions + DSV launched commercial depot-to-depot autonomous freight (Dallas–Houston, Aurora Driver) — 2026 now called "commercial readiness year." Einride + EASE Logistics Level 4 AV electric pilot in Ohio. I-45 (Dallas–Houston) is core Quantix corridor. Near-term Quantix risk: LOW (bulk/hazmat regulatory gap; AV tractor tech separable from trailer type, but bulk adoption lags dry van 3–5 years). Watch signal: first bulk tanker AV integration announcement = Quantix planning trigger. ATA projects 1.2M driver shortfall late 2020s. Aurora Gen 2 targets $0.85/mile vs. ~$1.00/mile. Strategic planning horizon for Quantix impact: 2028–2032.
 
 ### Chemical Logistics Operations
 - **Uncertainty costs more than delay (Maritime Executive, Feb 2026):** Chemical logistics costs = 15–25% of product value. Unpredictable arrivals force excess inventory, reserved just-in-case capacity, and backup premiums — all pure waste. Digital corridor coordination across actors (not just within firms) is the fix. Terminal-to-truck handoff at Quantix is exactly this problem.
@@ -165,10 +165,12 @@ _Initialized: 2026-03-03_
 - Quantix strategic option: reframe 50+ terminal network as transload-capable regional buffer/transfer hubs, not just staging points — this is an underutilized asset positioning play
 
 
-### AI Readiness — Data Quality Is the Gate (PwC 2026, 767 ops leaders surveyed)
+### AI Readiness — Data Quality Is the Gate (PwC 2026 + Forbes/Gartner May 2026)
 - 85% claim to be ahead of competitors in digitization; 89% say technology hasn't delivered expected results
 - 87% say poor data quality hampered digital value; only 30% report meaningful data reliability improvement
-- **Rule for Quantix AI buildout:** data quality audit is a prerequisite gate before any AI agent deployment at terminal or dispatch level — "AI-ready" = clean, trusted data, not just tool access
+- **"Classification debt"** (Forbes/Cambridge, May 2026): accumulated mess of inconsistent item master, unstandardized records, and incomplete transaction history that no AI agent can reason across. RAND: >80% of AI projects fail — almost never the model, always the data. Over 40% of agentic AI projects predicted canceled before 2027.
+- Gartner: SC AI software with agentic capability growing from <$2B (2025) → $53B (2030). Boardroom question shifting from "which AI vendor?" to "is our master data even ready?"
+- **Rule for Quantix AI buildout:** data quality + classification debt audit is the prerequisite gate before any AI agent deployment at terminal or dispatch level — "AI-ready" = clean, trusted data, not tool access
 
 ### KPMG 2026 — Resilience Is Table Stakes; "Total Value" Is the New Bar
 - Resilience is no longer a differentiator — it's now baseline expectation
@@ -214,10 +216,11 @@ _Initialized: 2026-03-03_
 - Tesla Semi mass production confirmed (4680 battery, FSD, ~800km range). MDB Transportation live pilot at LA/Long Beach ports. Quantix near-term exposure: LOW. Strategic watch: Scope 3 shipper requirements; 5-year fleet plan should include EV scenario for terminal-to-terminal regional lanes. Trigger: Class 8 EV at 500+ miles in heat/heavy load = ~2–3 years out.
 
 ### Supreme Court — Freight Broker Duty of Care in Carrier Selection (May 14, 2026, DC-Tier Legal Ruling)
-- SCOTUS ruled in *Montgomery* that freight brokers owe a **duty of ordinary care** in carrier selection — brokers/3PLs now legally liable for carrier-caused incidents if vetting was inadequate. Affects all 28,000+ licensed brokers.
+- SCOTUS ruled **9-0** in *Montgomery v. Caribe Transport II, LLC* that state-law negligent hiring/selection claims against freight brokers are NOT preempted by FAAAA — safety exception applies. Affects all 28,000+ licensed brokers + shippers who broker loads.
 - Carrier vetting must be documented: SMS/SaferWatch compliance, CSA score history, insurance verification, incident history — timestamped and logged.
-- **Quantix competitive tailwind:** shippers and 3PLs will consolidate toward carriers with clean CSA scores and documented hazmat compliance. Bulk chemical's DOT/EPA overlay raises the vetting bar further — Quantix can market a proactive vetting package to broker/3PL partners.
-- Secondary signal: accelerates shift from spot-market anonymous carriers toward vetted carrier programs.
+- **Quantix as carrier:** chemical shippers and 3PLs are now legally incentivized to vet Quantix's safety metrics more rigorously. CSA scores, FMCSA record, incident rates = **revenue-affecting asset**. Investment in AI dashcams/driver coaching ROI calculation has materially changed.
+- **Quantix competitive tailwind:** shippers/3PLs will consolidate toward carriers with clean CSA + documented hazmat compliance. Bulk chemical's DOT/EPA overlay raises the bar further — proactive vetting package is a marketable differentiator.
+- Secondary signal: accelerates shift from spot-market anonymous carriers toward vetted programs. Samsara and safety-tech platforms seeing accelerated demand post-ruling.
 
 ### Cargo Theft Spike + Procurement Disruption Costs (Q1 2026, May 5, 2026)
 - **CargoNet Q1 2026:** Cargo theft increasingly sophisticated — fictitious pickup, identity-based fraud replacing smash-and-grab. Chemical/plastics carriers face both physical theft and documentation fraud risk at terminal level.
