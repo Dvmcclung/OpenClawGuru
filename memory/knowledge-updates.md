@@ -6833,3 +6833,93 @@ The International Chamber of Shipping released the 6th edition of its benchmark 
 **Knowledge Tier:** DC tier (ICS guide is an authoritative regulatory/standards document; principles are durable)
 **Tags:** chemical-logistics, tanker-safety, cargo-changeover, confined-space, ESE, ICS-standards, terminal-safety, regulatory-compliance, human-factor
 
+
+---
+
+## 2026-05-21 AM — Morning Knowledge Scan
+
+### Insight 1: Gartner Flags "Agent Washing" Risk — AI Logistics Automation Must Be Need-Driven
+**Date:** 2026-05-21
+**Source:** Gartner Supply Chain Symposium/Xpo 2026 Barcelona — Day 3 Highlights (gartner.com, May 20, 2026); Supply Chain Digital coverage
+**Knowledge Tier:** High-frequency (live analyst commentary from active conference; principles are DC-tier but specific guidance is fresh)
+
+Gartner's 2026 Supply Chain Symposium (Barcelona) delivered two sharp warnings this week relevant to AI adoption in logistics:
+
+1. **"Agent Washing" is emerging as a real risk.** Supply chain planning (SCP) vendors are branding standard automation as "agentic AI" — inflating expectations and clouding procurement decisions. Gartner advises organizations to focus on *proven use cases* (demand sensing, exception management, warehouse resource planning), strengthen data and governance foundations first, and follow a *deliberate adoption sequence* rather than buying platforms based on marketing claims.
+
+2. **AI vision systems are "cost-effective to experiment with" but near Peak of Inflated Expectations.** Simon Tunstall (Gartner Sr. Director Analyst) specifically called out AI-enabled vision systems — for inbound validation, yard management, loading verification — as one of the more practical near-term AI bets. Cost-effective entry point. But he explicitly warned: *technology investments should be driven by business needs, not FOMO*. Labor costs and availability are the legitimate driver; chasing AI for its own sake is not a strategy.
+
+**Gartner's four near-term AI use cases for logistics operations:**
+- Vision systems (yard, dock, load verification)
+- Logistics network visibility
+- Warehouse resource planning
+- Orchestration of multi-step exception handling
+
+**Application for Quantix:** 
+- Vision systems at terminal gates and loading docks is the highest-ROI, lowest-risk AI entry point for a bulk carrier — matches the Gartner framing exactly
+- "Agent washing" risk is real for Quantix as it evaluates TMS/AI vendors — demand specificity on what "agentic" actually means in their platform before committing
+- The FOMO-vs-business-need test applies directly: frame any AI investment around labor scarcity at terminals and load accuracy, not general innovation narrative
+
+**Tags:** AI-logistics, agentic-AI, agent-washing, Gartner-2026, vision-systems, warehouse-automation, technology-governance, vendor-evaluation, FOMO-risk
+
+---
+
+### Insight 2: SAP Sapphire 2026 — Autonomous Supply Chain Moves from Concept to Production
+**Date:** 2026-05-21
+**Source:** Computer Weekly — "SAP introduces Autonomous Supply Chain Management" (May 2026 / SAP Sapphire 2026)
+**Knowledge Tier:** High-frequency (live vendor announcement; architectural direction is mid-frequency once settled)
+
+At SAP Sapphire 2026, SAP presented its operational roadmap for autonomous supply chain management — framed as *practical, incremental progress* rather than a moonshot. Key announcements:
+
+**Joule Agents — execution-level AI:**
+- New Joule Agents deployed at execution level (not just planning)
+- Specific logistics capabilities: inbound validation automation, labour alignment based on real workload, warehouse exception handling without manual triggers
+- Goal: *reduce manual hand-offs, accelerate exception handling, cut operational latency* — the gap between sophisticated planning and sluggish execution
+
+**SAP IBP enhancements:**
+- Direct link between *promotion/price-pack planning and supply plans* — closes the long-standing demand-shaping vs. operational-response disconnect
+- Targets reduction of stockouts and excess inventory caused by reactive firefighting
+
+**Supply Essentials (new tier):**
+- Out-of-box capabilities: vendor-managed inventory, automated transportation load building, enhanced deployment logic
+- Designed to lower the barrier for mid-market organizations; reduced customization burden
+- Added planning support for co-products and by-products — specifically called out for *process industries* (chemicals, petrochemicals)
+
+**Application for Quantix:**
+- The process industry co-product/by-product planning enhancement is directly relevant to chemical shipper customers — if customers run SAP IBP, their outbound supply plans become tighter; Quantix needs to be ready to absorb that planning precision (tighter load windows, more specific release timing)
+- "Automated transportation load building" in Supply Essentials is a direct signal: TMS integration with shipper ERP systems is becoming table-stakes for 3PL/carrier relationships
+- Joule Agents at execution level = the ERP is starting to make dispatch-level decisions; carriers who can receive and respond to machine-generated instructions have a service differentiation advantage
+
+**Tags:** SAP-Sapphire-2026, autonomous-supply-chain, Joule-agents, SAP-IBP, demand-shaping, process-industry, TMS-integration, carrier-ERP-integration, load-building-automation
+
+---
+
+### Insight 3: FTR Shippers Conditions Index Hits Near-Historic Low — Carrier Market Strengthening
+**Date:** 2026-05-21
+**Source:** FTR Intelligence — Shippers Conditions Index (SCI) May 2026 Report (ftrintel.com, published May 18, 2026)
+**Knowledge Tier:** High-frequency (current market data; volatile — treat as directional signal, not planning baseline)
+
+FTR's Shippers Conditions Index for March 2026 dropped to **-18.9** — one of the worst readings in the index's 26-year history (data back to 2000). The only comparable reading was March 2022 (peak freight market chaos post-COVID). Key differences from 2022:
+
+| Factor | March 2022 | March 2026 |
+|---|---|---|
+| Freight rates | Elevated but beginning to improve for shippers | Rising and worsening |
+| Capacity utilization | Tightening but starting to ease | Tightening and still rising |
+| Fuel | Elevated but not primary driver | Primary driver of deterioration |
+| Direction | Turning favorable | Still moving against shippers |
+
+**FTR's Avery Vise (VP Trucking):** "We expect conditions to stabilize over the next quarter or so, but they don't look favorable for shippers over the two-year forecast horizon."
+
+**Supporting data points from other May 2026 sources:**
+- Carrier tender rejection rates averaging ~14% (slight carrier advantage in rate negotiations — Trinity Logistics)
+- Q1 2026 average rates declined but carriers are defending higher pricing for 2026-27 contract cycles (JM Rodgers)
+- Structural constraints: labor scarcity + compliance costs limiting capacity expansion regardless of demand softening (Great American Insurance Group freight outlook)
+
+**Application for Quantix:**
+- A carrier market with SCI at -18.9 is structurally favorable for Quantix's rate positioning — shippers have limited leverage in contract negotiations right now
+- The two-year unfavorable outlook for shippers means the window for Quantix to lock in longer-term contracts at favorable rates is NOW, before conditions normalize
+- Fuel volatility is the primary destabilizer — Quantix's fuel surcharge mechanism and hedging posture should be reviewed given the March deterioration
+- Structural capacity constraints (labor + compliance) reinforce the investment case for driver retention programs and terminal efficiency — both reduce the cost of the constraint
+
+**Tags:** freight-market-2026, SCI, FTR-intelligence, carrier-market, shipper-conditions, fuel-volatility, capacity-constraints, rate-negotiations, contract-strategy, driver-retention
+
