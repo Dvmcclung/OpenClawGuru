@@ -6923,3 +6923,61 @@ FTR's Shippers Conditions Index for March 2026 dropped to **-18.9** — one of t
 
 **Tags:** freight-market-2026, SCI, FTR-intelligence, carrier-market, shipper-conditions, fuel-volatility, capacity-constraints, rate-negotiations, contract-strategy, driver-retention
 
+
+---
+
+## 2026-05-21 PM — Evening Knowledge Scan
+
+### Insight 1: Detention Time as a Measurable Lean Problem — ATRI Data 2026
+**Source:** FleetOwner / ATRI (American Transportation Research Institute), May 2026
+**URL:** https://www.fleetowner.com/perspectives/ideaxchange/blog/55378000/how-detention-time-is-reducing-trucking-efficiency-and-increasing-carrier-costs
+**Knowledge Tier:** High-frequency (current operational data, OTR trucking context)
+**Tags:** #detention #lean-waste #driver-retention #telematics #bulk-carrier #OTR
+
+ATRI data confirms detention remains a systemic and quantifiable waste problem in OTR trucking:
+- **39.3% of drivers** report experiencing detention at customer facilities
+- **94% of fleets bill for detention** — but less than half of claims are actually paid; the billing-to-collection gap is itself a revenue leakage point
+- Cascading effects: missed revenue, compressed HOS windows, elevated driver fatigue, declining retention
+- Leading carriers are applying data-driven approaches: telematics to measure dwell time per facility, renegotiating SLA terms with chronic offenders, and building **preferred shipper programs** that reward dock efficiency
+
+**Lean framing:** Detention is pure Type II muda (waiting waste). The lean fix isn't just billing — it's root cause analysis at the shipper/receiver level via SIPOC and Pareto to identify which 20% of facilities generate 80% of detention. Preferred shipper programs are a pull-system analog: rewarding efficient partners with load priority.
+
+**Application for Quantix:** With 4,500+ trucks, even a 10-minute reduction in average dwell per load is material at scale. DMAIC project opportunity: Define dwell time SLA thresholds → Measure by terminal/shipper/lane → Analyze Pareto of offenders → Improve via shipper scorecard and billing enforcement → Control via telematics dashboard.
+
+---
+
+### Insight 2: KPMG 2026 Survey — Risk Management Overtakes Cost as #1 Supply Chain Priority
+**Source:** KPMG U.S. Supply Chain Survey (462 senior executives), Published May 1, 2026
+**URL:** https://kpmg.com/us/en/media/news/risk-management-resilience-supply-chain.html
+**Knowledge Tier:** High-frequency (current survey data, volatile — reflects 2026 sentiment)
+**Tags:** #risk-management #resilience #talent-shortage #AI #supply-chain-investment #KPMG
+
+Key findings from KPMG's 462-executive survey:
+- **73% of supply chain executives** plan to transform their operating model within 1–3 years — driven by agility, flexibility, and resilience
+- **51% cite "managing and mitigating risks"** as the most important transformation objective — overtaking cost reduction for the first time
+- **39% name risk management** as top investment area in near future
+- **Supply chain spend has risen**: most organizations now allocate **11–15% of revenue** to supply chain — up sharply from 5–10% in 2024
+- **77% report significant talent shortage** in procurement and supply chain functions
+- **Logistics and transportation costs** identified as the greatest source of value leakage (38%)
+- Top barriers to digitalization: technological compatibility, data security, organizational resistance
+- Top remedies: ERP upgrade/replacement (30%), workforce training (28%), data management enhancement (28%)
+
+**SC Relevance:** The shift from cost → risk as the primary lens is structural, not cyclical. APICS CSCP risk management frameworks (supply chain vulnerability, risk mapping, multi-source strategies) are now boardroom priorities, not just procurement hygiene. For asset-heavy carriers like Quantix, talent shortage + logistics cost as dual value-leakage vectors is highly actionable.
+
+---
+
+### Insight 3: ISO 14001:2026 — Environmental Management Now Extends to Logistics Partners
+**Source:** SLR Consulting / ISO (standard published April 15, 2026)
+**URL:** https://www.slrconsulting.com/insights/changes-to-iso-14001/
+**Knowledge Tier:** Mid-frequency (regulatory standard update — stable for 3-year transition period)
+**Tags:** #ISO14001 #environmental-compliance #chemical-logistics #regulatory #EMS #supply-chain-risk
+
+ISO 14001:2026 was published April 15, 2026. Organizations certified to ISO 14001:2015 have **3 years to transition** (by April 2029). Key changes with direct supply chain implications:
+
+1. **Expanded scope to externally provided processes**: Environmental controls must now demonstrably extend to *all* external providers — contracted services, purchased materials, outsourced functions, **and logistics/distribution partners**. This is the most significant operational change.
+2. **Emergency planning now includes supplier-related risks** (Clause 8.2): Organizations must plan for supplier spills, contractor accidents with environmental consequences, failures in waste contractors, and contamination from externally provided materials.
+3. **Life-cycle lens is mandatory**: Climate change, biodiversity, and natural resource use must be assessed across the full supply chain — upstream (resource extraction, supplier practices) and downstream.
+4. ISO replaced "outsourced processes" with "externally provided processes, products or services" — explicitly broadening scope.
+
+**SC Relevance for Quantix and Chemical Carriers:** Any shipper customer of Quantix that holds ISO 14001 certification will now need to **document environmental controls across their logistics partners** — including Quantix. This is both a compliance pressure and a competitive differentiator opportunity. Carriers who can demonstrate documented environmental controls, emergency response planning, and spill containment protocols will be preferred partners. Quantix should audit readiness now rather than wait for customer audits.
+
