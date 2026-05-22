@@ -6981,3 +6981,50 @@ ISO 14001:2026 was published April 15, 2026. Organizations certified to ISO 1400
 
 **SC Relevance for Quantix and Chemical Carriers:** Any shipper customer of Quantix that holds ISO 14001 certification will now need to **document environmental controls across their logistics partners** — including Quantix. This is both a compliance pressure and a competitive differentiator opportunity. Carriers who can demonstrate documented environmental controls, emergency response planning, and spill containment protocols will be preferred partners. Quantix should audit readiness now rather than wait for customer audits.
 
+
+---
+
+## 2026-05-22 AM — Morning Knowledge Scan
+
+### Insight 1: AI Supply Chain Pilots Are Failing to Scale — The 95% Problem
+**Source:** Automely.ai / Capgemini research synthesis — "AI in Supply Chain: Predicting Demand, Automating Procurement, and Reducing Waste in 2026" (May 18, 2026)
+**URL:** https://automely.ai/blogs/ai-supply-chain-demand-forecasting-procurement-waste
+**Knowledge Tier:** High-frequency (market research synthesis, May 2026 — data points warrant verification)
+**Tags:** #AI #supply-chain-technology #demand-forecasting #data-governance #digital-transformation #change-management
+
+The global AI-in-supply-chain market reached **$19.8 billion in 2026**, growing at 45.3% CAGR with projections exceeding $70 billion by 2030. AI-powered control towers deliver 307% ROI within 18 months vs. 87% for traditional ERP dashboards. Demand forecasting AI achieves 85–95% accuracy compared to 60–70% for traditional statistical methods.
+
+**The critical finding:** Up to 95% of generative AI supply chain initiatives fail to scale beyond the pilot stage. The root cause is consistently NOT the technology — it is fragmented data, siloed systems, and undocumented workflows. A real-world pattern: a pilot runs on 200 clean, stable SKUs and demonstrates 90% accuracy. When expanded to an 8,000-SKU catalogue, 65% of required data is scattered across ERP, WMS, TMS, and supplier portals with incompatible formats and missing fields. The AI cannot produce reliable outputs from unreliable inputs.
+
+**Capgemini finding:** Companies with a formal AI change management plan — including dedicated data governance architecture *before* deployment — are **2.7x more likely** to achieve ROI within 12 months.
+
+**SC Relevance for Quantix:** This is a foundational warning for any AI-in-the-loop automation initiative. The TMS/ERP data foundation must be treated as a prerequisite — not an afterthought — before AI demand sensing, load planning optimization, or predictive maintenance deployments. Dale's work building agentic AI systems for supply chain sits squarely in this risk zone. Data governance architecture first; AI layer second.
+
+---
+
+### Insight 2: SAE Level 4 Autonomous Trucks Enter Commercial Freight Operations (Ohio, May 2026)
+**Source:** GlobeNewswire / Einride + EASE Logistics + DriveOhio + INDOT Press Release (May 18, 2026)
+**URL:** https://www.globenewswire.com/news-release/2026/05/18/3296705/0/en/einride-ease-logistics-driveohio-and-indot-announce-deployment-of-autonomous-electric-trucks.html
+**Knowledge Tier:** High-frequency (live deployment news — current as of this scan)
+**Tags:** #autonomous-trucks #SAE-L4 #transportation-innovation #Einride #freight-technology #electric-vehicles #labor-substitution
+
+Einride and EASE Logistics deployed **SAE Level 4 autonomous electric trucks** in proof-of-concept service between EASE warehouses in Marysville, Ohio — part of the Ohio/Indiana Truck Automation Corridor Project. The trucks are cab-less, driverless electric vehicles that navigate routes fully autonomously. A remote operator monitors off-site and can intervene. EASE's third autonomous trucking deployment with DriveOhio — one of the few logistics providers running multiple AV freight platforms in live operations simultaneously. Deployment begins summer 2026; generating data on impacts to warehouse, distribution, and transportation operations.
+
+Context from parallel market reporting (ACT Expo, May 2026): autonomous freight is transitioning from "pilot and technology validation" to "commercial deployment." PlusAI and other developers are signing operational contracts — not just demo agreements. Autonomous trucking market value pegged at $575.7 million in early commercial phase.
+
+**SC Relevance for Quantix:** Autonomous trucks at L4 are now in live freight corridors — not concept stages. For a 4,500-truck bulk carrier, this is a 5–10 year labor substitution horizon that demands strategic positioning now. Key watch items: (1) Does autonomous technology translate to bulk/tanker operations — complex coupling, hazmat handling, and terminal navigation add complexity beyond standard dry freight. (2) Quantix's driver base is a critical asset and liability — autonomous transition will create significant workforce change management requirements. (3) Early data from Ohio corridor will inform regulatory frameworks affecting all carriers. Monitor closely.
+
+---
+
+### Insight 3: Amazon Unifies Logistics Into End-to-End Supply Chain Product — Freight Threat Escalates
+**Source:** FreightWaves (May 2026)
+**URL:** https://www.freightwaves.com/news/category/news/trucking
+**Knowledge Tier:** High-frequency (market development — monitor for full article details)
+**Tags:** #Amazon #competitive-threat #freight-management #TMS #3PL-disruption #heavy-freight #parcel-convergence
+
+Amazon announced it has stitched together its logistics services into a unified supply chain product for manufacturers and retailers, covering both heavy freight and parcels. This moves Amazon from a parcel-dominant logistics provider into a direct competitor with freight management companies, 3PLs, and TMS platforms across the full shipment spectrum.
+
+This is the continuation of a pattern: Amazon Freight, Amazon Warehousing & Distribution, Buy with Prime, and now a unified product covering heavy freight + parcels in a single platform. For mid-market manufacturers and retailers, the appeal of a single vendor for all logistics — with Amazon's data scale and fulfillment network — is significant.
+
+**SC Relevance for Quantix and Bulk Chemical Carriers:** The direct threat to Quantix is indirect but real. (1) Amazon's move accelerates consolidation pressure in freight brokerage and managed transportation — shippers will demand fewer vendor relationships. (2) Carriers without API-first digital integration risk being excluded from emerging platform-based freight networks. (3) Bulk/hazmat chemical transport remains outside Amazon's current capability set (regulatory complexity, specialized equipment, compliance burden), providing a moat — but only if Quantix capitalizes on it with differentiated digital capability. The carriers who survive platform consolidation will be those who are either embedded in the platforms or clearly positioned in segments the platforms cannot serve.
+
