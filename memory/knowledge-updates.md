@@ -7028,3 +7028,75 @@ This is the continuation of a pattern: Amazon Freight, Amazon Warehousing & Dist
 
 **SC Relevance for Quantix and Bulk Chemical Carriers:** The direct threat to Quantix is indirect but real. (1) Amazon's move accelerates consolidation pressure in freight brokerage and managed transportation — shippers will demand fewer vendor relationships. (2) Carriers without API-first digital integration risk being excluded from emerging platform-based freight networks. (3) Bulk/hazmat chemical transport remains outside Amazon's current capability set (regulatory complexity, specialized equipment, compliance burden), providing a moat — but only if Quantix capitalizes on it with differentiated digital capability. The carriers who survive platform consolidation will be those who are either embedded in the platforms or clearly positioned in segments the platforms cannot serve.
 
+
+---
+
+## 2026-05-22 — PM Knowledge Update (Cron)
+
+### Insight 1: Geopolitical Supply Chain Risk — New Three-Pillar Framework (MIT Sloan, Feb 2026)
+
+**Source:** MIT Sloan Management Review — "Stay Ahead of Geopolitical Supply Chain Risks" (Feb 11, 2026)
+**URL:** https://sloanreview.mit.edu/article/stay-ahead-of-geopolitical-supply-chain-risks/
+
+**Summary:**
+The conventional SCRM playbook (built for natural disasters, supplier failures, short-term volatility) is structurally inadequate for today's persistent, politically motivated disruptions — trade wars, sanctions, and armed conflict. MIT researchers studied 13 multinational companies and derived a three-pillar framework:
+1. **Understand** — Scenario planning, real-time geopolitical risk monitoring, supply chain modeling; includes competitors' vulnerabilities in scenarios (disruptions create competitive imbalances)
+2. **Anticipate** — Create flexible options before disruptions hit; dual-sourcing, nearshoring, index-linked contracts
+3. **Adapt** — End-to-end visibility as the prerequisite; even incomplete visibility is better than none; prioritize understanding Tier 2/3 supplier risks
+
+Common thread across all 13 companies studied: end-to-end supply chain visibility was the single universal practice.
+
+**SC Relevance (Quantix context):**
+Quantix operates a carrier network with exposure to fuel price volatility, regulatory shifts (ELD, FMCSA), and chemical sector capacity tightening. The "Anticipate" pillar directly applies — building lane flexibility and alternate terminal coverage before disruptions, not after. The scenario planning component should include tariff shock scenarios on key chemical feedstocks affecting shipper volumes.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — Feb 2026)
+**Tags:** risk-management, geopolitical, resilience, visibility, scenario-planning, SCRM, MIT-Sloan
+
+---
+
+### Insight 2: 2026 Supply Chain Risk Landscape — Composite Risk Scoring + Carbon Cost Emergence (StartUs Insights)
+
+**Source:** StartUs Insights — "Global Supply Chain Risk Management [2026]" (Oct 2025, updated 2026)
+**URL:** https://www.startus-insights.com/innovators-guide/global-supply-chain-risk-management/
+
+**Summary:**
+The 2026 SCRM landscape introduces a Composite Risk Score (CRS) framework across five factors: likelihood, impact, velocity, detectability, and readiness (each scored 1–5). Key threshold: CRS ≥ 3.5 = high/critical, requiring quarterly refreshes. Top 8 risks in 2026:
+- **Carbon-Cost Shock (ETS + CBAM):** Carbon is now an itemized invoice line item, not a hidden balance-sheet buffer. Double exposure at voyage + border crossing. Firms need scenario hedging and contract pass-through clauses.
+- **Mandatory Data Sharing (EU Data Act):** Access-by-design obligations force API interoperability and audit logging. Risk of trade-secret leakage.
+- **Digital Product Passports (DPPs/EUDR):** Machine-readable product identity moving from pilot to market gatekeeper — gaps in IT/OT integration expose compliance risk.
+- **Geopolitics & Tariffs:** Canal chokepoints (Red Sea), tariff engineering, dual routings now a boardroom-level funding decision.
+- **Freight-Rate Whiplash:** Oversized newbuild capacity + chokepoint delays = rate volatility; index-linked agreements and dedicated capacity contracts recommended.
+- Cyber shutdowns, climate shocks, and labor disruptions round out the top 8.
+
+Key shift: risk management is moving from back-office ops to explicit board-level governance with hard cost accountability.
+
+**SC Relevance (Quantix context):**
+Carbon cost emergence is the biggest forward-looking risk for Quantix's bulk chemical shipper base — chemical manufacturers in particular face carbon exposure that will reshape logistics outsourcing decisions. Carrier networks with strong environmental data reporting (ELD telematics → emissions data) will have a competitive advantage. Freight-rate volatility framework applies directly to fuel surcharge management and contract structure.
+
+**Knowledge Tier:** Mid-frequency (research synthesis — late 2025/early 2026)
+**Tags:** risk-management, carbon-cost, ESG, freight-volatility, SCRM, board-governance, tariffs, 2026-trends
+
+---
+
+### Insight 3: Supply Chain Process Improvement — AI-Enabled SC Delivers 15% Logistics Cost Reduction, 35% Inventory Reduction (Industry Data 2024-2025)
+
+**Source:** Procurement Tactics — "Supply Chain Statistics: 70 Key Figures of 2026" (compiled from Gartner, IDC, GEODIS; updated Dec 2025)
+**URL:** https://procurementtactics.com/supply-chain-statistics/
+
+**Summary:**
+Three high-signal data points from cross-industry benchmarking:
+
+1. **AI-enabled SC adoption results (2024-2025 early adopters):** Logistics costs -15% | Inventory levels -35% | Service efficiency +65%. Note: these are early-adopter figures, not industry average — represent the performance ceiling, not the mean.
+
+2. **End-to-end visibility gap:** Only 6% of companies report full E2E visibility (GEODIS Supply Chain Worldwide Survey). Despite visibility ranking as a top-3 priority, data remains siloed across partners. Blockchain and AI cannot close the gap without standardized data-sharing foundations first.
+
+3. **AI-driven service SC redesign:** IDC projects 55% of G2000 OEMs will redesign service supply chains around AI by 2026 — predictive parts pre-positioning, technician scheduling, disruption prevention. Payoff is data-integration-dependent.
+
+Separately, Deere & Company network redesign case (via Logistics Bureau): intermediate merge centers + cross-dock optimization + 3PL consolidation → $1B inventory reduction, lead time halved (10 days → 5), ~5% annual transportation savings. Sustained over multiple years — not a one-time event.
+
+**SC Relevance (Quantix context):**
+The 6% visibility finding is particularly relevant — Quantix's competitive differentiation opportunity is real-time load/terminal visibility. Shippers pay a premium for carriers who can provide proactive exception management. The Deere network redesign pattern maps to terminal optimization: intermediate consolidation points, break-bulk during peak, 3PL surge capacity. The AI efficiency stats contextualize the ROI case for the tech investments Quantix is building.
+
+**Knowledge Tier:** Mid-frequency (industry benchmarks — 2024-2025 data, compiled Dec 2025)
+**Tags:** process-improvement, AI, visibility, inventory-optimization, benchmarks, network-design, case-study, Gartner, IDC
+
