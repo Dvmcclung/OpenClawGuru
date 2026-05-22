@@ -57,8 +57,8 @@ _Initialized: 2026-03-03_
 - **OSHA Heat Standard — Active enforcement 2026:** Two-trigger (80°F/90°F HI). Gulf Coast/Texas terminals are primary exposure zones.
 
 ### Geopolitical & Chemical Supply Risk
-- **Iran/Hormuz energy shock (ongoing — months-to-years duration):** Brent ~$100/bbl (ceasefire fragile). IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — cracker shutdowns; PE/PP cuts live. Demand-side shock still ahead. NY Fed **GSCPI rising for 3rd consecutive month** (May 2026) — rerouting from Red Sea adding transit days + cost; 40% of U.S. container traffic via Panama Canal (climate-drought structural risk). Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel cost at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Chemical companies designing networks around physical redundancy. Re-evaluate monthly.
-- **Geopolitics as permanent structural constraint:** Three-hub model (NA/Europe/APAC). Reshoring data: NO manufacturing boom — Kearney Index deeply negative; employment -1%. Real U.S. investment = data centers + power grid (bulk material lane opportunity). 76% of trade professionals view current tariffs as permanent (4+ year horizon). JIC inventory shift = near-term bulk demand tailwind. Contracted capacity = predictability premium.
+- **Iran/Hormuz energy shock (ongoing — months-to-years duration):** Brent ~$100/bbl (ceasefire fragile). IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — cracker shutdowns; PE/PP cuts live. GSCPI rising 3rd consecutive month (May 2026) — rerouting behavior re-emerging. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel cost at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Re-evaluate monthly.
+- **Geopolitics as permanent structural constraint:** 76% of trade professionals view current tariffs as permanent (4+ year horizon; Thomson Reuters 2026). Reshoring: NO manufacturing boom — Kearney Index deeply negative; real U.S. investment = data centers + power grid (bulk material lane opportunity). JIC inventory shift = near-term bulk demand tailwind. Contracted capacity = predictability premium. Three-hub model (NA/Europe/APAC) solidifying.
 - **Chemical logistics sustainability:** Rail/barge lower carbon AND cost per ton-mile. Shipment-level emissions data now a shipper procurement requirement (April 2026). Terminal near waterways = barge integration + sustainability credential.
 
 ### Risk & Resilience
@@ -130,14 +130,11 @@ _Initialized: 2026-03-03_
 - Quantix application: terminal investment justification should frame around lean/throughput improvement, not new-build. Monitor contract vs. spot mix against potential H2 rate softening if demand front-loading corrects.
 
 ### Tariff Volatility as Permanent Structural Shift
-- **76% of trade professionals believe current U.S. tariffs are a permanent structural shift** (Thomson Reuters Global Trade Report 2026, 225 upper-level respondents). SC management became #1 strategic priority for 68% (up from 35% prior year). 39% absorbing tariff costs vs. 13% prior year — margin compression accelerating. Top mitigations: change sourcing patterns (65%), renegotiate supplier contracts (57%), nearshore/reshore. Quantix lens: chemical shipper customers facing input cost compression will pressure carrier rates AND accelerate domestic sourcing pivots that shift lane demand.
+- **Thomson Reuters 2026 (225 respondents):** 76% see tariffs as permanent (4+ year). SC management = #1 strategic priority for 68% (up from 35%). 39% absorbing costs vs. 13% prior year — margin compression accelerating. Top mitigations: change sourcing (65%), renegotiate suppliers (57%), nearshore/reshore. Quantix lens: chemical shipper customers under input cost pressure will press carrier rates AND accelerate domestic sourcing pivots that reshape lane demand.
 
 ### Agentic AI Breaking 90% Automation Ceiling in Freight Ops
 - **C.H. Robinson deployed 30+ autonomous AI agents** routinely achieving 90%+ automation on shipping tasks (pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing). Prior AI generations plateaued at 50–60%. DHL (with HappyRobot) routing AI agents for routine calls/emails; humans reserved for exceptions. The competitive floor is shifting: routine dispatch and coordination AI is becoming table stakes for large carriers, not a differentiator.
 - **MHI Annual Industry Report 2026** (500+ SC professionals): 53% of organizations using AI today; 48% rate it as significant or greater disruptive impact. Top use cases: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% of organizations report talent shortages** — the labor gap is structural, not cyclical, and validates AI-in-the-loop as a workforce gap fill, not just an efficiency play. Investment discipline shifting toward targeted ROI-driven initiatives over large transformation programs.
-
-### FHWA "Freedom to Drive" Initiative (April 2026)
-- FHWA asking governors to nominate top congestion bottlenecks for fast-tracked relief. Monitor TX/LA/OH corridor nominations — I-10, I-45, I-35 are core Quantix lanes. Relief = loaded-mile improvement, detention cost reduction, better asset utilization.
 
 ### Freight Cycle & Rate Update — May 2026 (HIGH-FREQUENCY)
 - **Cycle turn confirmed** (April 2026): First in 40 months. Covenant Logistics CEO: *"Drivers are starting to get tight."* Managed Freight +~60% YoY Q1. M&A: 3 billion-dollar logistics deals closed 2026 already.
@@ -184,9 +181,6 @@ _Initialized: 2026-03-03_
 - "Strong carrier relationship" is explicitly listed as a top mitigation strategy — shippers paying relationship premiums for reliable dedicated capacity
 - **Action:** Dale should consider targeted communication to top 10 shipper accounts reinforcing reliability and capacity commitment during tariff uncertainty window
 
-### Argonne Heavy-Duty Truck Test Facility (DOE, April 2026)
-- DOE facility open for Class 8 propulsion/AV/electrification testing. Quantix: use DOE-validated (not OEM-claimed) performance data for future propulsion decisions.
-
 ### SAP Autonomous Supply Chain — "AI Grounded in Enterprise Data" (Sapphire 2026)
 - SAP launched Autonomous SCM at Sapphire 2026 — extending its Supply Chain Orchestration platform with AI agents across planning, manufacturing, logistics, and asset ops. Architecture: "anticipate, coordinate, resolve" (replaces "detect and alert"). Agents embedded in ERP/EWM/TM processes — SAP's core argument: AI without trusted, integrated data doesn't scale or earn operational trust.
 - Quantix two-front relevance: (1) shipper customers running SAP will expect carriers to connect into autonomous exception workflows — EDI is no longer sufficient; (2) "AI grounded in trusted data" is the right internal evaluation framework — data quality audit is a prerequisite gate before any dispatch optimization or autonomous load matching can deliver value.
@@ -232,19 +226,9 @@ _Initialized: 2026-03-03_
 - Results: 6% inventory reduction, no service level degradation, no forecast dependency
 - Quantix application: bulk segment capacity planning off irregular load patterns; embed hazmat routing rules, prior cargo restrictions, HOS directly into planning models
 
-### IEEPA Tariff Ruling — Structural Shift in Trade Policy Governance (SCOTUS, Feb 2026)
-- SCOTUS *Learning Resources v. Trump* (6-3, Feb 2026): President lacked IEEPA authority for tariffs → shifts governance to Congress
-- Trade policy becomes legislatively negotiated, slower-moving, potentially more durable
-- "Unpredictability is the real threat" — key risk is volatility direction regardless
-- Reshoring trend: U.S. chemical manufacturing establishments +10.2% (2017–2022) accelerating → OTR bulk domestic volume tailwind
-- Quantix watch: chemical shipper customers may restructure lanes faster than historical cycles; scenario-plan for lane reconfiguration
-
-### SMB Tariff Active Restructuring — 97% Deploying Mitigation (Netstock 2026 Survey)
-- 97% of SMBs now deploying at least one active tariff mitigation strategy (sharp break from 2025 passive posture)
-- 35% changed suppliers in past year; ~50% now multi-region sourcing; 75% extended forecast horizons
-- 82% passing costs downstream → downstream demand elasticity risk for chemical manufacturers
-- Freight lanes fragmenting as sourcing hybridizes — new Mexico/SE-Asia-adjacent corridor opportunities
-- Carriers with strong visibility tools can offer longer-term commitments as differentiator
+### Tariff Governance + SMB Response
+- **SCOTUS *Learning Resources v. Trump* (6-3, Feb 2026):** President lacked IEEPA authority → tariff governance shifts to Congress; policy becomes slower-moving but potentially more durable. Unpredictability remains the core risk regardless of direction. U.S. chemical mfg establishments +10.2% (2017–2022) → OTR bulk domestic volume tailwind.
+- **Netstock 2026 (SMB survey):** 97% deploying active mitigation — 35% changed suppliers, ~50% multi-region sourcing, 75% extended forecast horizons. 82% passing costs downstream → downstream demand elasticity risk. Freight lanes fragmenting as sourcing hybridizes. Quantix: carriers with visibility tools win longer-term commitments; scenario-plan for rapid lane reconfiguration.
 
 ### DMAIC Delivery Performance — Quantitative Benchmarks (Scientific Reports, Dec 2025)
 - Peer-reviewed DMAIC case: 50% reduction in failed deliveries; DPMO fell from 81,038 (2.9σ) to 39,636 (3.3σ). Even 0.4σ improvement is material at bulk carrier volumes.
