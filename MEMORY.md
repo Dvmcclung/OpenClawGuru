@@ -162,16 +162,18 @@ _Initialized: 2026-03-03_
 - Quantix strategic option: reframe 50+ terminal network as transload-capable regional buffer/transfer hubs, not just staging points — this is an underutilized asset positioning play
 
 
-### AI Readiness — Data Quality Is the Gate (PwC 2026 + Forbes/Gartner May 2026)
+### AI Readiness — Data Quality Is the Gate (PwC 2026 + Forbes/Gartner + Capgemini May 2026)
 - 85% claim to be ahead of competitors in digitization; 89% say technology hasn't delivered expected results
 - 87% say poor data quality hampered digital value; only 30% report meaningful data reliability improvement
 - **"Classification debt"** (Forbes/Cambridge, May 2026): accumulated mess of inconsistent item master, unstandardized records, and incomplete transaction history that no AI agent can reason across. RAND: >80% of AI projects fail — almost never the model, always the data. Over 40% of agentic AI projects predicted canceled before 2027.
+- **95% of GenAI SC pilots fail to scale** (Capgemini, May 2026): root cause = fragmented data, siloed systems, undocumented workflows. AI control towers: 307% ROI vs. 87% for ERP dashboards when data is clean. Formal AI change management + data governance *before* deployment = **2.7x more likely** to achieve ROI within 12 months.
 - Gartner: SC AI software with agentic capability growing from <$2B (2025) → $53B (2030). Boardroom question shifting from "which AI vendor?" to "is our master data even ready?"
 - **Rule for Quantix AI buildout:** data quality + classification debt audit is the prerequisite gate before any AI agent deployment at terminal or dispatch level — "AI-ready" = clean, trusted data, not tool access
 
 ### KPMG 2026 — Resilience Is Table Stakes; "Total Value" Is the New Bar
 - Resilience is no longer a differentiator — it's now baseline expectation
 - "Total Value" = Total Experience (customer + employee + partner + digital) + Total Performance at enterprise level
+- **KPMG survey, 462 executives (May 2026):** 73% plan operating model transformation within 1–3 years; 51% cite risk management as #1 objective (overtook cost reduction); SC spend now **11–15% of revenue** (up from 5–10% in 2024); **77% talent shortage** in procurement/SC; logistics costs = #1 value leakage (38%)
 - Quantix positioning implication: value proposition must shift toward Total Experience and verifiable performance metrics (OTIF, compliance rate, response time), not just "reliable carrier"
 - AI governance frameworks lagging deployment — same risk applies to Quantix's agentic dispatch buildout
 
@@ -263,6 +265,21 @@ _Initialized: 2026-03-03_
 - **CARB waiver revocation (June 2025):** Trump revoked California's Advanced Clean Trucks, ACC II, and Heavy-Duty Omnibus waivers — eliminating the de facto national ZEV mandate. Significant capex relief for Quantix: defer large EV fleet commitments; redirect to operational AI tools. State-specific California ZEV exposure remains on 5–10 year horizon only.
 - **Tank truck sector framing (Bulk Transporter, Dec 2025):** Freight recession extended through 2025 — fleets extracting efficiency rather than growing capacity. AI-driven operations optimization is the lever. CDL enforcement tightening (CDL mills crackdown) may tighten driver supply short-term but reduces overcapacity and supports rate recovery. ELD vetting process streamlined by FMCSA. Cautiously optimistic on 2026 upturn; operate planning as if recession continues.
 - **Quantix action:** CARB revocation buys time — don't lock in ZEV capex. Lean into contracted lanes to buffer spot-market driver supply pressure. FMCSA ELD streamlining reduces tech stack fragmentation risk.
+
+### Detention Time as Lean Waste — ATRI Quantitative Data (FleetOwner/ATRI, May 2026)
+- **39.3% of drivers** report experiencing detention at customer facilities; **94% of fleets bill for detention** but less than half of claims are collected — billing-to-collection gap is a revenue leakage point
+- Cascading effects: missed revenue, compressed HOS windows, driver fatigue, declining retention
+- **DMAIC application:** Define dwell time SLA thresholds → Measure by terminal/shipper/lane → Analyze Pareto of offenders (20% of facilities = 80% of detention) → Improve via shipper scorecard + billing enforcement → Control via telematics dashboard
+- Leading carriers building **preferred shipper programs** that reward dock efficiency — pull-system analog
+- Quantix: at 4,500+ trucks, a 10-min average dwell reduction per load is material at scale; terminal-to-shipper dwell data capture is the prerequisite
+
+### ISO 14001:2026 — Environmental Controls Now Extend to Logistics Partners (April 15, 2026)
+- Published April 15, 2026; **3-year transition deadline: April 2029** for ISO 14001:2015 certified organizations
+- **Key change:** Environmental controls must now demonstrably extend to *all* external providers — explicitly including **logistics and distribution partners**
+- Emergency planning (Clause 8.2) must now cover supplier/contractor-related incidents: spills, accidents, waste contractor failures, contamination from externally provided materials
+- Life-cycle lens is mandatory: upstream and downstream environmental impacts required
+- **Quantix competitive signal:** Chemical shipper customers with ISO 14001 certification will need to document environmental controls across Quantix — this is both compliance pressure AND a differentiator opportunity. Carriers with documented spill containment, emergency response, and environmental protocols will be preferred. Proactive readiness before customer audits begin = competitive edge.
+- Action: Audit Quantix's current environmental management documentation against new ISO 14001:2026 scope
 
 ### KPMG 2026 — AI Governance Gap as Near-Term Risk
 - **AI shifting from pilots to platform — governance is the critical gap (KPMG 2026):** Organizations deploying AI at operational scale now face a decision governance problem: how do you maintain decision quality when AI is making calls? KPMG flags missing guardrails, audit trails, and human-in-the-loop checkpoints for consequential decisions as the #1 deployment risk.
