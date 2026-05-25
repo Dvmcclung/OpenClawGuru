@@ -7100,3 +7100,74 @@ The 6% visibility finding is particularly relevant — Quantix's competitive dif
 **Knowledge Tier:** Mid-frequency (industry benchmarks — 2024-2025 data, compiled Dec 2025)
 **Tags:** process-improvement, AI, visibility, inventory-optimization, benchmarks, network-design, case-study, Gartner, IDC
 
+
+---
+
+## 2026-05-25 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Enters Procurement — Coupa Acquires Tonkean for Workflow Orchestration
+**Source:** FreightWaves / Coupa Press Release (May 23, 2026)
+**Knowledge Tier:** High-frequency (current market event — M&A signal, 2026)
+
+Coupa Software announced the acquisition of Tonkean, a no-code workflow automation platform, marking its second AI-focused acquisition in two weeks (following intelligent document processor Rossum). The strategic intent is building an "agentic trade network" — a procurement and supply chain platform where AI agents autonomously handle intake, approvals, supplier transactions, and multi-step workflows without human handoffs.
+
+Key specifics from the announcement:
+- Tonkean's platform includes 250+ native enterprise connectors
+- Supports **multi-agent orchestration** (agent-to-agent coordination)
+- Claimed outcomes: 50% reduction in operational cycle times; 30+ hours/week saved per operations team
+- Coupa framing: "automating procurement, invoicing and supplier transactions across global supply chains"
+
+**Why this matters:** This is the platform market signaling that *agentic AI* — autonomous agents that execute multi-step workflows end-to-end — is moving from research into commercial procurement software. Coupa's Inspire 2026 conference also unveiled "Coupa Compose" and "Coupa Catalyst," reinforcing that AI agents handling routine supply chain tasks (PO approvals, invoice matching, supplier onboarding) is now table-stakes investment for Tier 1 platforms.
+
+**SC Relevance (Quantix context):**
+The agentic AI pattern maps directly to Quantix's AI-in-the-loop automation strategy. Carrier onboarding, load approval workflows, exception management — these are exactly the intake/orchestration workflows Coupa/Tonkean targets. Watch this space: if enterprise shippers adopt agentic procurement platforms, carriers who can interface with them via API/EDI will be preferred. Those who cannot will be managed manually — and manually means slowly and expensively.
+
+**Framework alignment:** APICS Execution & Control of Operations — process automation; Gartner Supply Chain Technology Trends 2025 (AI agents as emerging capability)
+**Tags:** AI, agentic-AI, procurement, automation, technology, SaaS, M&A, platform-strategy, workflow-orchestration
+
+---
+
+### Insight 2: Autonomous Trucking Expands to Midwest — Einride L4 Electric Trucks Deploy in Ohio
+**Source:** FreightWaves (May 20, 2026)
+**Knowledge Tier:** High-frequency (current deployment/pilot news — 2026)
+
+Einride and EASE Logistics announced deployment of SAE Level 4 (fully autonomous, no safety driver) cabless electric trucks in Marysville, Ohio — the first autonomous trucking expansion beyond the Sun Belt in active commercial testing. Key details:
+
+- Two Einride cabless L4 electric trucks operating between EASE Logistics warehouses on private property and local public roads
+- Extension of the Ohio DOT / DriveOhio Truck Automation Corridor Project (partnership with Indiana DOT)
+- Start date: Summer 2026
+- Remote operator monitors trucks off-site and can intervene if needed — not fully unattended
+- EASE Logistics now testing **three** distinct autonomous trucking platforms simultaneously
+- Cabless design eliminates driver cab entirely — cost structure fundamentally different from conventional OTR
+
+**Why this matters:** The geographic expansion beyond Texas/Arizona/California pilots signals that regulatory and operational conditions for autonomous freight are maturing in the industrial Midwest. Ohio's corridor project provides public-road legitimacy, not just private-yard automation. The cabless electric design (Einride's "Pod") challenges the assumption that autonomous trucks need to look like conventional trucks — if these gain scale, the total cost of ownership model for certain freight lanes changes fundamentally.
+
+**SC Relevance (Quantix context):**
+Near-term: no direct operational impact on bulk liquid/chemical OTR. Autonomous trucks are proving out on structured, controlled routes with standard trailers. Bulk tanker operations (hazmat, DOT compliance, specialized coupling/uncoupling) are substantially more complex. The relevant watch item is the **talent and rate implications**: if L4 automation absorbs capacity in dry van lanes, it could release driver supply back to specialized sectors — or accelerate the skills bifurcation between automated-eligible drivers and specialized operators. Mid-term (3-5 year): terminal yard automation (hostler trucks, yard moves) is the nearer application for Quantix.
+
+**Framework alignment:** APICS Supply Chain Strategy — capacity planning, technology disruption; Lean Six Sigma — waste reduction (motion waste in yard ops)
+**Tags:** autonomous-trucking, electric-vehicles, technology, transportation, Einride, Ohio, capacity, disruption, driver-shortage, yard-automation
+
+---
+
+### Insight 3: Freight Market Tightening in May 2026 — Blank Sailings, Hormuz Disruption, Contract Pressure
+**Source:** J.M. Rodgers Co. Freight Market Update — May 2026
+**Knowledge Tier:** High-frequency (current market data — May 2026, volatile)
+
+The transpacific ocean freight market is tightening in May 2026 despite underlying overcapacity trends. Key dynamics:
+
+- **Blank sailings:** Carriers implemented 10–15% blank sailings to support mid-May General Rate Increases (GRIs effective May 15)
+- **Capacity tightening:** U.S. West Coast and North China origins most affected; Vietnam operating under controlled allocations
+- **Strait of Hormuz disruptions:** Continued closure tightening bunker fuel supply across Asia → rising operating costs → pricing pressure
+- **Port congestion:** Fog closures at Qingdao and Shanghai causing vessel wait times and schedule delays; Southeast Asian hub congestion compounding
+- **Contract cycle:** 2026–27 negotiations ongoing; carriers defending higher rates despite Q1 2026 rate declines; Peak Season Surcharges (PSS) already implemented on several trade lanes
+- **Demand signal:** Retail restocking + manufacturing export volumes creating stronger-than-expected early demand
+
+**Why this matters:** The simultaneous pressures of supply-side blank sailings, Hormuz-driven fuel cost increases, and Asian port disruptions are creating a manufactured tightening cycle even as the market has structural overcapacity. This is a classic carrier-side capacity management play: reduce available space to defend rates during contract season. The Hormuz disruption adds an uncontrollable variable on top of the managed blanking strategy.
+
+**SC Relevance (Quantix context):**
+Quantix is OTR domestic bulk — ocean rates don't directly impact operations. But the **downstream effects do**: petrochemical imports via ocean (precursor chemicals, plastic pellet feedstock) influence what moves through Quantix's network. If import costs rise due to ocean rate pressure, domestic reshoring and production shifts could increase domestic chemical/pellet volumes — a potential volume tailwind. Also relevant: the Hormuz disruption is a reminder that fuel cost volatility remains a structural risk for any carrier. Quantix's fuel surcharge model should be stress-tested against scenarios where diesel supply is disrupted, not just where diesel prices rise gradually.
+
+**Framework alignment:** APICS Supply Chain Risk Management — external disruption; Gartner Supply Chain Top 25 — resilience; Lean Six Sigma — external factor analysis (PESTLE)
+**Tags:** ocean-freight, freight-market, rates, capacity, Hormuz, fuel, risk, petrochemical, import, contract-rates, market-dynamics
+
