@@ -7171,3 +7171,57 @@ Quantix is OTR domestic bulk — ocean rates don't directly impact operations. B
 **Framework alignment:** APICS Supply Chain Risk Management — external disruption; Gartner Supply Chain Top 25 — resilience; Lean Six Sigma — external factor analysis (PESTLE)
 **Tags:** ocean-freight, freight-market, rates, capacity, Hormuz, fuel, risk, petrochemical, import, contract-rates, market-dynamics
 
+
+---
+
+## Knowledge Update — 2026-05-25 (Evening Cron)
+
+### Insight 1: Tariff Absorption Wall — The 2026 Pressure Point
+
+**Date:** 2026-05-25
+**Source:** Tradeverifyd, "79 Supply Chain Statistics To Know in 2026" (May 5, 2026) — proprietary survey data 2025-2026
+**URL:** https://tradeverifyd.com/resources/supply-chain-statistics
+
+**Summary:**
+73% of supply chain leaders expect to hit their "tariff absorption wall" by end of 2026 — the point where internal cost absorption is no longer viable and costs shift to customers. Currently, 83% of organizations absorb at least some tariff costs internally; only 12% are passing majority of costs through. A separate pressure point: 49% of SC leaders cite escalating transportation costs as their #1 external pressure. U.S. business logistics costs have reached $2.58 trillion (8.8% of GDP). Major supply chain interruptions lasting ≥1 month occur on average every 3.7 years. Automated mitigation is now considered a baseline requirement by 72% of SC executives — no longer aspirational.
+
+**SC Relevance for Quantix:**
+Bulk chemical carriers are in the crossfire here — shippers facing margin pressure from tariffs will squeeze carriers on rates exactly when fuel and driver costs are rising. Quantix should model a scenario where 2–3 major chemical shipper accounts hit their tariff absorption limit and reprice transport contracts. Also: the 3.7-year disruption cycle means Quantix is statistically overdue for a major disruption event if the last significant one was pre-2023.
+
+**Knowledge Tier:** High-frequency (survey data, volatile — verify annually)
+**Tags:** tariffs, risk-management, transportation-costs, disruption-cycles, bulk-chemical, quantix-relevant
+
+---
+
+### Insight 2: Geopolitical Risk Forcing Regionalization — Permanent Strategic Shift
+
+**Date:** 2026-05-25
+**Source:** Global Trade Magazine, "How Geopolitical Tensions in 2026 Are Reshaping Global Supply Chain Strategies" (May 2026)
+**URL:** https://www.globaltrademag.com/how-geopolitical-tensions-in-2026-are-reshaping-global-supply-chain-strategies/
+
+**Summary:**
+Geopolitical risk has shifted from a cyclical concern to a permanent structural factor in supply chain design. The key strategic response is regionalization — moving from globally optimized networks to regionally resilient ones (North America, Europe, Asia hubs). Companies are using AI-powered scenario planning tools, real-time monitoring, and analytics to model tariff scenarios, border closures, and material shortages before they hit. The chemical sector specifically is restructuring sourcing, renegotiating supplier contracts, and nearshoring to reduce tariff exposure. Digital visibility (tracking supplier performance, shipment progress, customs changes) is now foundational to risk response.
+
+**SC Relevance for Quantix:**
+Regionalization of chemical manufacturing is a tailwind for domestic bulk carriers. If chemical production continues reshoring to U.S. Gulf Coast and Midwest, Quantix terminal network is well-positioned. The scenario planning tooling point is relevant — Quantix lacks formal tariff/disruption scenario models. Consider building a simple FMEA-style risk register for top 10 shipper accounts tied to geopolitical exposure (e.g., which accounts source from China-dependent supply chains).
+
+**Knowledge Tier:** Mid-frequency (strategic trend — revisit quarterly)
+**Tags:** geopolitical-risk, regionalization, nearshoring, scenario-planning, risk-management, chemical-manufacturing
+
+---
+
+### Insight 3: ICS Chemical Tanker Safety Guide — Sixth Edition (2026)
+
+**Date:** 2026-05-25
+**Source:** International Chamber of Shipping (ICS) via Bunker Market, April 21, 2026
+**URL:** https://bunkermarket.com/ics-chemical-tanker-safety-sixth-edition-guide/
+
+**Summary:**
+The ICS has released the 6th edition of the Tanker Safety Guide (Chemicals) — the industry's authoritative manual for chemical tanker operations since 1971. Key 2026 updates: (1) refined enclosed space entry protocols addressing leading cause of crew fatalities, (2) new shore power safety guidelines supporting decarbonization at port, (3) detailed flowchart for Annex I to Annex II cargo changeovers — historically a high-risk gray area. Developed with Shell and Stolt Tankers. The guide bridges MARPOL Annex II regulatory requirements with executable shipboard procedures. Focus areas: cargo changeover, tank cleaning, and the "operational gray areas" where safety incidents peak.
+
+**SC Relevance for Quantix:**
+While this guide targets marine chemical tankers (vessel-based), the underlying safety logic applies directly to OTR bulk tanker operations: (a) enclosed space protocols are relevant for loading/unloading at terminals, (b) cargo changeover discipline is a daily Quantix operational concern — prior cargo restrictions and wash verification are exactly the same risk surface, (c) Annex I/II changeover flowchart logic maps to dry/liquid bulk transitions. Quantix terminal managers should review whether current wash verification SOPs match ICS-level rigor. This is also worth flagging in context of ISO 14001:2026 carrier compliance requirements (noted in prior update, April 2026).
+
+**Knowledge Tier:** DC tier (regulatory/standards — stable until next ICS revision)
+**Tags:** chemical-tanker, safety, ICS, MARPOL, cargo-changeover, tank-cleaning, enclosed-space, compliance, quantix-relevant
+
