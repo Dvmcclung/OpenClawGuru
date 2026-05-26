@@ -124,17 +124,17 @@ _Initialized: 2026-03-03_
 - **Bulk transloading safety non-negotiables (SOP-first):** SOPs → hazard recognition training → PM cadence (pumps/hoses/valves) → secondary containment → PPE. Secondary containment is now a shipper RFP qualifier. Standardized work is prerequisite for both safety AND CI. Japan Logistics Efficiency Act (dwell time standards) = model for Quantix detention/demurrage management.
 - **LTL margin benchmark:** FedEx Freight spinoff (June 1, 2026): $8.7B revenue, 12% OI margin. Use as industry profitability benchmark. Spinoff logic (assets undervalued inside larger org) relevant if Quantix evaluates bulk chemical vs. dry bulk as separate business units.
 
-### Brownfield Modernization as 2026 Capital Investment Thesis (Inbound Logistics / Interact Analysis, May 2026)
-- 2025 warehouse automation order intake grew 7% YoY — but tariff inflation (steel/aluminum 25%) distorted real volume growth lower. Large vendors surged (Toyota +65%, Daimler NA +50%); SME-focused vendors struggled. 2026 dominant thesis: **brownfield optimization** — extracting more from installed assets, not buying new. Capex-constrained companies lean on Lean (5S, VSM, TPM) before new build.
-- **H2 2026 port moderation signal:** Tariff front-loading volumes expected to flatten/ease as front-loading corrects. More sophisticated inventory analytics smoothing import cycles. Structural trucking capacity constraints (labor scarcity, compliance costs) continue to support rate floors.
-- Quantix application: terminal investment justification should frame around lean/throughput improvement, not new-build. Monitor contract vs. spot mix against potential H2 rate softening if demand front-loading corrects.
+### Brownfield Modernization — 2026 Capital Thesis (Inbound Logistics/Interact Analysis, May 2026)
+- 2026 dominant thesis: extract more from installed assets, not new builds. Capex-constrained companies lean on Lean (5S, VSM, TPM) first.
+- H2 2026: tariff front-loading volumes expected to flatten/ease; structural trucking capacity constraints continue to support rate floors.
+- Quantix: terminal investments should frame around lean/throughput improvement. Monitor contract vs. spot mix if H2 demand corrects.
 
 ### Tariff Volatility as Permanent Structural Shift
 - **Thomson Reuters 2026 (225 respondents):** 76% see tariffs as permanent (4+ year). SC management = #1 strategic priority for 68% (up from 35%). 39% absorbing costs vs. 13% prior year — margin compression accelerating. Top mitigations: change sourcing (65%), renegotiate suppliers (57%), nearshore/reshore. Quantix lens: chemical shipper customers under input cost pressure will press carrier rates AND accelerate domestic sourcing pivots that reshape lane demand.
 
 ### Agentic AI Breaking 90% Automation Ceiling in Freight Ops
-- **C.H. Robinson deployed 30+ autonomous AI agents** routinely achieving 90%+ automation on shipping tasks (pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing). Prior AI generations plateaued at 50–60%. DHL (with HappyRobot) routing AI agents for routine calls/emails; humans reserved for exceptions. The competitive floor is shifting: routine dispatch and coordination AI is becoming table stakes for large carriers, not a differentiator.
-- **MHI Annual Industry Report 2026** (500+ SC professionals): 53% of organizations using AI today; 48% rate it as significant or greater disruptive impact. Top use cases: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% of organizations report talent shortages** — the labor gap is structural, not cyclical, and validates AI-in-the-loop as a workforce gap fill, not just an efficiency play. Investment discipline shifting toward targeted ROI-driven initiatives over large transformation programs.
+- **C.H. Robinson: 30+ autonomous agents** achieving 90%+ automation on pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing. Prior AI plateaued at 50–60%. DHL (HappyRobot) routing agents for routine calls/emails. Competitive floor shifting: routine dispatch AI = table stakes, not differentiator.
+- **MHI 2026** (500+ SC professionals): 53% using AI; top uses: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% report talent shortages** — validates AI-in-the-loop as workforce gap fill, not just efficiency play.
 
 ### Freight Cycle & Rate Update — May 2026 (HIGH-FREQUENCY)
 - **Cycle turn confirmed** (April 2026): First in 40 months. Covenant Logistics CEO: *"Drivers are starting to get tight."* Managed Freight +~60% YoY Q1. M&A: 3 billion-dollar logistics deals closed 2026 already.
@@ -162,20 +162,18 @@ _Initialized: 2026-03-03_
 - Quantix strategic option: reframe 50+ terminal network as transload-capable regional buffer/transfer hubs, not just staging points — this is an underutilized asset positioning play
 
 
-### AI Readiness — Data Quality Is the Gate (PwC 2026 + Forbes/Gartner + Capgemini May 2026)
-- 85% claim to be ahead of competitors in digitization; 89% say technology hasn't delivered expected results
+### AI Readiness — Data Quality Is the Gate (PwC/Forbes/Gartner/Capgemini, 2026)
 - 87% say poor data quality hampered digital value; only 30% report meaningful data reliability improvement
-- **"Classification debt"** (Forbes/Cambridge, May 2026): accumulated mess of inconsistent item master, unstandardized records, and incomplete transaction history that no AI agent can reason across. RAND: >80% of AI projects fail — almost never the model, always the data. Over 40% of agentic AI projects predicted canceled before 2027.
-- **95% of GenAI SC pilots fail to scale** (Capgemini, May 2026): root cause = fragmented data, siloed systems, undocumented workflows. AI control towers: 307% ROI vs. 87% for ERP dashboards when data is clean. Formal AI change management + data governance *before* deployment = **2.7x more likely** to achieve ROI within 12 months.
-- Gartner: SC AI software with agentic capability growing from <$2B (2025) → $53B (2030). Boardroom question shifting from "which AI vendor?" to "is our master data even ready?"
-- **Rule for Quantix AI buildout:** data quality + classification debt audit is the prerequisite gate before any AI agent deployment at terminal or dispatch level — "AI-ready" = clean, trusted data, not tool access
+- **"Classification debt"** (Forbes/Cambridge, May 2026): inconsistent item master, unstandardized records, incomplete transaction history — no AI agent can reason across it. RAND: >80% of AI projects fail; almost never the model, always the data. >40% of agentic AI projects predicted canceled before 2027.
+- **95% of GenAI SC pilots fail to scale** (Capgemini): fragmented data, siloed systems, undocumented workflows. AI control towers: 307% ROI vs. 87% for ERP dashboards when data is clean. Formal AI governance + data governance before deployment = 2.7x more likely to hit ROI in 12 months.
+- Gartner: SC AI software <$2B (2025) → $53B (2030). Boardroom question = "is our master data ready?"
+- **Quantix rule:** classification debt audit is Gate 1 before any AI deployment at terminal or dispatch level
 
 ### KPMG 2026 — Resilience Is Table Stakes; "Total Value" Is the New Bar
-- Resilience is no longer a differentiator — it's now baseline expectation
-- "Total Value" = Total Experience (customer + employee + partner + digital) + Total Performance at enterprise level
-- **KPMG survey, 462 executives (May 2026):** 73% plan operating model transformation within 1–3 years; 51% cite risk management as #1 objective (overtook cost reduction); SC spend now **11–15% of revenue** (up from 5–10% in 2024); **77% talent shortage** in procurement/SC; logistics costs = #1 value leakage (38%)
-- Quantix positioning implication: value proposition must shift toward Total Experience and verifiable performance metrics (OTIF, compliance rate, response time), not just "reliable carrier"
-- AI governance frameworks lagging deployment — same risk applies to Quantix's agentic dispatch buildout
+- Resilience = baseline expectation, not differentiator. "Total Value" = Total Experience + Total Performance.
+- **KPMG survey, 462 executives (May 2026):** 73% plan operating model transformation within 1–3 years; 51% cite risk management #1 (overtook cost reduction); SC spend 11–15% of revenue (up from 5–10%); 77% talent shortage; logistics costs = #1 value leakage (38%)
+- Quantix: value proposition must shift to verifiable OTIF, compliance, and response-time metrics, not just "reliable carrier"
+- AI governance frameworks lagging deployment — applies directly to Quantix agentic dispatch buildout
 
 ### Tariff Volatility — JIT → JIC Inventory Shift Underway (Thomson Reuters / Inbound Logistics, April 2026)
 - Companies shifting from just-in-time to just-in-case — more inventory, longer forecast horizons, some production redesign
@@ -200,10 +198,9 @@ _Initialized: 2026-03-03_
 - Quantix: assess TMS/dispatch for embedded decision support vs. reporting-only. Gartner: resilience = reducing complexity, not adding tech layers.
 
 ### Supply Chain Interoperability Is the True AI Bottleneck (Logistics Viewpoints, May 2026)
-- **Connectivity ≠ Interoperability.** Connectivity = systems can exchange data. Interoperability = data is timely, trusted, contextual, and operationally useful. A 6-hour-late shipment status is "connected" but useless for dynamic exception management.
-- AI tools layered on non-interoperable stacks produce a predictable failure: improved visibility, degraded execution. Modern supply chains need connected **decision networks**, not just message-passing pipes.
-- Agentic AI requires semantic data exchange (not just syntactic) — API readiness at every integration node is the prerequisite gate.
-- **Quantix action:** Before investing in AI-enabled dispatch or exception management, validate data quality, timing, and context at each TMS/ELD/terminal integration point. Interoperability audit precedes AI deployment.
+- Connectivity ≠ Interoperability. Connectivity = systems exchange data. Interoperability = data is timely, trusted, contextual, actionable. A 6-hour-late status is "connected" but useless for exception management.
+- AI on non-interoperable stacks = predictable failure: improved visibility, degraded execution. Agentic AI requires semantic data exchange (not just syntactic) — API readiness at every integration node is the gate.
+- Quantix: validate data quality, timing, and context at each TMS/ELD/terminal integration point before AI dispatch investment.
 
 ### AI Creates Coordination Bottleneck — TOC Applied to AI Architecture (SupplyChainBrain, April 30, 2026)
 - AI demand sensing reduces forecast error ~30% but overwhelms suppliers with order-change frequency — classic TOC bottleneck migration. New model: build coordination layer (data interoperability, aligned decision cycles). Quantix: AI terminal scheduling + manual dispatch = signal jam. EDI/API with top shippers is the fix. **Watch:** order-change frequency from top 10 shippers as leading indicator.
@@ -211,12 +208,11 @@ _Initialized: 2026-03-03_
 ### Electric Trucks — Tesla Semi Mass Production + Port Drayage Pilot (April 29–May 2, 2026)
 - Tesla Semi mass production confirmed (4680 battery, FSD, ~800km range). MDB Transportation live pilot at LA/Long Beach ports. Quantix near-term exposure: LOW. Strategic watch: Scope 3 shipper requirements; 5-year fleet plan should include EV scenario for terminal-to-terminal regional lanes. Trigger: Class 8 EV at 500+ miles in heat/heavy load = ~2–3 years out.
 
-### Supreme Court — Freight Broker Duty of Care in Carrier Selection (May 14, 2026, DC-Tier Legal Ruling)
-- SCOTUS ruled **9-0** in *Montgomery v. Caribe Transport II, LLC* that state-law negligent hiring/selection claims against freight brokers are NOT preempted by FAAAA — safety exception applies. Affects all 28,000+ licensed brokers + shippers who broker loads.
-- Carrier vetting must be documented: SMS/SaferWatch compliance, CSA score history, insurance verification, incident history — timestamped and logged.
-- **Quantix as carrier:** chemical shippers and 3PLs are now legally incentivized to vet Quantix's safety metrics more rigorously. CSA scores, FMCSA record, incident rates = **revenue-affecting asset**. Investment in AI dashcams/driver coaching ROI calculation has materially changed.
-- **Quantix competitive tailwind:** shippers/3PLs will consolidate toward carriers with clean CSA + documented hazmat compliance. Bulk chemical's DOT/EPA overlay raises the bar further — proactive vetting package is a marketable differentiator.
-- Secondary signal: accelerates shift from spot-market anonymous carriers toward vetted programs. Samsara and safety-tech platforms seeing accelerated demand post-ruling.
+### Supreme Court — Freight Broker Duty of Care (May 14, 2026, DC-Tier)
+- SCOTUS 9-0 in *Montgomery v. Caribe Transport II*: state-law negligent carrier selection claims NOT preempted by FAAAA — safety exception applies. Affects all 28,000+ licensed brokers.
+- Carrier vetting must be documented (SMS/CSA score/insurance/incident history — timestamped). Broker liability is now real.
+- **Quantix as carrier:** CSA scores + hazmat compliance = revenue-affecting assets. AI dashcam/coaching ROI recalculated upward. Proactive vetting package is a marketable differentiator.
+- Accelerating shift: spot-market anonymous carriers → vetted programs. Samsara demand up post-ruling.
 
 ### Cargo Theft Spike + Procurement Disruption Costs (Q1 2026, May 5, 2026)
 - **CargoNet Q1 2026:** Cargo theft increasingly sophisticated — fictitious pickup, identity-based fraud replacing smash-and-grab. Chemical/plastics carriers face both physical theft and documentation fraud risk at terminal level.
@@ -248,10 +244,8 @@ _Initialized: 2026-03-03_
 - Practical framing: AI agent vs. copilot vs. RPA distinction is operationally important. Agents handle full decision-to-action loops with human escalation only for out-of-scope exceptions. Dale's Quantix build is ahead of the 5% early-mover baseline.
 
 ### AI Network Control Tower — Think-Decide-Act Architecture (May 2026)
-- Next phase of SC technology: **Capture → Visibility → Autonomous Action** maturity ladder. Traditional TMS = Capture/Visibility. Emerging platforms (e.g., Libera) implement Think→Decide→Act: AI identifies failure modes, executes corrective actions before human notice.
-- Capabilities: proactive exception management, autonomous bidding (performance data, not carrier relationships), automated invoicing, agentic dispatch. Benchmark: 99.96% OTD in complex conditions.
-- Quantix maturity assessment: most bulk carriers still in Visibility phase. The Think-Decide-Act framework maps directly to Dale's agentic dispatch buildout — this is the SC expression of what OpenClaw agents do.
-- Autonomous bidding relevance: AI evaluating carrier performance vs. relationship defaults improves asset utilization on spot market exposure.
+- SC technology maturity ladder: **Capture → Visibility → Autonomous Action**. Emerging platforms implement Think→Decide→Act: AI identifies failure modes and executes corrective actions before human notice. Benchmark: 99.96% OTD.
+- Quantix: most bulk carriers still in Visibility phase. Think-Decide-Act maps directly to Dale's agentic dispatch buildout. Autonomous bidding (performance data, not relationships) improves spot market utilization.
 
 ### DMAIC + Industry 4.0/5.0 — SSCM Framework (Peer-Reviewed, April 2026)
 - Benha University peer-reviewed framework: DMAIC as organizing spine for digital transformation. I4.0 enablers (AI, IoT, digital twins, robotics) mapped into Measure/Analyze phases. I5.0 human-centric layer (cobots, AR/VR) mapped into Improve/Control phases. ESG KPIs embedded across all phases.
@@ -266,12 +260,11 @@ _Initialized: 2026-03-03_
 - **Tank truck sector framing (Bulk Transporter, Dec 2025):** Freight recession extended through 2025 — fleets extracting efficiency rather than growing capacity. AI-driven operations optimization is the lever. CDL enforcement tightening (CDL mills crackdown) may tighten driver supply short-term but reduces overcapacity and supports rate recovery. ELD vetting process streamlined by FMCSA. Cautiously optimistic on 2026 upturn; operate planning as if recession continues.
 - **Quantix action:** CARB revocation buys time — don't lock in ZEV capex. Lean into contracted lanes to buffer spot-market driver supply pressure. FMCSA ELD streamlining reduces tech stack fragmentation risk.
 
-### Detention Time as Lean Waste — ATRI Quantitative Data (FleetOwner/ATRI, May 2026)
-- **39.3% of drivers** report experiencing detention at customer facilities; **94% of fleets bill for detention** but less than half of claims are collected — billing-to-collection gap is a revenue leakage point
-- Cascading effects: missed revenue, compressed HOS windows, driver fatigue, declining retention
-- **DMAIC application:** Define dwell time SLA thresholds → Measure by terminal/shipper/lane → Analyze Pareto of offenders (20% of facilities = 80% of detention) → Improve via shipper scorecard + billing enforcement → Control via telematics dashboard
-- Leading carriers building **preferred shipper programs** that reward dock efficiency — pull-system analog
-- Quantix: at 4,500+ trucks, a 10-min average dwell reduction per load is material at scale; terminal-to-shipper dwell data capture is the prerequisite
+### Detention Time as Lean Waste — ATRI Data (FleetOwner/ATRI, May 2026)
+- 39.3% of drivers report detention; 94% of fleets bill for it but <50% collect — revenue leakage + HOS compression + retention drag
+- DMAIC frame: Define SLA thresholds → Measure by terminal/shipper/lane → Pareto top offenders → Improve via shipper scorecard + billing enforcement → Control via telematics
+- At 4,500 trucks, a 10-min dwell reduction per load is material at scale; dwell data capture is the prerequisite
+- Leading carriers building preferred shipper programs that reward dock efficiency (pull-system analog)
 
 ### ISO 14001:2026 — Environmental Controls Now Extend to Logistics Partners (April 15, 2026)
 - Published April 15, 2026; **3-year transition deadline: April 2029** for ISO 14001:2015 certified organizations
