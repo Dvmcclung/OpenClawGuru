@@ -7279,3 +7279,64 @@ This is a direct operational cost driver. Bulk chemical OTR carriers face the sa
 **Knowledge Tier:** High-frequency (active cost/regulatory — monitor quarterly)
 **Tags:** insurance, commercial-auto, ATRI, cost-inflation, nuclear-verdicts, safety, telematics, freight-brokers, carrier-costs, quantix-relevant
 
+
+---
+
+## 2026-05-26 PM — Evening Knowledge Scan
+
+### Insight 1: Green Lean Six Sigma (GLSS) — Peer-Reviewed Framework Validated for SC Multidimensional Improvement
+**Source:** Taylor & Francis / Production & Manufacturing Research — "Green Lean Six Sigma for multidimensional performance improvement: a case study on supply chain management" (March 21, 2026) | DOI: 10.1080/19397038.2026.2644657
+**Knowledge Tier:** Mid-frequency (peer-reviewed; 2026 empirical case study)
+**Tags:** process-improvement, DMAIC, sustainability, green-SC, LSS, validated
+
+Green Lean Six Sigma (GLSS) is an emerging hybrid that integrates environmental performance metrics directly into the DMAIC improvement cycle — alongside quality and cost KPIs — producing simultaneous gains across financial, operational, and sustainability dimensions. The framework was validated through three phases: conception, testing, and empirical validation using a real supply chain case.
+
+**Key methodological advance:** Traditional LSS treats environmental impact as a constraint; GLSS treats it as an improvement variable alongside defect rate and cycle time. This enables projects to quantify carbon reduction as a CTQ (Critical to Quality) metric.
+
+**Why this matters for Quantix:**
+- Bulk chemical carriers face mounting shipper pressure to demonstrate emissions reductions (ISO 14001:2026 compliance, digital product passports trending toward logistics)
+- GLSS gives a structured DMAIC vehicle to address both DOT compliance improvement AND emissions reduction under a single project charter
+- A terminal-level GLSS Kaizen could target idle time (emissions) + dispatch error rate (quality) simultaneously — dual ROI justification strengthens approval probability
+
+---
+
+### Insight 2: OSHA HazCom Standard Update — Phase 1 Compliance Now Active as of May 19, 2026
+**Source:** Rinchem Weekly Global Logistics & Supply Chain Review (May 21, 2026); Federal Register 2026-00653; OSHA HazCom updated standard
+**Knowledge Tier:** High-frequency (active regulatory deadline — current)
+**Tags:** regulatory, hazmat, OSHA, HazCom, SDS, compliance, chemical-transport, risk-management
+
+OSHA's revised Hazard Communication (HazCom) Standard entered its first required compliance phase on **May 19, 2026** — just one week ago. The revision updates chemical hazard classification rules, label requirements, Safety Data Sheets (SDS), hazard statements, and trade secret provisions. The original Jan 19 deadline was extended by OSHA to May 19 via a January 2026 rule.
+
+**Phased timeline:**
+- **May 19, 2026** (NOW ACTIVE): Manufacturers, importers, and distributors evaluating substances must comply
+- Additional phased deadlines remain for employers and for mixtures (forthcoming)
+
+**Quantix risk surface:**
+1. Carrier liability on chemical movements depends on SDS accuracy at time of transport — outdated SDSs from shipper customers now create **chain-of-custody compliance exposure**
+2. Driver and terminal staff HazCom training materials must be reviewed and updated to match revised hazard statement language
+3. During customer RFP/RFQ cycles, proactively confirming SDS currency with shippers is now a differentiator and risk screen — not a nice-to-have
+4. Terminal managers should audit prior-cargo documentation to ensure it references the updated classification schema
+
+**Flag:** This is a live compliance item. Dale should verify Quantix's internal SDS library and driver training program reflects the updated HazCom standard.
+
+---
+
+### Insight 3: Supply Chain Risk Management — 2026 Framework Shifts Carbon, Cyber, and Geopolitics to Board-Level Priority
+**Source:** StartUs Insights — "Global Supply Chain Risk Management [2026]: The Definitive Guide for Boards" (updated 2025-2026)
+**Knowledge Tier:** Mid-frequency (industry synthesis / practitioner framework)
+**Tags:** SCRM, risk-management, geopolitics, cyber, carbon-cost, resilience, board-governance
+
+The 2026 SCRM posture has structurally shifted from operational efficiency focus to quantified resilience governance. Three headline signals:
+
+**1. Composite Risk Score (CRS) Framework**
+A new practitioner framework scores risk threats across five factors: likelihood, impact, velocity, detectability, and readiness (1–5 scale each). Guidance: boards must treat CRS ≥ 3.5 as high/critical requiring immediate playbook activation and quarterly refresh. The framework pairs with a **TTR vs. TTS test** (Time to Recover vs. Time to Survive) — where TTR > TTS, survival buffers must be funded explicitly.
+
+**2. Top 3 Emerging Risk Categories for 2026:**
+- **Carbon-Cost Shock (ETS + CBAM):** Carbon is moving from a compliance exercise to an invoice line item. For carriers, this means carbon surcharges become contractually negotiable — and Quantix should be structuring pass-through clauses in long-term customer agreements now
+- **Cyber-Physical Shutdowns:** Industrial ransomware targeting ports, terminals, and plants is now a leading risk. Terminal management systems (TMS, dispatch, load planning software) are attack surfaces — segmentation and tested shutdown playbooks are the standard
+- **Geopolitics & Tariffs:** 41% of supply chain leaders cite geopolitical instability as their #1 trade challenge in 2026 (Rinchem/Logistics Management). Canal chokepoint disruptions and tariff engineering now require dual-routing capability
+
+**3. Structural shift:** Safety stocks, rerouting costs, and carbon surcharges now appear as **explicit, itemized costs** rather than hidden balance-sheet buffers. This forces transparency — and is reshaping how chemical shippers evaluate carrier partners (total cost of delivery, not just rate per mile)
+
+**Quantix strategic implication:** The move to explicit risk cost accounting means carrier selection criteria are evolving. Quantix's ability to surface its safety record, HazCom compliance posture, terminal redundancy, and carbon trajectory as data-backed claims — rather than marketing assertions — becomes a competitive moat.
+
