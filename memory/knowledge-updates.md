@@ -7225,3 +7225,57 @@ While this guide targets marine chemical tankers (vessel-based), the underlying 
 **Knowledge Tier:** DC tier (regulatory/standards — stable until next ICS revision)
 **Tags:** chemical-tanker, safety, ICS, MARPOL, cargo-changeover, tank-cleaning, enclosed-space, compliance, quantix-relevant
 
+
+---
+
+## 2026-05-26 AM — Morning Knowledge Scan
+
+### Insight 1: US 2026 National Freight Strategic Plan — Freight as National Infrastructure OS
+
+**Date:** 2026-05-26
+**Source:** Logistics Viewpoints, "US National Freight Strategic Plan Puts Freight Back at the Center of Supply Chain Strategy" (May 19, 2026); U.S. Department of Transportation, 2026 National Freight Strategic Plan
+**URL:** https://logisticsviewpoints.com/2026/05/19/us-national-freight-strategic-plan-puts-freight-back-at-the-center-of-supply-chain-strategy/
+
+**Summary:**
+The U.S. DOT has released the 2026 National Freight Strategic Plan (NFSP) — a multi-year framework covering the nearly 7-million-mile multimodal freight system that moves 54+ million tons of goods worth $68B+ daily. The plan's six strategic priorities: safety, efficiency, security, resilience, innovation, and workforce capability. The key conceptual shift: freight is no longer framed as a physical infrastructure problem but as a **national operating system** for industrial production, energy flows, retail availability, defense mobility, and private-sector supply chain performance. The plan explicitly targets weak cross-modal coordination (port → rail → highway → warehouse) as the systemic failure point — not lack of capacity, but lack of orchestration. Data-driven planning and multimodal connectivity are centerpiece priorities.
+
+**SC Relevance for Quantix:**
+This is a favorable policy environment for bulk OTR carriers. The NFSP's emphasis on bottleneck reduction, multimodal coordination, and data visibility aligns with the infrastructure investments that reduce Quantix's empty-mile costs and terminal congestion. The "freight as operating system" framing is relevant for Quantix's strategic positioning — bulk chemical transportation is part of the energy and industrial supply chain that the NFSP explicitly protects. Watch for funding opportunities tied to "nationally significant freight corridors" — Gulf Coast to Midwest chemical lanes should qualify. Workforce capability as a named priority also signals continued federal support for CDL training programs.
+
+**Knowledge Tier:** High-frequency (active policy/government — monitor annually for implementation updates)
+**Tags:** freight-policy, NFSP, DOT, infrastructure, multimodal, resilience, bulk-transportation, quantix-relevant, workforce
+
+---
+
+### Insight 2: Amazon Supply Chain Services — Logistics Network Opens to All Businesses
+
+**Date:** 2026-05-26
+**Source:** Logistics Viewpoints, "Amazon Launches 'Supply Chain Services' Leveraging its Global Logistics Network" (May 5, 2026); Reuters, "Amazon opens up its logistics network to other businesses" (May 4, 2026)
+**URL:** https://logisticsviewpoints.com/2026/05/05/amazon-launches-supply-chain-services-leveraging-its-global-logistics-network/
+
+**Summary:**
+Amazon officially launched **Amazon Supply Chain Services** — opening its end-to-end logistics infrastructure to businesses of all sizes and industries, decoupled from its retail marketplace. The platform bundles: (1) **Freight** — multimodal (air, ocean, rail, ground) with customs clearance and shipment visibility; (2) **Distribution & Fulfillment** — unified inventory pool across wholesale, DTC, social commerce, and physical retail; (3) **Parcel Shipping** — 2-5 day ground delivery, 7 days/week. Enterprise adoption already includes P&G, 3M, Lands' End, and American Eagle. Network currently moves ~13 billion items annually. Amazon is positioning this as "AWS for logistics" — infrastructure-as-a-utility replacing fragmented multi-provider contracts.
+
+**SC Relevance for Quantix:**
+This is a structural market signal. Amazon is moving from logistics operator to logistics platform — competing directly with 3PLs, freight brokers, and carriers across all modes. For Quantix, the near-term threat is indirect: Amazon's freight layer does not yet focus on bulk chemical/hazmat OTR, where regulatory complexity is a natural moat. However, the longer-term signal is important — as Amazon normalizes integrated multimodal visibility with a single interface, shipper expectations for visibility, booking UX, and real-time tracking will rise across all freight segments including bulk. Quantix should be accelerating its own shipper-facing visibility tools now, before the expectation gap widens. Also monitor: does Amazon's ocean/customs layer eventually touch chemical intermediate freight?
+
+**Knowledge Tier:** High-frequency (active market development — monitor quarterly)
+**Tags:** amazon, 3PL, logistics-platform, multimodal, visibility, shipper-expectations, competitive-landscape, freight-brokerage, quantix-relevant
+
+---
+
+### Insight 3: Trucking Insurance Premiums Surging — ATRI Documents Structural Cost Inflation
+
+**Date:** 2026-05-26
+**Source:** FreightWaves, "ATRI documents big jump in insurance premiums even as providers in the red" (May 2026); American Transportation Research Institute (ATRI) — Commercial Auto Insurance Report
+**URL:** https://www.freightwaves.com/news/atri-documents-big-jump-in-insurance-premiums-even-as-providers-in-the-red
+
+**Summary:**
+ATRI's latest report confirms that commercial auto insurance (trucking) has been rising at 8.3% annually from 2017–2025 — more than double the 3.9% U.S. inflation rate over the same period. Despite a declining crash-rate-per-mile (down 8.4%), premiums continue climbing. Q4 2025 saw commercial auto post the single highest sequential increase (6.6%) across all insurance lines tracked by the Council of Insurance Agents and Brokers. The insurance market remains loss-driven — providers are themselves operating in the red while still raising rates. Additional pressure: the *Montgomery v. Caribe Transport II* ruling is shifting broker liability exposure and may further impact 3PL insurance costs specifically.
+
+**SC Relevance for Quantix:**
+This is a direct operational cost driver. Bulk chemical OTR carriers face the same commercial auto insurance pressure — often compounded by hazmat cargo surcharges and nuclear verdict risk (the chemical/bulk segment tends to have higher severity incidents than dry van). At 4,500+ trucks, a sustained 8.3%/year insurance cost trend is a multi-million dollar structural headwind. Quantix should: (1) benchmark current premium trajectory against ATRI's 8.3% average to assess relative position; (2) evaluate telematics and safety technology ROI in insurance terms — dashcams, lane departure, and driver monitoring have documented premium offsets; (3) monitor *Montgomery* implications — if broker liability shifts, Quantix's relationships with freight brokers may require contract clause updates. This is also a carrier pricing lever: if insurance is a shared industry cost, it belongs in rate negotiations with shippers.
+
+**Knowledge Tier:** High-frequency (active cost/regulatory — monitor quarterly)
+**Tags:** insurance, commercial-auto, ATRI, cost-inflation, nuclear-verdicts, safety, telematics, freight-brokers, carrier-costs, quantix-relevant
+
