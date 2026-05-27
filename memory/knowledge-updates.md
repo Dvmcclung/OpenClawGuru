@@ -7340,3 +7340,53 @@ A new practitioner framework scores risk threats across five factors: likelihood
 
 **Quantix strategic implication:** The move to explicit risk cost accounting means carrier selection criteria are evolving. Quantix's ability to surface its safety record, HazCom compliance posture, terminal redundancy, and carbon trajectory as data-backed claims — rather than marketing assertions — becomes a competitive moat.
 
+
+---
+
+## 2026-05-27 AM — Morning Knowledge Scan
+
+### Insight 1: AI Supply Chain Planning Market Is Mature — The Question Is Now "Which Platform," Not "Whether to Adopt"
+**Source:** Viewpoint Analysis — "AI Supply Chain Planning Options 2026" (May 23, 2026) | https://www.viewpointanalysis.com/post/ai-supply-chain-planning-options-2026
+**Knowledge Tier:** Mid-frequency (analyst synthesis, current year)
+
+The AI supply chain planning software market has crossed a threshold in 2026: enterprise adoption is now assumed, and differentiation is happening at the platform fit level — not the AI-vs-no-AI level. The disruptions of 2020–2025 broke static, annual planning cycles, and the organizations that survived best were those able to sense, model scenarios, and replan continuously on live data. Key vendors active in this space: Blue Yonder, o9 Solutions, Kinaxis, SAP IBP, Oracle SCM — each with distinct profiles across enterprise, mid-market, and specialist tiers.
+
+The shift: planning organizations are now being evaluated on **data maturity and network complexity** as pre-conditions for platform selection, not just budget. Buyers are advised to understand the software landscape independently before engaging vendors.
+
+**Application for Quantix:** With 4,500+ trucks and 50+ terminals, Quantix sits squarely in the "network complexity" tier that warrants AI planning tooling — particularly for load planning, driver capacity optimization, and demand sensing across chemical/pellet shipment cycles. If Quantix isn't evaluating AI planning platforms, the window for early-mover advantage is narrowing.
+
+**Tags:** `technology` `AI-planning` `software-evaluation` `demand-sensing` `network-complexity`
+
+---
+
+### Insight 2: U.S. Freight Market in Structural Recovery — Tightening Capacity + Persistent Driver Shortage Driving Rates Up in H2 2026
+**Source:** Great American Insurance Group / BTS — "Freight Market Outlook" (May 25, 2026) + C.H. Robinson — "Freight Market Update: May 2026" (May 7, 2026)
+**Knowledge Tier:** High-frequency (current market data — volatile, use with caution)
+
+The U.S. truckload freight market is in early structural recovery after 2024–2025 correction. Key data points:
+- **BTS Freight Transportation Services Index (TSI)** fell 1.2% Oct 2024 → Oct 2025 (prolonged softness)
+- Capacity is now tightening due to **carrier exits**, **reduced fleet investment**, and **ongoing driver shortage exacerbated by regulatory changes** that removed drivers and slowed new entrants
+- Spot markets were highly volatile in 2025; contract rates have stabilized — modest rate growth expected in H2 2026
+- **Intermodal gaining momentum**: high diesel prices, new regulations, and TL capacity constraints are pushing shippers toward rail — C.H. Robinson May report identifies this as a defining 2026 trend
+- Mexico cross-border freight: **manufacturing boom reshaping cross-border flows**, with capacity squeezed by tighter driver enforcement and rising costs
+
+**Application for Quantix:** Bulk chemical carriers operate in a specialized niche, but the macro capacity squeeze is real. Driver scarcity and carrier exits tighten available capacity for specialized bulk — which historically allows pricing power for established operators with scale (Quantix's 4,500-truck position is structurally advantaged). Watch diesel prices and intermodal competition for liquid bulk lanes.
+
+**Tags:** `freight-market` `capacity` `driver-shortage` `rate-trends` `intermodal` `cross-border` `bulk-transport`
+
+---
+
+### Insight 3: Tariffs Becoming a Real-Time Execution Variable — Compliance Is Now a Competitive Differentiator
+**Source:** Infios / IT Supply Chain — "Tariffs are Reshaping the Rules of Global Trade" (May 20, 2026) + Ship4WD / SD&CE — Survey on tariff impacts (May 2026)
+**Knowledge Tier:** High-frequency (current trade/policy environment — volatile)
+
+New research from Infios (WMS/TMS vendor with broad shipper dataset) finds that tariffs have moved from a strategic planning concern to an **operational execution variable** affecting real-time routing, mode selection, and compliance workflows. Specific findings:
+- Companies are **experimenting with new routes and shifting transportation modes** in direct response to tariff regimes — not on a quarterly planning cycle, but daily/weekly
+- **Compliance is being repositioned as a competitive advantage** — organizations that can execute tariff-compliant routing faster than peers gain cost and speed advantages
+- **90% of SMBs plan to invest in AI, analytics, IoT, or digital freight platforms in 2026** specifically to address tariff-driven supply chain complexity (Ship4WD survey)
+- Pharma supply chains note that tariff-driven reshoring is forcing **network redesign and digital twin scenario planning** — a leading indicator of where chemical supply chains may follow
+
+**Application for Quantix:** As a bulk chemical carrier, Quantix's customers (chemical manufacturers, plastic pellet producers) are directly exposed to tariff disruption on raw materials and finished goods. Quantix should anticipate more frequent lane volatility, last-minute mode shifts, and potential cross-border volume swings as customers adapt their own networks. Positioning Quantix's digital capabilities as tariff-execution support could be a differentiated value proposition.
+
+**Tags:** `tariffs` `trade-policy` `compliance` `network-redesign` `digital-freight` `bulk-chemical` `customer-volatility`
+
