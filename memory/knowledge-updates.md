@@ -7390,3 +7390,36 @@ New research from Infios (WMS/TMS vendor with broad shipper dataset) finds that 
 
 **Tags:** `tariffs` `trade-policy` `compliance` `network-redesign` `digital-freight` `bulk-chemical` `customer-volatility`
 
+
+---
+
+## 2026-05-27 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: MIT Sloan — Three-Pillar Framework for Geopolitical Supply Chain Risk
+**Date:** 2026-05-27
+**Source:** MIT Sloan Management Review, Spring 2026 Issue — "Stay Ahead of Geopolitical Supply Chain Risks" (Cohen, Cui, Deshpande, Ernst, et al.) — https://sloanreview.mit.edu/article/stay-ahead-of-geopolitical-supply-chain-risks/
+**Summary:** Based on a study of 13 multinational companies, MIT researchers argue the conventional SC risk playbook (designed for natural disasters and supplier failures) is structurally inadequate for geopolitical disruptions. Their three-pillar framework: (1) **Understand** — end-to-end visibility + scenario planning + signal monitoring; (2) **Anticipate** — build flexible options before disruption materializes (dual sourcing, nearshoring, inventory buffers); (3) **Adapt** — rapid reconfiguration of procurement networks when events occur. Key finding: companies that survived disruptions best prioritized E2E visibility even when the tier-2+ supplier picture was incomplete.
+**SC Relevance:** Directly applicable to chemical raw material supply chains Quantix customers manage. For a bulk carrier, geopolitical disruption affects lane availability, fuel pricing, and chemical feedstock disruption among shipper customers. The "Anticipate" pillar aligns with route and terminal diversification strategy.
+**Knowledge Tier:** Mid-frequency (academic research synthesis, Spring 2026)
+**Tags:** risk-management, geopolitical, scenario-planning, E2E-visibility, supply-chain-resilience, disruption-response
+
+---
+
+### Insight 2: Kraft Heinz IBP Transformation — "Self-Healing" Planning Case Study
+**Date:** 2026-05-27
+**Source:** SupplyChainBrain, February 10, 2026 — "Supply Chain Planning Transformation at Kraft Heinz" — https://www.supplychainbrain.com/articles/43437-watch-supply-chain-planning-transformation-at-kraft-heinz-a-case-study
+**Summary:** Kraft Heinz (8,000 SKUs, 300+ facilities, 300+ planners) transformed from a siloed planning model to integrated, collaborative IBP using OMP. Key findings: (1) Silo-structured planning creates compounding forecast error across large networks — the architecture problem, not the data problem; (2) "People transformation" was cited as equally critical as technology — upskilling planners into new roles was a make-or-break factor; (3) Rollout sequence mattered — China → Europe → North America, with regional learning transferred forward; (4) ~80% of planning output now untouched by human intervention; (5) Participation in "innovation councils" with peer CPG companies accelerated learning and tool adaptation. Ultimate vision: self-healing supply chain planning.
+**SC Relevance:** The IBP/S&OP architecture lesson applies directly to multi-terminal, multi-lane bulk operations. Quantix's 50+ terminals almost certainly have planning silos between terminals/regions. The 80% automation threshold is a useful benchmark. "People transformation" is the oft-ignored half of tech implementations — a pattern Dale would want to track in Quantix AI buildout.
+**Knowledge Tier:** Mid-frequency (practitioner case study, Q1 2026)
+**Tags:** IBP, S&OP, planning-transformation, AI-automation, silo-elimination, case-study, people-change-management, APICS-aligned
+
+---
+
+### Insight 3: Maritime Executive — Digital Coordination Gap in Chemical Logistics
+**Date:** 2026-05-27
+**Source:** Maritime Executive, February 21, 2026 — "Digital Collaboration in Chemical Logistics" (Lind, Lehmacher, Bentham, et al.) — https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+**Summary:** Chemical logistics has been optimized *within* companies (shipping lines, terminals, producers all use digital tools internally) but the critical gap is **between** organizations. In liquid bulk/tanker operations, small timing differences in berth readiness, tank sequencing, or arrival windows cascade into last-minute replanning, emergency buffers, and cost spikes. The emerging decarbonization transition amplifies this: new chemical energy carriers (hydrogen, ammonia, synthetic fuels, e-fuels) are contamination-sensitive, hazard-classified, and require the same tight coordination as traditional liquid bulk — but digital handoffs across the supply chain don't yet exist at scale. The authors argue that expanding just-in-time practices end-to-end (not just within a single node) is the structural fix.
+**SC Relevance:** This is a direct window into the operating environment for Quantix's liquid/chemical customers. The "intra-company optimized, inter-company fragmented" pattern perfectly describes what a bulk carrier sees at shipper interfaces. Digital coordination tools (EDI, APIs, real-time ETA sharing) at the shipper-carrier-terminal junction are a genuine competitive differentiator. The new-energy-carrier angle is a 5–10 year horizon item for Quantix's liquid fleet.
+**Knowledge Tier:** Mid-frequency (industry practitioner analysis, Feb 2026)
+**Tags:** chemical-logistics, digital-collaboration, coordination-gap, liquid-bulk, decarbonization, E2E-visibility, JIT, bulk-carrier-operations, Quantix-relevant
+
