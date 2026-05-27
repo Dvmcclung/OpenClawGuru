@@ -296,5 +296,14 @@ _Initialized: 2026-03-03_
 - **APICS lens:** Textbook vertical integration strategy (CPIM Module 2: SC Design). Amazon's data advantage is structurally superior to DHL/XPO integrated offerings.
 - **Quantix exposure:** Direct threat is LOW for bulk/hazmat (Amazon doesn't do tanker ops), but benchmark expectation shifts: shippers will increasingly expect single-provider, data-transparent, end-to-end coverage. Moat = 4,500 trucks + 50 terminals + AI visibility. Urgency of AI-in-the-loop build increases.
 
+### U.S. National Freight Strategic Plan 2026 — Policy Tailwind for Bulk OTR (May 2026)
+- DOT 2026 NFSP: 7M-mile multimodal system; 54M+ tons/day; six priorities: safety, efficiency, security, resilience, innovation, workforce. Conceptual shift: freight = national operating system (not infrastructure problem). Cross-modal orchestration named as systemic failure point. Gulf Coast → Midwest chemical lanes likely qualify as "nationally significant freight corridors" — watch for funding. CDL workforce capability named priority.
+- Quantix posture: favorable policy environment; monitor NFSP implementation annually.
+
+### Trucking Insurance — Structural Cost Inflation (ATRI, May 2026)
+- Commercial auto insurance: +8.3%/yr 2017–2025 (vs. 3.9% CPI). Despite -8.4% crash rate per mile. Q4 2025: +6.6% sequential — highest across all lines. Insurers in the red yet still raising rates. *Montgomery* ruling may add 3PL liability pressure. Hazmat/bulk carriers face compounding surcharges + nuclear verdict risk.
+- Quantix: (1) benchmark own premium trend vs. ATRI 8.3%; (2) telematics/dashcam safety tech = documented premium offset; (3) review broker contracts post-*Montgomery*; (4) insurance cost is a legitimate shipper rate negotiation input.
+- **Knowledge tier:** High-frequency — monitor quarterly.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
