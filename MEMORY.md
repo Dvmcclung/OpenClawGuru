@@ -305,5 +305,12 @@ _Initialized: 2026-03-03_
 - Quantix: (1) benchmark own premium trend vs. ATRI 8.3%; (2) telematics/dashcam safety tech = documented premium offset; (3) review broker contracts post-*Montgomery*; (4) insurance cost is a legitimate shipper rate negotiation input.
 - **Knowledge tier:** High-frequency — monitor quarterly.
 
+### Tariffs as Real-Time Execution Variable (Infios/Ship4WD, May 2026)
+- Tariffs have moved from strategic planning concern to **operational execution variable** — shippers adjusting routing, mode, and compliance workflows daily/weekly, not quarterly
+- 90% of SMBs investing in AI/IoT/digital platforms specifically to address tariff-driven complexity (Ship4WD 2026 survey)
+- Compliance repositioned as competitive advantage: organizations executing tariff-compliant routing faster than peers gain cost + speed edge
+- Pharma reshoring from tariff pressure → network redesign + digital twin scenario planning (leading indicator for chemical supply chains)
+- Quantix application: chemical/pellet customers face more frequent lane volatility + last-minute mode shifts; positioning Quantix digital capability as tariff-execution support is an emerging differentiator
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
