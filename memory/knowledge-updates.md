@@ -7423,3 +7423,63 @@ New research from Infios (WMS/TMS vendor with broad shipper dataset) finds that 
 **Knowledge Tier:** Mid-frequency (industry practitioner analysis, Feb 2026)
 **Tags:** chemical-logistics, digital-collaboration, coordination-gap, liquid-bulk, decarbonization, E2E-visibility, JIT, bulk-carrier-operations, Quantix-relevant
 
+
+---
+
+## 2026-05-28 AM — Morning Knowledge Scan
+
+### Insight 1: AI Is Collapsing the Planning-Execution Gap in Real Time
+**Source:** ARC Advisory Group / Logistics Viewpoints — "How AI Is Collapsing the Gap Between Supply Chain Planning and Execution" (May 21, 2026)
+**URL:** https://logisticsviewpoints.com/2026/05/21/how-ai-is-collapsing-the-gap-between-supply-chain-planning-and-execution/
+**Knowledge Tier:** Mid-frequency (industry analyst synthesis, current)
+
+Supply chain planning has historically been *periodic* (weekly/monthly cycles) while execution is *continuous* — creating a structural lag that costs money and visibility. ARC Advisory Group documents how AI is now compressing that gap:
+
+- **AI enables continuous replanning** — forecasts update as demand signals shift, inventory policies adjust as supplier reliability changes, transportation plans revise in real time as capacity/cost/congestion evolve
+- **The traditional model is breaking** — environments with fast-shifting demand, volatile capacity, geopolitical disruption, and rising customer service expectations cannot wait for the next planning cycle
+- **Decision intelligence is the new architecture** — AI is moving beyond analytics toward *coordinated action* across planning, logistics, sourcing, fulfillment, and risk management simultaneously
+- The gap is visible in a basic scenario: a delayed inbound shipment — transportation sees it first, inventory learns later, customer service learns last, procurement considers alternatives after impact is already realized
+
+**Application for Quantix:** This directly describes the terminal operations problem. A delayed truck affects loading schedules, chemical batch timing, delivery commitments, and driver routing — but each function often learns out of sequence. AI-enabled continuous planning could compress that lag and reduce reactive expediting cost. Agentic systems (like what Dale is building) are the natural implementation vehicle.
+
+**Tags:** #AI #planning-execution #decision-intelligence #continuous-planning #ARC-Advisory
+
+---
+
+### Insight 2: Truckload Market Settling Into Firmer Baseline — Not a Temporary Spike
+**Source:** Transportation Insight — "Transportation Industry Trends: May 25–29, 2026" (May 27, 2026) + C.H. Robinson Freight Market Update May 2026
+**URL:** https://transportationinsight.com/resources/transportation-industry-trends-may-25-29-2026/
+**Knowledge Tier:** High-frequency (current market conditions — volatile, time-sensitive)
+
+Post-DOT Roadcheck week (CVSA inspection blitz), truckload rates have *not* come back down — suggesting the market is repricing to a new higher baseline, not a one-week blip:
+
+- **Tender rejection rate: 16.4%** — elevated, reinforcing that routing guides are being stressed even without broad breakdowns
+- **Stacked seasonal pressure** — Memorial Day + month-end + produce season + July 4 window are overlapping, keeping supply constrained into summer
+- **Capacity is still leaving the market** — small carriers continue exiting; supply is tightening while demand stabilizes
+- **Intermodal benefiting** — import volumes up ~10% YoY, international rail containers up 10–11% YoY, driven by restocking activity; high diesel + new regulations making intermodal more attractive
+- **USPS pricing shift** — USPS aligning parcel pricing to UPS/FedEx model, eroding its lightweight package advantage; relevant for shippers with e-commerce last-mile exposure
+- **Mexico cross-border complexity** — manufacturing boom accelerating exports, but tighter driver enforcement + fuel costs squeezing cross-border capacity
+
+**Application for Quantix:** Bulk tanker doesn't move like TL van, but the capacity tightening signal matters. If Quantix contracts include TL components for equipment repositioning or co-load arrangements, this is a rate risk window. The intermodal shift is less relevant for liquid bulk but worth watching as it signals shippers looking for alternatives.
+
+**Tags:** #truckload #freight-market #capacity #rates #intermodal #DOT-week #May-2026
+
+---
+
+### Insight 3: Class 8 Truck Market Entering Supply-Driven Recovery — EPA 2027 Driving Fleet Replacement Timing
+**Source:** ACT Research — "2026 Class 8 Truck Sales Forecast & Market Outlook" (May 27, 2026)
+**URL:** https://www.actresearch.net/resources/blog/class-8-truck-sales-forecast-2026
+**Knowledge Tier:** High-frequency (market data — volatile, monitor quarterly)
+
+ACT Research confirms the Class 8 (heavy truck) market has transitioned from the prolonged 2024–2025 downcycle and is now in early recovery — with important nuances:
+
+- **Supply-driven recovery, not demand breakout** — truckload capacity has tightened, spot rates strengthened, contract rates beginning to follow; Class 8 orders are up but disciplined
+- **EPA 2027 is the key planning variable** — the upcoming emissions standard is driving fleet replacement timing, procurement planning, and expectations for higher future equipment costs. Fleets are buying now to avoid cost of compliant 2027 trucks
+- **Vocational Class 8 (tankers, dump trucks, specialized)** supported by data center construction, infrastructure programs, and energy sector activity — more stable than dry van/general freight
+- **Financing and operating costs remain a governor** — elevated rates, insurance costs, and fuel keeping fleet buying disciplined despite improved sentiment
+- **Forward visibility improving** — backlogs elevated, build plans constructive; market gaining visibility without runaway expansion
+
+**Application for Quantix:** Directly relevant. As a 4,500-truck fleet operator, Quantix's fleet planning should account for: (1) EPA 2027 compliance timing — what's in the current fleet and when does it roll off? (2) Replacement pricing — 2027-compliant trucks will cost more; buy windows before cutover matter. (3) Insurance and financing headwinds remain real — cost per unit is rising even as market recovers. This is a capital planning signal, not just market color.
+
+**Tags:** #Class-8 #fleet-management #EPA-2027 #truck-market #Quantix-direct #capital-planning #ACT-Research
+
