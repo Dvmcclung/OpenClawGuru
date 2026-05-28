@@ -7483,3 +7483,61 @@ ACT Research confirms the Class 8 (heavy truck) market has transitioned from the
 
 **Tags:** #Class-8 #fleet-management #EPA-2027 #truck-market #Quantix-direct #capital-planning #ACT-Research
 
+
+---
+
+## 2026-05-28 PM — Evening Knowledge Scan
+
+### Insight 1: Geopolitical Risk Requires a New SC Playbook — MIT Sloan (Spring 2026)
+**Source:** MIT Sloan Management Review — "Stay Ahead of Geopolitical Supply Chain Risks" (Feb 11, 2026) — Cohen, Cui, Deshpande et al.
+**URL:** https://sloanreview.mit.edu/article/stay-ahead-of-geopolitical-supply-chain-risks/
+**Knowledge Tier:** Mid-frequency (peer-reviewed research synthesis, current)
+**Tags:** risk-management, geopolitical, resilience, scenario-planning, visibility
+
+The conventional SC risk playbook (built for natural disasters and short-term volatility) is now structurally inadequate for politically driven, persistent disruptions. Study of 13 multinationals produced a three-pillar framework:
+
+1. **Understand** — end-to-end visibility is prerequisite; scenario planning and geopolitical signal monitoring replace reactive monitoring
+2. **Anticipate** — build flexible options into the network *before* disruption occurs (dual-sourcing, nearshoring with real capacity, not just strategy documents)
+3. **Adapt** — structured rapid-response protocols to realign procurement networks once disruption is confirmed
+
+Key 2026 context (from Xeneta): geopolitical fragmentation is accelerating "China+1" strategies but often without equivalent infrastructure in alternative markets — meaning the hedge creates its own operational risk.
+
+**Quantix application:** OTR bulk/chemical is largely domestic, but upstream chemical producers face this risk. Quantix customer demand patterns will shift if reshoring accelerates plastics/chemicals manufacturing. Near-term: flag major shipper customers operating in import-sensitive corridors for demand volatility risk.
+
+---
+
+### Insight 2: Green Lean Six Sigma — Multi-Dimensional SC Performance (Peer-Reviewed 2026)
+**Source:** Taylor & Francis / Production Planning & Control — "Green Lean Six Sigma for Multidimensional Performance Improvement: A Case Study on Supply Chain Management" (published March 21, 2026)
+**URL:** https://www.tandfonline.com/doi/full/10.1080/19397038.2026.2644657
+**Knowledge Tier:** Mid-frequency (empirical case study, peer-reviewed)
+**Tags:** lean-six-sigma, DMAIC, green-supply-chain, sustainability, process-improvement, case-study
+
+A parallel study from ScienceDirect (Aug 2025, EV parts manufacturing) confirmed Lean Six Sigma's effectiveness in:
+- Establishing thorough and lean sourcing processes
+- Improving supplier selection and performance monitoring
+- Reducing overall freight costs
+
+The 2026 study extends LSS to a "Green LSS" framework addressing cost, quality, delivery, AND environmental metrics simultaneously. Key finding: despite growing academic interest since 2020, few frameworks have been *empirically validated*. This study provides comparative review of 2020–2025 methodologies across sectors — a useful reference for selecting the right LSS variant for a given project.
+
+**Quantix application:** Chemical/bulk carriers face growing ESG reporting pressure from shippers. Green LSS framework is a credible structure for running DMAIC projects that produce both operational improvement AND documentable environmental metrics (fuel efficiency, empty mile reduction, idle time). Worth tracking as shippers begin requiring carrier sustainability KPIs.
+
+---
+
+### Insight 3: ICS Tanker Safety Guide (Chemicals) — 6th Edition Released April 2026
+**Source:** Marine Link / International Chamber of Shipping (ICS) — April 22, 2026
+**URL:** https://www.marinelink.com/news/international-chamber-shipping-releases-538370
+**Knowledge Tier:** High-frequency (regulatory/compliance update — current)
+**Tags:** chemical-logistics, safety, compliance, tanker, MARPOL, hazmat, tank-cleaning, regulatory
+
+The ICS released the 6th edition of the Tanker Safety Guide (Chemicals) — the industry benchmark since 1971. While this is primarily a maritime reference, it carries significant relevance for bulk liquid OTR carriers due to regulatory cross-pollination (DOT, EPA, and state-level rules increasingly reference IMO/MARPOL frameworks for hazardous liquid transport).
+
+Key updates:
+- **Tank cleaning decision flowchart** — Annex I to Annex II cargo changeover (critical for multi-product carriers managing prior cargo restrictions)
+- **Enclosed space entry procedures** — expanded per latest IMO recommendations; washing water analysis guidance to *reduce* unnecessary enclosed space entry
+- **Hot work hazardous zones** — new guidance for on-board/on-trailer risk assessment
+- **Shore power guidance** — growing port/terminal availability of alternative energy
+
+Contributor companies: Stolt Tankers, Shell, MOL Chemical Tankers, NYK Line, DNV — industry heavyweights, so guidance is operationally credible.
+
+**Quantix application:** Liquid/ISO-tank operations at Quantix should review the tank cleaning flowchart sections for any procedural gaps on cargo changeover. Prior cargo restriction management is a known compliance risk area in chemical OTR. Even where the IMO guide doesn't directly apply, DOT enforcement often benchmarks against "industry standard practice" — and this guide sets that bar.
+
