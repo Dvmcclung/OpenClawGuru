@@ -7541,3 +7541,59 @@ Contributor companies: Stolt Tankers, Shell, MOL Chemical Tankers, NYK Line, DNV
 
 **Quantix application:** Liquid/ISO-tank operations at Quantix should review the tank cleaning flowchart sections for any procedural gaps on cargo changeover. Prior cargo restriction management is a known compliance risk area in chemical OTR. Even where the IMO guide doesn't directly apply, DOT enforcement often benchmarks against "industry standard practice" — and this guide sets that bar.
 
+
+---
+
+## 2026-05-29 AM — Morning Knowledge Scan
+
+### Insight 1: Truckload Market Inflection — Capacity Recovery Underway (May 2026)
+**Source:** ACT Research — "2026 Class 8 Truck Sales Forecast & Market Outlook" (Updated May 27, 2026)
+**URL:** https://www.actresearch.net/resources/blog/class-8-truck-sales-forecast-2026
+**Knowledge Tier:** High-frequency (market data — volatile, time-stamped)
+
+**Summary:** ACT Research's May 2026 analysis signals a genuine inflection in the truckload cycle after two years of downcycle conditions (2024–2025). Key data points:
+- Truckload capacity is tightening; spot rates have strengthened; contract rates beginning to follow
+- Class 8 order activity cooled March→April but within normal seasonal pattern — not a reversal signal
+- Vocational Class 8 demand supported by infrastructure, energy, and AI data-center investment
+- EPA 2027 emissions regs driving replacement timing — fleet buying being pulled forward in planning
+- Non-domiciled CDL rule tightening + FMCSA ELD scrutiny + Roadcheck enforcement = additional capacity reduction pressure
+- Market characterized as "supply-driven recovery" — not demand surge, but capacity exit finally creating rate support
+
+**SC Relevance for Quantix:** Quantix operates 4,500+ OTR trucks. If this recovery is real, contract rate negotiations happening now could lock in favorable positioning before broader market tightening. Capacity discipline that persisted through the downcycle should not be abandoned in the recovery. The EPA 2027 compliance factor is a fleet capex planning trigger — equipment spec decisions made in Q3/Q4 2026 will shape the cost base for 3+ years.
+
+**Tags:** `#trucking` `#freight-market` `#capacity` `#fleet-management` `#regulatory` `#EPA2027`
+
+---
+
+### Insight 2: AI + Tariffs Are the Twin Structural Forces Reshaping Logistics in 2026
+**Source:** SBT Group Inc. — "AI, Tariffs & Rising Costs: What's Driving Logistics in 2026" (May 2026)
+**URL:** https://sbtgroupinc.com/ai-tariffs-rising-costs-whats-driving-logistics-in-2026/
+**Knowledge Tier:** Mid-frequency (industry synthesis — cite with caution, practitioner-level source)
+
+**Summary:** Industry-level synthesis of 2026 logistics macro forces. Four structural drivers identified:
+1. **Fuel costs:** Geopolitical disruption to oil shipping routes pushing diesel higher → carrier operating costs rising → rate pressure
+2. **Tariffs:** Supply chain leaders broadly adjusting sourcing strategies — new freight lanes, increased warehousing demand, more complex multi-modal planning
+3. **AI adoption:** Route optimization, empty-mile reduction, freight matching, delay prediction — viewed as table-stakes capability, not differentiator, by 2026
+4. **Capacity tightening:** Warehousing costs up, carrier availability down — last-minute freight coverage increasingly unviable
+
+**SC Relevance for Quantix:** The tariff-driven sourcing shift is creating lane volatility — petrochemical and plastics feedstock supply chains are particularly exposed. Quantix's bulk plastic pellet customer base (dry bulk) may see origin/destination shifts as resin producers adjust sourcing. The AI freight matching point confirms what we've discussed: Quantix needs visibility tooling in place before the next tightening cycle peaks, not during it.
+
+**Tags:** `#freight-market` `#tariffs` `#AI-adoption` `#fuel` `#capacity` `#lane-planning` `#dry-bulk`
+
+---
+
+### Insight 3: Freight Fraud is a Systemic Risk — AI-Manipulated Documents Now Standard Threat
+**Source:** GlobeNewswire / FreightWaves — "ITS Logistics Named 2026 Fraud Fighter Award Winner" (May 28, 2026)
+**URL:** https://www.globenewswire.com/news-release/2026/05/28/3302986/0/en/ITS-Logistics-Named-2026-Fraud-Fighter-Award-Winner.html
+**Knowledge Tier:** High-frequency (current event / industry development)
+
+**Summary:** FreightWaves' 2026 Fraud Fighter Awards highlight that cargo fraud and carrier identity fraud have reached record levels. Key findings:
+- **AI-manipulated documents and images** are now standard fraud vectors — paperwork validation by humans required at multiple touchpoints
+- Underground sales of Motor Carrier (MC) authorities is an emerging threat — identity fraud at the carrier credentialing level
+- Best-practice response: integrated People + Process + Technology approach — technology stack (GenLogs, Highway, Carrier411, RMIS integrated into proprietary TMS) + human check calls + framework-governed procedures
+- ITS Logistics (an Echo Global company) recognized specifically for "gold standard" fraud prevention program
+
+**SC Relevance for Quantix:** As a large asset-based carrier, Quantix is less exposed to double-brokering fraud than brokers — but shippers using third-party logistics need carrier vetting rigor. More directly: **Quantix's own carrier data and MC authority integrity is a reputational asset**. FMCSA enforcement activity + increased industry fraud awareness means any compliance gap surfaces faster. For any 3PL or brokered capacity Quantix uses, the vetting stack described here (Highway + Carrier411 + RMIS) reflects current due diligence standards.
+
+**Tags:** `#freight-fraud` `#cargo-security` `#compliance` `#carrier-vetting` `#AI-risk` `#TMS` `#FMCSA`
+
