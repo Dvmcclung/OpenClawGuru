@@ -7597,3 +7597,62 @@ Contributor companies: Stolt Tankers, Shell, MOL Chemical Tankers, NYK Line, DNV
 
 **Tags:** `#freight-fraud` `#cargo-security` `#compliance` `#carrier-vetting` `#AI-risk` `#TMS` `#FMCSA`
 
+
+---
+
+## Knowledge Update — 2026-05-29 PM (Evening Run)
+
+### Insight 1: IBP Transformation — Kraft Heinz "Self-Healing" Planning Case Study
+**Source:** SupplyChainBrain / OMP (sponsored case study) — February 10, 2026
+**URL:** https://www.supplychainbrain.com/articles/43437-watch-supply-chain-planning-transformation-at-kraft-heinz-a-case-study
+**Knowledge Tier:** Mid-frequency (practitioner case study — implementation lessons stable; vendor is sponsor, interpret accordingly)
+
+**Summary:** Kraft Heinz (8,000 SKUs, 300+ facilities, 300+ planners) dismantled its siloed planning model and replaced it with an integrated, end-to-end planning approach using OMP's AI-powered platform. Key findings:
+- **Root problem:** Siloed planners not interacting as a system — created compounding forecast error and excess distribution network complexity
+- **Implementation sequencing:** Rolled out China → Europe → North America (risk-staged global rollout)
+- **People transformation was the hardest part:** Technology was ready before the workforce. Upskilling planners for new roles was the execution constraint — not software
+- **Outcome:** ~80% of planning output now generated autonomously ("untouched by any human being")
+- **Next target:** "Self-healing" supply chain planning — full autonomous exception management
+- **Collaborative innovation councils:** Shared roadmap development with other CPG companies on the same platform — a notable model for collective capability building
+
+**SC Relevance for Quantix:** The Kraft Heinz model doesn't map directly to bulk transport, but the IBP architecture lesson does. Quantix's planning functions (load planning, capacity allocation, terminal throughput) exhibit the same silo failure pattern Heinz had. The 80% autonomous planning benchmark is now a credible target for mature implementations — not a stretch goal. The people transformation lesson is directly applicable: any AI planning tool adoption at Quantix will stall at workforce capability, not system capability.
+
+**Tags:** `#IBP` `#S&OP` `#AI-planning` `#digital-transformation` `#siloed-planning` `#people-change-management` `#CPG` `#autonomous-planning`
+
+---
+
+### Insight 2: Agentic AI + Supply Chain Uncertainty Are the Twin Forces of 2026 — Clarkston Consulting
+**Source:** Clarkston Consulting — "2026 Supply Chain Trends" (March 13, 2026)
+**URL:** https://clarkstonconsulting.com/insights/2026-supply-chain-trends/
+**Knowledge Tier:** Mid-frequency (consulting synthesis — directionally reliable, vendor perspective)
+
+**Summary:** Clarkston's 2026 SC trends report identifies three macro forces shaping supply chain strategy this year:
+
+1. **Agentic AI expanding beyond planning into execution:** The frontier in 2026 is not AI-assisted recommendations — it's AI that acts autonomously. Agentic AI is beginning to directly execute supply chain decisions (order placement, schedule revision, exception resolution) without human approval. Governance frameworks and escalation protocols are the critical design problem, not the AI itself.
+
+2. **Network design and optimization as risk mitigation:** Supply chain uncertainty (tariffs, climate, geopolitics) is driving companies to run continuous network optimization rather than periodic redesign. Agility is now a design criterion, not a recovery posture.
+
+3. **Data quality is the rate limiter:** Organizations with high data maturity can move faster and broader with AI. Historical data quality is specifically flagged — post-COVID, tariff-era, and purchasing pattern shifts make pre-2020 baselines potentially misleading for model training.
+
+**SC Relevance for Quantix:** Agentic AI in execution is directly relevant to Quantix's dispatch and load planning functions — this is where autonomous agents would operate first. The governance framework requirement (when to escalate, when to act) is a design decision Quantix needs to make before selecting tooling. The data quality warning is a near-term constraint: Quantix's historical lane and equipment utilization data from pre-2021 carries the A&R-to-Quantix rebrand disruption and COVID freight anomalies.
+
+**Tags:** `#agentic-AI` `#network-design` `#supply-chain-uncertainty` `#data-quality` `#AI-governance` `#autonomous-execution` `#digital-transformation` `#2026-trends`
+
+---
+
+### Insight 3: Bulk Chemical Transport — Carrier Consolidation + Equipment Specialization as OTD Driver
+**Source:** Schneider National Case Study — Agrochemical Supplier (published March 2025)
+**URL:** https://schneider.com/resources/case-study/bulk-chemical-transport-helps-supplier-deliver-products-on-time
+**Knowledge Tier:** Mid-frequency (carrier case study — practitioner-level, single operator perspective)
+
+**Summary:** An agrochemical supplier with seasonal bulk chemical transportation needs (liquid bulk during growing season, dry van off-season) improved on-time delivery performance and customer satisfaction through carrier consolidation and equipment specialization. Key findings:
+- **Root cause of OTD failures:** Multi-regional carrier model created communication gaps and inconsistent equipment standards — not capacity shortage
+- **Equipment specialization gap:** Metered trailers (required for precise chemical dispensing) are non-standard — most carriers cannot provide them. Shippers who need specialized equipment must build dedicated carrier relationships, not rely on spot market
+- **Solution:** Consolidated to a single carrier (Schneider) capable of both dry van and bulk, retrofitted 34 trailers with precision meters, implemented dedicated driver network
+- **Key lesson:** Seasonal demand volatility in chemical transport requires a carrier with modal flexibility (dry van ↔ bulk tanker) — a capability that essentially eliminates most carrier options and demands strategic sourcing, not transactional procurement
+- **The "bottom line buster" dynamic:** Metering inaccuracy (over- or under-dispensing) hits both shipper margins AND customer relationships simultaneously — operational error has a commercial consequence that's disproportionate to its root cause
+
+**SC Relevance for Quantix:** This case study maps directly to Quantix's operational model. The equipment specialization constraint (meters, prior cargo compatibility, pump configs) is a known differentiator for bulk chemical carriers — and a barrier to entry that protects Quantix's market position with specialized chemical customers. The carrier consolidation thesis matches what CLX (from the Gartner KB) recommends: chemical shippers increasingly want fewer, deeper carrier relationships. Quantix's terminal network and dedicated fleet model should be positioned as the answer to this need.
+
+**Tags:** `#bulk-chemical` `#OTD` `#carrier-consolidation` `#equipment-specialization` `#agrochemical` `#liquid-bulk` `#seasonal-demand` `#strategic-sourcing` `#Quantix-relevant`
+
