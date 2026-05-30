@@ -124,13 +124,9 @@ _Initialized: 2026-03-03_
 - **Bulk transloading safety non-negotiables (SOP-first):** SOPs → hazard recognition training → PM cadence (pumps/hoses/valves) → secondary containment → PPE. Secondary containment is now a shipper RFP qualifier. Standardized work is prerequisite for both safety AND CI. Japan Logistics Efficiency Act (dwell time standards) = model for Quantix detention/demurrage management.
 - **LTL margin benchmark:** FedEx Freight spinoff (June 1, 2026): $8.7B revenue, 12% OI margin. Use as industry profitability benchmark. Spinoff logic (assets undervalued inside larger org) relevant if Quantix evaluates bulk chemical vs. dry bulk as separate business units.
 
-### Brownfield Modernization — 2026 Capital Thesis (Inbound Logistics/Interact Analysis, May 2026)
-- 2026 dominant thesis: extract more from installed assets, not new builds. Capex-constrained companies lean on Lean (5S, VSM, TPM) first.
-- H2 2026: tariff front-loading volumes expected to flatten/ease; structural trucking capacity constraints continue to support rate floors.
-- Quantix: terminal investments should frame around lean/throughput improvement. Monitor contract vs. spot mix if H2 demand corrects.
-
-### Tariff Volatility as Permanent Structural Shift
-- **Thomson Reuters 2026 (225 respondents):** 76% see tariffs as permanent (4+ year). SC management = #1 strategic priority for 68% (up from 35%). 39% absorbing costs vs. 13% prior year — margin compression accelerating. Top mitigations: change sourcing (65%), renegotiate suppliers (57%), nearshore/reshore. Quantix lens: chemical shipper customers under input cost pressure will press carrier rates AND accelerate domestic sourcing pivots that reshape lane demand.
+### Brownfield Modernization + Tariff-Driven Structural Shift (2026)
+- 2026 dominant capex thesis: extract more from installed assets, not new builds. Lean (5S, VSM, TPM) first. Terminal investments should frame around throughput improvement; monitor contract vs. spot mix if H2 demand corrects.
+- **Thomson Reuters 2026 (225 respondents):** 76% see tariffs as permanent (4+ year). SC management = #1 priority for 68%. 39% absorbing costs (vs. 13% prior). Quantix lens: chemical shipper customers under input cost pressure will press carrier rates AND reshape lane demand via domestic sourcing pivots.
 
 ### Agentic AI Breaking 90% Automation Ceiling in Freight Ops
 - **C.H. Robinson: 30+ autonomous agents** achieving 90%+ automation on pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing. Prior AI plateaued at 50–60%. DHL (HappyRobot) routing agents for routine calls/emails. Competitive floor shifting: routine dispatch AI = table stakes, not differentiator.
@@ -311,6 +307,11 @@ _Initialized: 2026-03-03_
 - Compliance repositioned as competitive advantage: organizations executing tariff-compliant routing faster than peers gain cost + speed edge
 - Pharma reshoring from tariff pressure → network redesign + digital twin scenario planning (leading indicator for chemical supply chains)
 - Quantix application: chemical/pellet customers face more frequent lane volatility + last-minute mode shifts; positioning Quantix digital capability as tariff-execution support is an emerging differentiator
+
+### Freight Fraud — AI-Manipulated Documents Now Standard Threat (FreightWaves/ITS Logistics, May 2026)
+- Cargo fraud and carrier identity fraud at record 2026 levels. AI-manipulated docs/images are standard fraud vectors; underground MC authority sales emerging as new threat.
+- Best practice vetting stack: Highway + Carrier411 + RMIS integrated into TMS + human check calls + governed procedures (ITS Logistics cited as gold standard by FreightWaves 2026 Fraud Fighter Awards).
+- **Quantix as carrier:** MC authority integrity + CSA compliance record = reputational/revenue-protective asset. For any brokered capacity used, current due diligence standard = the stack above. FMCSA enforcement activity means compliance gaps surface faster.
 
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
