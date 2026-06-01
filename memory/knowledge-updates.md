@@ -7656,3 +7656,63 @@ Contributor companies: Stolt Tankers, Shell, MOL Chemical Tankers, NYK Line, DNV
 
 **Tags:** `#bulk-chemical` `#OTD` `#carrier-consolidation` `#equipment-specialization` `#agrochemical` `#liquid-bulk` `#seasonal-demand` `#strategic-sourcing` `#Quantix-relevant`
 
+
+---
+
+## 2026-06-01 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Is Splitting Supply Chain Software Into Two Distinct Layers
+**Source:** Kognitos Blog — "The Top AI Automation Tools for Supply Chain Operations in 2026" (May 26, 2026)
+**URL:** https://www.kognitos.com/blog/top-ai-automation-tools-supply-chain-operations-2026/
+**Knowledge Tier:** High-frequency (vendor analysis, current market assessment — treat as directional, not definitive)
+
+**Summary:** The most practically significant supply chain AI insight of mid-2026 is architectural: enterprises have discovered that AI for supply chain is actually two separate technology problems that vendors often conflate.
+
+**Layer 1 — Planning & Execution:** Blue Yonder, o9 Solutions, Kinaxis, SAP IBP, Oracle SCM, Manhattan Associates. These are mature, well-analyzed platforms (Gartner Magic Quadrant coverage) that add AI on top of existing optimization engines. Not a buying confusion problem.
+
+**Layer 2 — Operational Workflow Automation:** Bills of Lading, freight invoice audit, customs documentation, PO acknowledgment, vendor exception management, supplier statement reconciliation. This layer has historically been underserved by point tools and RPA. In 2026, agentic AI is the primary disruptor here — platforms like Kognitos (neurosymbolic AI), IBM Sterling + watsonx Orchestrate, Microsoft Dynamics 365 Copilot agents, and MarkIt (global trade compliance) are competing for this space.
+
+**Key finding:** The operational workflow layer is where buyers are most confused and where highest short-term ROI lies — not in the planning layer. A leading case study: Century Supply Chain processes 50,000+ Bills of Lading per month on agentic AI automation.
+
+**Quantix Relevance:** Quantix generates high-volume transactional documents — BOLs, freight bills, MSDS/SDS routing documents, carrier confirmations. The agentic workflow layer is directly applicable. The audit-readiness requirement (regulatory compliance, hazmat chain of custody) makes deterministic AI (not generative) the right architecture for this use case. This is a near-term automation target worth scoping.
+
+**Tags:** `#agentic-AI` `#workflow-automation` `#BOL-processing` `#freight-audit` `#supply-chain-technology` `#Quantix-relevant` `#automation-architecture`
+
+---
+
+### Insight 2: Predictive Maintenance Now Table-Stakes for Fleet Operations — The Uptime Gap Is Widening
+**Source:** FleetRabbit — "Fleet Management in 2026: What's Changed, What's New & What Matters Most" (May 30, 2026)
+**URL:** https://fleetrabbit.com/industry/transportation-and-logistics/fleet-management-2026-whats-changed-new
+**Knowledge Tier:** High-frequency (industry trade analysis, current — benchmarks should be independently verified)
+
+**Summary:** The five-year gap (2021→2026) in fleet management technology has created a measurable performance divide between leading and lagging operators. Key developments:
+
+- **Predictive maintenance maturity:** AI-based predictive maintenance has moved from "aspirational" to "minimum expectation." Pre-trained models are now embedded in Samsara, Geotab, Motive, and similar platforms — no specialist data science team required. Reported outcomes: 35–40% fewer unplanned breakdowns, 50–60% reduction in maintenance costs, equipment uptime improvement from 87% (2021 avg) to 94–96%.
+- **The unit economics:** A single prevented Class 8 breakdown = 8–15 hours downtime avoided + $2,000–$4,000 in emergency repair costs. Predictive systems flagging failures 48–72 hours in advance enable planned maintenance windows and pre-ordered parts.
+- **Satellite connectivity:** Starlink/OneWeb reached critical mass 2024–2025. By mid-2026, real-time satellite connectivity eliminates the 2–8 hour data delay gaps that plagued long-haul operations in cellular dead zones. Edge computing on-vehicle processes critical events locally; syncs to cloud when connected.
+- **Compliance automation:** FMCSA/DOT tightened enforcement starting 2023. Digital DVIR, automated HOS, and real-time audit-ready records are now the legal baseline — not a differentiator.
+- **Emissions as a contract requirement:** Major shippers (Amazon, Walmart, DHL, UPS) made decarbonization a contract term. Fleets unable to prove per-mile emission reductions are losing freight contracts.
+
+**Quantix Relevance:** With 4,500+ trucks, a 1% improvement in uptime at Quantix represents ~45 additional truck-days of capacity monthly. Predictive maintenance ROI at this fleet scale is significant. The satellite connectivity point is particularly relevant for bulk chemical routes that traverse rural/remote corridors (pipeline replacement lanes, petrochemical corridors in TX/LA). The emissions-as-contract-requirement trend is an emerging risk for Quantix's chemical shipper customer base — worth monitoring for contract renewal cycles.
+
+**Tags:** `#predictive-maintenance` `#fleet-technology` `#uptime` `#satellite-connectivity` `#emissions-compliance` `#FMCSA` `#Quantix-relevant` `#Class-8` `#telematics`
+
+---
+
+### Insight 3: Logistics 4.0 — Level 4 Autonomous Trucking Corridors Are Moving From Pilot to Limited Commercial Operation
+**Source:** Automotive-Transportation News — "2026 Transportation Market: Core Drivers and Trends" (May 27, 2026)
+**URL:** https://automotive-transportation.news-articles.net/content/2026/05/27/2026-transportation-market-core-drivers-and-trends.html
+**Knowledge Tier:** High-frequency (market analysis synthesis — autonomous trucking status is volatile, treat as directional signal)
+
+**Summary:** The 2026 transportation market is being characterized as a "Logistics 4.0" inflection — a convergence of autonomous integration, AI-optimized routing, green fleet mandates, and intermodal efficiency. Key developments:
+
+- **Autonomous trucking:** Level 4 autonomous trucks are now operating on designated highway corridors (not full network coverage). Early commercial deployments are reducing long-haul labor costs and increasing vehicle utilization on those specific routes. The operational model is hub-to-hub (terminal-to-terminal), not door-to-door — which maps cleanly to bulk chemical carrier networks.
+- **AI routing:** ML-driven real-time route optimization (congestion avoidance, fuel optimization) is a standard feature in TMS platforms, with direct margin impact. No longer a differentiator — table stakes.
+- **Rail + autonomous intermodal:** "Precision Scheduled Railroading" (PSR) + AI-scheduled maintenance + autonomous trucking hub connections are improving intermodal container velocity. Relevant for bulk movements where modal economics favor rail on trunk lanes.
+- **Fleet electrification divide:** Companies with established EV charging infrastructure and battery management systems hold advantage as green fleet mandates accelerate. Companies without infrastructure plans are facing capital expenditure pressure on compressed timelines.
+- **The operator divide:** The market analysis explicitly notes a widening gap between "Logistics 4.0" operators and legacy carriers who have not invested in technology — creating both competitive risk (losing freight to tech-enabled carriers) and consolidation opportunity (acquiring lagging fleets at distressed valuations).
+
+**Quantix Relevance:** The autonomous trucking corridor model (hub-to-hub) is structurally similar to Quantix's terminal network. This is both a threat vector (if autonomous bulk carriers emerge on high-volume corridors) and a potential capability to evaluate for long-haul dry bulk lanes. The fleet electrification mandate is a longer-term capital planning concern — bulk tankers have longer replacement cycles and fewer EV options than dry van, but the regulatory timeline is not being paused for that constraint. The "operator divide" consolidation dynamic could present acquisition targets among smaller bulk carriers who cannot absorb technology investment costs.
+
+**Tags:** `#autonomous-trucking` `#Level4` `#Logistics4.0` `#fleet-electrification` `#AI-routing` `#intermodal` `#operator-consolidation` `#Quantix-relevant` `#long-haul` `#bulk-transport`
+
