@@ -7716,3 +7716,42 @@ Contributor companies: Stolt Tankers, Shell, MOL Chemical Tankers, NYK Line, DNV
 
 **Tags:** `#autonomous-trucking` `#Level4` `#Logistics4.0` `#fleet-electrification` `#AI-routing` `#intermodal` `#operator-consolidation` `#Quantix-relevant` `#long-haul` `#bulk-transport`
 
+
+---
+
+## Knowledge Update — 2026-06-01 (PM Run)
+
+### Insight 1: Resilience-Over-Cost Is Now the Dominant Supply Chain Strategy in 2026
+
+**Date:** 2026-06-01
+**Source:** IndexBox / CFO Dive synthesis — "Fortifying Supply Chains: Resilience Takes Priority Over Cost in 2026" (May 26, 2026); KPMG survey, Bain & Company analysis
+**Summary:**
+73% of businesses are planning a comprehensive transformation of their supply chain operating model within the next 36 months, with risk management and resiliency as the top two priorities. KPMG principal Christopher McCarney characterized the current environment as a "permacrisis" — not a single disruption event but a sustained operating reality. Triggers: Trump admin tariff escalations (25% on European vehicles, aluminum/copper proclamations), Iran conflict started February 2026, and ongoing geopolitical volatility. Key behavioral shifts: (1) regular C-suite supply chain strategy meetings are now the norm at a majority of surveyed firms; (2) organizations are deliberately "building buffers" — accepting higher unit costs in exchange for resilience; (3) broader workforce involvement in supply chain risk management, moving it out of operations silos into executive and cross-functional ownership.
+**SC Relevance (Quantix):** Direct. For a 4,500-truck bulk carrier serving chemical shippers, customer operating model transformations will generate demand for dual-carrier sourcing, dedicated capacity agreements, and higher service-level contracts. Resilience-seeking shippers pay premium rates — Quantix should position accordingly in contract renewals. Also relevant to Quantix's own risk posture: terminal redundancy, multi-carrier sourcing for maintenance/parts, driver pipeline depth.
+**Knowledge Tier:** Mid-frequency (current survey synthesis — note 2026 compilation date; landscape will evolve)
+**Tags:** risk-management, resilience, tariffs, geopolitics, strategy, c-suite-alignment, operating-model
+
+---
+
+### Insight 2: 2026 Trucking Driver Shortage — Regulatory Acceleration Creating Structural Gap
+
+**Date:** 2026-06-01
+**Source:** PLS Logistics — "Truck Driver Shortage 2026: What It Means for Shippers" (May 2026); ATA data; BLS revised data; ACT Research
+**Summary:**
+The U.S. trucking industry has re-entered a formal driver shortage — projected shortfall of ~82,000 drivers in 2026. The shortage has two compounding drivers: (1) Demographic/market: the freight recession was 50,000 jobs deeper than previously understood per revised BLS data; recovery is tightening capacity faster than the labor market can replenish. (2) Regulatory: a March 2026 federal rule now bars asylum seekers, refugees, and DACA recipients from obtaining or renewing CDLs. Foreign-born drivers = nearly 1 in 6 truckers in the U.S. Additional pressures: DOS pause on employment visas for commercial drivers, stricter English proficiency enforcement, tighter CDL standards in multiple states. 92% of carriers operate ≤10 trucks — small fleets are disproportionately exposed. ACT Research characterizes the market as "early-cycle tightening" with rates moving higher.
+**SC Relevance (Quantix):** Critical. Quantix already operates in the deepest part of the driver shortage — hazmat-endorsed, commodity-trained tanker drivers are not interchangeable with general freight CDL holders. The new CDL restrictions on DACA/asylum/refugee holders could directly impact Quantix's driver pool at terminal level. Need to audit: (1) what % of Quantix drivers fall into newly restricted categories; (2) pipeline depth for hazmat-qualified candidates; (3) whether driver retention compensation is benchmarked against tightening market rates. Also: early-cycle rate tightening is a revenue opportunity for Quantix — but only if capacity is available to capture it.
+**Knowledge Tier:** High-frequency (current market data — volatile; monitor quarterly)
+**Tags:** driver-shortage, CDL, hazmat, regulatory-risk, capacity, labor-market, bulk-tanker, Quantix-critical
+
+---
+
+### Insight 3: Inventory Segmentation + Automated Replenishment — Validated 15% Turnover Improvement
+
+**Date:** 2026-06-01
+**Source:** Zigpoll / industry synthesis — "9 Proven Global Supply Chain Management Tactics 2026" (May 2026); Tradeverifyd — "79 Supply Chain Statistics 2026"
+**Summary:**
+Two data points from recent synthesis research: (1) An electronics retailer achieved 15% inventory turnover improvement by implementing rule-based automated replenishment that dynamically adjusts reorder points based on integrated sales, warehouse, and supplier data — eliminating the manual forecasting lag that causes both overstock and stockout events simultaneously. The mechanism: real-time demand signal integration with automated reorder triggers, replacing static quarterly-review cycles. (2) Only 27% of companies have successfully introduced AI into procurement or supply chain functions as of 2025 (Inspectorio data), with 14% of organizations still having no digital roadmap at all. This gap means the window for early-mover advantage on AI-driven SC optimization is still open — but not indefinitely. Separately: 73% of SC leaders expect to hit their "tariff absorption wall" by end of 2026 — the point at which cost increases must pass through to customers rather than being absorbed on corporate balance sheets.
+**SC Relevance (Quantix):** Moderate-direct. The automated replenishment principle translates to fleet operations — dynamic spare parts reorder points based on actual utilization data vs. static min/max levels. The 27% AI adoption gap is relevant context for Quantix's own AI-in-the-loop automation build — they are ahead of the curve, which is a competitive differentiator to communicate to shippers. The tariff absorption wall stat is relevant for chemical shipper customers who will face margin pressure and may seek to renegotiate freight contracts — anticipate that conversation.
+**Knowledge Tier:** Mid-frequency (research synthesis — note 2026 compilation date)
+**Tags:** inventory-management, ABC-XYZ, automated-replenishment, AI-adoption, tariff-absorption, digital-transformation, process-improvement
+
