@@ -7755,3 +7755,45 @@ Two data points from recent synthesis research: (1) An electronics retailer achi
 **Knowledge Tier:** Mid-frequency (research synthesis — note 2026 compilation date)
 **Tags:** inventory-management, ABC-XYZ, automated-replenishment, AI-adoption, tariff-absorption, digital-transformation, process-improvement
 
+
+---
+
+## 2026-06-02 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Bifurcation — The Two-Layer Architecture That's Reshaping Supply Chain Tech Stacks
+
+**Date:** 2026-06-02
+**Source:** Kognitos Blog — "Top AI Automation Tools for Supply Chain Operations in 2026" (May 26, 2026)
+**URL:** https://www.kognitos.com/blog/top-ai-automation-tools-supply-chain-operations-2026/
+**Summary:**
+A key architectural distinction has crystallized in the SC technology market as of mid-2026: the planning/execution layer (Blue Yonder, o9 Solutions, Kinaxis, SAP IBP, Oracle SCM, Manhattan Associates) is now clearly separated from the **operational workflow automation layer** — a previously underserved tier covering Bills of Lading, freight invoice audit, customs documentation, vendor statement reconciliation, PO acknowledgment, and exception management. Legacy RPA and point tools have failed to adequately serve this second layer. Agentic AI platforms (neurosymbolic, audit-ready, deterministic) are now filling the gap. Key data point: Century Supply Chain processes 50,000+ Bills of Lading/month on an agentic AI platform. The practical implication: enterprises need to stop expecting their TMS or WMS to automate document-and-decision workflows — that requires a separate, dedicated layer. Microsoft Dynamics 365 + Copilot agents and IBM Sterling + watsonx Orchestrate represent the "safe enterprise choice" path; purpose-built platforms represent the higher-performance alternative.
+**SC Relevance (Quantix):** High. Quantix operates with high-volume transactional documents — bills of lading, freight contracts, compliance paperwork for chemical shipments. The two-layer framework is directly applicable to Dale's AI-in-the-loop automation build: (1) planning/execution layer can remain TMS-anchored; (2) document/exception workflow layer is the under-automated gap where agentic AI creates ROI. 50,000 BOL/month benchmark provides a scalability reference point.
+**Knowledge Tier:** Mid-frequency (practitioner synthesis, 2026 — note vendor-authored source; validate claims independently)
+**Tags:** agentic-AI, workflow-automation, bills-of-lading, freight-audit, tech-stack-architecture, TMS, digital-transformation, operational-efficiency
+
+---
+
+### Insight 2: Logistics Tech Overload — "Less Tech, Better Used" Emerging as Next Competitive Advantage
+
+**Date:** 2026-06-02
+**Source:** Conqueror Network Blog — "Digital Transformation in Logistics: Has the Industry Reached a Point of Tech Overload?" (May 27, 2026)
+**URL:** https://blog.conquerornetwork.com/2026/05/27/digital-transformation-in-logistics-has-the-industry-reached-a-point-of-tech-overload/
+**Summary:**
+A growing backlash against tool proliferation is surfacing in the logistics industry. Freight forwarders and 3PLs now operate across fragmented ecosystems of TMS, WMS, visibility platforms, digital freight marketplaces, customs platforms, CRM, AI analytics, automated pricing tools, and customer portals. Each tool promised efficiency; collectively, they've created operational noise, integration debt, and "digital fatigue." The emerging competitive framing: **consolidation and integration depth > adoption breadth**. Companies that can unify workflow across fewer, better-integrated platforms are beginning to outperform high-tool-count organizations. The question being asked: could "less tech, better used" become the next competitive advantage in logistics?
+**SC Relevance (Quantix):** High-strategic. This is a Lean/waste-elimination lens applied to technology itself — the 8th waste (defects/rework) now includes data fragmentation and system-switching overhead. For Quantix's AI-in-the-loop build, this validates a platform consolidation strategy over point-tool accumulation. For shipper customers, the tech overload problem creates an opening: a carrier with deeply integrated, low-friction digital interfaces (clean EDI, simple portals, proactive visibility) may command a premium over carriers with fragmented, high-friction digital touchpoints.
+**Knowledge Tier:** Mid-frequency (practitioner/industry perspective — May 2026)
+**Tags:** digital-transformation, logistics-technology, tech-consolidation, platform-integration, operational-efficiency, digital-fatigue, lean-waste, freight-forwarder
+
+---
+
+### Insight 3: 2026 Trucking Market — Supply-Side Tightening Deepens, Regulatory Pressure Is the Mechanism
+
+**Date:** 2026-06-02
+**Source:** ACT Research — "2026 Trucking Industry Forecast & Market Outlook" (Updated May 27, 2026)
+**URL:** https://www.actresearch.net/resources/blog/trucking-industry-forecast-for-2026
+**Summary:**
+The 2026 trucking market is tightening — but the mechanism is supply contraction, not demand acceleration. Key ACT Research findings (May 2026): (1) A **cyclical driver shortage is emerging for the first time since early 2022** — stricter nondomiciled CDL rules, FMCSA enforcement, ELD scrutiny, and fleet exits are reducing available capacity. (2) Truckload spot market conditions tightened ahead of Roadcheck (dry van load-to-truck ratios reached new cycle highs). (3) Contract rates are following spot with a lag — resets are underway. (4) Class 8 orders declined in April but within normal seasonality patterns; 2027 orderboards not yet open. (5) EPA 2027 emissions requirements are a strategic forcing function: fleets are reassessing purchase timing, replacement schedules, and capital allocation. (6) Fleet investment remains replacement-cycle driven — not expansion driven. (7) Used truck market has improved, supporting broader outlook. Net assessment: **rate floor is firming; pricing power is returning to carriers; this is the transition from trough to recovery, not a demand boom**.
+**SC Relevance (Quantix):** Very High / Direct. Quantix is a carrier — this is their market. Implications: (1) Dedicated capacity demand at multi-year highs favors Quantix's model. (2) Tighter driver availability validates investment in driver retention and productivity tech. (3) EPA 2027 equipment decision point is approaching — fleet modernization planning window is now. (4) Rate recovery supports margin reconstruction after a 40-month downturn. (5) Supply-side tightening means shipper relationships will reprice — Quantix should be positioned with value-added service differentiation rather than competing purely on rate.
+**Knowledge Tier:** High-frequency (market data — note May 2026; treat as current but will shift)
+**Tags:** trucking-market, freight-rates, driver-shortage, capacity-tightening, EPA-2027, Class-8, fleet-management, rate-recovery, Quantix-direct, FMCSA, regulatory-compliance
+
