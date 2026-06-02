@@ -7797,3 +7797,53 @@ The 2026 trucking market is tightening — but the mechanism is supply contracti
 **Knowledge Tier:** High-frequency (market data — note May 2026; treat as current but will shift)
 **Tags:** trucking-market, freight-rates, driver-shortage, capacity-tightening, EPA-2027, Class-8, fleet-management, rate-recovery, Quantix-direct, FMCSA, regulatory-compliance
 
+
+---
+
+## 2026-06-02 — Evening Update (PM Cron)
+
+### Insight 1: Resilience Overtakes Cost as Top Supply Chain Priority in 2026
+**Date:** 2026-06-02
+**Source:** IndexBox / CFO Dive synthesis (May 26, 2026) — https://www.indexbox.io/blog/fortifying-supply-chains-resilience-takes-priority-over-cost-in-2026/
+**Summary:**
+Corporate supply chain strategy has fundamentally shifted from cost minimization to resilience building. Key data points:
+- 73% of businesses plan comprehensive SC operating model transformation within 36 months, with risk management as #1 priority (KPMG, May 2026)
+- C-suite now holds regular strategic meetings specifically on supply chain developments — a post-COVID structural change
+- Permacrisis framing: COVID → geopolitical shocks → tariff volatility → Iran war (Feb 2026) → EU auto tariff threats (May 2026) — experts say this cadence of disruption is the new normal, not an anomaly
+- CFOs now working closely with Chief Supply Chain Officers to model financial impact of SC events
+- Front-line SC personnel recognized as early warning detectors — firms building formal mechanisms to escalate field signals upward
+- "The optimal time to modernize is now" — KPMG principal Christopher McCarney
+**SC Relevance:** Direct relevance to Quantix. Bulk chemical customers are increasingly building resilience requirements into carrier contracts. Quantix's scale (4,500+ trucks, 50+ terminals) is a resilience asset — needs to be positioned and marketed that way. The CFO-CSCO partnership dynamic also applies internally: Dale needs finance aligned with SC risk management.
+**Knowledge Tier:** Mid-frequency (research synthesis, May 2026)
+**Tags:** risk-management, resilience, strategy, tariffs, permacrisis, c-suite
+
+---
+
+### Insight 2: Liquid Bulk Transport Evolving Into Coordinated Logistics Networks — Safety and Flexibility Drive Investment
+**Date:** 2026-06-02
+**Source:** Transportation Review Europe (May 28, 2026) — https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+**Summary:**
+Liquid bulk logistics is no longer treated as simple freight movement. Key operational shifts underway in 2026:
+- **Contamination control** as competitive differentiator: industrial customers now hold carriers to stricter cargo transition and residue prevention standards — product contamination can ripple across multiple manufacturing or pharma clients simultaneously
+- **Demand unpredictability** driving fleet flexibility: seasonal fluctuations and regional disruptions alter volumes with little notice; operators building dynamic fleet allocation strategies and more data-driven dispatch planning to reduce idle equipment time
+- **Temperature-sensitive cargo** segment growing: specialty chemicals, food ingredients, pharma compounds require controlled thermal transit; investment in insulated tank infrastructure, onboard monitoring systems accelerating
+- Operators treating safety, traceability, contamination control, and scheduling precision as commercial reliability factors — not just compliance checkboxes
+**SC Relevance:** High relevance to Quantix liquid segment. The contamination control / cargo transition management point is especially sharp — for a carrier running both dry bulk (pellets) and liquid (chemicals), prior-cargo restrictions and tank cleaning protocols are a direct operational risk. The data-driven dispatch planning emphasis aligns with Quantix's AI-in-the-loop automation mission. Temperature monitoring is a capability gap worth tracking for specialty chemical customer retention.
+**Knowledge Tier:** Mid-frequency (industry trade press, May 2026)
+**Tags:** liquid-bulk, chemical-logistics, contamination-control, fleet-flexibility, temperature-monitoring, OTR
+
+---
+
+### Insight 3: Process Improvement — Planning-Execution Misalignment Is the Most Common Root Cause in SC Assessments
+**Date:** 2026-06-02
+**Source:** Parker Avery Group — Top 5 SC Management Case Studies (published May 2026) — https://parkeravery.com/top-5-supply-chain-management-case-studies/
+**Summary:**
+Parker Avery's recent case study compilation highlights a recurring root cause pattern across allocation, replenishment, and fulfillment failures: structural misalignment between planning processes and execution systems. A nine-week cross-functional assessment surfaced process gaps, flawed methodology, and siloed decision-making as the primary drivers — not technology failures. Key takeaways:
+- Most SC improvement opportunities live at the process/methodology layer, not the software layer
+- Allocation and replenishment failures are frequently caused by planners working around broken processes rather than fixing them (workaround accumulation)
+- Nine-week structured diagnostic (similar to DMAIC Define/Measure/Analyze) is cited as the intervention model — consistent with APICS and LSS best practice
+- "Flawed methodology" — the planning logic itself (reorder points, safety stock formulas, allocation rules) is often outdated or was never properly configured
+**SC Relevance:** The planning-execution alignment problem is universal but hits asset-heavy carriers differently than manufacturers. For Quantix, the analog is load planning and dispatch decision logic — are planners working around system constraints because the rules/logic is wrong? This is a classic LSS Define phase finding. Worth a structured diagnostic lens on dispatch and terminal operations.
+**Knowledge Tier:** DC tier (frameworks apply directly); source is practitioner case studies (mid-frequency for currency)
+**Tags:** process-improvement, DMAIC, planning-execution, root-cause, allocation, replenishment, methodology
+
