@@ -7847,3 +7847,64 @@ Parker Avery's recent case study compilation highlights a recurring root cause p
 **Knowledge Tier:** DC tier (frameworks apply directly); source is practitioner case studies (mid-frequency for currency)
 **Tags:** process-improvement, DMAIC, planning-execution, root-cause, allocation, replenishment, methodology
 
+
+---
+
+## 2026-06-03 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Splitting Supply Chain Automation into Two Distinct Layers
+**Source:** Kognitos Blog — "The Top AI Automation Tools for Supply Chain Operations in 2026" (May 26, 2026)
+**Knowledge Tier:** High-frequency (vendor analysis, current market positioning)
+
+A critical architectural distinction is crystallizing in 2026 enterprise deployments: supply chain AI automation now operates in **two separate and non-overlapping layers**:
+
+1. **Planning & Execution Layer** — Blue Yonder, o9, Kinaxis, SAP IBP, Manhattan. Mature platforms with AI bolted onto decades of optimization logic. Gartner Magic Quadrant coverage is established.
+2. **Operational Workflow Automation Layer** — Bills of Lading, freight invoice audit, customs documentation, PO acknowledgment, supplier exception management. Historically underserved by RPA; now being reshaped by **agentic AI** platforms (Kognitos, MarkIt, SourceDay, Leverage AI).
+
+Key data point: Century Supply Chain processes **50,000+ Bills of Lading per month** on an agentic AI platform — a benchmark that signals industrial-scale readiness.
+
+The architectural decision gate: *orchestration within an existing platform* vs. *deterministic, audit-ready decision automation across documents and multi-system workflows*.
+
+**Application for Quantix:** This framing directly maps to our operations. Layer 1 (TMS/dispatch optimization) is the planning layer. Layer 2 — BOL processing, freight audit, hazmat documentation, driver exception management — is where agentic AI could displace current manual workflows. A 50K BOL/month benchmark at a bulk carrier scale is notable. Worth scoping what our monthly BOL volume looks like and whether an audit-ready agentic workflow makes sense for the back office.
+
+**Tags:** `agentic-ai` `workflow-automation` `bol-processing` `freight-audit` `tms` `back-office` `vendor-landscape`
+
+---
+
+### Insight 2: Trucking Industry Pivoting to Fleet Efficiency Over Volume Growth — Truck World 2026
+**Source:** Auto & Trucking Atlantic — "The Path to Decarbonization: Highlights from Truck World 2026" (June 2, 2026)
+**Knowledge Tier:** High-frequency (industry trade show reporting, current market signals)
+
+Truck World 2026 (Mississauga, Ontario — Canada's premier trucking trade show, 500+ exhibitors, 15,000 attendees) surfaced three dominant themes that signal a **structural industry shift**:
+
+1. **Sustainability over volume growth** — Fleet operators and manufacturers aligned around optimizing existing asset performance rather than capacity expansion. The industry has "less room for speculation and more need for answers."
+2. **Workforce shortage persists** — Ontario Trucking Association confirmed the driver shortage has not eased. Focus shifting to retention and workforce development alongside fleet renewal.
+3. **Decarbonization is real but paced** — EV and hydrogen vehicles were on the test-drive track, but diesel efficiency improvements dominated the buy conversations. Freightliner Cascadia and peers showcasing fuel efficiency, driver ergonomics, and digital telemetry as the near-term competitive differentiators.
+
+Eric Starks (FTR Transportation Intelligence) delivered the keynote data-driven outlook on 2026 North American trucking conditions.
+
+**Application for Quantix:** The industry-wide pivot from capacity growth to efficiency optimization is directly relevant. With 4,500+ trucks, marginal fuel efficiency and driver retention ROI is enormous. The "refine what we have" posture at Truck World mirrors where Quantix should be investing — not in fleet expansion right now, but in telematics, route optimization, and driver experience. Also: driver shortage showing no signs of resolution = continued pressure on utilization rates.
+
+**Tags:** `fleet-efficiency` `decarbonization` `driver-shortage` `trucking-trends` `ev` `hydrogen` `telematics` `north-america`
+
+---
+
+### Insight 3: Manufacturing PMI 54% in May 2026 — Fifth Consecutive Month of Expansion, Supplier Deliveries Slowing
+**Source:** ISM® Manufacturing PMI® Report — May 2026 (June 2, 2026, via PR Newswire)
+**Knowledge Tier:** High-frequency (monthly economic indicator — treat as current, volatile)
+
+**Key readings (May 2026):**
+- **Manufacturing PMI: 54.0%** (+1.3 pp vs. April) — highest since May 2022 (55.9%). Fifth consecutive month of expansion.
+- **New Orders: 56.8%** (+2.7 pp) — fifth consecutive month of expansion after four months in contraction
+- **Production: 54.3%** (+0.9 pp) — growing faster
+- **Supplier Deliveries: 60.6%** (flat vs. April, sixth consecutive month of slowing) — demand-driven delivery delays re-emerging
+- **Prices: 82.1%** (−2.5 pp but still strongly expansionary) — input cost pressures remain elevated
+- **Employment: 48.6%** — still contracting, but improving
+- **Customers' Inventories: 42.7%** — "too low," up 3.6 pp — restocking signal building
+- **New Export Orders: 50.6%** — returned to expansion
+- **Comment sentiment: 69% negative** (primary driver: tariff uncertainty cited repeatedly)
+
+**Application for Quantix:** This is a leading demand signal for bulk chemical and plastic pellet movement. Manufacturing expansion = more resin, solvent, and feedstock shipments. The "customers' inventories too low" reading is a pipeline signal — restocking cycles typically precede a freight demand bump by 4–8 weeks. Supplier delivery slowing (60.6%) means logistics networks are tightening under demand load. Rates could firm in Q3 2026. Plan accordingly. Tariff uncertainty in 69% of negative comments is the wildcard that could reverse this quickly.
+
+**Tags:** `ism-pmi` `manufacturing-demand` `freight-demand` `inventory-signal` `chemical-transport` `plastic-pellets` `tariff-risk` `q3-2026`
+
