@@ -7908,3 +7908,57 @@ Eric Starks (FTR Transportation Intelligence) delivered the keynote data-driven 
 
 **Tags:** `ism-pmi` `manufacturing-demand` `freight-demand` `inventory-signal` `chemical-transport` `plastic-pellets` `tariff-risk` `q3-2026`
 
+
+---
+
+## 2026-06-03 — PM Knowledge Update (Cron)
+
+### Insight 1: Chemical Supply Chain Advanced Planning — Speed-to-Value with OMP (EY/Arxada Case Study)
+**Date:** 2026-06-03
+**Source:** EY Consulting Case Study — Arxada Chemical Supply Chain Planning (published March 2026)
+**URL:** https://www.ey.com/en_us/insights/consulting/ey-consulting-case-studies/arxada-chemical-supply-chain-planning
+**Summary:**
+Arxada (specialty chemical manufacturer) partnered with EY and OMP to implement an advanced planning system. The key finding: chemical supply chain APS deployments that historically took years and $M+ in cost can now be accelerated significantly with turnkey solutions. Core pain points driving the project: demand volatility, economic uncertainty, and inventory management (a structural challenge in chemicals due to strict segregation requirements, aging/hazard penalties for overstock, and dense regulatory traceability requirements). The case illustrates that chemicals are far upstream in most supply chains — so overproduction penalties are amplified because problems compound downstream.
+**SC Relevance:** Direct applicability to bulk chemical logistics. The overproduction penalty dynamic (segregation cost + aging hazard) is a Quantix customer constraint — understanding this helps frame carrier value prop around on-time, consistent delivery that avoids forced overstock. Advanced planning in the chemical sector is maturing; carriers that align their scheduling/capacity visibility with customer APS systems will have a competitive edge.
+**Knowledge Tier:** Mid-frequency (research synthesis — EY case study, March 2026)
+**Tags:** chemical-sc, advanced-planning, inventory-management, OMP, demand-volatility, overproduction-risk
+
+---
+
+### Insight 2: Geopolitical Risk Reshaping Supply Chain Strategy — Regionalization as the New Default (2026)
+**Date:** 2026-06-03
+**Source:** Global Trade Magazine — "How Geopolitical Tensions in 2026 Are Reshaping Global Supply Chain Strategies" (May 2026); supplemented by DSV Expert Opinion on Strait of Hormuz crisis response (June 2026)
+**URLs:** https://www.globaltrademag.com/how-geopolitical-tensions-in-2026-are-reshaping-global-supply-chain-strategies/ | https://www.dsv.com/en-us/insights/expert-opinions/protect-pharma-supply-chains-from-geopolitics
+**Summary:**
+2026 marks a structural inflection: geopolitical risk has shifted from episodic disruption to a permanent strategic planning variable. Key moves companies are making:
+1. **Regionalization** — shifting from global-efficiency networks to regional hubs (North America, Europe, Asia) to reduce tariff/route exposure
+2. **Supplier diversification** — no single-source or single-region for critical inputs
+3. **Nearshoring** — production closer to end markets (especially US/Mexico corridor in North American context)
+4. **Inventory buffer rebuilding** — the "just-in-case" pendulum swung hard post-COVID and is staying there
+5. **Multi-modal agility** — ability to switch modes rapidly (air→truck, ocean→rail) when routes are blocked (Strait of Hormuz crisis cited as 2026 trigger event)
+DSV framework for geopolitical-resilient supply chains: **Agility, Regionalization, Local presence/intelligence, Zero-tolerance compliance, E2E visibility** (5 pillars).
+**SC Relevance:** For Quantix/bulk chemical OTR: domestic nearshoring trends are a positive demand signal — more chemical production and processing in the US/Gulf Coast means more bulk truck miles, not fewer. The multi-modal agility point is relevant for customers who may need rail-to-truck transloading when disruptions hit. Quantix's 50+ terminal network is a strategic asset in that scenario.
+**Knowledge Tier:** High-frequency (current market analysis — flag as volatile; geopolitical situation evolving)
+**Tags:** geopolitical-risk, regionalization, nearshoring, supply-chain-resilience, multi-modal, Strait-of-Hormuz, inventory-strategy, just-in-case
+
+---
+
+### Insight 3: Dry Bulk Cargo 2026 Market Trends — Grains/Minor Bulks Outpacing Iron Ore
+**Date:** 2026-06-03
+**Source:** FreightAmigo Bulk Cargo Guide 2026 (citing BIMCO and Clarksons reports)
+**URL:** https://www.freightamigo.com/en/blog/logistics/understanding-bulk-cargo-definition-types-and-2026-shipping-insights/
+**Summary:**
+2026 dry bulk trade growth forecast (BIMCO/Clarksons):
+- Iron Ore: +0.8–2.8% ton-miles (stable)
+- Coal: flat/low
+- Grains/Minor Bulks: +3.5–7.5% growth (strongest segment)
+- Overall dry bulk trade: +1–2%
+Key operational best practices surfaced:
+- **Dry bulk OTR:** dust control, stability (angle of repose for granular materials), contamination prevention are the top handling risks
+- **Liquid bulk OTR:** temperature-controlled requirements for solidifying chemicals (in-transit heat trailers), proper equipment selection for offloading (compressors vs. pumps), volume/weight matching to tanker size
+- Plastics (pellets) — the core Quantix dry bulk commodity — fall in the "minor bulks" category which is showing the strongest growth trajectory
+- IMSBC Code (marine) standards cited for hold cleanliness inspections — analogous best practice for OTR: trailer cleanliness/prior-cargo protocols before loading plastic pellets
+**SC Relevance:** Grains/minor bulks growth (+3.5–7.5%) is the segment where plastic pellet OTR logistics lives. This is a demand-positive signal for Quantix's core business. The contamination prevention and prior-cargo protocol point is operationally significant — plastic pellet customers are highly sensitive to contamination (FDA food-contact resin applications), and rigorous trailer cleaning/certification protocols are a differentiation point.
+**Knowledge Tier:** High-frequency (2026 market data — BIMCO/Clarksons via FreightAmigo synthesis; flag as volatile)
+**Tags:** dry-bulk, plastic-pellets, minor-bulks, market-trends, contamination-prevention, trailer-cleaning, BIMCO, Clarksons, temperature-controlled, bulk-liquid
+
