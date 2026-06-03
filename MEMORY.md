@@ -206,19 +206,15 @@ _Initialized: 2026-03-03_
 - **Quantix as carrier:** CSA scores + hazmat compliance = revenue-affecting assets. AI dashcam/coaching ROI recalculated upward. Proactive vetting package is a marketable differentiator.
 - Accelerating shift: spot-market anonymous carriers → vetted programs. Samsara demand up post-ruling.
 
-### Cargo Theft Spike + Procurement Disruption Costs (Q1 2026, May 5, 2026)
-- **CargoNet Q1 2026:** Cargo theft increasingly sophisticated — fictitious pickup, identity-based fraud replacing smash-and-grab. Chemical/plastics carriers face both physical theft and documentation fraud risk at terminal level.
-- **$16M average annual cost** from direct procurement disruptions (PRNewswire study). Tariff evasion alone cost U.S. companies $107B in 2025 (Dow Jones Risk Journal). Board-level risk, not just procurement ops.
-- Quantix action: terminal security protocol audit; shipper customers dealing with procurement volatility — carriers providing supply chain visibility data gain account stickiness.
+### Cargo Theft Spike + Procurement Disruption Costs (Q1 2026)
+- **CargoNet Q1 2026:** Fictitious pickup + identity-based fraud replacing smash-and-grab; chemical/plastics carriers face both physical theft and documentation fraud risk. $16M avg annual procurement disruption cost; tariff evasion $107B in 2025. Quantix: terminal security audit; visibility data = account stickiness.
 
 ### ML Optimal Replenishment — Forecast-Free Planning (LTPLabs, Feb 2026)
-- "Optimal Machine Learning" replaces predict-then-optimize with unified constraint+objective framework
-- Results: 6% inventory reduction, no service level degradation, no forecast dependency
-- Quantix application: bulk segment capacity planning off irregular load patterns; embed hazmat routing rules, prior cargo restrictions, HOS directly into planning models
+- "Optimal ML" replaces predict-then-optimize with unified constraint+objective framework; 6% inventory reduction, no service degradation. Quantix: embed hazmat routing rules, prior cargo restrictions, HOS directly into capacity planning models.
 
 ### Tariff Governance + SMB Response
-- **SCOTUS *Learning Resources v. Trump* (6-3, Feb 2026):** President lacked IEEPA authority → tariff governance shifts to Congress; policy becomes slower-moving but potentially more durable. Unpredictability remains the core risk regardless of direction. U.S. chemical mfg establishments +10.2% (2017–2022) → OTR bulk domestic volume tailwind.
-- **Netstock 2026 (SMB survey):** 97% deploying active mitigation — 35% changed suppliers, ~50% multi-region sourcing, 75% extended forecast horizons. 82% passing costs downstream → downstream demand elasticity risk. Freight lanes fragmenting as sourcing hybridizes. Quantix: carriers with visibility tools win longer-term commitments; scenario-plan for rapid lane reconfiguration.
+- **SCOTUS *Learning Resources v. Trump* (6-3, Feb 2026):** IEEPA tariff authority → Congress; slower-moving but potentially more durable. Core risk: unpredictability. U.S. chemical mfg +10.2% (2017–2022) = OTR bulk volume tailwind.
+- **Netstock 2026:** 97% deploying mitigation; 82% passing costs downstream → downstream demand elasticity risk. Quantix: visibility tools win longer-term commitments; scenario-plan for rapid lane reconfiguration.
 
 ### DMAIC Delivery Performance — Quantitative Benchmarks (Scientific Reports, Dec 2025)
 - Peer-reviewed DMAIC case: 50% reduction in failed deliveries; DPMO fell from 81,038 (2.9σ) to 39,636 (3.3σ). Even 0.4σ improvement is material at bulk carrier volumes.
@@ -273,9 +269,7 @@ _Initialized: 2026-03-03_
 - **Quantix action:** AI governance framework is a near-term need before agentic dispatch goes live — define decision boundaries, escalation thresholds, and audit trail requirements before a rogue AI decision causes a service failure.
 
 ### Proactive Fleet Management as DMAIC Target (J.J. Keller, May 2026)
-- **6th Annual State of Fleet Management Study:** Leading fleets shifting from reactive compliance to proactive prevention — real-time non-compliance detection, predictive maintenance, pre-incident repair identification are top priorities. 2/3 of fleet managers describe the role as "very/moderately challenging." Regulatory change + driver retention + documentation + maintenance = chronic pressure stack.
-- **DMAIC frame:** Define = unplanned breakdown cost vs. PM cost delta. Measure = breakdown frequency by asset type/age/terminal. Analyze = Pareto by failure type. Improve = PM schedule tightening + predictive sensors. Control = dashboard + escalation protocol.
-- **Quantix application:** 4,500-truck fleet with systemic proactive maintenance program is a Six Sigma define-worthy opportunity — compliance as a margin-protective, not just safety-protective, function.
+- Leading fleets shifting from reactive compliance to proactive prevention — predictive maintenance, real-time non-compliance detection. DMAIC frame: Define = PM cost vs. breakdown cost delta; Measure = breakdown freq by asset/age/terminal; Analyze = Pareto; Improve = PM tightening + sensors; Control = dashboard. Quantix: compliance as margin-protective function at 4,500-truck scale.
 
 ### AI as "System of Action" — Inbound Logistics 2026 Annual Survey
 - **AI has crossed from decision-support to autonomous execution** in leading supply chains. Key platforms: Aera Technology ("always-on decision intelligence agents," up to 15% logistics cost reduction); Decklar (sensor signals → immediate action, no human in loop for Global 2000 firms); Causal AI (Deposco prescribes *why* costs rise, auto-corrects WMS — helped Psycho Bunny cut short-ships 90%).
@@ -283,14 +277,11 @@ _Initialized: 2026-03-03_
 - **Top innovation priorities (Kenco):** AI/ML (27%), computer vision (23%), supply chain digitization (18%), GenAI (17%).
 - **Quantix application:** Computer vision (23% adoption priority) is directly relevant for terminal yard management and load verification. Brownfield approach validates layering intelligence on existing fleet/terminal assets.
 
-### Amazon Unified Logistics — Competitive Signal for Carriers (May 2026)
-- Amazon stitched together its logistics services (air, middle-mile trucking, last-mile DSP, fulfillment) into a **single unified supply chain product** targeting manufacturers/retailers. Removes need for shippers to coordinate across providers; eliminates intermediary margin layer.
-- **APICS lens:** Textbook vertical integration strategy (CPIM Module 2: SC Design). Amazon's data advantage is structurally superior to DHL/XPO integrated offerings.
-- **Quantix exposure:** Direct threat is LOW for bulk/hazmat (Amazon doesn't do tanker ops), but benchmark expectation shifts: shippers will increasingly expect single-provider, data-transparent, end-to-end coverage. Moat = 4,500 trucks + 50 terminals + AI visibility. Urgency of AI-in-the-loop build increases.
+### Amazon Unified Logistics — Competitive Signal (May 2026)
+- Amazon unified air/trucking/last-mile/fulfillment into single SC product (textbook vertical integration). Direct threat LOW for bulk/hazmat — Amazon doesn't do tanker ops. But benchmark expectation shifts: shippers expect single-provider data-transparent coverage. Quantix moat = 4,500 trucks + 50 terminals + AI visibility. Urgency of AI-in-the-loop build increases.
 
 ### U.S. National Freight Strategic Plan 2026 — Policy Tailwind for Bulk OTR (May 2026)
-- DOT 2026 NFSP: 7M-mile multimodal system; 54M+ tons/day; six priorities: safety, efficiency, security, resilience, innovation, workforce. Conceptual shift: freight = national operating system (not infrastructure problem). Cross-modal orchestration named as systemic failure point. Gulf Coast → Midwest chemical lanes likely qualify as "nationally significant freight corridors" — watch for funding. CDL workforce capability named priority.
-- Quantix posture: favorable policy environment; monitor NFSP implementation annually.
+- DOT 2026 NFSP: freight = national operating system; six priorities (safety, efficiency, security, resilience, innovation, workforce). Gulf Coast → Midwest chemical lanes likely qualify as nationally significant corridors. CDL workforce named priority. Quantix: favorable policy environment; monitor annually.
 
 ### Trucking Insurance — Structural Cost Inflation (ATRI, May 2026)
 - Commercial auto insurance: +8.3%/yr 2017–2025 (vs. 3.9% CPI). Despite -8.4% crash rate per mile. Q4 2025: +6.6% sequential — highest across all lines. Insurers in the red yet still raising rates. *Montgomery* ruling may add 3PL liability pressure. Hazmat/bulk carriers face compounding surcharges + nuclear verdict risk.
@@ -305,9 +296,17 @@ _Initialized: 2026-03-03_
 - Quantix application: chemical/pellet customers face more frequent lane volatility + last-minute mode shifts; positioning Quantix digital capability as tariff-execution support is an emerging differentiator
 
 ### Freight Fraud — AI-Manipulated Documents Now Standard Threat (FreightWaves/ITS Logistics, May 2026)
-- Cargo fraud and carrier identity fraud at record 2026 levels. AI-manipulated docs/images are standard fraud vectors; underground MC authority sales emerging as new threat.
-- Best practice vetting stack: Highway + Carrier411 + RMIS integrated into TMS + human check calls + governed procedures (ITS Logistics cited as gold standard by FreightWaves 2026 Fraud Fighter Awards).
-- **Quantix as carrier:** MC authority integrity + CSA compliance record = reputational/revenue-protective asset. For any brokered capacity used, current due diligence standard = the stack above. FMCSA enforcement activity means compliance gaps surface faster.
+- Cargo/carrier identity fraud at record 2026 levels; AI-manipulated docs standard; underground MC authority sales emerging. Best practice vetting stack: Highway + Carrier411 + RMIS + TMS + check calls. Quantix as carrier: MC authority integrity + CSA compliance = reputational/revenue asset. Any brokered capacity = current vetting stack required. FMCSA enforcement: compliance gaps surface faster.
+
+### Driver Shortage — Regulatory Acceleration Creating Structural Gap (June 2026)
+- **ATA/BLS/ACT Research (May/June 2026):** ~82,000 driver shortfall projected 2026 — structural, not cyclical. Two mechanisms: (1) market: revised BLS data shows freight recession was 50,000 jobs deeper than understood; recovery tightening faster than labor can replenish; (2) regulatory: March 2026 federal rule bars asylum seekers, refugees, DACA recipients from obtaining/renewing CDLs. Foreign-born = ~1 in 6 U.S. truckers. DOS pause on employment visas for commercial drivers + stricter ELP enforcement + tighter CDL standards.
+- **Quantix-critical:** Hazmat-endorsed tanker drivers are non-interchangeable with general CDL holders. Restricted categories may directly impact Quantix's driver pool. Required actions: (1) audit what % of 4,500-driver base falls into newly restricted categories; (2) map hazmat-qualified candidate pipeline depth; (3) benchmark driver retention compensation against tightening market. Rate recovery signal: supply-side tightening = pricing power returning to carriers.
+- **Knowledge tier:** High-frequency — monitor quarterly.
+
+### Logistics Technology Consolidation — "Less Tech, Better Used" (June 2026)
+- **Conqueror Network / industry synthesis (May 2026):** Backlash against tool proliferation is surfacing across logistics. Freight forwarders/3PLs now operate fragmented ecosystems (TMS + WMS + visibility + marketplaces + customs + CRM + AI analytics) — each promised efficiency; collectively created integration debt and "digital fatigue." Emerging competitive framing: **consolidation and integration depth > adoption breadth.**
+- **APICS/Lean lens:** Tech proliferation = 8th waste (defects/rework) applied to information systems — system-switching overhead is non-value-added time.
+- **Quantix application (two vectors):** (1) Internal AI-in-the-loop build: validate platform consolidation over point-tool accumulation — fewer, deeply-integrated systems outperform high-tool-count stacks; (2) Carrier positioning: clean EDI, simple portals, proactive visibility with low friction = premium over fragmented digital touchpoints. Shipper procurement teams will optimize for carrier interoperability as agentic procurement matures.
 
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
