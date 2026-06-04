@@ -7962,3 +7962,64 @@ Key operational best practices surfaced:
 **Knowledge Tier:** High-frequency (2026 market data — BIMCO/Clarksons via FreightAmigo synthesis; flag as volatile)
 **Tags:** dry-bulk, plastic-pellets, minor-bulks, market-trends, contamination-prevention, trailer-cleaning, BIMCO, Clarksons, temperature-controlled, bulk-liquid
 
+
+---
+
+## 2026-06-04 AM — Morning Knowledge Scan
+
+### Insight 1: Truckload Market Has Already Repriced — Rates Running 40% YoY, Capacity the Driver
+**Date:** 2026-06-04
+**Source:** Transportation Insight — "Transportation Industry Trends: June 1–5, 2026"
+**URL:** https://transportationinsight.com/resources/transportation-industry-trends-june-1-5-2026/
+**Summary:**
+Current truckload market data as of week of June 1–5, 2026:
+- Truckload rates are running **~40% higher year-over-year** — described as "one of the largest YoY moves in the last decade outside of COVID-era distortion"
+- The primary driver is **capacity discipline**, not demand surge. Available capacity is down, and *acceptable* capacity (carriers shippers trust and use consistently) has fallen even further — shippers are competing for quality carriers, not just any truck
+- Calendar compressors (DOT Roadcheck week, Memorial Day, end-of-month pressure) amplified a market that was already tightened — these disruptions landed on an inelastic network
+- **Parcel market structure shift:** DHL and USPS signed a **$10B+ long-term exclusive agreement** for domestic final-mile, potentially expanding DHL's domestic reach significantly
+- Intermodal continuing to grow: international container volume on rail +8% YoY, domestic intermodal +14% YoY — replenishment activity using rail when timing isn't urgent
+- Drayage flat YoY but constructive outlook through H2 2026 driven by import-driven freight tracking at or above seasonal norms
+- LTL benefiting from TL tightening — shippers are moving freight downstream to LTL to manage cost as TL rates spike
+
+**SC Relevance:** For Quantix (bulk OTR carrier, 4,500+ trucks): the 40% YoY rate environment is a significant pricing opportunity but also a contract management challenge. The "acceptable capacity" dynamic is exactly where a large, reliable fleet like Quantix differentiates — shippers are prioritizing carrier quality, not just availability. The LTL-shift trend is less relevant for bulk (you can't LTL a tanker of plastic pellets), but signals that the freight market broadly is repricing above equilibrium and capacity exits are real.
+**Knowledge Tier:** High-frequency (current week market data — flag as volatile, conditions can shift rapidly)
+**Tags:** truckload-rates, capacity-tightening, freight-market, carrier-selection, DHL-USPS, intermodal, LTL, rate-cycle, bulk-carrier, Quantix-relevant
+
+---
+
+### Insight 2: Freight Market Fundamentals June 2026 — Spot Outpacing Contract, Carrier Exits Accelerating
+**Date:** 2026-06-04
+**Source:** FreightWaves / Ryder — "State of the Industry: June 2026" White Paper
+**URL:** https://www.freightwaves.com/news/white-paper-state-of-the-industry-june-2026
+**Summary:**
+FreightWaves June 2026 State of the Industry report (published June 2, 2026) covers trucking, maritime, and intermodal markets:
+- **Spot vs. contract gap widening:** Spot rates are outpacing contract rates and pulling capacity into the spot market. This increases tender rejection rates and signals upward pricing pressure for contracted shippers — the classic precursor to a full rate cycle reset
+- **Capacity tightening mechanism:** Carrier exits (not demand surge) + stricter broker vetting are reducing available capacity — creating *structural* tightening with longer-term upward rate pressure vs. cyclical spikes
+- **Demand is stable but not strong:** Flat freight demand overall, limited import activity, cautious shipper ordering behavior driven by inflation concerns (PPI ~6%)
+- **Inflation and input costs:** PPI at ~6% contributing to higher freight rates and economic uncertainty — fuel + broader cost inputs both elevated
+- **Roadcheck disruption signal:** The DOT Roadcheck inspection blitz drove tender rejections and spot rates higher quickly, confirming the market is operating with minimal slack — small disruptions now have outsized rate effects
+- **Modal shifts emerging:** Shippers leveraging intermodal and LTL to secure capacity even at higher unit costs as TL tightens
+- **Growth pockets:** Data center construction is driving strong **flatbed demand** (structural steel, HVAC, generators); housing remains weak; consumer sentiment declining
+
+**SC Relevance:** The spot-contract gap widening is a procurement signal: shippers on contract renewals coming up in H2 2026 should expect carriers to push rates significantly higher. For Quantix, this is a favorable pricing environment but also a moment to lock in volume commitments from key customers before rates move further. The "minimal slack" finding is critical for ops planning — minor disruptions (weather, terminal incidents, driver availability) now propagate into rate spikes faster than in normal markets.
+**Knowledge Tier:** High-frequency (current market; FreightWaves/Ryder industry source — reputable but data subject to rapid change)
+**Tags:** spot-rates, contract-rates, tender-rejection, carrier-exits, freight-cycle, rate-pressure, flatbed, intermodal, broker-vetting, Quantix-relevant, freight-market
+
+---
+
+### Insight 3: AI Dual Role in Logistics — Operational Optimizer AND Cybersecurity Risk Vector
+**Date:** 2026-06-04
+**Source:** Unishippers — "Shipping Trends 2026: Key Market Forces Reshaping Transportation and Logistics"
+**URL:** https://www.unishippers.com/shipping-resources/general-resources/mid-year-shipping-trends-2026
+**Summary:**
+Unishippers mid-year 2026 logistics trend report highlights AI's dual nature in freight operations:
+- **AI as optimizer:** Route optimization, demand forecasting, and carrier selection are the leading AI use cases — Accenture cites 20% cost reduction potential in autonomous supply chain scenarios
+- **AI as risk vector:** AI is simultaneously becoming a cybersecurity threat in logistics — AI-powered phishing and social engineering targeting freight payment systems and carrier onboarding flows are increasing
+- **88% of supply chain leaders** believe agentic AI will force new processes for talent pipelines; **76% have already invested** or plan to invest in capabilities to automate interactions with "machine customers" (AI-to-AI ordering/procurement)
+- **CDL crackdown / non-domiciled driver enforcement:** FMCSA non-domiciled CDL enforcement continues as a capacity wildcard — if tightened, could remove a meaningful share of truckload drivers from the market in H2 2026
+- **Freight market recovery:** LTL carriers reporting increased shipment weights and stronger volumes as TL costs push freight into LTL ("rising tide lifts all boats")
+- **Nearshoring reinforcing domestic demand:** Manufacturing activity recovery + nearshoring momentum is creating steady domestic freight demand even as consumer sentiment is mixed
+
+**SC Relevance:** The AI-as-cybersecurity-risk point is underappreciated in bulk chemical/carrier contexts. Freight payment fraud (double brokering, factoring fraud, carrier impersonation) is already a significant problem in trucking — AI-enhanced social engineering raises the stakes. Quantix's carrier onboarding and payment systems should be evaluated against this threat. The "machine customer" data point (76% investing in AI-to-AI procurement) is a longer horizon signal but directly relevant to Quantix's digital transformation roadmap — shipper TMS platforms will increasingly generate automated tender and booking requests.
+**Knowledge Tier:** High-frequency (current market trends; Unishippers is a freight broker/aggregator — industry practitioner source with SMB orientation; validate against carrier-side data)
+**Tags:** AI-logistics, cybersecurity, freight-fraud, agentic-AI, machine-customers, CDL-enforcement, nearshoring, route-optimization, talent-pipeline, Quantix-relevant
