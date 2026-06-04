@@ -8023,3 +8023,51 @@ Unishippers mid-year 2026 logistics trend report highlights AI's dual nature in 
 **SC Relevance:** The AI-as-cybersecurity-risk point is underappreciated in bulk chemical/carrier contexts. Freight payment fraud (double brokering, factoring fraud, carrier impersonation) is already a significant problem in trucking — AI-enhanced social engineering raises the stakes. Quantix's carrier onboarding and payment systems should be evaluated against this threat. The "machine customer" data point (76% investing in AI-to-AI procurement) is a longer horizon signal but directly relevant to Quantix's digital transformation roadmap — shipper TMS platforms will increasingly generate automated tender and booking requests.
 **Knowledge Tier:** High-frequency (current market trends; Unishippers is a freight broker/aggregator — industry practitioner source with SMB orientation; validate against carrier-side data)
 **Tags:** AI-logistics, cybersecurity, freight-fraud, agentic-AI, machine-customers, CDL-enforcement, nearshoring, route-optimization, talent-pipeline, Quantix-relevant
+
+---
+
+## 2026-06-04 — Evening Update (PM Cron)
+
+### Insight 1: Chemical SC Advanced Planning — Speed-to-Value with APS + OMP (Process Improvement Case Study)
+
+**Date:** 2026-06-04
+**Source:** EY Consulting Case Study — Arxada Chemical Supply Chain Planning (March 2026) | ey.com
+**Summary:** EY implemented an OMP-based advanced planning system for Arxada (specialty chemicals) in record time, delivering measurable inventory and top-line results far faster than traditional APS deployments (which historically take years and millions of dollars). Core problem addressed: demand volatility, economic uncertainty, and inventory management in chemicals — where overproduction penalties are severe (segregation costs, aging hazards, regulatory consequences). The EY turnkey approach compressed the value realization timeline significantly.
+**SC Relevance:** High relevance for chemical SC planning. Key takeaway: structured inventory management + modern APS can overcome the chronic "APS takes forever" objection. Applies to any carrier or 3PL whose shipper customers are wrestling with overproduction in upstream chemical supply. For Quantix: understanding customer planning maturity = understanding where your capacity utilization risk comes from.
+**Knowledge Tier:** Mid-frequency (consulting case study synthesis, March 2026)
+**Tags:** #chemical-sc #APS #inventory-management #process-improvement #planning
+
+---
+
+### Insight 2: Resilience > Cost — C-Suite Realignment in Supply Chain Risk Management (2026)
+
+**Date:** 2026-06-04
+**Source:** IndexBox / CFO Dive synthesis — "Fortifying Supply Chains: Resilience Takes Priority Over Cost in 2026" (May 26, 2026) | indexbox.io; KPMG U.S. Supply Chain Survey (May 2026, n=462 executives)
+**Summary:** A structural shift is underway: resilience has overtaken cost optimization as the #1 SC priority. Key data points:
+- 73% of businesses plan a full SC operating model transformation within 36 months, with risk/resilience as top drivers
+- Majority of survey respondents now hold regular C-suite strategic meetings on SC developments
+- KPMG principal: "This is not a one-time event — another shock will always occur. Optimal time to modernize is now."
+- Bain & Company: companies must plan for *regularly occurring* geopolitical and policy shocks, not one-offs
+- SC spend has jumped from 5–10% of revenue (2024) to 11–15% (2026) at leading firms
+- Permacrisis framing: COVID → policy shocks → tariffs → Iran war → next event — it's continuous, not episodic
+**SC Relevance:** Critical for Quantix positioning. Shippers paying more for resilience = opportunity for carriers with proven reliability, diversified terminal networks, and contingency capacity. This is a strategic selling moment. Also directly relevant for Quantix's own risk framework — 50+ terminals, 4,500+ trucks in a permacrisis environment needs formal SC risk governance (not just ops reviews).
+**Knowledge Tier:** High-frequency (current survey data, May 2026 — treat as volatile; reverify in 6 months)
+**Tags:** #risk-management #resilience #strategy #C-suite #permacrisis #KPMG #geopolitical-risk
+
+---
+
+### Insight 3: Bulk Carrier Zero-Loss & Digital Monitoring — Dual Standard Emerging in Bulk Logistics (Bulk/Chemical Logistics)
+
+**Date:** 2026-06-04
+**Source 1:** Quality Carriers, Inc. — Operation Clean Sweep 2026 Support (May 2026) | qualitycarriers.com
+**Source 2:** Transportation Review Europe — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" (May 28, 2026) | transportationrevieweurope.com
+**Summary:**
+*Zero-loss programs:* Quality Carriers (largest bulk liquid carrier in North America) reaffirmed 2026 OCS commitment. OCS (Operation Clean Sweep, founded 1991 by Plastics Industry Association / American Chemistry Council) targets zero plastic resin loss across trucking and transloading. QC has participated since 2021. The program requires training, monitoring, and environmental accountability at every handling point. This is becoming an industry expectation for dry bulk pellet carriers — not a differentiator, a baseline.
+
+*Digital monitoring:* Liquid bulk operators are now deploying centralized real-time tracking platforms that monitor route performance, cargo temperature, pressure conditions, fuel efficiency, and delivery timing. Tank systems are investing in compartmentalization, advanced cleaning protocols, and strict cargo transition management. The driver: product contamination can now cascade across manufacturing, food processing, or pharma production in multiple regions — single-shipment incidents have systemic consequences.
+**SC Relevance:** Direct Quantix relevance on two fronts:
+1. **Dry bulk (plastic pellets):** OCS compliance is increasingly a shipper requirement. If Quantix is not formally enrolled, competitive risk vs. carriers like QC who are. Worth verifying Quantix OCS status.
+2. **Liquid bulk/ISO (chemicals):** Digital monitoring for temperature, pressure, and cargo integrity is moving from leading practice to expected standard. Centralized fleet monitoring = both a safety and a commercial reliability argument.
+**Knowledge Tier:** Mid-frequency (industry practice standards, May 2026)
+**Tags:** #bulk-logistics #plastic-pellets #OCS #operation-clean-sweep #digital-monitoring #cargo-integrity #liquid-bulk #chemical-logistics #quantix-direct
+
