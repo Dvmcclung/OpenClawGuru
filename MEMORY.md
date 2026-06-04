@@ -43,8 +43,8 @@ _Initialized: 2026-03-03_
 - **Total Value of Ownership replacing TCO (ISM/Circular Economy Alliance, March 2026):** Leading procurement orgs now factor circularity, repairability, and recyclability into supplier qualification. Relevant for Quantix's own equipment procurement (tractors, trailers, tankers) — TVO > acquisition price in long-run asset decisions.
 
 ### AI & Technology
-- **AI scaling from PoC to embedded platform intelligence (KPMG 2026):** Supply chains moving from standalone AI pilots toward AI embedded in Source-to-Pay, planning tools, and risk systems. "Connected Intelligence" endpoint = enterprise-wide AI layer (SC + procurement + finance + ESG + HR + CRM). This is the architecture target for Dale's AI-in-the-loop work at Quantix.
-- **69% data integration failure rate (industry, Feb 2026):** Tech investment alone doesn't solve it. Execution gap = the exact problem AI-in-the-loop automation solves. Use as positioning narrative.
+- **AI scaling from PoC to embedded platform (KPMG 2026):** SC moving from standalone pilots to AI embedded in Source-to-Pay, planning, risk. "Connected Intelligence" = enterprise-wide AI layer. Architecture target for Dale's AI-in-the-loop work at Quantix.
+- **69% data integration failure rate (industry, Feb 2026):** Tech investment alone doesn't solve it. Execution gap = the exact problem AI-in-the-loop automation solves.
 
 ### Freight Market & Rate Intelligence
 - **SONAR Bulk Rates API (April 2026):** First standardized bulk trucking contract rate benchmarks — outbound state-based, round-trip, API-first. Shippers will arrive at negotiations with this data. Quantix action: subscribe; validate lane rates against benchmark; identify cost-differentiation lanes.
@@ -91,7 +91,7 @@ _Initialized: 2026-03-03_
 - **project44 acquires LunaPath.ai (April 2026):** Visibility → autonomous execution; agents handling carrier check calls, POD, claims, appointments. CEO: *"Bolt-on AI to legacy systems rarely works."* Quantix: shipper customers with AI agents → data connectivity + response latency are table stakes. Build natively, not bolted to McLeod/TMW.
 - **Agentic procurement (SupplyChainBrain/April 2026):** GenAI adoption 50%→94% (2023→2024). 9% efficiency gap (workloads +10%, budgets +1%) only tech closes. Agentic AI maintains **persistent project state**. Multi-agent sub-functions emerging (sourcing, legal, risk, negotiation). Warning: separate GenAI adoption from agentic transformation — not the same thing. Deloitte: domain agents orchestrate task agents + RPA + data. Gartner: 40% of enterprise apps integrate task-specific AI agents by end-2026. A Dispatch Agent for Quantix is buildable today.
 - **AI execution → Q1 2026 inflection:** Auto-reroute, auto-assign, exception escalation without dispatcher delay. Cost floor reset higher. Maps to 4,500-truck dispatch latency at Quantix. AI Readiness Gap (Blue Yonder): 8% using agentic AI — still a differentiator window. Bottleneck = data quality + process integration, not technology.
-- **Two-layer SC AI architecture (mid-2026):** Layer 1 = Planning/Execution platforms (Blue Yonder, o9, Kinaxis, SAP IBP — mature, well-analyzed). Layer 2 = Operational Workflow Automation (BOL processing, freight invoice audit, customs docs, PO ack, exception management) — historically underserved, now disrupted by agentic AI (Kognitos, IBM Sterling + watsonx, Microsoft D365 Copilot agents). Highest short-term ROI lies in Layer 2, not Layer 1. Quantix generates high-volume transactional documents (BOLs, freight bills, SDS routing, carrier confirmations) — Layer 2 automation is a near-term target. Regulatory/hazmat chain-of-custody requirement = deterministic AI (not generative) is the right architecture for BOL/SDS workflows.
+- **Two-layer SC AI architecture (mid-2026):** Layer 1 = Planning/Execution platforms (Blue Yonder, o9, Kinaxis, SAP IBP — mature). Layer 2 = Operational Workflow Automation (BOL processing, freight invoice audit, customs docs, PO ack, exception management) — historically underserved, now disrupted by agentic AI (Kognitos, IBM Sterling + watsonx, D365 Copilot agents). Highest short-term ROI = Layer 2. Benchmark: Century Supply Chain processes 50,000+ BOLs/month on agentic AI — industrial-scale readiness confirmed. Quantix generates high-volume transactional docs — Layer 2 automation is a near-term target. Hazmat chain-of-custody = deterministic AI (not generative) is the right architecture.
 - **Tariff front-loading:** 85.6% of BCOs front-loaded; demand lumps follow quiet periods. Quantix: contractually hedge these patterns with key shippers.
 
 ### Sub-Tier Supplier Visibility
@@ -121,12 +121,16 @@ _Initialized: 2026-03-03_
 - **LTL margin benchmark:** FedEx Freight spinoff (June 1, 2026): $8.7B revenue, 12% OI margin. Use as industry profitability benchmark. Spinoff logic (assets undervalued inside larger org) relevant if Quantix evaluates bulk chemical vs. dry bulk as separate business units.
 
 ### Brownfield Modernization + Tariff-Driven Structural Shift (2026)
-- 2026 dominant capex thesis: extract more from installed assets, not new builds. Lean (5S, VSM, TPM) first. Terminal investments should frame around throughput improvement; monitor contract vs. spot mix if H2 demand corrects.
-- **Thomson Reuters 2026 (225 respondents):** 76% see tariffs as permanent (4+ year). SC management = #1 priority for 68%. 39% absorbing costs (vs. 13% prior). Quantix lens: chemical shipper customers under input cost pressure will press carrier rates AND reshape lane demand via domestic sourcing pivots.
+- 2026 capex thesis: extract more from installed assets, not new builds. Lean (5S, VSM, TPM) first. Terminal investments = throughput improvement framing.
+- **Thomson Reuters 2026:** 76% see tariffs as permanent (4+ yr). SC management = #1 priority for 68%. 39% absorbing costs. Quantix: chemical shippers under input cost pressure will press carrier rates + reshape lane demand via domestic sourcing pivots.
 
 ### Agentic AI Breaking 90% Automation Ceiling in Freight Ops
-- **C.H. Robinson: 30+ autonomous agents** achieving 90%+ automation on pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing. Prior AI plateaued at 50–60%. DHL (HappyRobot) routing agents for routine calls/emails. Competitive floor shifting: routine dispatch AI = table stakes, not differentiator.
-- **MHI 2026** (500+ SC professionals): 53% using AI; top uses: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). **90% report talent shortages** — validates AI-in-the-loop as workforce gap fill, not just efficiency play.
+- **C.H. Robinson: 30+ autonomous agents** — 90%+ automation on pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing. Prior AI plateaued at 50–60%. DHL (HappyRobot) routing agents for routine calls/emails. Competitive floor shifting: routine dispatch AI = table stakes.
+- **MHI 2026** (500+ SC professionals): 53% using AI; top uses: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). 90% report talent shortages — validates AI-in-the-loop as workforce gap fill.
+
+### Manufacturing Demand Signal — May 2026 (HIGH-FREQUENCY)
+- **ISM Manufacturing PMI: 54.0% (May 2026)** — highest since May 2022; fifth consecutive month of expansion. New Orders 56.8% (+2.7 pp); Production 54.3%; Supplier Deliveries 60.6% (sixth consecutive month slowing — demand-driven). Customers' Inventories 42.7% ("too low") = restocking signal building. Prices 82.1% (elevated). Employment 48.6% (contracting but improving). New Export Orders returned to expansion (50.6%). **69% of company comments negative** — tariff uncertainty = wildcard that could reverse quickly.
+- **Quantix application:** Manufacturing expansion = more resin, solvent, feedstock shipments. "Inventories too low" = restocking cycle; freight demand bump typically 4–8 weeks out. Supplier delivery slowing means logistics networks tightening under load. Rates could firm in Q3 2026. Plan accordingly.
 
 ### Freight Cycle & Rate Update — May 2026 (HIGH-FREQUENCY)
 - **Cycle turn confirmed** (April 2026): First in 40 months. Covenant Logistics CEO: *"Drivers are starting to get tight."* Managed Freight +~60% YoY Q1. M&A: 3 billion-dollar logistics deals closed 2026 already.
@@ -304,9 +308,8 @@ _Initialized: 2026-03-03_
 - **Knowledge tier:** High-frequency — monitor quarterly.
 
 ### Logistics Technology Consolidation — "Less Tech, Better Used" (June 2026)
-- **Conqueror Network / industry synthesis (May 2026):** Backlash against tool proliferation is surfacing across logistics. Freight forwarders/3PLs now operate fragmented ecosystems (TMS + WMS + visibility + marketplaces + customs + CRM + AI analytics) — each promised efficiency; collectively created integration debt and "digital fatigue." Emerging competitive framing: **consolidation and integration depth > adoption breadth.**
-- **APICS/Lean lens:** Tech proliferation = 8th waste (defects/rework) applied to information systems — system-switching overhead is non-value-added time.
-- **Quantix application (two vectors):** (1) Internal AI-in-the-loop build: validate platform consolidation over point-tool accumulation — fewer, deeply-integrated systems outperform high-tool-count stacks; (2) Carrier positioning: clean EDI, simple portals, proactive visibility with low friction = premium over fragmented digital touchpoints. Shipper procurement teams will optimize for carrier interoperability as agentic procurement matures.
+- **Backlash against tool proliferation (Conqueror Network, May 2026):** Fragmented ecosystems (TMS + WMS + visibility + marketplaces + customs + CRM + AI) = integration debt and "digital fatigue." Competitive framing: **consolidation and integration depth > adoption breadth.** APICS/Lean lens: system-switching overhead = 8th waste.
+- **Quantix (two vectors):** (1) AI-in-the-loop build: fewer, deeply-integrated systems outperform high-tool-count stacks; (2) Carrier positioning: clean EDI, low-friction visibility = premium over fragmented digital touchpoints as agentic procurement matures.
 
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
