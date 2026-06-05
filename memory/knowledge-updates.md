@@ -8124,3 +8124,52 @@ The Red Sea / Strait of Hormuz disruption has moved from acute crisis to structu
 
 **Tags:** `geopolitics` `ocean-freight` `Red-Sea` `Strait-of-Hormuz` `fuel-costs` `crude-oil` `route-diversification` `rail` `demand-volatility`
 
+
+---
+
+## 2026-06-05 — Evening Cron (4:01 PM ET)
+
+### Insight 1: Tariff Absorption Wall & Supply Chain Cost Pressure (2026)
+**Source:** Tradeverifyd — "79 Supply Chain Statistics To Know in 2026" (May 5, 2026) | https://tradeverifyd.com/resources/supply-chain-statistics
+**Summary:**
+- 73% of supply chain leaders expect to hit their **tariff absorption wall** by end of 2026 — the point where costs must shift from P&L to consumer invoices
+- 83% currently absorb tariffs internally; only 12% pass majority of costs to customers
+- 49% of SC leaders cite escalating **transportation costs** as the #1 external pressure
+- 44% of logistics execs cite growing consumer transparency demands as a primary strategy driver
+- 72% of SC executives now call automated mitigation **mandatory** for managing modern disruptions
+- Major SC interruptions lasting 1+ month occur on average every **3.7 years**
+- U.S. business logistics costs: **$2.58 trillion = 8.8% of GDP**
+**SC Relevance:** Directly applicable to Quantix pricing strategy decisions, customer contract structure, and technology investment justification. The 3.7-year disruption cadence is a useful risk planning benchmark.
+**Knowledge Tier:** High-frequency (current market data — treat as volatile; re-verify in 6 months)
+**Tags:** risk-management, tariffs, cost-structure, resilience, technology-investment, quantix-relevant
+
+---
+
+### Insight 2: Disruption as the New Normal — Structural Shift in Risk Mindset (NRF, 2026)
+**Source:** National Retail Federation — "Disruption is the new supply chain normal" (May 2026) | https://nrf.com/blog/disruption-is-the-new-supply-chain-normal
+**Summary:**
+- The strategic shift: from "what if" to **"when"** — disruption is the baseline condition, not the exception
+- Root causes driving ongoing volatility: Houthi Red Sea attacks, IEEPA tariff uncertainty, USMCA July 2026 review, Middle East tensions
+- USMCA risk flag: U.S. potential withdrawal would have **significant negative impact** on North American supply chains (directly affects Quantix cross-border moves)
+- Best practices cited: **scenario planning, regular supplier network reviews, contingency plans, C-suite engagement**
+- Key insight: supply chains built on efficiency-first/JIT design are structurally exposed; resilience requires explicit design trade-offs, not patches
+**SC Relevance:** Quantix operates cross-border routes — USMCA uncertainty is a live risk. Scenario planning for trade route disruption (Alt routing for chemical shipments bypassing border exposure) should be on the radar. Red Sea analog = "what's our contingency if a key corridor closes?"
+**Knowledge Tier:** High-frequency (current geopolitical/regulatory — re-verify monthly)
+**Tags:** risk-management, disruption, geopolitical, USMCA, resilience, scenario-planning, quantix-relevant
+
+---
+
+### Insight 3: Bulk Liquid Shipping — Operational Risk Profile & Best Practices (Racklify, 2026)
+**Source:** Racklify Logistics Encyclopedia — "Bulk Liquid Shipping: Overview & Best Practices" (June 5, 2026) | https://racklify.com/encyclopedia/bulk-liquid-shipping/
+**Summary:**
+- Core operational risk unique to bulk liquids: **fluid sloshing/kinetic surge** during vehicle maneuvers — affects stability, braking, steering; mitigated by fill level control, internal baffles, and driver behavior adaptation
+- Tank material compatibility is a hard constraint: stainless steel, carbon steel, aluminum, or lined tanks must match product class to prevent contamination or corrosion
+- Temperature control requirements vary by product (viscosity, solidification risk) — adds operational complexity and cost
+- Secondary containment, overfill protection, emergency vents, and spill response are standard regulatory baselines
+- **Economic advantage** of bulk liquid: lower cost per unit volume, reduced packaging waste, faster terminal throughput — but only when unloading infrastructure is adequate
+- **Cleaning/changeover** between different products is a non-trivial operational risk and scheduling constraint
+- Regulatory stack: DOT, ADR, IMDG, hazmat manifesting/placarding — not plug-and-play for new commodity types
+**SC Relevance:** Directly applicable to Quantix liquid ISO/tanker operations. The sloshing risk note is worth emphasizing in driver training and route planning (heavy braking, sharp curves). Cleaning/changeover complexity is a scheduling friction point that should be tracked as a productivity metric in terminal ops.
+**Knowledge Tier:** DC tier (operational principles — stable; applicable to Quantix tanker/ISO fleet)
+**Tags:** bulk-liquid, tanker-operations, driver-safety, terminal-ops, compliance, quantix-relevant, chemical-logistics
+
