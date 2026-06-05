@@ -8071,3 +8071,56 @@ Unishippers mid-year 2026 logistics trend report highlights AI's dual nature in 
 **Knowledge Tier:** Mid-frequency (industry practice standards, May 2026)
 **Tags:** #bulk-logistics #plastic-pellets #OCS #operation-clean-sweep #digital-monitoring #cargo-integrity #liquid-bulk #chemical-logistics #quantix-direct
 
+
+---
+
+## 2026-06-05 AM — Morning Knowledge Scan
+
+### Insight 1: AI & Robotics Now Structural Pillars of Supply Chain Resilience — Not Optional
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026)
+**Knowledge Tier:** High-frequency (current industry survey, 2026 data)
+
+ABI Research survey of 490 supply chain management professionals surfaces a critical inflection point:
+- **65%** of SC professionals rate AI/Gen AI capabilities as "important or very important" in technology purchase decisions — it is now a procurement criterion, not a feature
+- **Robotics** (mobile + fixed) have crossed from "nice-to-have" to operationally essential, primarily driven by persistent **labor shortages** creating downtime risk
+- **Four structural disruptions** shaping the current environment: geopolitical volatility (Strait of Hormuz closure — more than 1/3 of global crude oil flows through it), component scarcity, labor shortages, and escalating regulatory compliance requirements
+- **AI-powered Fleet Management Systems (FMSs) and control towers** are the primary AI use cases gaining adoption; driver monitoring tools are being mandated by new government safety regulations
+- Key scaling recommendation from ABI: **unify data across systems first** — control towers are only actionable when fed clean, consolidated data; governance frameworks and pilot programs before broad rollout
+
+**Application for Quantix:** With 4,500+ trucks and 50+ terminals, Quantix sits squarely in the FMS/AI-telematics opportunity zone. Driver monitoring is now moving from best practice to regulatory requirement — worth validating current fleet compliance posture. The Strait of Hormuz closure affecting chemical feedstocks is directly relevant to shipper demand patterns; expect chemical volume volatility downstream.
+
+**Tags:** `technology` `AI` `FMS` `robotics` `labor` `geopolitics` `compliance` `fleet-management`
+
+---
+
+### Insight 2: Freight Market at Tipping Point — LTL Strengthening as Truckload Tightens
+**Source:** Unishippers / WWEX Group — "Shipping Trends 2026: Key Market Forces Reshaping Transportation and Logistics" (June 2026)
+**Knowledge Tier:** High-frequency (mid-year market update, operator-level data)
+
+The long post-COVID freight recession shows structural signs of bottoming out:
+- **Truckload capacity is tightening** — rising TL pricing is pushing freight downstream into **LTL networks**, creating a cross-mode shift that's already visible in publicly traded LTL carriers' tonnage and shipment weight data (Old Dominion May update confirms improving LTL market per FreightWaves)
+- **CDL enforcement risk looms over TL capacity**: FMCSA non-domiciled CDL crackdown remains unresolved — if enforcement tightens simultaneously with demand strengthening, TL supply shock is possible in H2 2026
+- **Tariff volatility** continues to complicate transportation cost modeling — SMB shippers in particular struggling to lock in stable rates
+- WWEX/NMFTA also flagging **freight fraud, cargo theft, and cyber-enabled crime** as accelerating risks — NMFTA just launched an anonymous Threat Report Portal for the industry
+
+**Application for Quantix:** Bulk chemical is typically TL or dedicated fleet, not LTL — but the TL capacity tightening signal matters for rate environment in H2. CDL enforcement is directly material: any non-domiciled CDL exposure in Quantix's driver pool needs to be surfaced and remediated before enforcement intensifies. Freight fraud alert is relevant given Quantix's scale.
+
+**Tags:** `freight-market` `TL` `LTL` `CDL` `capacity` `rates` `fraud` `compliance` `FMCSA`
+
+---
+
+### Insight 3: Geopolitical Disruption Forcing Permanent Route Diversification — Ocean Freight Capacity Absorbed
+**Source:** VIPU Supply Chain Logistics — "Global Logistics Trends in May 2026: Challenges and Opportunities for International Trade" (June 4, 2026)
+**Knowledge Tier:** High-frequency (current market intelligence, May/June 2026)
+
+The Red Sea / Strait of Hormuz disruption has moved from acute crisis to structural logistics reality:
+- Major carriers including **Maersk** still routing around the Cape of Good Hope — adding **10–14 days** to Asia-Europe transit times
+- Cape of Good Hope rerouting is **absorbing ~5–7% of global container shipping capacity**, reducing vessel availability and sustaining elevated freight rates
+- Consequences for cargo owners: higher ocean freight volatility, war-risk and insurance surcharges, and degraded schedule reliability — these are now **baseline conditions**, not temporary spikes
+- **China-Europe rail freight** is emerging as a strategic alternative — not just an emergency fallback. Faster than ocean, cheaper than air, more geopolitically stable than Suez routing. Multiple European importers now treating it as a long-term logistics channel
+- Brent crude has recovered to **~$98/barrel** (June 3) after a two-week retreat — fuel cost volatility adds another layer to transportation cost uncertainty
+
+**Application for Quantix:** Quantix is domestic OTR, not ocean — but this matters indirectly. Chemical feedstock costs (tied to oil/crude) are climbing again at $98/barrel. Shipper demand for bulk chemical transport is correlated with petrochemical production volumes, which are sensitive to feedstock price. Watch for demand softening if crude stays elevated. Also: any Quantix shipper customers with import supply chains are facing extended lead times — which may affect their production scheduling and transport demand patterns.
+
+**Tags:** `geopolitics` `ocean-freight` `Red-Sea` `Strait-of-Hormuz` `fuel-costs` `crude-oil` `route-diversification` `rail` `demand-volatility`
+
