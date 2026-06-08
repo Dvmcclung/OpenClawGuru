@@ -8173,3 +8173,58 @@ The Red Sea / Strait of Hormuz disruption has moved from acute crisis to structu
 **Knowledge Tier:** DC tier (operational principles — stable; applicable to Quantix tanker/ISO fleet)
 **Tags:** bulk-liquid, tanker-operations, driver-safety, terminal-ops, compliance, quantix-relevant, chemical-logistics
 
+
+---
+
+## 2026-06-08 AM — Morning Knowledge Scan
+
+### Insight 1: Trucking Spot Market Surge — Rates Approaching 2021-2022 Boom Levels (FTR Intelligence, June 2026)
+**Source:** FTR Trucking Market Update Episode 367 — "Diesel Down, Spot Rates Up, and Manufacturing Expanding" (June 4, 2026) | https://today.ftrintel.com/tmu-june-1-2026
+**Knowledge Tier:** High-frequency (market data — re-verify weekly)
+
+**Summary:**
+- National average on-highway diesel: **$5.35/gallon** as of June 1 — down sharply from spring 2026 highs, following crude oil (WTI) stabilization after a spike to ~$110/barrel
+- Spot market total loads through Week 21 of 2026 running dramatically above 2025 and 2024 levels (weekly load index consistently above 200 vs. 2014 baseline of 100)
+- **Dry van spot rates** approaching record territory — nearing 2021-2022 freight boom peaks; fuel-adjusted dry van approaching $2.40/mile
+- **Flatbed spot rates** posting outright record levels — fuel-adjusted flatbed past $3.00/mile for the first time in years
+- **Refrigerated rates** also significantly above year-ago comparisons
+- Market interpretation: capacity has tightened materially, carrier exits are reshaping routing guides, and this is not a transient blip — the market has structurally turned
+- Shippers on spot exposure now paying significant premiums; carriers seeing their first meaningful margin recovery in years
+
+**SC Relevance for Quantix:** Bulk/OTR carriers benefit directly from this tightening cycle — spot rates on dry bulk (plastic pellets) will trend with dry van broadly. Contract renewal leverage has shifted toward carriers. Rate increases in routing guides are defensible. Shippers who locked long-term contracts below spot are now protected. Quantix should review contract portfolio vs. spot exposure and consider whether to push remaining open lanes toward contract terms now.
+**Tags:** freight-market, spot-rates, trucking, capacity, diesel, quantix-relevant, rate-cycle
+
+---
+
+### Insight 2: AI + Robotics Now Structural Requirements for Supply Chain Resilience — Four Disruption Forces Reshaping Operations (ABI Research, June 2026)
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026) | https://www.abiresearch.com/blog/supply-chain-disruptions-2026-how-to-build-resilience-with-ai-and-automation
+**Knowledge Tier:** Mid-frequency (research synthesis with current data points — re-verify quarterly)
+
+**Summary:**
+- ABI Research surveyed **490 supply chain management professionals**: **65%** say AI/Gen AI capabilities are "important or very important" in technology purchase decisions — a clear mainstream threshold
+- Four structural disruptions now converging: (1) **geopolitical volatility** (Strait of Hormuz conflict, tariff instability — 1/3 of global crude oil currently impacted), (2) **component inaccessibility**, (3) **labor shortages**, (4) **regulatory compliance expansion**
+- AI identified as foundational to resilience through two primary use cases: **control towers** (cross-system visibility, actionable decisioning) and **Fleet Management Systems (FMS)** with dashcam/telematics integration
+- **Robotics and automation** have crossed the threshold from "nice-to-have" to operationally essential — specifically for labor shortage mitigation at warehouse/terminal nodes
+- **Government fleet safety regulation** is tightening — driver monitoring systems becoming compliance-mandatory, not discretionary
+- Prescriptive recommendation from ABI: unify data across systems first, build AI governance before deployment, use pilot programs to validate before scaling — mirrors DMAIC staged rollout logic
+
+**SC Relevance for Quantix:** Three of the four disruption forces hit Quantix directly: geopolitical trade route risk (chemical inputs), regulatory compliance (DOT/FMCSA driver monitoring), and labor shortages (driver market). The AI/FMS convergence is especially relevant — telematics + AI dashcams are now table-stakes investments, not differentiators. Quantix should benchmark current FMS capability against the ABI control tower maturity model.
+**Tags:** AI, resilience, robotics, fleet-management, telematics, regulation, geopolitical, quantix-relevant, technology-adoption
+
+---
+
+### Insight 3: Agentic AI in Supply Chain — BCG/Industry Consensus on Pace of Workflow Redesign (June 2026)
+**Source:** Multiple converging sources — BCG "How AI Agents Are Transforming Supply Chains" (June 2026); ESS Feed "2026 Global Logistics & Supply Chain Outlook" (June 2, 2026); SupplyChain247 2026 AI Adoption Report
+**Knowledge Tier:** Mid-frequency (analyst consensus — re-verify quarterly)
+
+**Summary:**
+- **BCG framing:** AI agents are breaking longstanding supply chain trade-offs — identifying solutions that sequential human workflows cannot reach; particularly in demand sensing, inventory optimization, and exception management
+- **Reality check from COO survey data:** Only **7% of COOs** believe agentic AI will redesign a majority of workflows within two years; most expect only selective, incremental deployment (**11-25% of workflows**) in the near term
+- **SupplyChain247 consensus:** Logistics providers are prioritizing AI investments focused on automation, operational efficiency, and faster decision-making — but framing is point-solution first, not full-stack transformation
+- The gap between vendor hype and operator reality remains significant — enterprise adoption is phased, governance-constrained, and integration-limited
+- **Emerging pattern:** Agentic AI delivering most proven value in closed-loop, bounded domains (carrier selection optimization, load tendering automation, exception escalation routing) — not open-ended planning tasks
+- Workforce upskilling gap identified consistently as the binding constraint slowing deployment, not technology readiness
+
+**SC Relevance for Quantix:** This insight reframes Dale's AI-in-the-loop build strategy as well-positioned — bounded, automation-first, phased rollout matches where the industry's successful deployments are landing. The 7% stat is a useful counterweight to agentic hype — builds credibility with operations teams when setting expectations. For Quantix specifically, carrier selection automation and load tendering are the highest-ROI agentic targets in 2026-2027 horizon.
+**Tags:** agentic-AI, automation, workflow-redesign, technology-adoption, load-tendering, carrier-selection, quantix-relevant
+
