@@ -8228,3 +8228,57 @@ The Red Sea / Strait of Hormuz disruption has moved from acute crisis to structu
 **SC Relevance for Quantix:** This insight reframes Dale's AI-in-the-loop build strategy as well-positioned — bounded, automation-first, phased rollout matches where the industry's successful deployments are landing. The 7% stat is a useful counterweight to agentic hype — builds credibility with operations teams when setting expectations. For Quantix specifically, carrier selection automation and load tendering are the highest-ROI agentic targets in 2026-2027 horizon.
 **Tags:** agentic-AI, automation, workflow-redesign, technology-adoption, load-tendering, carrier-selection, quantix-relevant
 
+
+---
+
+## 2026-06-08 — Evening Update
+
+### Insight 1: AI Control Towers Becoming Non-Negotiable for Supply Chain Resilience (2026)
+
+**Date:** 2026-06-08
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026)
+**URL:** https://www.abiresearch.com/blog/supply-chain-disruptions-2026-how-to-build-resilience-with-ai-and-automation
+
+**Summary:**
+ABI Research survey of 490 SC professionals finds: 65% rate AI/GenAI as important or very important for technology decisions. Key findings: (1) AI-powered control towers are now considered non-negotiable for disruption management — they provide multi-tier supplier visibility down to BOM level. (2) Robotics and automation have moved from "nice to have" to essential for addressing labor shortages. (3) Government fleet safety regulation is intensifying — driver monitoring tools are required to avoid penalties and reputational damage. (4) Scaling AI requires data unification across systems, clear governance, and pilot programs before broad rollout.
+
+**SC Relevance:**
+Direct applicability to Quantix: fleet safety regulation (driver monitoring) is already a compliance reality in bulk/hazmat OTR. Control tower adoption for multi-terminal visibility is the logical next step. The labor-shortage-driven automation argument reinforces what we've seen in hazmat driver availability. For a 4,500-truck fleet, unified data infrastructure is table stakes before any AI layer can work.
+
+**Knowledge Tier:** High-frequency (survey data, current year — treat as directional, not statistically absolute)
+**Tags:** AI, control-towers, fleet-safety, automation, labor-shortage, risk-management, technology
+
+---
+
+### Insight 2: Resilience Now Beats Cost as #1 Supply Chain Priority — 73% Plan Operating Model Transformation
+
+**Date:** 2026-06-08
+**Source:** IndexBox / CFO Dive synthesis — "Fortifying Supply Chains: Resilience Takes Priority Over Cost in 2026" (May 26, 2026); KPMG survey (May 1, 2026)
+**URL:** https://www.indexbox.io/blog/fortifying-supply-chains-resilience-takes-priority-over-cost-in-2026/
+
+**Summary:**
+KPMG survey of supply chain leaders (May 2026): majority of firms now hold regular C-suite strategic meetings specifically on supply chain risk. 73% of businesses are planning a comprehensive transformation of their supply chain operating model within 36 months, with risk management and resilience as top priorities. Key context: tariff volatility (25% EU vehicle tariff threat), aluminum/copper import restrictions, geopolitical permacrisis post-COVID. KPMG's Christopher McCarney: "This environment is not a one-time event — the optimal time to modernize is now." Companies are actively accepting higher costs to build supply chain buffers. Risk management is expanding cross-functionally beyond supply chain teams.
+
+**SC Relevance:**
+Signals a structural shift from lean-efficiency-first to resilience-buffered operations. For bulk chemical logistics, this means customers (chemical manufacturers, plastic resin producers) are rethinking single-carrier dependency and origin diversification. Quantix positioning: a carrier with 50+ terminals and 4,500 trucks is a resilience asset — this is the message. The 36-month transformation window is the sales cycle to penetrate.
+
+**Knowledge Tier:** High-frequency (survey data, May 2026 — directional; cite with date)
+**Tags:** resilience, risk-management, geopolitical-risk, tariffs, operating-model-transformation, C-suite, permacrisis, strategic-positioning
+
+---
+
+### Insight 3: Liquid Bulk Carriers Raising the Bar on Cargo Integrity, Compliance Integration, and Contamination Control
+
+**Date:** 2026-06-08
+**Source:** Transportation Review Europe — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" (May 28, 2026)
+**URL:** https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+
+**Summary:**
+Liquid bulk logistics is transitioning from commodity freight to highly coordinated operational networks. Key trends: (1) Industrial customers are placing stronger emphasis on cargo integrity — product contamination from poor tank cleaning now disrupts multi-region manufacturing and pharmaceutical supply chains. (2) Carriers are investing in compartmentalized tank systems, advanced cleaning protocols, and stricter prior-cargo/cargo-transition management. (3) Compliance tracking systems are being integrated directly into transportation workflows — so documentation, inspection records, and cargo certifications are continuously updated through shipment cycles rather than managed retrospectively. (4) Demand patterns are less predictable across energy, food-grade, and industrial chemical markets — volatility requires more agile scheduling and capacity management.
+
+**SC Relevance:**
+Highly relevant for Quantix chemical operations. The contamination-control angle is underappreciated in bulk dry (plastic pellets) — prior-cargo contamination is a real issue for resin purity. The compliance-integration trend matches the operational reality of hazmat transport: DOT, state permits, cargo certs all need to be workflow-native, not paperwork-afterthought. The unpredictable demand finding validates dynamic capacity management investment.
+
+**Knowledge Tier:** Mid-frequency (trade press synthesis, current year — stable enough to apply)
+**Tags:** bulk-liquid, chemical-logistics, cargo-integrity, contamination-control, compliance-integration, tank-cleaning, prior-cargo, demand-volatility
+
