@@ -8282,3 +8282,59 @@ Highly relevant for Quantix chemical operations. The contamination-control angle
 **Knowledge Tier:** Mid-frequency (trade press synthesis, current year — stable enough to apply)
 **Tags:** bulk-liquid, chemical-logistics, cargo-integrity, contamination-control, compliance-integration, tank-cleaning, prior-cargo, demand-volatility
 
+
+---
+
+## 2026-06-09 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Is Rewriting the Supply Chain Operating Model
+**Source:** SAP News / SAP Whitepaper — "Navigating the New Supply Chain Paradigm" (June 2026)
+**Knowledge Tier:** Mid-frequency (current industry research, 2026 whitepaper based on interviews with SC leaders across 6 industries)
+
+SAP's new whitepaper — grounded in interviews with supply chain leaders in automotive, ag equipment, chemicals, global tech, and home appliances — argues that AI-driven orchestration is replacing the traditional plan-source-make-deliver model. Key findings:
+- **All six companies** interviewed are investing in 3+ forward-looking AI use cases in planning alone
+- One agricultural equipment company has deployed **1,000+ AI agents** for orchestration, scenario planning, and value chain visibility
+- A chemicals company is embedding AI across planning and scenario management while emphasizing **explainability and trust** — a notable design principle
+- **Resilience is now defined by decision velocity** — the ability to convert disruption signals into coordinated action, not static safety stock buffers
+- Four structural forces driving this shift: geopolitical instability, economic pressure, demographic shifts, and accelerated digital transformation
+- Europe alone faces **745,000 unfilled truck driver positions by 2028**, underscoring that human-capacity constraints are forcing automation
+
+**Quantix Application:** The chemicals sector example is directly applicable. Quantix operates at the intersection of bulk chemical transport and AI-in-the-loop development — the explainability/trust design principle is worth tracking as a procurement differentiator. "Decision velocity" is a better framing for resilience investment than "buffer stock" when talking to PE-backed leadership.
+
+**Tags:** `agentic-ai` `supply-chain-technology` `resilience` `chemicals` `workforce` `digital-transformation`
+
+---
+
+### Insight 2: Freight Carrier Market Tightening in H1 2026 — Rate Cycle Shift Incoming
+**Source:** FTR Intelligence / TheTrucker.com (June 8, 2026)
+**Knowledge Tier:** High-frequency (volatile market data — freight cycle analysis, current as of June 2026)
+
+FTR Intelligence is flagging a significant carrier market shift in H1 2026. Key signals:
+- **All major freight demand metrics are up year-over-year** — volume, spot rates, and tender rejections
+- Carrier conditions "strengthened significantly" in H1 2026, signaling the balance between freight demand and available capacity has materially shifted
+- FTR CEO Jonathan Starks: *"Will capacity constraints continue to define truck rates, or are we entering a new phase of the freight cycle?"*
+- Tariff pressures have **eased somewhat** vs. prior years, but remain fluid — ongoing policy adjustments still influencing inflation expectations and shipper decisions
+- **Iran conflict** creating indirect ripple effects across energy and chemicals markets, affecting fuel costs and domestic freight planning confidence
+
+**Quantix Application (High Relevance):** If the freight cycle is tightening, carrier pricing power returns. For a fleet operator like Quantix with 4,500+ trucks, this is the window to lock in favorable contract lane rates with large chemical shippers before spot/contract rate gaps close. Monitor FTR Trucking Conditions Index closely. The Iran conflict → fuel cost volatility is a direct P&L exposure.
+
+**Tags:** `freight-cycle` `carrier-market` `trucking` `rate-strategy` `geopolitical-risk` `fuel` `Iran`
+
+---
+
+### Insight 3: Gulf Conflict Severing Chemical Export Lines — Fertilizer & Aluminium Supply Shocks
+**Source:** Transport Intelligence — Global Supply Chain Risk Monitor, June 2026 (published June 3, 2026)
+**Knowledge Tier:** High-frequency (active geopolitical disruption — volatile, verify weekly)
+
+The Gulf maritime conflict is producing cascading supply chain shocks beyond oil/gas. Key disruptions documented:
+- **Urea and nitrogen fertilizer prices spiked 50% in May 2026** due to Gulf chemical export line blockage — triggering critical supply shortages for farming hubs in UK, South Asia, and Latin America ahead of planting season
+- **Aluminium prices up 15%** — Gulf-based smelters export primary aluminium and specialized alloys; automotive/aerospace tier-1 suppliers (e.g., UACJ Corp.) reporting immediate supply impacts
+- **Jebel Ali Port disruption** interrupting Chinese steel and specialized glass flows to Saudi Arabia construction projects
+- MSC container vessel struck by Iranian projectiles in Iraqi port on June 1
+- Dry bulk voyage durations hit **record 33.2 days average** (global ag routes) per shipbroker data from Braemar, Ursa, and Xclusiv
+- Maritime corridors in Strait of Hormuz remain perilous — double-sided naval blockade with active US warship engagement
+
+**Quantix Application:** Quantix's chemical shipper customers (bulk liquid/ISO fleet) source inputs that are directly impacted by Gulf chemical export disruption. A 50% fertilizer price spike flows through to ag chemical customer procurement pressure — potential demand volatility for ag-chem transport contracts. The aluminium/auto supply chain disruption is a leading indicator of downstream production slowdowns that could soften plastic pellet (dry bulk) volumes if automotive OEMs curtail manufacturing.
+
+**Tags:** `geopolitical-risk` `Gulf-conflict` `chemicals` `fertilizer` `aluminium` `maritime` `bulk-shipping` `demand-risk` `Iran`
+
