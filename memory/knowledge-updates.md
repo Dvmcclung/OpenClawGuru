@@ -8338,3 +8338,62 @@ The Gulf maritime conflict is producing cascading supply chain shocks beyond oil
 
 **Tags:** `geopolitical-risk` `Gulf-conflict` `chemicals` `fertilizer` `aluminium` `maritime` `bulk-shipping` `demand-risk` `Iran`
 
+
+---
+
+## Knowledge Update — 2026-06-09 (Evening / 4:02 PM ET)
+
+### Insight 1: Cascading Risk in Multi-Tier Supply Chains — Digital + Physical Convergence
+**Source:** Panorays — "Supply Chain Risk Management Strategies for 2026" (April 13, 2026)
+**Knowledge Tier:** Mid-frequency (research synthesis — review quarterly)
+
+The risk management conversation has fundamentally shifted: digital and physical supply chain risks are no longer separable disciplines. Key findings:
+
+- **Fourth-party (Nth-tier) risk is the blind spot.** Your vendor's vendor's dependency (open-source library, cloud sub-processor) can carry the same blast radius as a Tier-1 failure. Organizations that map only to Tier 1 are systematically underestimating their exposure.
+- **The CVE-2025-54313 case (eslint-config-prettier)** illustrates this clearly: attackers phished the maintainer of a widely trusted open-source tool and injected a malicious payload into routine dependency updates — affecting enterprises that had no direct relationship with that component. The lesson: transitive dependencies are part of your supply chain.
+- **NIST Cybersecurity Framework 2.0** explicitly elevated supply chain governance and introduced C-SCRM (Cyber Supply Chain Risk Management) as a required domain — not optional.
+- **Regulatory and cyber risk are merging.** SBOM (Software Bill of Materials) requirements, Zero Trust for third parties, and attestation frameworks are becoming audit-ready compliance expectations.
+- **Practical framework:** Identify → Assess → Mitigate → Monitor. Treat supplier risk like incident response — measurable, time-bound, clearly owned. Run tabletop exercises with critical vendors, including simulated dependency outages.
+
+**Quantix Application:** For a fleet operator managing 50+ terminals and multi-tier supplier relationships (fuel, parts, tires, TMS/ELD software), Nth-tier exposure exists in both physical (parts supplier consolidation) and digital (telematics/TMS vendor software supply chains) dimensions. The monitoring cadence must include periodic vendor dependency mapping, not just contractual risk reviews.
+
+**Tags:** `supply-chain-risk` `SCRM` `Nth-tier` `cyber-risk` `NIST` `resilience` `vendor-management` `digital-physical-convergence`
+
+---
+
+### Insight 2: Lean Scaling in Logistics — What Breaks When You Grow Past 50 People
+**Source:** Zigpoll — "Strategic Approach to Lean Methodology Implementation in Logistics Scaling" (May 1, 2026); cross-referenced MDPI Systems Journal — "A Systematic Lean-Driven Framework for Warehouse Optimization" (Sept 2026)
+**Knowledge Tier:** Mid-frequency (research synthesis)
+
+Lean at small scale is well-understood. Lean at scale exposes failure modes that the standard toolbox doesn't address. Key findings:
+
+- **The core failure mode is coordination, not principles.** When a warehouse scales from ~50 to ~300 employees, the lean emphasis on frontline empowerment runs headlong into unstructured delegation. Decision-making bottlenecks multiply. The 5S board that worked when the supervisor knew everyone becomes noise.
+- **Over-automation is a lean killer.** Automation eliminates waste but can disconnect teams from process flow understanding and root cause thinking. The failure mode: operators become button-pushers who cannot diagnose when the system degrades. The fix: automation supports lean, it doesn't replace it. Keep human oversight for interpretation and corrective action.
+- **Tiered leadership structure is the mechanism.** Effective scaled lean requires a leadership pyramid — line supervisors (daily stand-ups, immediate waste identification) → team leads (cross-team coordination) → lean champions (culture, methodology standards). Without this, lean culture dilutes as headcount grows.
+- **Measurement must track both efficiency AND process health.** Efficiency metrics alone (cycle time, inventory turns) miss cultural erosion. Add process health metrics: kaizen suggestions per period, implementation rate, near-miss reporting rate.
+- **Standardize workflows via VSM, but allow local flexibility** at shift/product level — this increases buy-in and acknowledges real logistics variability.
+
+**Quantix Application:** Directly applicable to terminal operations. As Quantix standardizes processes across 50+ terminals, the same scaling failure modes apply — tiered supervisor structure, local vs. standard balance, and measuring lean culture health (not just throughput KPIs). A Kaizen suggestion rate metric per terminal could be a leading indicator of continuous improvement health.
+
+**Tags:** `lean` `continuous-improvement` `5S` `scaling` `tiered-leadership` `value-stream-mapping` `terminal-ops` `process-standardization` `kaizen`
+
+---
+
+### Insight 3: Bulk Liquid Logistics Market — Chemicals Dominate, Road Tanker Leads, Asia Growth Accelerating
+**Source:** Straits Research — "Bulk Liquid Logistics Market Size, Share & Trends Analysis Report 2026–2034" (December 15, 2025)
+**Knowledge Tier:** Mid-frequency (market data — verify annually; CAGR projections volatile)
+
+Global bulk liquid logistics market data providing strategic context for the chemical carrier segment:
+
+- **Global market value:** USD 57.8 billion in 2025, projected to reach USD 99.5 billion by 2034 — **CAGR of 6.4%**
+- **Chemicals segment:** 34.17% revenue share in 2025 — the largest single segment, driven by industrial and specialty chemical growth requiring strict handling standards
+- **Road tanker transportation:** 41.26% market share by service type — the dominant mode, consistent with Quantix's OTR model
+- **North America:** 33.48% revenue share in 2025 — the largest regional market
+- **Asia Pacific:** Fastest growing at CAGR 8.92% — driven by petrochemical capacity expansion and multimodal infrastructure investment
+- **Growth drivers:** Rising demand for safe, contamination-free transport + increasing adoption of ISO tank containers and multimodal solutions + operational reliability focus reducing logistics cost
+- **Demand signal for Quantix:** A 6.4% CAGR in the market Quantix directly serves is a favorable secular tailwind — particularly as chemical complexity increases (specialty/industrial), which drives preference for carrier expertise over commodity freight brokers
+
+**Quantix Application (High Relevance):** The chemicals segment growth trajectory validates Quantix's core market positioning. The ISO tank and multimodal trend is worth monitoring — it represents a potential service expansion or competitive pressure depending on how chemical shippers approach intermodal options vs. dedicated OTR carriers. Asia Pacific growth also signals where global chemical companies will be investing capacity, affecting US import/export patterns for feedstocks.
+
+**Tags:** `bulk-liquid-logistics` `market-data` `chemicals` `road-tanker` `OTR` `CAGR` `market-sizing` `Quantix-relevance` `ISO-tank` `Asia-Pacific`
+
