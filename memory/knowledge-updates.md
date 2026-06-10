@@ -8459,3 +8459,36 @@ The freight market has officially transitioned from gradual recovery to **visibl
 **Quantix Application (Very High Relevance):** Tightening TL capacity = favorable rate environment for Quantix's carrier side. The 5.6% YoY TL linehaul rate increase is the strongest since 2022 — directly relevant to contract negotiations and spot market pricing. Diesel at $5.60 remains a cost headwind (watch EIA Q3 projection of $4.94 if Hormuz situation resolves). USMCA July 1 deadline is a hard flag — chemical industry cross-border flows (feedstocks, resins) would be directly disrupted by USMCA uncertainty. Dale should track this closely.
 
 **Tags:** `freight-market` `truckload` `capacity-tightening` `linehaul-rates` `Cass-index` `DAT` `diesel` `USMCA` `nearshoring` `cross-border` `Q2-2026` `Quantix-relevance` `rate-environment`
+
+---
+
+## 2026-06-10 — Evening Update (PM Cron)
+
+### Insight 1: AI-Powered Control Towers Becoming Non-Negotiable for SC Resilience
+**Date:** 2026-06-10
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026) | https://www.abiresearch.com/blog/supply-chain-disruptions-2026-how-to-build-resilience-with-ai-and-automation
+**Summary:** ABI Research survey of 490 SC professionals finds 65% rate AI/GenAI capabilities as important or very important for technology purchasing. Key finding: AI-driven control towers are transitioning from nice-to-have to essential infrastructure — especially for labor-constrained operations. Robotics/automation are filling labor shortage gaps in warehousing and distribution. Driver monitoring tools are now regulatory-compliance necessities, not just safety investments. Recommended approach: unify data across systems → deploy targeted pilots → scale with governance framework.
+**SC Relevance:** Direct for Quantix. Fleet management systems and driver monitoring are already regulatory pressure points in hazmat/bulk chemical OTR. The control tower message is relevant to terminal visibility and dispatch optimization. Labor shortage angle reinforces existing driver workforce risk in chemical transport.
+**Knowledge Tier:** Mid-frequency (primary research survey, 2026 — moderate shelf life ~12 months)
+**Tags:** #technology #AI #control-tower #fleet-management #driver-monitoring #resilience #labor-shortage #process-improvement
+
+---
+
+### Insight 2: Geopolitical Risk Is Now a Permanent SC Operating Variable — Energy Corridor Exposure Underweighted
+**Date:** 2026-06-10
+**Source:** Logistics Viewpoints — "Trump, Xi, and the Strategic Repricing of Supply Chain Risk" (May 13, 2026) | https://logisticsviewpoints.com/2026/05/13/trump-xi-and-the-strategic-repricing-of-supply-chain-risk/
+**Summary:** Analysis of Trump-Xi summit dynamics through a SC strategy lens. Core thesis: Taiwan, Hormuz, AI infrastructure, and US-China trade policy are no longer separate issues — they are now linked operating variables. The 30-year efficiency-first model (lean inventory, low-cost global sourcing, stable trade flows) is structurally insufficient. Key observation: "Many companies have improved supplier risk management. Fewer have integrated energy corridor risk, maritime insurance exposure, and geopolitical routing constraints into planning models with the same rigor." Practical implication: Any Hormuz disruption cascades immediately into ocean freight, diesel, petrochemicals, plastics, and industrial input costs — all directly hitting bulk chemical shippers.
+**SC Relevance:** High relevance for Quantix. Plastic pellet and chemical feedstock customers are directly exposed to Hormuz/petrochemical disruptions. This is a material risk for Quantix's shipper base — demand volatility and input cost shocks flow directly to freight volumes. Risk should be in Quantix's S&OP scenario planning.
+**Knowledge Tier:** High-frequency (geopolitical/market analysis — volatile, assess quarterly)
+**Tags:** #risk-management #geopolitical #energy-corridor #petrochemicals #plastics #tariffs #scenario-planning #strategic-risk
+
+---
+
+### Insight 3: Liquid Bulk Transport — Contamination Control and Cargo Integrity Becoming Tier-1 Customer Requirements
+**Date:** 2026-06-10
+**Source:** Transportation Review Europe — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" (May 28, 2026) | https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+**Summary:** Industrial customers are placing stronger emphasis on cargo integrity as transport networks handle broader mixes of sensitive liquid materials. Product contamination that once affected isolated shipments now disrupts manufacturing schedules across multiple regions simultaneously. Providers are investing in: (1) compartmentalized tank systems, (2) advanced cleaning procedures, (3) stricter cargo transition management between deliveries. Residue prevention is a growing competitive differentiator — clients expect transport environments that preserve product purity without compromising delivery efficiency. Demand patterns becoming less predictable across energy, food-grade, and industrial chemical markets.
+**SC Relevance:** Directly applicable to Quantix's liquid/ISO chemical operations. Cross-contamination risk and cargo transition management (prior cargo restrictions) are already known Quantix operational constraints. Elevating this to a documented customer requirement standard — not just internal SOP — is the competitive shift. Dovetails with existing memory on hazmat endorsement scarcity and commodity-specific compliance knowledge.
+**Knowledge Tier:** Mid-frequency (industry practice trend — 12-18 month shelf life)
+**Tags:** #bulk-liquid #chemical-logistics #contamination-control #cargo-integrity #ISO-tanks #cleaning-procedures #customer-requirements #OTR
+
