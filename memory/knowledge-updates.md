@@ -8397,3 +8397,65 @@ Global bulk liquid logistics market data providing strategic context for the che
 
 **Tags:** `bulk-liquid-logistics` `market-data` `chemicals` `road-tanker` `OTR` `CAGR` `market-sizing` `Quantix-relevance` `ISO-tank` `Asia-Pacific`
 
+
+---
+
+## 2026-06-10 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Is Rewriting the Supply Chain Operating Model
+**Source:** SAP News / SAP Whitepaper — "Navigating the New Supply Chain Paradigm" (June 4, 2026)
+**Knowledge Tier:** Mid-frequency (industry research synthesis — cross-industry interviews, chemicals included)
+
+SAP published a whitepaper based on interviews with supply chain leaders across six industries (automotive, agricultural equipment, **chemicals**, global technology, automotive supply, home appliances), finding that agentic AI embedded across end-to-end workflows is emerging as the critical enabler of an autonomous supply chain operating model. Key structural forces driving this shift — simultaneously and structurally, not cyclically:
+- **Geopolitical instability:** Trade between geopolitically distant economies slowing since 2017; global commerce fragmenting into regional blocs
+- **Labor shortage:** Europe alone projected to have 745,000 unfilled truck driver positions by 2028; 63% of companies cite talent shortages as primary transformation barrier
+- **Energy/input cost elevation:** Still structurally above pre-2022 baselines
+- **Digital skill gaps:** Constraining operations across all segments
+
+The shift is from **optimization** to **AI-enabled orchestration** — moving beyond the traditional "plan-source-make-deliver" model. All six interviewed companies are investing in at least three major AI-enabled capability areas simultaneously.
+
+**Quantix Application (High Relevance):** The chemicals segment was explicitly included in the research base. The driver shortage data (745K EU unfilled positions) reinforces the US dynamic Quantix already faces. The shift from optimization to orchestration is the right framing for Quantix's AI-in-the-loop strategy — moving from discrete tool use toward workflow-integrated agentic automation is exactly where Dale is building. This validates the architecture direction.
+
+**Tags:** `agentic-AI` `autonomous-supply-chain` `driver-shortage` `labor` `geopolitical-risk` `SAP` `chemicals` `orchestration` `AI-operating-model` `Quantix-relevance`
+
+---
+
+### Insight 2: PepsiCo Deploys First Commercial-Scale Driverless Freight Fleet (June 9, 2026)
+**Source:** BakeryAndSnacks.com / Gatik partnership announcement (June 9, 2026)
+**Knowledge Tier:** High-frequency (breaking industry news — commercial deployment, not pilot)
+
+PepsiCo has become the **first major consumer goods company to deploy driverless freight trucks at commercial scale** in the US, launching 35 autonomous trucks (via Gatik) across Arizona, Texas, and Arkansas in a multi-year partnership. Trucks transport Frito-Lay snacks between manufacturing sites, distribution centers, and retail locations — middle-mile, fixed-route operations (Gatik's specialty).
+
+Key facts:
+- 35 autonomous trucks operating commercially on public roads across 3 states
+- Middle-mile, fixed-route (DC-to-DC, DC-to-store) — Gatik's designed operating domain
+- Reigniting labor group pushback and regulatory debate
+- Signals autonomous freight is transitioning from pilot → mainstream faster than most predicted
+
+**Why this matters structurally:** Middle-mile fixed-route is the optimal entry point for autonomous freight — predictable routes, no reverse logistics complexity, high cycle repetition. The regulatory and labor friction is real but not stopping deployment. This is the commercial scale proof point that will accelerate investor and competitor adoption.
+
+**Quantix Application (Moderate Relevance):** Quantix runs bulk liquid/dry bulk OTR — *not* middle-mile fixed-route. Autonomous trucks for tanker/bulk operations face additional complexity (hazmat classification, terminal docking, specialized coupling). However: (1) watch the regulatory environment closely — autonomous freight frameworks being written now will eventually govern bulk carriers; (2) dedicated lane opportunities (high-volume terminal-to-terminal runs) are structurally similar to Gatik's model; (3) driver cost and shortage pressure affects Quantix directly — autonomous adjacency becomes more attractive as the driver pool shrinks.
+
+**Tags:** `autonomous-trucks` `Gatik` `PepsiCo` `middle-mile` `driverless-freight` `labor` `regulation` `commercial-scale` `transportation-technology` `Quantix-watch`
+
+---
+
+### Insight 3: Freight Market June 2026 — Tightening Cycle Confirmed, Rate Surge Underway
+**Source:** BlueGrace Logistics Freight Market Update — June 2026; Cass TL Linehaul Index; DAT; BTS
+**Knowledge Tier:** High-frequency (real-time market data — volatile, point-in-time)
+
+The freight market has officially transitioned from gradual recovery to **visible tightening** as of May–June 2026. Multiple leading indicators are converging:
+
+| Indicator | Reading | Signal |
+|-----------|---------|--------|
+| Cass TL Linehaul Index | +3.2% MoM (April), +5.6% YoY | Largest sequential gain since March 2022 |
+| DAT Van Load-to-Truck Ratio | Sharp May increase | Spot capacity tightening materially |
+| Flatbed Load-to-Truck Ratio | 87.22 in May (vs 72.26 in April) | New cycle high; data center + reshoring absorption |
+| National Diesel (avg) | $5.60/gal (May 19 week) | Down from $5.80 peak, but structurally elevated |
+| N. American transborder truck freight | +4.7% YoY to $98.6B (March) | Recovery reversal; USMCA volumes rebounding |
+
+**Critical near-term variable:** USMCA review deadline is **July 1, 2026**. Trade reps must decide whether to extend for 16 more years. With nearshoring investment paused pending decision, H2 2026 cross-border freight trajectory hinges on this outcome. A no-extension decision would create significant disruption.
+
+**Quantix Application (Very High Relevance):** Tightening TL capacity = favorable rate environment for Quantix's carrier side. The 5.6% YoY TL linehaul rate increase is the strongest since 2022 — directly relevant to contract negotiations and spot market pricing. Diesel at $5.60 remains a cost headwind (watch EIA Q3 projection of $4.94 if Hormuz situation resolves). USMCA July 1 deadline is a hard flag — chemical industry cross-border flows (feedstocks, resins) would be directly disrupted by USMCA uncertainty. Dale should track this closely.
+
+**Tags:** `freight-market` `truckload` `capacity-tightening` `linehaul-rates` `Cass-index` `DAT` `diesel` `USMCA` `nearshoring` `cross-border` `Q2-2026` `Quantix-relevance` `rate-environment`
