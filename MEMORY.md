@@ -27,11 +27,11 @@ _Initialized: 2026-03-03_
 ## Durable Strategic Insights (Quantix-Relevant)
 
 ### Fleet Technology
-- **OTA software updates (Volvo, March 2026):** 24% reduction in unplanned stops; fleet pushed from 25%→80%+ software currency in 6 months. "Trucks are smartphones on wheels." Quantix: determine % of 4,500-truck fleet that is OTA-capable; gap = unplanned downtime cost.
-- **AV trucking — commercial milestones (2026):** Aurora/McLane driverless Dallas–Houston (280K+ miles, 1,400 loads); Volvo+DSV depot-to-depot autonomous freight live; Waabi $1B raised; Gatik, Kodiak, PlusAI/Ryder commercial. 2026 = "commercial readiness year." I-45 (Dallas–Houston) = core Quantix corridor. Near-term Quantix risk: LOW — bulk/hazmat regulatory gap; adoption lags dry van 3–5 years. Watch signal: first bulk tanker AV = Quantix planning trigger. Aurora Gen 2 targets $0.85/mile vs. ~$1.00/mile. Impact horizon: 2028–2032.
+- **OTA software updates (Volvo, March 2026):** 24% reduction in unplanned stops; "trucks are smartphones on wheels." Quantix: determine OTA-capable % of 4,500-truck fleet.
+- **AV trucking — commercial milestones (2026):** Aurora/McLane driverless Dallas–Houston live (I-45 = core Quantix corridor). Near-term Quantix risk: LOW — bulk/hazmat regulatory gap, 3–5 yr lag behind dry van. Impact horizon: 2028–2032.
 
 ### Chemical Logistics Operations
-- **Uncertainty costs more than delay (Maritime Executive, Feb 2026):** Chemical logistics costs = 15–25% of product value. Unpredictable arrivals force excess inventory, reserved just-in-case capacity, and backup premiums — all pure waste. Digital corridor coordination across actors (not just within firms) is the fix. Terminal-to-truck handoff at Quantix is exactly this problem.
+- **Uncertainty costs more than delay (Maritime Executive, Feb 2026):** Chemical logistics costs = 15–25% of product value. Unpredictable arrivals = excess inventory + reserved JIC capacity + backup premiums — all pure waste. Digital corridor coordination is the fix. Terminal-to-truck handoff at Quantix is this problem.
 
 ### Market Structure
 - **Chemical carrier bifurcation (Technavio, March 2026):** Market bifurcating between digitally-capable carriers (commanding premium rates) and aging-asset carriers (facing margin compression). Digital capability is shifting from differentiator to qualifier for chemical shipper relationships.
@@ -57,8 +57,8 @@ _Initialized: 2026-03-03_
 - **OSHA Heat Standard — Active enforcement 2026:** Two-trigger (80°F/90°F HI). Gulf Coast/Texas terminals are primary exposure zones.
 
 ### Geopolitical & Chemical Supply Risk
-- **Iran/Hormuz energy shock (ongoing — months-to-years duration):** Brent ~$100/bbl (ceasefire fragile). IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — cracker shutdowns; PE/PP cuts live. GSCPI rising 3rd consecutive month (May 2026) — rerouting behavior re-emerging. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel cost at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Re-evaluate monthly.
-- **Geopolitics as permanent structural constraint:** 76% view tariffs as permanent 4+ yr (Thomson Reuters 2026). No manufacturing reshoring boom — Kearney Index deeply negative; real U.S. investment = data centers + power grid (bulk material lanes). JIC inventory shift = near-term bulk demand tailwind. Contracted capacity = predictability premium. NA/Europe/APAC three-hub model solidifying.
+- **Iran/Hormuz energy shock (ongoing — June 2026):** Brent ~$98–100/bbl (ceasefire fragile); WTI spiked ~$110 before stabilizing. IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — PE/PP cuts live. GSCPI rising 3rd consecutive month (May 2026). **Gulf cascade (June 2026):** Urea/nitrogen fertilizer +50% from chemical export blockage; aluminium +15% (Gulf smelters); dry bulk voyage durations at record 33.2 days. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Ag-chem demand volatility watch if fertilizer spike holds. Re-evaluate monthly.
+- **Geopolitics as permanent structural constraint:** 76% view tariffs as permanent 4+ yr (Thomson Reuters 2026). Real U.S. investment = data centers + power grid (bulk material lanes). JIC inventory shift = near-term bulk demand tailwind. NA/Europe/APAC three-hub model solidifying.
 - **Chemical logistics sustainability:** Rail/barge lower carbon AND lower cost per ton-mile. Shipment-level emissions data now a shipper procurement requirement. Terminal near waterways = barge integration + sustainability credential.
 
 ### Risk & Resilience
@@ -124,19 +124,18 @@ _Initialized: 2026-03-03_
 ### Agentic AI Breaking 90% Automation Ceiling in Freight Ops
 - **C.H. Robinson: 30+ autonomous agents** — 90%+ automation on pricing, planning, order processing, appointment scheduling, freight matching, load optimization, tracking, invoicing. Prior AI plateaued at 50–60%. DHL (HappyRobot) routing agents for routine calls/emails. Competitive floor shifting: routine dispatch AI = table stakes.
 - **MHI 2026** (500+ SC professionals): 53% using AI; top uses: demand/inventory optimization (33%), predictive maintenance (30%), transport optimization (26%). 90% report talent shortages — validates AI-in-the-loop as workforce gap fill.
+- **Decision velocity = new resilience definition (SAP whitepaper, June 2026):** Across 6 industries (incl. chemicals), resilience is now defined as the ability to convert disruption signals into coordinated action — not buffer inventory. One ag-equipment firm deployed 1,000+ AI agents for orchestration. Chemicals firms prioritizing AI explainability/trust as procurement differentiator. Europe: 745,000 unfilled truck driver positions by 2028 — automation not optional. "Decision velocity" is better PE framing than "buffer stock."
 
 ### Manufacturing Demand Signal — May 2026 (HIGH-FREQUENCY)
 - **ISM Manufacturing PMI: 54.0% (May 2026)** — highest since May 2022; fifth consecutive month of expansion. New Orders 56.8% (+2.7 pp); Production 54.3%; Supplier Deliveries 60.6% (sixth consecutive month slowing — demand-driven). Customers' Inventories 42.7% ("too low") = restocking signal building. Prices 82.1% (elevated). Employment 48.6% (contracting but improving). New Export Orders returned to expansion (50.6%). **69% of company comments negative** — tariff uncertainty = wildcard that could reverse quickly.
 - **Quantix application:** Manufacturing expansion = more resin, solvent, feedstock shipments. "Inventories too low" = restocking cycle; freight demand bump typically 4–8 weeks out. Supplier delivery slowing means logistics networks tightening under load. Rates could firm in Q3 2026. Plan accordingly.
 
 ### Freight Cycle & Rate Update — June 2026 (HIGH-FREQUENCY)
-- **Cycle turn confirmed** (April 2026): First in 40 months. Covenant Logistics CEO: *"Drivers are starting to get tight."* Managed Freight +~60% YoY Q1. M&A: 3 billion-dollar logistics deals closed 2026 already.
-- **TL rates ~40% YoY as of week of June 1–5** (Transportation Insight) — described as "one of the largest YoY moves in the last decade outside of COVID." Primary driver: capacity discipline (carrier exits + stricter broker vetting), NOT demand surge. *Acceptable* capacity (trusted, reliable carriers) has fallen further than raw capacity — shippers competing for quality. This is Quantix's pricing moment.
-- **C.H. Robinson raised 2026 TL forecast to +23% YOY** (May 2026). LMI April: 69.9; transportation capacity 28.4 (second-lowest ever); transportation prices 95 (second-highest ever). **66-point capacity-price spread = largest gap ever recorded.**
-- **Spot-contract gap widening:** Spot outpacing contract, pulling capacity to spot market — classic precursor to full rate cycle reset. PPI ~6% adding cost pressure. Minimal slack: small disruptions (Roadcheck Week, weather) now have outsized rate effects.
-- **Flatbed wild card:** AI data center buildout driving structural steel/transformer demand; flatbed spot +27% YOY.
-- **Intermodal growing:** International rail +8% YoY, domestic intermodal +14% YoY — shippers using rail where timing allows; LTL also gaining as TL tightens.
-- **Quantix posture:** Throughput-maximization (TOC). Lock in volume commitments from key accounts before H2 repricing. Driver pay benchmarking urgent. Bulk chemical dedicated/contracted service = exactly what shippers want. **Risk flag:** tariff-driven pull-forward may create Q3 demand dip — scenario-test before capacity expansion commitments.
+- **Cycle turn confirmed** (April 2026): First in 40 months. TL rates ~40% YoY (June 1–5 week) — one of largest YoY moves in decade outside COVID. Driver: capacity discipline (carrier exits + stricter broker vetting), NOT demand surge. *Acceptable* capacity fallen further than raw capacity — shippers competing for quality. This is Quantix's pricing moment.
+- **C.H. Robinson 2026 TL forecast: +23% YOY** (May 2026). LMI April: transportation capacity 28.4 (second-lowest ever); prices 95 (second-highest ever). 66-point spread = largest gap ever recorded.
+- **Spot rates approaching 2021-2022 levels (FTR, June 2026):** Dry van ~$2.40/mile; flatbed >$3.00/mile (record). WTI spiked ~$110 before stabilizing; diesel ~$5.35/gal. Flatbed +27% YoY (AI data center steel demand). FTR H1 2026 — carrier conditions strengthened significantly; Iran conflict adding fuel cost uncertainty.
+- **Spot-contract gap widening:** classic precursor to full rate cycle reset. Intermodal +14% YoY as TL tightens.
+- **Quantix posture:** Throughput-maximization (TOC). Lock in volume commitments before H2 repricing. Driver pay benchmarking urgent. **Risk flag:** tariff pull-forward may create Q3 demand dip — scenario-test before capacity expansion commitments.
 
 ### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
 - Chemical manufacturers are requiring **auditable, shipment-level emissions data** from logistics providers — written into procurement requirements, not just ESG reports (IndexBox/Chemical Engineering, April 15, 2026).
