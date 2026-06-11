@@ -8557,3 +8557,60 @@ Two parallel developments this week signal autonomous trucking is moving from pi
 
 **Application for Quantix:** L4 autonomous trucks are not imminent for bulk chemical (tanker/hopper applications require specialized handling not yet in L4 ODD). But the regulatory and infrastructure buildout happening now will reshape the broader carrier landscape within 5–7 years. LTL pricing model shift has downstream implications for chemical distribution customers who rely on LTL for chemical ingredients/additives.
 
+
+---
+
+## 2026-06-11 PM — Knowledge Update Session
+
+### Insight 1: AI Control Towers Becoming Non-Negotiable for Supply Chain Resilience (2026)
+
+**Date:** 2026-06-11
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026) | https://www.abiresearch.com/blog/supply-chain-disruptions-2026-how-to-build-resilience-with-ai-and-automation
+**Knowledge Tier:** High-frequency (current research synthesis, June 2026)
+**Tags:** #ai #control-tower #fleet-management #resilience #labor-shortage #automation #regulatory
+
+**Summary:**
+ABI Research survey of 490 supply chain professionals (2026) finds that 65% rate AI/GenAI capabilities as "important" or "very important" for technology purchase decisions. Four structural disruptions are reshaping global supply chains: (1) geopolitical volatility (Strait of Hormuz closure affecting 1/3 of global crude oil flows), (2) component inaccessibility, (3) labor shortages driving robotics/automation adoption, (4) regulatory compliance (fleet safety mandates, driver monitoring). Key finding: AI-powered control towers are shifting from "nice-to-have" to "non-negotiable." Implementation guidance emphasizes unifying data across systems first, building AI governance before scaling, and starting with pilot programs.
+
+**SC Relevance for Quantix:**
+- Driver monitoring regulations are directly applicable — 4,500+ truck fleet faces increasing compliance burden
+- Labor shortage trend confirms the hazmat/CDL driver scarcity thesis already in knowledge base
+- Control tower concept maps to Quantix TMS/dispatch visibility layer — real-time fleet visibility and load status are table stakes for chemical carriers competing against digitally-transformed peers
+- Geopolitical volatility (Hormuz) is a downstream demand signal for petrochemical customers — demand for Quantix services may be volatile in 2026–2027 as refiners/chemical producers adjust feedstock sourcing
+
+---
+
+### Insight 2: Resilience Over Cost — Corporate Supply Chain Strategy Shift in 2026
+
+**Date:** 2026-06-11
+**Source:** IndexBox / CFO Dive synthesis — "Fortifying Supply Chains: Resilience Takes Priority Over Cost in 2026" (May 26, 2026) | https://www.indexbox.io/blog/fortifying-supply-chains-resilience-takes-priority-over-cost-in-2026/
+**Knowledge Tier:** High-frequency (current market intelligence, May 2026)
+**Tags:** #resilience #risk-management #cost-vs-resilience #s-op #strategic-planning #cfosco-alignment
+
+**Summary:**
+KPMG survey (May 2026) of supply chain executives: majority now hold regular C-suite strategic meetings on supply chain risk. **73% of businesses are planning a comprehensive transformation of their supply chain operating model within the next 36 months**, with risk management and resiliency as top priorities — cost optimization is no longer king. Key drivers: Trump tariff threats (25% on EU vehicles, May 2026), Iran war (Feb 2026, Hormuz closure), COVID-era hangover on just-in-time practices. Bain partner Dheera Anand: companies must now plan for "regularly occurring geopolitical shocks." CFO–Chief Supply Chain Officer alignment is accelerating as financial impact of supply disruptions becomes quantifiable. Ernst & Young's Sumit Dutta: many CFOs now working directly with CSCOs. Organizations broadening who owns risk management — front-line supply chain personnel now recognized as early warning system.
+
+**SC Relevance for Quantix:**
+- The shift from cost-first to resilience-first is a **commercial opportunity**: chemical shippers and plastic pellet manufacturers who are transforming their supply chain models need carriers with proven reliability, not just low rates — Quantix's scale and terminal network is a resilience asset
+- CFO/CSCO alignment means Quantix should pitch at C-suite level (not just operations/logistics buyers) when positioning multi-terminal, dedicated capacity contracts
+- 73% transformation stat = high probability that key Quantix customers are mid-transformation and open to renegotiating carrier relationships toward longer-term, reliability-focused contracts
+- Front-line as early warning system aligns with terminal manager role — their ground-level intelligence about shipper behavior is a leading indicator for demand shifts
+
+---
+
+### Insight 3: Liquid Bulk Transportation Safety & Temperature Control Standards Tightening (2026)
+
+**Date:** 2026-06-11
+**Source:** Transportation Review Europe — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" (May 28, 2026) | https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+**Knowledge Tier:** High-frequency (current industry reporting, May 2026)
+**Tags:** #liquid-bulk #chemical-logistics #temperature-control #cargo-integrity #contamination #cleaning-procedures #compliance
+
+**Summary:**
+Liquid bulk transportation is undergoing a significant operational standards upgrade. Three trends driving change: (1) **Cargo integrity / contamination control** — industrial customers increasingly demand zero-residue tank environments; compartmentalized systems and stricter cleaning protocols between deliveries are becoming table stakes; (2) **Temperature-sensitive transport** — specialty chemicals, pharma compounds, and food-grade liquids require tightly controlled thermal conditions throughout transit; logistics providers are investing in insulated tank infrastructure, onboard monitoring, and real-time temperature logging; (3) **Demand volatility** — seasonal fluctuations and regional supply disruptions are driving more flexible fleet allocation strategies and data-driven dispatch planning to reduce idle equipment time while maintaining route availability for long-term clients.
+
+**SC Relevance for Quantix:**
+- Contamination control and prior cargo documentation are already regulatory requirements for Quantix's chemical tanker operations — but the **expectation gap is widening**: customers now want traceability, not just compliance. This points toward digital cargo records and cleaning verification systems as near-term competitive differentiators
+- Temperature monitoring investment applies primarily to the liquid chemical/ISO tanker segment — relevant for Quantix's liquid bulk business even though dry bulk (plastic pellets) has different requirements
+- Demand volatility and flexible fleet allocation is exactly the operational challenge Quantix faces across its 50+ terminal network — dispatch optimization and dynamic fleet reallocation are capability investments aligned with this industry direction
+- Data-driven dispatch = the "smart dispatch" / TMS optimization thread already in Quantix's operational improvement agenda
+
