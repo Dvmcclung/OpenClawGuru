@@ -8492,3 +8492,68 @@ The freight market has officially transitioned from gradual recovery to **visibl
 **Knowledge Tier:** Mid-frequency (industry practice trend — 12-18 month shelf life)
 **Tags:** #bulk-liquid #chemical-logistics #contamination-control #cargo-integrity #ISO-tanks #cleaning-procedures #customer-requirements #OTR
 
+
+---
+
+## 2026-06-11 AM — Morning Knowledge Scan
+
+### Insight 1: AI & Robotics Now Structural Pillars of Supply Chain Resilience — ABI Research Survey
+**Source:** ABI Research — "Supply Chain Disruptions 2026: How to Build Resilience with AI and Automation" (June 4, 2026)
+**URL:** https://www.abiresearch.com/blog/supply-chain-disruptions-2026-how-to-build-resilience-with-ai-and-automation
+**Knowledge Tier:** High-frequency (industry analyst survey, June 2026 — treat as current)
+**Tags:** #AI #robotics #resilience #fleet-management #control-tower #labor-shortage #regulation
+
+ABI Research survey of 490 supply chain management professionals (June 2026) confirms the technology shift is no longer aspirational — it's structural:
+
+- **65%** of SC professionals say AI/Gen AI capabilities are "important or very important" in technology purchase decisions
+- AI is now the foundation layer for **control towers** and **Fleet Management Systems (FMSs)** — not a bolt-on
+- **Mobile and fixed robotics** have crossed the threshold from "nice to have" to "essential" — primary driver is labor shortage mitigation, not cost reduction
+- Regulatory pressure is a major forcing function: government policymaking is hardening around **fleet safety** (driver monitoring, ELD compliance), requiring mandatory technology investment regardless of ROI
+- Four structural disruption drivers identified: geopolitical trade route instability (Strait of Hormuz impact on crude/fertilizer), component inaccessibility, labor shortages, regulatory compliance
+
+**Key recommendation from ABI:** Unify data across systems to make control towers actionable. Start with **targeted pilots** — don't try to scale automation enterprise-wide before validating results. Governance and clear AI decision processes are prerequisites.
+
+**Application for Quantix:** AI dashcam + telematics integration for the 4,500-truck fleet is directly cited as a resilience lever. Fleet safety regulation compliance is not optional and will drive capital spend. Bulk chemical carriers should be tracking FMCSA regulatory changes actively.
+
+---
+
+### Insight 2: Truckload Market in Uncharted Territory — Rates 50%+ YoY, Capacity Strain Spreading
+**Source:** NTG Freight — "Weekly Freight Trends: June 8–12, 2026" (June 10, 2026)
+**URL:** https://ntgfreight.com/resources/weekly-freight-trends-june-8-12-2026/
+**Knowledge Tier:** High-frequency (spot market data, week of June 8–12 — volatile, will shift)
+**Tags:** #truckload #spot-rates #capacity #tender-rejection #freight-market #amazon #reefer
+
+The freight market entering the week of June 8, 2026 is operating well outside historical seasonal norms:
+
+- **Van tender rejections: 18.3%** — prior cycle high was ~17% (week of June 5)
+- **Reefer tender rejections: 25%** — sharp, concentrated tightening
+- **All-in truckload costs: 50%+ above year-over-year** — gap is not fuel-driven
+- Spot rates on certain SE dry van lanes are running at **~2x normal** for the lane; I-5 reefer (LA→Seattle) quoted near **$5,000/load**
+- The market reset higher after **DOT Week** (early June inspection blitz) and has not given back ground — seasonal ramp is now stacking on an already elevated floor
+- **Amazon Supply Chain Services** launched broadly to all shipper types — bundles freight, distribution, fulfillment, and parcel into a single integrated platform; B2C brands signing as early adopters
+
+**Structural note:** The DOT Week reset is an annual phenomenon (CVSA roadside inspection week drives capacity off the road temporarily), but the magnitude of the 2026 reset suggests underlying supply tightness that inspection compliance cannot explain alone. Carrier exits from prior years are the more likely structural cause.
+
+**Application for Quantix:** Bulk chemical carriers operate under contract, not spot, but contract rate renewal windows in this environment will be adversarial. Routing guide integrity is at risk — proactive carrier relationship management is the lever. Monitor tender rejections as a leading indicator of where spot pressure is building.
+
+---
+
+### Insight 3: SAE Level 4 Autonomous Trucks Enter Commercial Proof-of-Concept — Einride + EASE Logistics
+**Source:** FreightWaves — Trucking News (June 2026); supplementary: ATA Congressional Testimony (June 9, 2026)
+**URL:** https://www.freightwaves.com/news/category/news/trucking | https://www.trucking.org/news-insights/ata-president-ceo-chris-spear-urges-congress-accelerate-transportation-innovation
+**Knowledge Tier:** High-frequency (active deployment announcement, June 2026)
+**Tags:** #autonomous-trucks #L4 #einride #electric #ATA #congress #transportation-innovation
+
+Two parallel developments this week signal autonomous trucking is moving from pilot to proof-of-commercial-concept:
+
+1. **Einride + EASE Logistics** deployed **SAE Level 4 autonomous electric trucks** in a proof-of-concept service between EASE Logistics warehouses in Marysville, Ohio. L4 = no human driver required under defined operational design domain (ODD). This is a fixed-route, warehouse-to-warehouse application — the operational profile most amenable to L4 deployment.
+
+2. **ATA CEO Chris Spear testified before Congress (June 9, 2026)** urging acceleration of transportation innovation policy as Congress prepares the next surface transportation reauthorization. ATA is explicitly lobbying to remove regulatory friction from autonomous vehicle deployment, EV infrastructure investment, and driver safety technology mandates.
+
+**Also notable from FreightWaves scan:**
+- **LTL General Rate Increases are no longer annual** — LTL carriers are now moving to more frequent, smaller GRIs rather than one large annual increase. Represents a structural pricing model shift.
+- **C.H. Robinson adding "Engineer" role to AI-powered planners** — agentic AI moving into freight brokerage operations at scale
+- **Amazon opening full-scale LTL network to all businesses** — direct challenge to established LTL carriers (FedEx Freight, XPO, Saia, etc.)
+
+**Application for Quantix:** L4 autonomous trucks are not imminent for bulk chemical (tanker/hopper applications require specialized handling not yet in L4 ODD). But the regulatory and infrastructure buildout happening now will reshape the broader carrier landscape within 5–7 years. LTL pricing model shift has downstream implications for chemical distribution customers who rely on LTL for chemical ingredients/additives.
+
