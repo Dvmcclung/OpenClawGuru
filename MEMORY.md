@@ -131,13 +131,13 @@ _Initialized: 2026-03-03_
 - **Quantix application:** Manufacturing expansion = more resin, solvent, feedstock shipments. "Inventories too low" = restocking cycle; freight demand bump typically 4–8 weeks out. Supplier delivery slowing means logistics networks tightening under load. Rates could firm in Q3 2026. Plan accordingly.
 
 ### Freight Cycle & Rate Update — June 2026 (HIGH-FREQUENCY)
-- **Cycle turn confirmed** (April 2026): First in 40 months. TL rates ~40% YoY (June 1–5 week) — one of largest YoY moves in decade outside COVID. Driver: capacity discipline (carrier exits + stricter broker vetting), NOT demand surge. *Acceptable* capacity fallen further than raw capacity — shippers competing for quality. This is Quantix's pricing moment.
-- **C.H. Robinson 2026 TL forecast: +23% YOY** (May 2026). LMI April: transportation capacity 28.4 (second-lowest ever); prices 95 (second-highest ever). 66-point spread = largest gap ever recorded.
-- **Spot rates approaching 2021-2022 levels (FTR, June 2026):** Dry van ~$2.40/mile; flatbed >$3.00/mile (record). WTI spiked ~$110 before stabilizing; diesel ~$5.35/gal. Flatbed +27% YoY (AI data center steel demand). FTR H1 2026 — carrier conditions strengthened significantly; Iran conflict adding fuel cost uncertainty.
-- **Cass TL Linehaul Index (June 2026):** +3.2% MoM / +5.6% YoY (largest sequential gain since March 2022). DAT flatbed load-to-truck ratio 87.22 in May (vs 72.26 April) — new cycle high driven by data center + reshoring. National diesel ~$5.60/gal (May); EIA Q3 projection $4.94 if Hormuz resolves.
-- **USMCA July 1, 2026 deadline:** Trade reps decide on 16-year extension. No-extension = significant cross-border freight disruption for chemical feedstocks and resin flows. ⚠️ Hard watch date.
-- **Spot-contract gap widening:** classic precursor to full rate cycle reset. Intermodal +14% YoY as TL tightens.
-- **Quantix posture:** Throughput-maximization (TOC). Lock in volume commitments before H2 repricing. Driver pay benchmarking urgent. **Risk flag:** tariff pull-forward may create Q3 demand dip — scenario-test before capacity expansion commitments.
+- **Cycle turn confirmed** (April 2026): First in 40 months. TL rates ~40–50%+ YoY (June 8–12 week) — one of largest YoY moves in decade outside COVID. Driver: capacity discipline (carrier exits + stricter broker vetting), NOT demand surge. *Acceptable* capacity fallen further than raw capacity.
+- **Van tender rejections: 18.3% (June 8–12)** — prior cycle high ~17%. Reefer: 25%. Market reset after DOT Week and has not given back ground — structural supply tightness, not seasonal.
+- **C.H. Robinson 2026 TL forecast: +23% YOY.** LMI April: capacity 28.4 (second-lowest ever); prices 95 (second-highest ever). 66-point spread = largest gap ever recorded.
+- **Spot rates:** Dry van ~$2.40/mile; flatbed >$3.00/mile (record); SE dry van lanes ~2x normal. Cass TL Linehaul Index +5.6% YoY / +3.2% MoM (largest sequential gain since March 2022). DAT flatbed load-to-truck 87.22 (May) — new cycle high.
+- **USMCA July 1, 2026 deadline:** ⚠️ Hard watch date — no-extension = cross-border chemical/resin corridor disruption.
+- **LTL pricing shift:** LTL carriers now moving to frequent small GRIs rather than one annual increase — structural pricing model change. Amazon launching full LTL network to all businesses — competitive pressure on FedEx Freight/XPO/Saia.
+- **Quantix posture:** Throughput-maximization (TOC). Lock in volume commitments before H2 repricing. Driver pay benchmarking urgent. Risk flag: tariff pull-forward may create Q3 demand dip — scenario-test before capacity expansion commitments.
 
 ### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
 - Chemical manufacturers are requiring **auditable, shipment-level emissions data** from logistics providers — written into procurement requirements, not just ESG reports (IndexBox/Chemical Engineering, April 15, 2026).
@@ -336,9 +336,9 @@ _Initialized: 2026-03-03_
 - Changeover completion time is a terminal productivity KPI worth tracking.
 
 ### Autonomous Freight — Commercial Scale Deployment (June 2026)
-- **PepsiCo/Gatik driverless fleet live** (June 9, 2026): 35 autonomous trucks (middle-mile, fixed-route) operating commercially in AZ, TX, AR — first major CPG company at commercial scale. Proof point: autonomous freight moving from pilot → mainstream faster than predicted.
-- Gatik model = middle-mile fixed-route; not yet bulk/hazmat. **Quantix near-term exposure: LOW** — tanker docking + hazmat adds complexity. Monitor regulatory frameworks being written now (they govern bulk carriers eventually). Dedicated high-volume terminal-to-terminal lanes (300+ miles) are structural analogs to Gatik's model; reassess as driver shortage deepens.
-- Aurora/McLane driverless Dallas–Houston (I-45 core Quantix corridor) also live. 3–5 yr lag before OTR bulk/hazmat. Impact horizon: 2028–2032.
+- **PepsiCo/Gatik** (June 9, 2026): 35 driverless trucks live commercially across AZ/TX/AR (middle-mile, fixed-route). First major CPG at commercial scale. Aurora/McLane driverless Dallas–Houston (I-45 core Quantix corridor) also live.
+- **Einride + EASE Logistics** (June 2026): SAE Level 4 autonomous electric trucks in proof-of-commercial-concept, warehouse-to-warehouse (Marysville, Ohio). ATA CEO testified Congress June 9 — lobbying to accelerate AV policy + surface transportation reauthorization.
+- Quantix near-term exposure: LOW (tanker/hazmat adds complexity). Regulatory frameworks being written now will govern bulk carriers eventually. Impact horizon: 2028–2032. Dedicated terminal-to-terminal lanes (300+ miles) are structural analog — reassess as driver shortage deepens.
 
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
