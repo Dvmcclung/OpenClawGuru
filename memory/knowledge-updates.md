@@ -8614,3 +8614,61 @@ Liquid bulk transportation is undergoing a significant operational standards upg
 - Demand volatility and flexible fleet allocation is exactly the operational challenge Quantix faces across its 50+ terminal network — dispatch optimization and dynamic fleet reallocation are capability investments aligned with this industry direction
 - Data-driven dispatch = the "smart dispatch" / TMS optimization thread already in Quantix's operational improvement agenda
 
+
+---
+
+## 2026-06-12 AM — Morning Knowledge Scan
+
+### Insight 1: U.S. Freight Market Hits All-Time Rate Records as FMCSA Enforcement Crushes Capacity
+
+**Date:** 2026-06-12
+**Source:** ShipTLI — "2026 Freight Market Disruption: Record Spot Rates, Carrier Crackdowns, and What Shippers Must Do Now" (June 10, 2026) | https://shiptli.com/news/june-2026-freight-market-spot-rates-and-carrier-crackdowns/ | Data corroborated by FreightWaves, DAT Trendlines, LMI (May 2026), EIA (June 2026)
+**Knowledge Tier:** High-frequency (current market data, June 2026 — volatile, verify before citing)
+**Tags:** #freight-market #spot-rates #capacity #FMCSA #compliance #trucking #bulk-carrier #driver-shortage #diesel
+
+**Summary:**
+Truckload spot rates hit an all-time record in early June 2026 at **$3.83/mile** (up $0.09/mile overnight; FreightWaves). The Logistics Managers' Index (LMI, May 2026) reports Transportation Prices at **96.0** — "the fastest rate of expansion ever recorded for any metric in the nearly 10-year history of the index." DAT Trendlines: van load-to-truck ratios **+92% YoY**, flatbed **+189% YoY**. Truck postings are **down 22.7% YoY** while load postings are **up 64.9% YoY** — a structural supply-demand imbalance. Tender rejections: 17.55% (FreightAlley). National diesel average: **$5.35/gallon** (EIA, June 2026), up $1.90 YoY; California at $7.05/gallon. Key supply-side driver: FMCSA has launched its most aggressive enforcement campaign in at least 16 years — removing non-compliant carriers and drivers from the market en masse, materially shrinking available capacity. Rate spike is NOT fuel-driven (fuel costs cooling week-over-week) — it is pure supply contraction from enforcement + residual Hormuz closure demand pressure.
+
+**SC Relevance for Quantix:**
+- Quantix operates 4,500+ trucks — as a large, presumably well-compliant carrier, **FMCSA enforcement is a competitive advantage in the current cycle**: non-compliant small carriers are exiting the market, freeing up freight for compliant large carriers
+- $3.83/mile spot rates and 17.55% tender rejection rates mean shipper customers are under severe pressure — now is the time to sell reliability and contract stability, not just price
+- Diesel at $5.35 national / $7.05 California: fuel surcharge exposure on any non-hedged contracts needs review immediately
+- The structural imbalance (supply down, demand up) suggests this is not a short-term spike — budget and contract renewal conversations should reflect a higher rate baseline through at least end of 2026
+- Flatbed +189% load-to-truck ratio is particularly notable for dry bulk adjacent segments — monitor for spillover into tanker/hopper freight
+
+---
+
+### Insight 2: AI in Logistics — Accenture Finds 70% of Executives Prioritize Autonomous Supply Chains, But Workforce Gap Is the Real Risk
+
+**Date:** 2026-06-12
+**Source:** Logistics Management — "AI: Amplifying Human Capability" (June 8, 2026) | https://www.logisticsmgmt.com/article/ai_amplifying_human_capability | Accenture Research (2026), Accenture authors Horvath & Reich
+**Knowledge Tier:** Mid-frequency (current research synthesis, Accenture 2026)
+**Tags:** #AI #autonomous-supply-chain #workforce #upskilling #logistics-technology #RFID #accenture #operations
+
+**Summary:**
+Accenture research (2026): **nearly 70% of logistics executives now rank autonomous supply chains as a top investment priority** — a shift from experimentation to operational necessity. But the central barrier is not technology: it's workforce. The key challenge is finding, reskilling, and retaining workers capable of operating alongside AI-enabled systems. The article draws an important historical parallel to Walmart's 2005 RFID mandate: that technology also "was going to change everything," was initially over-hyped, slowed by cost and infrastructure, but eventually matured (2010–2019) into genuine operational value at item level. AI is following a similar adoption curve — but at dramatically faster speed. Authors argue the fear that AI replaces workers entirely is overblown; the more accurate framing is AI as **amplifier of human capability**. The volatile environment driving investment: geopolitical disruption, labor shortages, and accelerating customer expectations for response time.
+
+**SC Relevance for Quantix:**
+- The "amplifier, not replacer" framing is the right internal narrative for AI rollout — reduces driver/dispatcher resistance and frames investment as capability-building, not headcount reduction
+- 70% of logistics executives prioritizing autonomous supply chains = Quantix's shipper customers are mid-transformation. Quantix needs an AI/visibility story when showing up to those commercial conversations
+- Workforce upskilling gap is the real bottleneck — same pattern applies to Quantix's 50+ terminal network. Terminal managers who can interpret AI-generated dispatch recommendations are more valuable than those who can't
+- The RFID parallel is worth internalizing: early adopters who built capability ahead of the curve captured the operational advantage when the technology scaled. Waiting for AI to "mature" carries the same risk as waiting for RFID in 2005
+
+---
+
+### Insight 3: Volatility Is the New Baseline — "Marginless Recovery" and the Modal Shift to Intermodal
+
+**Date:** 2026-06-12
+**Source:** Bison Transport — "The New Freight Reality: How Shippers Can Win in a Volatile, AI-Driven Logistics Market" (June 11, 2026) | https://www.bisontransport.com/why-bison/the-new-freight-reality | corroborated by TTNews, FTR Trucking Freight Forecast 2026
+**Knowledge Tier:** High-frequency (current industry analysis, June 2026 — volatile)
+**Tags:** #freight-volatility #intermodal #modal-mix #trade-policy #tariffs #planning #continuous-planning #marginless-recovery #AI-routing
+
+**Summary:**
+North American freight has entered what analysts are calling the **"new never normal"** — structural volatility rather than cyclical disruption. Three defining conditions: (1) **Trade policy and tariff uncertainty** continues to disrupt cross-border planning cycles (no near-term resolution expected); (2) **"Marginless recovery"** — rates are rising modestly but not enough to offset operational costs, compressing carrier and 3PL margins simultaneously; (3) **Intermodal resurgence** — cost pressure is driving shipper interest in rail/intermodal as a hedge against trucking rate spikes, but trade disruptions affect intermodal volumes simultaneously, making the modal shift more complex than prior cycles. Strategic implication per FTR and TTNews: annual transportation strategies are no longer fit for purpose. Leading shippers are moving to **continuous planning models** that reassess routing, carriers, and capacity on rolling cycles. AI platforms enabling real-time routing optimization and modal selection are widening the competitive gap between digitally capable and legacy operators.
+
+**SC Relevance for Quantix:**
+- "Marginless recovery" is precisely the Quantix cost environment: rate increases real but insufficient to fully cover cost inflation (fuel, labor, insurance, compliance). Operational efficiency — not just rate negotiation — is the margin defense
+- Intermodal as shipper hedge: some Quantix plastic pellet shippers (particularly longer hauls) may shift volumes to rail if truckload rates stay elevated. Quantix should monitor customer freight patterns and have a value case ready for why dedicated truckload maintains service standards rail cannot match for bulk
+- Continuous planning model is the operational philosophy Quantix should be moving toward — static annual lane reviews leave money on the table and create exposure during disruption events
+- Trade policy volatility affecting cross-border flows: relevant for any Quantix lanes with Mexico/Canada exposure or customers sourcing imported chemicals/resins
+
