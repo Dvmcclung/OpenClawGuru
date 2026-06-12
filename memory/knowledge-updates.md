@@ -8672,3 +8672,65 @@ North American freight has entered what analysts are calling the **"new never no
 - Continuous planning model is the operational philosophy Quantix should be moving toward — static annual lane reviews leave money on the table and create exposure during disruption events
 - Trade policy volatility affecting cross-border flows: relevant for any Quantix lanes with Mexico/Canada exposure or customers sourcing imported chemicals/resins
 
+
+---
+
+## 2026-06-12 PM — Evening Knowledge Scan
+
+### Insight 1: LSS-Integrated Cost of Quality Framework — Peer-Validated Results (2026)
+**Source:** Journal of Decision Science and Optimization — Gomaa, A.H. (2026). "Enhancing Cost of Quality in Manufacturing Through Lean Six Sigma: A Case Study." DOI: 10.55578/jdso.2605.004
+**Knowledge Tier:** Mid-frequency (peer-reviewed research, empirical case study, 2026)
+**Tags:** #LSS #DMAIC #CostOfQuality #ProcessImprovement #Manufacturing #ContinuousImprovement
+
+Empirically validated framework bridging Cost of Quality (CoQ) measurement and continuous improvement execution via Lean Six Sigma. Key problem identified: CoQ metrics are routinely collected but **disconnected from improvement initiatives** — limiting their use as a strategic decision-making tool. The proposed integrated LSS-CoQ framework addresses this through:
+- Standardized CoQ metrics tied to strategic KPIs
+- DMAIC structure driving targeted interventions
+- Embedded CI routines enabling proactive, evidence-based decisions
+
+**Results from the case study (Egyptian electrical control panel manufacturer):**
+- Internal failure costs reduced **33–42%**
+- External failure costs reduced **33–40%**
+- Overall CoQ reduced **41.7%**
+- Process reliability improved **20.6%**
+- First-pass yield increased **18.3%**
+- Lead time decreased **28.6%**
+- Unit production costs declined **20.8%**
+
+**SC Relevance for Quantix:** Bulk carrier operations carry significant internal failure costs in the form of detention, re-dispatch, missed loading windows, and OS&D (over/short/damaged) events. Applying a structured CoQ lens — rather than tracking defects in isolation — would quantify the true cost of quality gaps and prioritize where DMAIC projects generate the highest ROI. Most carriers do not link their KPI scorecards to CoQ categories; this is an immediate process improvement gap.
+
+---
+
+### Insight 2: Supply Chain Risk in 2026 — Cyber-Physical Convergence as the New Normal
+**Source:** SOCRadar — "Top Supply Chain Risks in 2026 and Management Strategies" (June 2026). https://socradar.io/blog/top-supply-chain-risks-management-strategies/
+**Knowledge Tier:** High-frequency (current market intelligence, June 2026 — treat as volatile)
+**Tags:** #RiskManagement #CyberRisk #SupplyChainResilience #ThirdPartyRisk #DigitalSC
+
+The 2026 risk landscape has crossed a threshold: traditional supply chain disruption risks (logistics delays, supplier failure, demand volatility) now **overlap with digital supply chain risks** in ways that cannot be managed separately. Key findings:
+
+- **Vendor access risk is a Tier-1 concern:** Suppliers with privileged system access represent compounded risk — both operational disruption AND cybersecurity exposure. A compromised vendor credential can propagate across an entire partner ecosystem.
+- **Shift from periodic reviews to continuous monitoring:** Annual supplier audits are inadequate. Leading organizations are implementing real-time supply chain intelligence — tracking leaked credentials, exposed infrastructure, ransomware targeting, and vulnerability indicators at the vendor level.
+- **AI-assisted fraud is an emerging vector:** Phishing and social engineering attacks now use AI to mimic legitimate supply chain communications (e.g., invoice fraud, carrier impersonation). This is particularly dangerous for operations with high transaction volume and distributed dispatch operations.
+- **Software supply chain attacks:** SaaS platforms and logistics TMS/ERP integrations are attack vectors — not just operational dependencies.
+
+**Practical risk management shift:** Organizations need to **classify vendors by access level and operational criticality**, not just by spend or tier. A low-spend SaaS provider with API access to dispatch systems warrants more scrutiny than a high-spend commodity supplier with no system integration.
+
+**SC Relevance for Quantix:** With 4,500+ trucks and 50+ terminals, Quantix's attack surface is substantial. Carrier impersonation fraud (fake delivery confirmations, misdirected loads) is already a documented threat in bulk chemical transport. Any TMS or ELD provider should be assessed for credential exposure — not just contract compliance.
+
+---
+
+### Insight 3: Bulk Liquid Transport — Fluid Dynamics as an Underrated Operational Risk
+**Source:** Racklify Encyclopedia — "Bulk Liquid Shipping: Overview & Best Practices" (June 12, 2026). https://racklify.com/encyclopedia/bulk-liquid-shipping/
+**Knowledge Tier:** Mid-frequency (practitioner reference, current)
+**Tags:** #BulkLiquid #TankerOperations #SafetyCompliance #FleetManagement #ChemicalLogistics
+
+Fresh synthesis of bulk liquid logistics fundamentals with strong operational grounding. Key point that deserves more attention in operational reviews: **fluid surge (sloshing) is an underestimated vehicle safety risk unique to bulk liquid operations**, distinct from dry bulk dynamics.
+
+Critical operational findings:
+- **Partial fill states are highest-risk:** Liquid mass shifts during acceleration, braking, and cornering — affecting braking distances, steering response, and rollover risk. This is non-obvious and often undertrained.
+- **Ullage management is both a safety and product quality issue:** Limiting fill levels controls surge AND allows for thermal expansion (critical for chemicals that expand with temperature change).
+- **Baffles and compartmentalization are engineered controls, not add-ons:** Anti-surge devices must be specified to match expected road profiles and operating speeds — generic solutions are inadequate for specialty chemical applications.
+- **Cross-contamination is a quality and liability risk:** Tank cleaning (CIP — Clean in Place) and changeover procedures require rigorous traceability documentation, especially when carrying multiple product classes.
+- **Driver training must be cargo-specific:** Speed management and braking techniques for liquid cargoes differ materially from standard OTR driver training. Hazmat endorsement alone is insufficient — product-class-specific handling behavior training is a separate requirement.
+
+**SC Relevance for Quantix:** This touches multiple risk nodes simultaneously — safety incident rate, OS&D claims, driver training standards, and regulatory compliance. For a fleet carrying liquid chemicals, driver qualification for bulk liquid handling (not just hazmat endorsement) should be a formal competency standard. The partial-fill scenario is particularly relevant for multi-stop liquid routes where fill level changes between terminals.
+
