@@ -8789,3 +8789,70 @@ Accenture research (via Logistics Management, June 2026) found that nearly **70%
 **SC Relevance for Quantix:**
 This reframes the AI strategy conversation for Dale's agentic AI work. The "amplify human" frame is more accurate and more useful than the "replace human" frame — particularly for dispatch, load planning, and terminal operations where experienced operators bring judgment AI can't fully replicate. Practical implication: Quantix's AI roadmap should explicitly design for **human-in-the-loop** decision gates (not full autonomy), and workforce upskilling should be budgeted alongside technology investment. Change management is not a soft add-on — it's the implementation constraint.
 
+
+---
+
+## 2026-06-15 PM — Evening Knowledge Scan
+
+### Insight 1: Lean Six Sigma Cost-of-Quality Integration — Validated Framework with Published Results
+**Date:** 2026-06-15
+**Source:** Journal of Decision Science and Optimization (Gomaa, A.H., 2026) — "Enhancing Cost of Quality in Manufacturing Through Lean Six Sigma: A Case Study" — DOI: 10.55578/jdso.2605.004
+**Knowledge Tier:** Mid-frequency (peer-reviewed, May 2026 publication — empirically validated)
+**Tags:** [METHOD] [FRAMEWORK] LSS, DMAIC, Cost-of-Quality, process improvement, manufacturing, continuous improvement
+
+**Summary:**
+Peer-reviewed case study from an Egyptian electrical control panel manufacturer validates an integrated Lean Six Sigma (LSS) framework that explicitly bridges Cost of Quality (CoQ) measurement with continuous improvement execution. Key design principle: CoQ metrics must be strategically aligned to KPIs and embedded in operational routines — not treated as a standalone accounting exercise.
+
+**Quantified Results:**
+- Internal failure costs ↓ 33–42%
+- External failure costs ↓ 33–40%
+- Overall CoQ ↓ 41.7%
+- Process reliability ↑ 20.6%
+- First-pass yield ↑ 18.3%
+- Lead time ↓ 28.6%
+- Unit production costs ↓ 20.8%
+
+**Supply Chain Relevance:**
+Most LSS deployments in logistics/transportation underutilize CoQ as a strategic lever. Carriers like Quantix have significant "failure costs" buried in claims, re-hauls, detention, and compliance violations — but rarely quantify them in a structured CoQ framework. This paper's approach is directly portable: define prevention costs (driver training, PM programs), appraisal costs (inspection, CTPAT audits), internal failure (missed pickups, product contamination), and external failure (customer claims, regulatory penalties). Aligning these to strategic KPIs transforms what's typically a cost-reduction project into a strategic decision-making tool. The 28.6% lead time reduction finding is particularly notable — often overlooked in CoQ work.
+
+---
+
+### Insight 2: Resilience Replaces Cost as #1 Supply Chain Priority — 2026 KPMG Survey
+**Date:** 2026-06-15
+**Source:** IndexBox Market Intelligence (May 26, 2026) citing KPMG U.S. Survey (May 1, 2026), CFO Dive, and expert commentary from Bain & Company, Ernst & Young, Miami University. URL: https://www.indexbox.io/blog/fortifying-supply-chains-resilience-takes-priority-over-cost-in-2026/
+**Knowledge Tier:** High-frequency (current industry survey data, June 2026 — volatile/directional)
+**Tags:** [INTERP] [SCOPE] supply chain risk, resilience, tariffs, geopolitics, SCRM, strategic planning, permacrisis
+
+**Summary:**
+KPMG survey (May 2026) of corporate supply chain leaders documents a structural shift in priority: **73% of businesses plan a comprehensive transformation of their supply chain operating model within the next 36 months**, with risk management and resilience as top priorities. This follows the February 2026 Iran war escalation, April 2026 tariff proclamations affecting aluminum and copper, and May 2026 threat of 25% tariffs on European vehicles.
+
+Key expert findings:
+- **KPMG's Christopher McCarney:** "This environment is not a one-time event" — the permacrisis is ongoing; time to modernize is now
+- **Bain & Company's Dheera Anand:** Companies must plan for regularly recurring geopolitical shocks as the new normal
+- **EY's Sumit Dutta:** CFOs are now working directly with Chief Supply Chain Officers — financial impact of disruptions is now a C-suite priority
+- **Miami University's Lisa Ellram:** Risk management responsibility is broadening to front-line workers — early warning is coming from operators, not just analysts
+- KPMG majority: organizations now hold **regular C-suite strategic meetings on supply chain developments** — not quarterly reviews, but standing agenda items
+
+**Supply Chain Relevance:**
+For Quantix specifically — a bulk chemical OTR carrier operating under PE ownership with EBITDA pressure — this creates a strategic tension. The industry is moving toward buffer-heavy, resilient networks while PE typically pushes asset utilization and cost minimization. The relevant question is: what does **resilience** look like for a carrier vs. a shipper? For Quantix, it maps to: (1) diversified terminal footprint (already exists), (2) driver/equipment surge capacity not fully monetized on spot, (3) shipper relationship depth that survives tariff-driven volume volatility. The C-suite meeting frequency finding is directly actionable — if Quantix's customers are now holding regular SC risk meetings, Quantix should be at that table, not waiting for a spot RFQ.
+
+---
+
+### Insight 3: Automation in Liquid Bulk Terminal Operations — Safety + Efficiency Convergence
+**Date:** 2026-06-15
+**Source:** Transportation Review Europe (May 28, 2026) — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" URL: https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+**Knowledge Tier:** High-frequency (trade press, operational trends — directional, current)
+**Tags:** [METHOD] bulk logistics, liquid cargo, terminal automation, safety, IoT, temperature-controlled, contamination control
+
+**Summary:**
+Trade analysis documents an accelerating shift in liquid bulk terminal operations: providers are investing in **sensor-controlled pumping systems, automated flow monitoring, and digital transfer verification** to reduce manual handling exposure and improve transfer accuracy. Three converging pressures are driving this:
+
+1. **Contamination control escalation** — industrial customers' increasing sensitivity to residue contamination means that a single cross-contamination incident can disrupt multiple downstream production lines simultaneously (food, pharma, chemical). Transport providers are investing in compartmentalized tank systems and stricter cargo transition management between deliveries.
+
+2. **Demand unpredictability** — seasonal fluctuations, regional supply disruptions, and consumption behavior shifts are creating less predictable shipping volumes with limited notice. Response: more flexible fleet allocation + data-driven dispatch to reduce idle equipment time while maintaining route availability for long-term clients.
+
+3. **Temperature-sensitive expansion** — food ingredients, pharmaceutical compounds, and specialty chemicals requiring controlled thermal conditions are growing as a % of liquid bulk freight. Insulated tank infrastructure, onboard temperature monitoring, and in-transit condition tracking are becoming competitive differentiators.
+
+**Supply Chain Relevance:**
+Quantix sits in dry bulk (plastic pellets) and liquid chemical bulk — but the liquid bulk trends are directly applicable. The contamination control emphasis is a quality differentiator Quantix can leverage: rigorous prior cargo documentation + tank cleaning validation is increasingly a qualification criterion for chemical shippers, not just a compliance checkbox. The automated transfer verification trend is where the industry is heading — manual loading/unloading records are both a liability risk and an operational inefficiency. The temperature-sensitive logistics growth is a potential expansion vector if Quantix's liquid bulk arm develops the capability. Most directly: the data-driven dispatch finding aligns with the IoT + terminal analytics investments already discussed — idle time reduction is one of the highest-ROI targets in bulk OTR.
+
