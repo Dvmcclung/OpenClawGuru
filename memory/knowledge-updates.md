@@ -8734,3 +8734,58 @@ Critical operational findings:
 
 **SC Relevance for Quantix:** This touches multiple risk nodes simultaneously — safety incident rate, OS&D claims, driver training standards, and regulatory compliance. For a fleet carrying liquid chemicals, driver qualification for bulk liquid handling (not just hazmat endorsement) should be a formal competency standard. The partial-fill scenario is particularly relevant for multi-stop liquid routes where fill level changes between terminals.
 
+
+---
+
+## 2026-06-15 AM — Morning Knowledge Scan
+
+### Insight 1: Truckload Spot Rates Hit All-Time Record — FMCSA Enforcement Is the Supply-Side Driver
+**Source:** ShipTLI / FreightWaves / LMI (Logistics Managers Index) — June 2026
+**Knowledge Tier:** High-frequency (current market data — volatile, monitor weekly)
+**Tags:** `freight-market` `spot-rates` `capacity` `FMCSA` `regulation` `trucking` `Quantix-relevant`
+
+**Summary:**
+Truckload spot rates reached an all-time record in early June 2026, hitting **$3.83/mile** — up $0.09/mile overnight (FreightWaves). The Logistics Managers Index (LMI) confirmed Transportation Prices at **96.0**, described as "the fastest rate of expansion ever recorded for any metric in the nearly ten-year history of the index." Key supply-side drivers:
+- **FMCSA compliance crackdown:** The most aggressive enforcement push in over 16 years is removing tens of thousands of drivers from the market — carrier side supply is contracting sharply.
+- **Strait of Hormuz closure** is amplifying diesel costs and freight disruption globally; national average diesel at **$5.35/gallon** (EIA), up $1.90 YoY.
+- **Load-to-truck ratios:** Van up 92% YoY, Flatbed up 189% YoY (DAT Trendlines). Truck postings down 22.7%, load postings up 64.9%.
+- Tender rejection rate climbed to **17.55%** — a key signal of carriers exercising pricing power over contracted rates.
+
+**SC Relevance for Quantix:**
+This is a direct financial exposure event. Quantix operates 4,500+ OTR trucks — as a carrier, the rate environment benefits revenue per mile, but the FMCSA enforcement action is the most actionable risk. If Quantix has any drivers near compliance margins on hours, qualifications, or vehicle inspections, this enforcement wave will accelerate disqualifications. On the customer side, shippers will be pressuring carriers on contract rates even as spot rates climb — expect contract renegotiation pressure to intensify Q3. Recommend: audit driver qualification files against current FMCSA enforcement priorities NOW.
+
+---
+
+### Insight 2: Intermodal Gaining as Modal Conversion Accelerates on Mid-Haul Lanes
+**Source:** C.H. Robinson Edge Report — Freight Market Update, June 2026
+**Knowledge Tier:** High-frequency (current market intelligence — monitor monthly)
+**Tags:** `intermodal` `modal-shift` `freight-market` `network-design` `capacity` `truckload`
+
+**Summary:**
+C.H. Robinson's June 2026 freight market report documents a structural modal shift in progress:
+- Intermodal volumes rising **above historical averages** as shippers convert freight from truckload due to sustained fuel costs and structural pricing pressure.
+- Stable rail service + widening cost differential = accelerating conversion, particularly on **550–1,500 mile lanes** (mid-length-of-haul).
+- LTL markets tightening gradually as freight migrates back from TL and carrier pricing discipline persists.
+- Ocean freight tightening earlier than seasonal norms (blank sailings, carrier allocation controls).
+- Cross-border (US-Mexico): tightening from enforcement-driven driver reductions + currency pressure, even as trade flows remain strong in manufacturing/electronics.
+
+**SC Relevance for Quantix:**
+Modal shift away from truckload creates a competitive pressure signal for bulk OTR carriers. Bulk liquid/chemical freight is generally NOT intermodal-convertible (tanker car logistics are specialized), so Quantix's core business is somewhat insulated. However: (1) dry bulk plastic pellet freight has some rail exposure — monitor customer conversations for modal diversion risk; (2) the driver shortage amplified by FMCSA enforcement makes driver retention a strategic asset, not just an HR issue; (3) the mid-haul (550–1,500 mi) lane is exactly where bulk carriers compete most directly with intermodal.
+
+---
+
+### Insight 3: AI in Logistics — "Amplifying Human Capability" Is the Winning Frame, Not Replacement
+**Source:** Logistics Management / Accenture Research — June 2026
+**Knowledge Tier:** Mid-frequency (industry research synthesis — review quarterly)
+**Tags:** `AI` `workforce` `automation` `technology` `talent` `change-management` `supply-chain-technology`
+
+**Summary:**
+Accenture research (via Logistics Management, June 2026) found that nearly **70% of logistics executives** now rank autonomous supply chains as a top investment priority. Key framing from Accenture's Ronny Horvath and Benjamin Reich:
+- "The real differentiator will be an organization's ability to develop a workforce capable of managing, supervising, and scaling those technologies effectively."
+- The fear narrative of AI replacing workers wholesale is considered overblown by leading practitioners — the RFID parallel is instructive: RFID took 15+ years to find its operational equilibrium; AI is moving faster but the adoption pattern of initial hype → implementation friction → mature scaled use is similar.
+- Current environment: geopolitical disruption + labor shortages + speed-to-response pressure = pushing autonomous systems from experimentation to **operational priority**.
+- The workforce gap is now the binding constraint: not technology capability, but talent capable of operating alongside AI systems.
+
+**SC Relevance for Quantix:**
+This reframes the AI strategy conversation for Dale's agentic AI work. The "amplify human" frame is more accurate and more useful than the "replace human" frame — particularly for dispatch, load planning, and terminal operations where experienced operators bring judgment AI can't fully replicate. Practical implication: Quantix's AI roadmap should explicitly design for **human-in-the-loop** decision gates (not full autonomy), and workforce upskilling should be budgeted alongside technology investment. Change management is not a soft add-on — it's the implementation constraint.
+
