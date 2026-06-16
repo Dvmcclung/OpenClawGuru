@@ -127,15 +127,14 @@ _Initialized: 2026-03-03_
 - **Decision velocity = new resilience definition (SAP whitepaper, June 2026):** Across 6 industries (incl. chemicals), resilience is now defined as the ability to convert disruption signals into coordinated action — not buffer inventory. One ag-equipment firm deployed 1,000+ AI agents for orchestration. Chemicals firms prioritizing AI explainability/trust as procurement differentiator. Europe: 745,000 unfilled truck driver positions by 2028 — automation not optional. "Decision velocity" is better PE framing than "buffer stock."
 
 ### Manufacturing Demand Signal — May 2026 (HIGH-FREQUENCY)
-- **ISM Manufacturing PMI: 54.0% (May 2026)** — highest since May 2022; fifth consecutive month of expansion. New Orders 56.8% (+2.7 pp); Production 54.3%; Supplier Deliveries 60.6% (sixth consecutive month slowing — demand-driven). Customers' Inventories 42.7% ("too low") = restocking signal building. Prices 82.1% (elevated). Employment 48.6% (contracting but improving). New Export Orders returned to expansion (50.6%). **69% of company comments negative** — tariff uncertainty = wildcard that could reverse quickly.
-- **Quantix application:** Manufacturing expansion = more resin, solvent, feedstock shipments. "Inventories too low" = restocking cycle; freight demand bump typically 4–8 weeks out. Supplier delivery slowing means logistics networks tightening under load. Rates could firm in Q3 2026. Plan accordingly.
+- **ISM Manufacturing PMI: 54.0% (May 2026)** — highest since May 2022; fifth consecutive expansion month. New Orders 56.8%; Customers' Inventories 42.7% ("too low") = restocking cycle; freight demand bump typically 4–8 weeks out. 69% of comments negative — tariff uncertainty = wildcard. Quantix: more resin/solvent/feedstock shipments; logistics networks tightening under load; rates firming Q3 2026.
 
 ### Freight Cycle & Rate Update — June 2026 (HIGH-FREQUENCY)
-- **Cycle turn confirmed** (April 2026): First in 40 months. TL spot rates hit **all-time record $3.83/mile** (June 10). LMI Transportation Prices: 96.0 — "fastest expansion ever recorded in index history." Van tender rejections 18.3% (new cycle high); reefer 25%. DAT van load-to-truck +92% YoY; flatbed +189% YoY. Truck postings -22.7% YoY vs. loads +64.9% YoY. Supply driver: FMCSA most aggressive enforcement in 16 years removing non-compliant carriers en masse. Rate spike is capacity-driven, NOT fuel-driven.
-- **Diesel:** $5.35/gal national (June 2026); California $7.05/gal. C.H. Robinson 2026 TL forecast: +23% YoY. LMI April: capacity 28.4 (2nd-lowest ever); prices 95 (2nd-highest ever). Cass TL Linehaul +5.6% YoY / +3.2% MoM. DAT flatbed load-to-truck 87.22 (May) — cycle high.
-- **USMCA July 1, 2026 deadline:** ⚠️ Hard watch date — no-extension = cross-border chemical/resin corridor disruption.
-- **LTL pricing shift:** Frequent small GRIs replacing annual model. Amazon launching full LTL network to all businesses — competitive pressure on FedEx Freight/XPO/Saia.
-- **Quantix posture:** FMCSA enforcement = competitive advantage for large compliant carriers. Lock in contract volume before H2 repricing. Fuel surcharge review on non-hedged contracts urgent. Sell reliability + contract stability, not just price.
+- **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — "fastest expansion ever recorded in index history." Van tender rejections 18.3% (cycle high); reefer 25%. Van load-to-truck +92% YoY; flatbed +189% YoY. Supply driver: FMCSA most aggressive enforcement in 16+ years — rate spike is capacity-driven, NOT fuel-driven. Diesel $5.35/gal national; CA $7.05/gal.
+- **LTL:** Frequent small GRIs replacing annual model. Amazon launching full LTL network — competitive pressure on FedEx Freight/XPO/Saia. FedEx Freight spinoff (June 1): $8.7B revenue, 12% OI margin = industry profitability benchmark.
+- **Intermodal (June 2026):** Rising above historical averages on 550–1,500mi mid-haul lanes (C.H. Robinson). Liquid bulk NOT intermodal-convertible — Quantix core insulated. Dry bulk plastic pellet lanes have rail exposure — monitor.
+- **USMCA July 1, 2026:** ⚠️ Hard watch — no-extension = cross-border chemical/resin corridor disruption.
+- **Quantix posture:** FMCSA enforcement = competitive advantage for large compliant carriers. Lock in contract volume before H2 repricing. Fuel surcharge audit on non-hedged contracts urgent. "New never normal" — move to continuous rolling planning cycles; annual lane reviews are obsolete.
 
 ### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
 - Chemical manufacturers are requiring **auditable, shipment-level emissions data** from logistics providers — written into procurement requirements, not just ESG reports (IndexBox/Chemical Engineering, April 15, 2026).
@@ -183,15 +182,8 @@ _Initialized: 2026-03-03_
 - Real ROI: slotting (10–20% travel time ↓), safety stock right-sizing, routing, load consolidation, empty miles. Differentiator = orchestration, not isolated pilots.
 - Quantix: augmenter model lower-disruption at 4,500-truck scale; assess dispatch decision latency first. Carrier selection + load optimization delivering ROI in OTR now.
 
-### Supply Chain Interoperability Is the True AI Bottleneck (Logistics Viewpoints, May 2026)
-- Connectivity ≠ Interoperability. A 6-hour-late status is "connected" but useless for exception management. Agentic AI requires semantic data exchange (not just syntactic) — API readiness at every node is the gate.
-- Quantix: validate data quality, timing, and context at each TMS/ELD/terminal integration point before AI dispatch investment.
-
 ### AI Creates Coordination Bottleneck — TOC Applied to AI Architecture
 - AI demand sensing reduces forecast error ~30% but overwhelms suppliers with order-change frequency — classic TOC bottleneck migration. Build coordination layer (data interoperability, aligned decision cycles). EDI/API with top shippers is the fix. Watch order-change frequency from top 10 shippers as leading indicator.
-
-### Electric Trucks (May 2026)
-- Tesla Semi mass production confirmed (4680, ~800km range); MDB Transportation pilot at LA/Long Beach. Quantix near-term exposure: LOW. CARB waiver revoked — defer ZEV capex. Watch Scope 3 shipper pressure by 2028–2030.
 
 ### Supreme Court — Freight Broker Duty of Care (May 14, 2026, DC-Tier)
 - SCOTUS 9-0 in *Montgomery v. Caribe Transport II*: state-law negligent carrier selection claims NOT preempted by FAAAA — safety exception applies. Affects all 28,000+ licensed brokers.
@@ -334,9 +326,17 @@ _Initialized: 2026-03-03_
 - **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — highest ever in index history. Cause: FMCSA most aggressive enforcement in 16+ years removing non-compliant carriers en masse — supply contraction, not demand surge. Van load-to-truck +92% YoY; flatbed +189% YoY.
 - **Quantix:** Large compliant carrier = structural competitive advantage. Sell contract stability at premium; fuel surcharge audit urgent; flatbed spillover to tanker freight possible. "New never normal" — static annual lane reviews are obsolete; move to continuous planning model.
 
-### Freight Volatility — "Marginless Recovery" + Intermodal Resurgence (June 2026)
-- North American freight: "new never normal" — structural volatility, not cyclical. **Marginless recovery:** rates rising but not enough to offset cost inflation (fuel, labor, insurance, compliance). Intermodal resurgence as shipper hedge against TL rate spikes (but trade disruptions affect rail simultaneously). Annual transportation strategies obsolete; leading shippers moving to continuous rolling planning cycles.
-- **Quantix:** Operational efficiency = margin defense. Monitor plastic pellet shippers for volume shift to rail on long-haul lanes; have the value case ready for why dedicated TL outperforms rail for bulk.
+### Cyber-Physical Supply Chain Risk — AI Fraud Vector (June 2026, HIGH-FREQUENCY)
+- AI-assisted freight fraud (carrier impersonation, fake delivery confirmations, invoice fraud) is an active documented threat in bulk chemical transport (SOCRadar, June 2026).
+- Vendor access risk = Tier-1 concern: SaaS/TMS/ELD API integrations are attack vectors, not just operational dependencies.
+- Real-time supplier monitoring replacing annual audit model. Classify vendors by access level + operational criticality, not just spend tier.
+- Quantix action: audit ELD/TMS provider credential exposure; evaluate carrier impersonation controls in dispatch workflow.
+
+### Cost of Quality (CoQ) Framework for Carrier Operations (June 2026)
+- Peer-reviewed: structured CoQ approach delivers 33–40% reduction in external failure costs; overall CoQ -41.7%.
+- Bulk carrier translation: detention, re-dispatch, missed loading windows, OS&D claims = internal failure costs — rarely linked to CoQ categories in KPI scorecards.
+- DMAIC prioritization: highest CoQ event categories = highest ROI targets. CoQ baselining is a diagnostic step before project selection.
+- Quantix action: link KPI scorecard to CoQ categories; run Pareto on detention, OS&D, and re-dispatch event costs as project selection input.
 
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
