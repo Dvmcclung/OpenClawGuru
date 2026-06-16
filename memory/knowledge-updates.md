@@ -8909,3 +8909,63 @@ The 2026 MHI/Deloitte Annual Industry Report signals a maturation point in suppl
 
 **Application for Quantix:** The "selective value creation" framing is the right lens for Quantix's AI-in-the-loop build. Pilots that don't map to measurable cost or capacity outcomes will lose executive support in this environment. Prioritize: (1) load planning optimization (direct cost impact), (2) driver utilization/dwell time (direct capacity impact), (3) terminal operations visibility (resilience impact). The MHI data validates the Quantix build direction — focus the pitch on those three value chains.
 
+
+---
+
+## 2026-06-16 PM — Evening Knowledge Scan
+
+### Insight 1: Supply Chain Resilience 2026 — Multi-Dimensional Risk Is the New Baseline
+**Source:** Michigan State University Online — "Supply Chain Resilience in 2026: Why Disruption Is the New Normal and How Leaders Are Preparing" (April 2, 2026)
+**URL:** https://www.michiganstateuniversityonline.com/resources/supply-chain/supply-chain-resilience-in-2026-why-disruption-is-the-new-normal-and-how-leaders-are-preparing/
+**Knowledge Tier:** Mid-frequency (academic editorial, 2026 synthesis; cite with date)
+
+Ninety percent of organizations reported significant supply chain challenges in 2024 (McKinsey Global Supply Chain Leader Survey). In 2026, the consensus position has shifted from treating disruption as an exception to treating **continuous volatility as the operating condition**. Key risk vectors driving this:
+
+- **Geopolitical / Trade Policy:** Export restrictions on critical industrial raw materials have risen sharply (OECD data), and supply chain risk capabilities remain weak beyond Tier 1 suppliers (McKinsey) — meaning most organizations are flying blind in their deeper supply networks.
+- **Cyber Threats:** WEF Global Cybersecurity Outlook 2026 reports 65% of large companies identify third-party and supply-chain vulnerabilities as their leading cybersecurity challenge. Cyber risk is now integral to SCRM — not a separate IT function.
+- **Climate / Extreme Weather:** Floods, droughts, and heatwaves are creating cascading delays across interconnected supplier networks. Organizations are embedding climate scenario modeling into their resilience frameworks.
+- **Visibility Gap:** Most organizations lack multi-tier supply network visibility — this is the primary structural risk multiplier.
+
+**Application for Quantix:** Quantix's 4,500+ truck fleet and 50+ terminal network creates deep Tier 2/3 exposure — equipment suppliers, chemical shippers, fuel vendors. The visibility gap risk applies directly. Cyber risk to TMS/FMS systems is not hypothetical at this fleet scale. Climate risk hits OTR bulk carriers through infrastructure disruption (bridge weight limits, highway closures, flood-impacted terminals).
+
+**Tags:** `risk-management` `resilience` `geopolitical` `cyber-risk` `multi-tier-visibility`
+
+---
+
+### Insight 2: Digital Collaboration in Chemical Logistics — The Coordination Gap Is the Real Inefficiency
+**Source:** The Maritime Executive — "Digital Collaboration in Chemical Logistics" by Lind, Lehmacher, Bentham, et al. (February 21, 2026)
+**URL:** https://maritime-executive.com/editorials/digital-collaboration-in-chemical-logistics
+**Knowledge Tier:** Mid-frequency (practitioner editorial, expert authorship, bulk chemical logistics specific)
+
+This is a practitioner piece with direct relevance to Quantix's liquid bulk / chemical carrier business. Key findings:
+
+- **The optimization paradox:** Chemical logistics is highly optimized *within* organizations (advanced scheduling, strict safety/quality controls, digital tools for production/storage/delivery). The systemic failure is *between* organizations — where small deviations in readiness, sequencing, or arrival time trigger last-minute berth plan changes, tank assignment revisions, and inland transport scrambles, forcing costly buffers and emergency responses.
+- **The coordination gap is load-bearing for decarbonization:** As transport decarbonizes, chemical carriers will increasingly handle hydrogen carriers, synthetic fuels, ammonia, and e-fuels — all contamination-sensitive, hazardous, and tightly linked to plant operations. These new energy commodities require the same tight coordination protocols as traditional chemicals, but the inter-organizational coordination infrastructure doesn't exist yet.
+- **Data sharing paradox:** Commercial sensitivity is intrinsic to chemical logistics — data on readiness, sequencing, or prioritization can reveal production status, customer exposure, or market position. Any coordination model must accept limited, selective information sharing. Platforms that demand full data openness will fail in this sector.
+- **End-to-end JIT is the gap:** The industry applies JIT within companies but has not extended it to the end-to-end supply chain.
+
+**Application for Quantix:** The inter-organizational coordination gap is exactly the value proposition for Quantix's AI-in-the-loop vision. FMS/TMS data that improves terminal sequencing visibility — even partially — can reduce costly last-minute changes. The data sensitivity constraint argues for federated or tiered data-sharing architectures, not open platforms.
+
+**Tags:** `bulk-chemical-logistics` `digital-collaboration` `coordination` `decarbonization` `terminal-operations` `data-sharing`
+
+---
+
+### Insight 3: Geopolitical Fragmentation and Tariff Volatility as the #1 2026 Supply Chain Risk — Freight Strategy Implications
+**Source:** Xeneta — "The Biggest Supply Chain Risks of 2026 (and How to Navigate Them)" (February 18, 2026)
+**URL:** https://www.xeneta.com/blog/the-biggest-supply-chain-risks-of-2026-and-how-to-navigate-them
+**Knowledge Tier:** High-frequency (freight market intelligence; volatile, verify before applying to active contracts)
+
+For procurement and SC leaders, 2026 is characterized by a decision-timing problem: reacting to disruption is now table stakes — the question is whether organizations can *plan for volatility* as standard operating procedure rather than exception handling. Key findings:
+
+- **Geopolitical fragmentation** is the #1 identified risk: new economic blocs (Pax Silica for tech/semiconductors), China+1 nearshoring strategies without equivalent infrastructure capacity in alternative markets, and ongoing weaponization of trade (export controls, sanctions, industrial policy as competitive tools).
+- **Tariff volatility creates rate timing traps:** Three specific failure modes for freight procurement:
+  1. *Delay post-Chinese New Year* → miss low rates when capacity floods in
+  2. *Lock in too early* → pay above-market if Red Sea reopening floods capacity
+  3. *Misread policy shifts* → caught squeezed on cost and space during demand surges
+- **The mindset shift:** From "react to disruption" to "plan for volatility as the baseline." Organizations that have operationalized scenario-planning and contract flexibility frameworks outperform reactive competitors on both cost and service.
+- **Critical minerals exposure:** Automotive-sector case shows deep structural risk from reliance on lithium, cobalt, and nickel — illustrating how geopolitical fragmentation cascades into domestic manufacturing supply chains.
+
+**Application for Quantix:** The rate timing trap directly applies to fuel procurement for a 4,500-truck fleet. Diesel contract timing decisions should be modeled against geopolitical scenario planning, not just historical price patterns. The China+1 nearshoring trend is also a demand signal: as US manufacturing reshores or nearshores, chemical and plastic pellet volumes could shift geographically — relevant to Quantix's terminal network strategy.
+
+**Tags:** `risk-management` `geopolitical` `tariff-volatility` `freight-strategy` `fuel-procurement` `nearshoring`
+
