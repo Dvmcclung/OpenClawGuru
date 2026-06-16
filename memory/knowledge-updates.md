@@ -8856,3 +8856,56 @@ Trade analysis documents an accelerating shift in liquid bulk terminal operation
 **Supply Chain Relevance:**
 Quantix sits in dry bulk (plastic pellets) and liquid chemical bulk — but the liquid bulk trends are directly applicable. The contamination control emphasis is a quality differentiator Quantix can leverage: rigorous prior cargo documentation + tank cleaning validation is increasingly a qualification criterion for chemical shippers, not just a compliance checkbox. The automated transfer verification trend is where the industry is heading — manual loading/unloading records are both a liability risk and an operational inefficiency. The temperature-sensitive logistics growth is a potential expansion vector if Quantix's liquid bulk arm develops the capability. Most directly: the data-driven dispatch finding aligns with the IoT + terminal analytics investments already discussed — idle time reduction is one of the highest-ROI targets in bulk OTR.
 
+
+---
+
+## 2026-06-16 AM — Morning Knowledge Scan
+
+### Insight 1: U.S. Truckload Spot Rates Hit All-Time Record — Strait of Hormuz Closure the Catalyst
+**Source:** ShipTLI / FreightWaves / Logistics Managers Index (June 2026)
+**URL:** https://shiptli.com/news/june-2026-freight-market-spot-rates-and-carrier-crackdowns/
+**Knowledge Tier:** High-frequency (real-time market data — volatile, verify before use)
+**Tags:** transportation, spot-rates, capacity, freight-market, risk, truckload
+
+Truckload spot rates reached an all-time record in early June 2026 — **$3.83/mile**, up $0.09/mile overnight. The Logistics Managers Index (LMI) recorded **Transportation Prices at 96.0**, described as "the fastest rate of expansion ever recorded for any metric in the nearly ten-year history of the index." Tender rejections climbed to 17.55%, and the FTR Shippers Conditions Index came in at -17.4 in April (slight improvement from -18.9 in March), with rates and capacity cited as the primary drags.
+
+Key structural drivers:
+- **Strait of Hormuz closure** — supply-side shock driving capacity tightening globally
+- Load postings up **64.9%** YoY; truck postings down **22.7%** YoY (DAT Trendlines)
+- Van load-to-truck ratio up **92%** YoY; flatbed up **189%** YoY
+- Rate surge occurring even as fuel prices cooled — structural, not fuel-driven
+
+**Application for Quantix:** Bulk chemical transportation operates in a tight spot market right now. Contracted carrier relationships and dedicated fleet coverage become premium assets in this environment. Rate escalation clauses and capacity reservation agreements should be reviewed with major chemical shipper customers. The Hormuz closure signal warrants a tariff/fuel surcharge review and customer communication strategy. This is a carrier-favorable market — Quantix has pricing power.
+
+---
+
+### Insight 2: Autonomous Rail Freight — Parallel Systems Moves to Commercial Testing
+**Source:** Robotics & Automation News — CEO Interview, Matt Soule, Parallel Systems (June 15, 2026)
+**URL:** https://roboticsandautomationnews.com/2026/06/15/interview-parallel-systems-ceo-matt-soule-on-building-the-worlds-first-autonomous-freight-rail-system/102545/
+**Knowledge Tier:** Mid-frequency (emerging technology — commercial validation phase)
+**Tags:** autonomous-vehicles, rail, logistics-innovation, technology, mode-shift, long-haul
+
+Parallel Systems (LA-based, SpaceX founder lineage) has developed **self-propelled autonomous battery-electric railcars** that operate in small platoons — a fundamental departure from diesel locomotive + long-train model. The company has raised $100M+ and is now in **commercial testing with Genesee & Wyoming Railroad in Georgia** under FRA oversight. CEO Matt Soule's thesis: autonomous rail can capture **$100B+ in freight currently moved by trucks** by making rail viable for shorter-haul routes where it historically couldn't compete on flexibility.
+
+The vision: autonomous trucks + robotic warehouses + AI routing + autonomous rail = a **continuously synchronized multi-modal ecosystem**. Global autonomous truck market projected at **$46.58B in 2026 → $107.7B by 2034** (Fortune Business Insights, 11% CAGR).
+
+**Application for Quantix:** Bulk dry freight (plastic pellets) has historically moved by over-the-road truck or hopper rail. If autonomous rail extends into shorter corridors and becomes more flexible, it could reshape the competitive landscape for bulk OTR carriers. Not an immediate threat — but worth monitoring at the commercial testing milestone. Relevant question for strategic planning: which of Quantix's lanes are most vulnerable to modal substitution if rail flexibility increases?
+
+---
+
+### Insight 3: MHI/Deloitte 2026 Annual Industry Report — Digital Transformation "More Mature, More Selective"
+**Source:** MHI / Deloitte Annual Industry Report 2026 (500+ SC professionals surveyed); reported via DC Velocity and European Logistics Association / Aslog France (June 2026)
+**URL:** https://www.dcvelocity.com/supply-chain/the-top-10-supply-chain-trends-for-2026
+**Knowledge Tier:** Mid-frequency (annual survey synthesis — stable for ~12 months)
+**Tags:** digital-transformation, technology-adoption, supply-chain-trends, AI, visibility, resilience
+
+The 2026 MHI/Deloitte Annual Industry Report signals a maturation point in supply chain digital transformation: organizations are no longer chasing technology for its own sake — investment is now **value-creation selective**. The parallel Aslog (France) barometer confirms the same pattern in European supply chains. Key 2026 themes based on available reporting:
+
+- **AI and advanced analytics** — moving from pilot to embedded operational use
+- **Supply chain visibility** — remains a top investment priority (consistent with 2026 Ivalua data: 70% of orgs naming it #1 investment)
+- **Resilience over efficiency** — the post-COVID posture has become the default planning assumption
+- **Sustainability integration** — ESG now embedded in SC technology decisions, not a separate workstream
+- **Automation selectivity** — organizations are choosing automation that directly reduces cost leakage vs. broad deployment
+
+**Application for Quantix:** The "selective value creation" framing is the right lens for Quantix's AI-in-the-loop build. Pilots that don't map to measurable cost or capacity outcomes will lose executive support in this environment. Prioritize: (1) load planning optimization (direct cost impact), (2) driver utilization/dwell time (direct capacity impact), (3) terminal operations visibility (resilience impact). The MHI data validates the Quantix build direction — focus the pitch on those three value chains.
+
