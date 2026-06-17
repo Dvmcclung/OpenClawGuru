@@ -8969,3 +8969,60 @@ For procurement and SC leaders, 2026 is characterized by a decision-timing probl
 
 **Tags:** `risk-management` `geopolitical` `tariff-volatility` `freight-strategy` `fuel-procurement` `nearshoring`
 
+
+---
+
+## 2026-06-17 AM — Morning Knowledge Scan
+
+### Insight 1: Agentic AI Is Rewriting the Supply Chain Operating Model
+**Source:** IT Supply Chain — "Autonomous Supply Chain: Why Agentic AI Is Rewriting the Operating Model" (June 2026); corroborated by Deloitte March 2026 analysis (via NVisionGlobal)
+**Knowledge Tier:** High-frequency (current trend, 2026 — validate in 6–12 months)
+
+Agentic AI — multi-agent systems that autonomously coordinate decisions across suppliers, plants, logistics partners, and planning functions — has crossed from concept to documented performance. Reported outcomes from early deployments:
+- **20–30% improvement** in procurement workflow efficiency
+- **55% reduction** in scrap
+- **80% reduction** in non-perfect batches
+- **20–30% inventory reduction**
+- **5–20% logistics cost reduction**
+
+The Deloitte framing: "AI agents can continuously coordinate decisions across suppliers, plants, logistics partners, and planning functions." The key architectural shift is from *decision support* (AI tells humans what to do) to *decision execution* (AI acts within guardrails). The governance challenge — who audits these automated decisions — is now the lead question. NVisionGlobal published a specific piece this week asking "Who's Auditing the Decisions?" which signals the industry is past the hype phase and into governance design.
+
+**Application for Quantix:** With 4,500 trucks and 50+ terminals, the load-planning, dispatch coordination, and empty-repositioning workflows are exactly where agentic coordination delivers ROI. This is also directly relevant to Dale's AI-in-the-loop build at Quantix. The governance question matters: autonomous dispatch in bulk chemical transport has safety implications that require human-in-the-loop checkpoints for hazmat loads.
+
+**Tags:** `agentic-ai` `autonomous-operations` `AI-governance` `dispatch` `load-planning` `technology-trends`
+
+---
+
+### Insight 2: Supply Chain Visibility Is Evolving From "Where Are My Goods?" to Ecosystem Optimization
+**Source:** Supply Chain Movement — "Visibility: From Blind Spots to Better Decisions" — inNOWvate Supply Chain Event, Amsterdam (June 12, 2026)
+**Knowledge Tier:** Mid-frequency (practitioner conference synthesis, June 2026)
+
+Reporting from the inNOWvate Supply Chain Event in Amsterdam surfaces two distinct visibility blind spots still plaguing most organizations in 2026:
+
+1. **Physical asset tracking gap:** Companies deploy advanced ERP/forecasting systems but ship goods on load carriers with zero location visibility. Connected Load Carrier (Stefan Maas) reported that companies previously operated reactively, building inventory buffers to absorb uncertainty. With asset trackers + control towers, the question has shifted from *"Where are our assets?"* to *"How do we optimize the ecosystem?"* — a move from reactive buffering to proactive network optimization.
+
+2. **Phantom stock at external locations:** Belgian startup Ventory identified stock held at customer sites, local hubs, and service vehicles as systematically under-tracked in ERP systems. Engineers find ERP recording too cumbersome in the field, so stock movements go unrecorded, creating phantom inventory positions that distort reorder decisions.
+
+The common thread: visibility is no longer primarily about shipment tracking. It is the *input data layer* for better decisions — planning, inventory positioning, and network design. Organizations treating visibility as a compliance metric (proof of delivery) rather than a decision engine are leaving significant optimization value on the table.
+
+**Application for Quantix:** Tank and trailer location tracking is table-stakes for Quantix's model — but are empty trailers and ISO containers tracked with the same rigor as loaded ones? The phantom-stock analog for Quantix is phantom asset position: empty equipment parked at terminals or customer sites that isn't visible for dispatching. A control tower approach to equipment visibility would directly reduce repositioning cost.
+
+**Tags:** `supply-chain-visibility` `asset-tracking` `control-tower` `phantom-inventory` `network-optimization` `IoT`
+
+---
+
+### Insight 3: ATA Pushes Congress on Six Policy Priorities for Trucking Innovation — Including FET Repeal
+**Source:** American Trucking Associations — ATA CEO Chris Spear testimony, Senate Commerce Subcommittee on Surface Transportation (June 2026)
+**Knowledge Tier:** High-frequency (active legislative development — monitor quarterly)
+
+ATA CEO Chris Spear testified before the Senate Commerce Subcommittee hearing titled *"The Need for Speed: How Technological Advances are Driving Transportation Innovation."* Six policy priorities identified:
+
+1. **Repeal the 12% Federal Excise Tax (FET)** on heavy-duty trucks, trailers, and tractors — a century-old tax that adds tens of thousands of dollars per unit, slowing fleet modernization and adoption of cleaner/safer equipment. The Modern, Clean, and Safe Trucks Act (Chairman Todd Young, R-IN) is the vehicle.
+2. **Preserve a national framework for motor vehicle safety standards** — block state/court-imposed patchwork standards that create regulatory fragmentation for multi-state carriers.
+3–6. (Not captured in available excerpt — related to AV deployment, infrastructure, workforce, and safety technology.)
+
+The FET angle is directly material: at 12% on a new Class 8 tractor (~$180K+), that's $20K+ per unit in tax drag. For a carrier replacing even 200–300 trucks/year, FET repeal would free up $4–6M annually in capex. It's also a leading indicator — if the Modern Trucks Act advances, expect accelerated fleet refresh cycles industry-wide, which tightens the used equipment market.
+
+**Application for Quantix:** A fleet of 4,500 units with normal replacement cycles (7–10 years → ~450–640 units/year) means FET exposure of $9–13M/year at current rates. Monitoring this legislation is a direct P&L issue. If FET repeal advances, it changes the lease-vs-buy calculus and the replacement schedule optimization window.
+
+**Tags:** `trucking-policy` `FET-repeal` `fleet-modernization` `regulatory` `capex-planning` `ATA` `transportation-innovation`
