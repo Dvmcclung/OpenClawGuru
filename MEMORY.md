@@ -57,7 +57,7 @@ _Initialized: 2026-03-03_
 - **OSHA Heat Standard — Active enforcement 2026:** Two-trigger (80°F/90°F HI). Gulf Coast/Texas terminals are primary exposure zones.
 
 ### Geopolitical & Chemical Supply Risk
-- **Iran/Hormuz energy shock (ongoing — June 2026):** Brent ~$98–100/bbl (ceasefire fragile); WTI spiked ~$110 before stabilizing. IEA: worse than 1973+1979. Japan 70%/S. Korea 50% naphtha from Middle East — PE/PP cuts live. GSCPI rising 3rd consecutive month (May 2026). **Gulf cascade (June 2026):** Urea/nitrogen fertilizer +50% from chemical export blockage; aluminium +15% (Gulf smelters); dry bulk voyage durations at record 33.2 days. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel at $100+/bbl; (3) Gulf Coast terminals = rerouting volume capture. Ag-chem demand volatility watch if fertilizer spike holds. Re-evaluate monthly.
+- **Iran/Hormuz energy shock (ongoing — June 2026):** Brent ~$98–100/bbl (ceasefire fragile); WTI spiked ~$110 before stabilizing. IEA: worse than 1973+1979. PE/PP cuts live in Asia. GSCPI rising 3rd consecutive month. Fertilizer +50%; aluminium +15%; dry bulk voyage durations at record 33.2 days. Quantix three vectors: (1) USGC polymer producers gain feedstock advantage → dry bulk volume; (2) structural fuel at $100+/bbl; (3) Gulf Coast terminals = rerouting capture. Ag-chem demand volatility if fertilizer spike holds. Re-evaluate monthly.
 - **Geopolitics as permanent structural constraint:** 76% view tariffs as permanent 4+ yr (Thomson Reuters 2026). Real U.S. investment = data centers + power grid (bulk material lanes). JIC inventory shift = near-term bulk demand tailwind. NA/Europe/APAC three-hub model solidifying.
 - **Chemical logistics sustainability:** Rail/barge lower carbon AND lower cost per ton-mile. Shipment-level emissions data now a shipper procurement requirement. Terminal near waterways = barge integration + sustainability credential.
 
@@ -130,11 +130,11 @@ _Initialized: 2026-03-03_
 - **ISM Manufacturing PMI: 54.0% (May 2026)** — highest since May 2022; fifth consecutive expansion month. New Orders 56.8%; Customers' Inventories 42.7% ("too low") = restocking cycle; freight demand bump typically 4–8 weeks out. 69% of comments negative — tariff uncertainty = wildcard. Quantix: more resin/solvent/feedstock shipments; logistics networks tightening under load; rates firming Q3 2026.
 
 ### Freight Cycle & Rate Update — June 2026 (HIGH-FREQUENCY)
-- **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — "fastest expansion ever recorded in index history." Van tender rejections 18.3% (cycle high); reefer 25%. Van load-to-truck +92% YoY; flatbed +189% YoY. Supply driver: FMCSA most aggressive enforcement in 16+ years — rate spike is capacity-driven, NOT fuel-driven. Diesel $5.35/gal national; CA $7.05/gal.
-- **LTL:** Frequent small GRIs replacing annual model. Amazon launching full LTL network — competitive pressure on FedEx Freight/XPO/Saia. FedEx Freight spinoff (June 1): $8.7B revenue, 12% OI margin = industry profitability benchmark.
-- **Intermodal (June 2026):** Rising above historical averages on 550–1,500mi mid-haul lanes (C.H. Robinson). Liquid bulk NOT intermodal-convertible — Quantix core insulated. Dry bulk plastic pellet lanes have rail exposure — monitor.
+- **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — "fastest expansion ever recorded." Van tender rejections 18.3%; reefer 25%; van load-to-truck +92% YoY; flatbed +189% YoY. Supply driver: FMCSA enforcement removing non-compliant carriers — rate spike is capacity-driven, NOT fuel. Diesel $5.35/gal national; CA $7.05/gal.
+- **LTL:** Amazon launching full LTL network. FedEx Freight spinoff (June 1): $8.7B revenue, 12% OI margin = industry profitability benchmark.
+- **Intermodal:** Rising on 550–1,500mi mid-haul (C.H. Robinson). Liquid bulk NOT convertible — Quantix core insulated. Dry bulk pellet lanes have rail exposure — monitor.
 - **USMCA July 1, 2026:** ⚠️ Hard watch — no-extension = cross-border chemical/resin corridor disruption.
-- **Quantix posture:** FMCSA enforcement = competitive advantage for large compliant carriers. Lock in contract volume before H2 repricing. Fuel surcharge audit on non-hedged contracts urgent. "New never normal" — move to continuous rolling planning cycles; annual lane reviews are obsolete.
+- **Quantix:** FMCSA enforcement = competitive advantage for compliant carriers. Lock in contract volume before H2 repricing. Fuel surcharge audit urgent. Move to continuous rolling planning cycles.
 
 ### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
 - Chemical manufacturers are requiring **auditable, shipment-level emissions data** from logistics providers — written into procurement requirements, not just ESG reports (IndexBox/Chemical Engineering, April 15, 2026).
@@ -264,8 +264,8 @@ _Initialized: 2026-03-03_
 
 
 ### Driver Shortage — Regulatory Acceleration Creating Structural Gap (June 2026)
-- **ATA/BLS/ACT Research (May/June 2026):** ~82,000 driver shortfall projected 2026 — structural, not cyclical. Two mechanisms: (1) market: revised BLS data shows freight recession was 50,000 jobs deeper than understood; recovery tightening faster than labor can replenish; (2) regulatory: March 2026 federal rule bars asylum seekers, refugees, DACA recipients from obtaining/renewing CDLs. Foreign-born = ~1 in 6 U.S. truckers. DOS pause on employment visas for commercial drivers + stricter ELP enforcement + tighter CDL standards.
-- **Quantix-critical:** Hazmat-endorsed tanker drivers are non-interchangeable with general CDL holders. Restricted categories may directly impact Quantix's driver pool. Required actions: (1) audit what % of 4,500-driver base falls into newly restricted categories; (2) map hazmat-qualified candidate pipeline depth; (3) benchmark driver retention compensation against tightening market. Rate recovery signal: supply-side tightening = pricing power returning to carriers.
+- ~82,000 driver shortfall 2026 — structural. Causes: (1) freight recession was 50,000 jobs deeper than BLS originally reported; (2) March 2026 federal rule bars asylum seekers, refugees, DACA recipients from CDL. Foreign-born = ~1 in 6 U.S. truckers. ELP enforcement + stricter CDL standards compounding.
+- **Quantix-critical:** Hazmat-endorsed tanker drivers non-interchangeable. Actions: audit % of 4,500-driver base in restricted categories; map hazmat pipeline depth; benchmark retention compensation. Rate recovery signal: supply tightening = pricing power returning.
 - **Knowledge tier:** High-frequency — monitor quarterly.
 
 ### Logistics Technology Consolidation — "Less Tech, Better Used" (June 2026)
@@ -303,6 +303,11 @@ _Initialized: 2026-03-03_
 - **Liquid bulk digital monitoring:** Real-time cargo temp, pressure, fuel, delivery timing tracking = emerging shipper standard; contamination traceability now expected, not just compliance. Industrial customers demanding zero-residue tanks + cleaning verification systems as competitive differentiators.
 - **Quantix action:** (1) Verify OCS enrollment; (2) Assess liquid bulk cargo monitoring capability; (3) Build digital cargo records and cleaning verification capability.
 
+### MHI/Deloitte 2026 — "Digital Transformation More Mature, More Selective"
+- 500+ SC professionals surveyed (MHI/Deloitte Annual Industry Report 2026). European Aslog barometer confirms same pattern.
+- 2026 theme: **value-creation-selective** vs. technology-for-its-own-sake. AI/analytics moving from pilot to embedded ops; SC visibility still top investment; resilience-first planning as default; automation only where ROI is clear.
+- Quantix framing: validates bounded-first AI build. Pitch on three measurable value chains: (1) load planning optimization, (2) driver utilization/dwell reduction, (3) terminal operations visibility. Pilots without mapped ROI lose executive support in this environment.
+
 ### Agentic AI — Reality Check: 7% COO Deployment (BCG, June 2026)
 - Only 7% of COOs expect agentic AI to redesign majority of workflows within 2 years; 11–25% selective phased deployment is the norm. Vendor hype >> operator reality.
 - Highest-proven ROI: **bounded, closed-loop** — carrier selection, load tendering, exception escalation. NOT open-ended planning.
@@ -317,14 +322,19 @@ _Initialized: 2026-03-03_
 - Tank material compatibility is a hard constraint (SS/carbon/aluminum/lined must match product class). Cleaning/changeover = scheduling friction + contamination risk.
 - Changeover completion time is a terminal productivity KPI worth tracking.
 
+### Autonomous Rail Freight — Parallel Systems Commercial Testing (June 2026)
+- **Parallel Systems** (LA, $100M+ raised): self-propelled autonomous battery-electric railcars in platoon formation; commercial testing with Genesee & Wyoming Railroad (Georgia) under FRA oversight (June 2026). CEO thesis: capture $100B+ in freight from trucks by extending rail viability to shorter corridors.
+- Global autonomous truck market: $46.58B (2026) → $107.7B (2034) at 11% CAGR.
+- Quantix: dry bulk plastic pellet lanes are highest modal-substitution candidates if autonomous rail extends to shorter corridors. Strategic gate: map which Quantix lanes have highest modal-shift vulnerability. Not immediate — watch commercial testing milestones.
+
 ### Autonomous Freight — Commercial Scale Deployment (June 2026)
 - **PepsiCo/Gatik** (June 9, 2026): 35 driverless trucks live commercially across AZ/TX/AR (middle-mile, fixed-route). First major CPG at commercial scale. Aurora/McLane driverless Dallas–Houston (I-45 core Quantix corridor) also live.
 - **Einride + EASE Logistics** (June 2026): SAE Level 4 autonomous electric trucks in proof-of-commercial-concept, warehouse-to-warehouse (Marysville, Ohio). ATA CEO testified Congress June 9 — lobbying to accelerate AV policy + surface transportation reauthorization.
 - Quantix near-term exposure: LOW (tanker/hazmat adds complexity). Regulatory frameworks being written now will govern bulk carriers eventually. Impact horizon: 2028–2032. Dedicated terminal-to-terminal lanes (300+ miles) are structural analog — reassess as driver shortage deepens.
 
 ### Freight Market — All-Time Record Rates + FMCSA Enforcement Shock (June 2026)
-- **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — highest ever in index history. Cause: FMCSA most aggressive enforcement in 16+ years removing non-compliant carriers en masse — supply contraction, not demand surge. Van load-to-truck +92% YoY; flatbed +189% YoY.
-- **Quantix:** Large compliant carrier = structural competitive advantage. Sell contract stability at premium; fuel surcharge audit urgent; flatbed spillover to tanker freight possible. "New never normal" — static annual lane reviews are obsolete; move to continuous planning model.
+- **TL spot: $3.83/mile** (all-time record, June 10) — see Freight Cycle entry above for full detail.
+- **Quantix:** Large compliant carrier = structural competitive advantage. Sell contract stability at premium; fuel surcharge audit urgent; continuous planning model required.
 
 ### Cyber-Physical Supply Chain Risk — AI Fraud Vector (June 2026, HIGH-FREQUENCY)
 - AI-assisted freight fraud (carrier impersonation, fake delivery confirmations, invoice fraud) is an active documented threat in bulk chemical transport (SOCRadar, June 2026).
