@@ -9026,3 +9026,55 @@ The FET angle is directly material: at 12% on a new Class 8 tractor (~$180K+), t
 **Application for Quantix:** A fleet of 4,500 units with normal replacement cycles (7–10 years → ~450–640 units/year) means FET exposure of $9–13M/year at current rates. Monitoring this legislation is a direct P&L issue. If FET repeal advances, it changes the lease-vs-buy calculus and the replacement schedule optimization window.
 
 **Tags:** `trucking-policy` `FET-repeal` `fleet-modernization` `regulatory` `capex-planning` `ATA` `transportation-innovation`
+
+---
+
+## 2026-06-17 — Evening Knowledge Update (PM Cron)
+
+### Insight 1: The Shift from JIT to Just-in-Case Risk Strategy
+
+**Date:** 2026-06-17
+**Source:** GFS Logistics — "2026 Supply Chain Risk Management: A Proactive 3PL Guide" (https://www.gfslogistics.com/blog/proactive-supply-chain-risk-management/)
+**Knowledge Tier:** High-frequency (current practice trends — validate against your network)
+
+**Summary:**
+The JIT orthodoxy is functionally dead as a universal strategy. 2026 operating conditions — persistent tariff escalation (US-China effective rates at all-time highs), cyber threats, and recurring climate-driven port disruptions — have made disruption the baseline rather than the exception. Leading companies are pivoting to Just-in-Case models: strategic inventory buffers, network redundancy, 90-day forward disruption planning. "China Plus One" is no longer sufficient; multi-region sourcing diversification across multiple carriers and supplier relationships is the new baseline. Companies still managing risk via spreadsheets and email chains are operating with a backward-looking posture — by the time risk appears in a manual report, it has already hit operations.
+
+**SC Relevance (Quantix context):**
+Direct. Bulk chemical and plastic pellet transportation is subject to geopolitical tariff exposure (feedstock sourcing for customers), climate disruption at Gulf Coast terminals, and cyber risk across logistics platforms. The shift to 90-day proactive planning applies to capacity planning and terminal operations. Single-corridor dependency (e.g., key lanes or terminals) is a structural risk.
+
+**Tags:** risk-management, JIT, just-in-case, geopolitical, cyber, resilience, 3PL, network-design
+
+---
+
+### Insight 2: Supply Chain Cyber Risk Has Moved Upstream — Third-Party and Vendor Attack Surface
+
+**Date:** 2026-06-17
+**Source:** SOCRadar — "Top Supply Chain Risks in 2026 and Management Strategies" (https://socradar.io/blog/top-supply-chain-risks-management-strategies/)
+**Knowledge Tier:** High-frequency (rapidly evolving threat landscape)
+
+**Summary:**
+Cyber risk in supply chains is no longer primarily about your own walls — it's about vendor access, SaaS platforms, and subcontractor exposure. KPMG's 2026 Global TPRM Survey: cyber risk (48%) and regulatory compliance (45%) are the top growing concerns in third-party risk management. Hackers increasingly exploit smaller vendors and logistics partners as backdoors into larger networks. The model is shifting from periodic annual supplier reviews to continuous intelligence-led monitoring: tracking exposed infrastructure, leaked credentials, active ransomware targeting, and vulnerability signals in real time. Compliance now extends to how suppliers manage data, cybersecurity, labor practices, sanctions exposure, environmental obligations, and subcontractor risk.
+
+**SC Relevance (Quantix context):**
+Quantix operates 50+ terminals with carrier/shipper integrations, TMS systems, and third-party logistics touchpoints — each is a potential attack surface. This is a board-level risk framing, not just IT. Relevant for customer contract risk conversations and for evaluating tech vendor relationships.
+
+**Tags:** cyber-risk, TPRM, third-party-risk, compliance, vendor-management, digital-supply-chain, KPMG
+
+---
+
+### Insight 3: Lean Transportation — The 5 Core Levers for Waste Elimination in Logistics Networks
+
+**Date:** 2026-06-17
+**Source:** Kenco Group — "Benefits of Lean Management Practices for Transportation" (https://kencogroup.com/blog/benefits-of-lean-management-practices-for-transportation/)
+**Knowledge Tier:** Mid-frequency (established Lean application — stable principles, evolving application context)
+
+**Summary:**
+Lean principles are increasingly being applied beyond manufacturing into transportation and logistics networks. Key framework: transportation optimization maps to the 8 Rights of Lean (Right Materials, Quantity, Time, Place, Source, Price, Quantity, Service). Five concrete levers: (1) Customer-centric strategy — define delivery methods around customer requirements and optimal inventory, not transportation convenience; (2) Eliminate transportation waste — smaller, more frequent batch movements reduce inventory risk even if unit transport cost appears higher; (3) Treat logistics partners as strategic, not transactional — measurable performance capability and continuous improvement commitments required; (4) Productivity over unit cost — the cost structure split between unit cost and productivity (trailer utilization, driver time, empty miles) is where improvement lives; (5) Eliminate waste categories — the 8 Lean wastes map directly to transportation: excess inventory, waiting (dwell), overproduction (over-dispatching), defects (damage/claims), motion (non-value-added driver movement), overprocessing (redundant check-ins), transport waste (empty miles), and unutilized talent (driver skill underutilization).
+
+**SC Relevance (Quantix context):**
+Directly applicable to fleet operations and terminal throughput. Empty miles, driver dwell time at terminals, and over-dispatching (excess capacity sent to a lane) are the highest-leverage waste categories in a bulk carrier context. Treating large shipper relationships as strategic partnerships (measurable KPIs, continuous improvement clauses) aligns with how Quantix should be positioning itself with anchor customers.
+
+**Tags:** lean, waste-elimination, transportation-lean, 8-wastes, fleet-operations, terminal-efficiency, carrier-performance, DMAIC
+
+---
