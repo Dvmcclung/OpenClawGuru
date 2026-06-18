@@ -9078,3 +9078,73 @@ Directly applicable to fleet operations and terminal throughput. Empty miles, dr
 **Tags:** lean, waste-elimination, transportation-lean, 8-wastes, fleet-operations, terminal-efficiency, carrier-performance, DMAIC
 
 ---
+
+---
+
+## 2026-06-18 AM — Morning Knowledge Scan
+
+### Insight 1: Supply Chain AI — The Confidence-Autonomy Gap (June 2026 Survey Data)
+**Date:** 2026-06-18
+**Source:** RELEX Solutions — "Supply Chain AI in 2026: The Numbers Behind the Hype" (June 16, 2026) — https://www.relexsolutions.com/resources/supply-chain-ai/
+**Knowledge Tier:** High-frequency (current survey data — treat as volatile; verify in 6–12 months)
+
+**Summary:**
+RELEX 2026 State of the Supply Chain report surfaces a clear tension between growing AI confidence and still-limited AI autonomy:
+- **67%** of supply chain leaders are more confident in AI than last year — only 3% report declining confidence
+- **54%** prefer human-in-the-loop (AI suggests, human decides); only **10%** will let AI make critical decisions without human review
+- **71%** plan to invest in generative AI over next 3–5 years (up 12 points from 2025)
+- **60%** plan to invest in predictive AI (up 17 points from 2025)
+- **32%** are actively investing and scaling AI solutions today
+- Agentic AI (multi-step autonomous reasoning across stakeholders) is emerging in planning software as the next frontier — three use-case areas stand out but content was truncated
+
+**Pattern diagnosed:** Classic tech adoption curve — early adopters followed by fast followers; laggards still present. ROI is materializing at the margins through productivity gains; enterprise-scale ROI not yet fully realized but confidence is building as natural language interfaces become familiar.
+
+**SC Relevance (Quantix context):**
+The 54% human-in-the-loop preference is the operative posture for now — and it matches where agentic AI tooling (like Quantix's own automation stack) should be calibrated. Autonomous dispatch decisions or pricing calls without human review will face organizational resistance. The actionable opportunity is in predictive AI for demand/capacity forecasting and agentic AI for exception handling — both high-value, lower-autonomy use cases that align with current comfort levels.
+
+**Tags:** AI-adoption, agentic-AI, predictive-AI, supply-chain-technology, human-in-the-loop, autonomous-decisions, RELEX, 2026-trends
+
+---
+
+### Insight 2: Freight Market Tightening — Spot Rates Above Contract for First Time Since 2021 (June 2026)
+**Date:** 2026-06-18
+**Source:** Ryder — "2026 Trucking Industry Trends and Outlook" (Updated June 12, 2026); C.H. Robinson — "Freight Market Update: June 2026" (June 4, 2026)
+**Knowledge Tier:** High-frequency (current market conditions — highly volatile, verify monthly)
+
+**Summary:**
+The freight market is transitioning from the prolonged 2022–2026 soft cycle into a structurally tightening environment. Key signals as of June 2026:
+- **Spot truckload rates have exceeded contract rates** for the first time since 2021 — a classic leading indicator of a market turning point
+- **Tender rejection rates exceeded 15%** — highest level since early 2022 — meaning carriers now have enough freight options to decline unfavorable loads
+- Carrier exits remain elevated as smaller operators continue failing under inflation and fuel cost pressure, **removing capacity** from the market
+- Manufacturing activity has returned to **expansion territory** after 2+ years of contraction
+- **Intermodal volumes rising above historical averages** as shippers shift mid-length freight (550–1,500 miles) to rail due to fuel costs and truckload pricing pressure
+- **LTL pricing on upward trajectory** with additional rate increases expected through H2 2026
+- **Supreme Court: Montgomery v. Caribe (May 14, 2026)** — unanimous ruling that negligent hiring claims against brokers are NOT preempted by federal law and can proceed in state court; this increases carrier vetting, monitoring, and documentation requirements across the industry
+
+**SC Relevance (Quantix context):**
+Quantix is a carrier, not a shipper — this market turn is generally favorable for pricing power. Key watch items:
+1. **Montgomery v. Caribe** applies directly: Quantix's broker relationships and shipper contracts will face higher documentation scrutiny; safety records and carrier qualification processes become legal exposure points, not just compliance checkboxes.
+2. Rising spot rates vs. contract rates creates an opportunity to renegotiate contract terms or capture spot premiums on uncommitted capacity.
+3. Intermodal growth on mid-haul lanes is a modal substitution threat — bulk cannot move intermodal, but this dynamic compresses available OTR driver pools as fleet mix shifts.
+
+**Tags:** freight-market, spot-rates, contract-rates, carrier-exits, tender-rejection, intermodal, LTL-pricing, Montgomery-v-Caribe, broker-liability, market-cycle, trucking-2026
+
+---
+
+### Insight 3: Deferred Maintenance Crisis — The Hidden Risk as Freight Cycle Recovers (June 2026)
+**Date:** 2026-06-18
+**Source:** FreightWaves — "Supply Chain, Logistics, and Trucking News" (June 2026); Ryder State of Transportation report synthesis
+**Knowledge Tier:** High-frequency (current industry signal — monitor quarterly)
+
+**Summary:**
+FreightWaves is flagging a structural risk emerging as the freight cycle recovers: **a massive accumulation of deferred maintenance** built up during the prolonged 2022–2026 freight recession. As utilization rises with tighter capacity, fleets that deferred capex on equipment maintenance and replacement during the downturn are now entering the recovery cycle with aging, under-maintained assets. Key dynamics:
+- **Deferred capex** during the recession means fleets are older and less reliable than usual at the start of a cycle upturn
+- **Demand-pull on driver pools**: FreightWaves is running a Driver App Shortage Hackathon (June 15–22) to address lack of software built for drivers — signals that driver-facing tech remains underdeveloped
+- U.S. logistics costs: **$2.4 trillion, or 7.8% of GDP** (current benchmark figure)
+- Carrier exits + deferred maintenance + rising utilization = elevated equipment failure and service reliability risk in H2 2026
+
+**SC Relevance (Quantix context):**
+This is a direct operational risk for Quantix with a 4,500+ truck fleet. If the recession period led to deferred PM schedules, trailer/tractor refresh deferrals, or deferred terminal infrastructure, those obligations are now coming due just as freight demand is recovering and utilization is rising. Classic Lean Six Sigma lens: deferred maintenance is a form of waste transfer — you didn't eliminate the cost, you delayed it while compounding the risk. A PM compliance audit and capex pipeline review for H2 2026 would be high-priority.
+
+**Tags:** deferred-maintenance, fleet-management, PM-compliance, freight-cycle, capex-risk, equipment-reliability, carrier-operations, Quantix-ops, freight-recession-recovery
+
