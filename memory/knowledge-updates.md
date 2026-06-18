@@ -9148,3 +9148,57 @@ This is a direct operational risk for Quantix with a 4,500+ truck fleet. If the 
 
 **Tags:** deferred-maintenance, fleet-management, PM-compliance, freight-cycle, capex-risk, equipment-reliability, carrier-operations, Quantix-ops, freight-recession-recovery
 
+
+---
+
+## 2026-06-18 — Evening Update (PM Cron)
+
+### Insight 1: Multi-Agent AI Architecture Drives 12-Point OTD Improvement in Supply Chain Coordination
+
+**Date:** 2026-06-18
+**Source:** Simor Consulting — Case Study: Multi-Agent System for Supply Chain Optimization (simorconsulting.com, published June 2026)
+**URL:** https://simorconsulting.com/blog/case-study-multi-agent-system-for-supply-chain-optimization
+
+**Summary:**
+A mid-size automotive parts manufacturer with 200+ suppliers and operations in 15 countries implemented a five-agent AI system after conventional ERP integrations, extra analysts, and dashboards failed to address reactive supply chain behavior. The system used specialized agents with narrow, well-defined responsibilities (procurement, planning, supplier risk, disruption monitoring, coordination). Key design principle: agent boundaries mapped to natural organizational domain boundaries, making debugging and improvement tractable. After 18 months, on-time delivery improved from 82% to 94%. The root failure they were solving: supply chain complexity exceeded human coordination capacity at the required speed. Demand signals, supplier comms (email/EDI/phone), and disruption signals were all siloed. Problems were discovered after impact, not before.
+
+**SC Relevance:**
+Directly applicable to Quantix's terminal network complexity. With 50+ terminals, 4,500+ trucks, and multiple commodity streams, the same coordination-speed problem exists. The narrow-agent architecture lesson — don't build a monolith, give each agent one domain — is the right design pattern for Quantix's AI-in-the-loop work. The 82→94% OTD jump is a credible benchmark for what agentic coordination can deliver.
+
+**Knowledge Tier:** High-frequency (recent case study, 2026 — verify design principles hold before citing as permanent)
+**Tags:** #ai-agents #coordination #OTD #process-improvement #visibility #case-study #architecture
+
+---
+
+### Insight 2: 2026 Geopolitical Risk Drives Five-Pillar Resilience Framework for Critical Supply Chains
+
+**Date:** 2026-06-18
+**Source:** DSV — "Geopolitical risk in pharma supply chains in 2026" (dsv.com, referencing 2026 Strait of Hormuz crisis scenario and McKinsey 2026 data)
+**URL:** https://www.dsv.com/en-us/insights/expert-opinions/protect-pharma-supply-chains-from-geopolitics
+
+**Summary:**
+DSV articulates five pillars for protecting critical supply chains from geopolitical disruption, validated against the 2026 Strait of Hormuz crisis scenario: (1) Agility — rapid route re-evaluation with multi-modal backup capability; (2) Regionalization — production/sourcing closer to end markets; (3) Local presence and intelligence — human relationships that survive digital system failures; (4) Zero-tolerance compliance — every alternate route requires full GxP/regulatory risk assessment before use; (5) End-to-end visibility — control towers with real-time status. Additional data point: Asia now produces 43% (India) + 45% (China) of API Drug Master File filings globally; US share fell from 23% to 3% since 1980. McKinsey 2026 reports Asia drove >85% of global drug pipeline growth in 2024. Notable finding: "In a crisis, digital tools often fail, shifting the burden even more onto human relationships." Contingency plans are only as good as the people executing them.
+
+**SC Relevance:**
+The five pillars apply directly to bulk chemical transport risk. Quantix's customer base (chemical shippers) faces the same regionalization pressure and geopolitical exposure. The human-relationships-beat-digital-tools finding reinforces the personnel continuity insight already in hive memory. For Quantix: terminal managers and driver relationships ARE a geopolitical hedge — they're the local presence pillar. Tariff-driven friendshoring also affects where chemical plants source from, which reshapes freight flows for bulk carriers.
+
+**Knowledge Tier:** Mid-frequency (framework is durable; specific crisis data is volatile — date-stamp when citing)
+**Tags:** #risk-management #geopolitical #resilience #multi-modal #regionalization #control-tower #chemical-logistics
+
+---
+
+### Insight 3: Bulk Liquid Transport Providers Upgrading Cargo Integrity Infrastructure as Customer Contamination Standards Rise
+
+**Date:** 2026-06-18
+**Source:** Transportation Review Europe — "Bulk Logistics: Improving Safety across Liquid Cargo Transportation" (May 28, 2026)
+**URL:** https://www.transportationrevieweurope.com/news/bulk-logistics-improving-safety-across-liquid-cargo-transportation-nwid-931.html
+
+**Summary:**
+Industrial customers are placing significantly stronger emphasis on cargo integrity as liquid bulk networks carry a broader, more sensitive mix of materials (chemicals, food-grade, pharma, agricultural). A contamination event that previously affected one shipment can now cascade across manufacturing, food processing, or pharmaceutical production regionally. Transport providers are responding by investing in: compartmentalized tank systems, advanced cleaning and residue prevention procedures, stricter cargo transition management between deliveries, temperature monitoring/controls, and scheduling precision tools. The article notes liquid bulk is no longer "simple freight movement" — it's a highly coordinated logistics network where equipment condition, compliance, route planning, and cargo handling directly drive commercial reliability. Demand patterns across energy, food-grade, and industrial chemical markets are also becoming less predictable.
+
+**SC Relevance:**
+Directly applicable to Quantix's ISO and liquid bulk operations. Prior cargo restriction compliance and cleaning certification are already a hiring/compliance constraint (referenced in prior hive memory). This confirms the industry is moving toward higher, not lower, standards. For Quantix competitive positioning: cargo integrity infrastructure investment (tank systems, cleaning protocols, temp controls) is shifting from a compliance cost to a competitive differentiator. Customers with complex prior cargo restrictions will prefer carriers who can demonstrate documented residue prevention systems.
+
+**Knowledge Tier:** Mid-frequency (operational trend, confirmed by multiple recent sources — stable framework, monitor for regulatory crystallization)
+**Tags:** #bulk-liquid #cargo-integrity #contamination-control #chemical-logistics #competitive-differentiation #equipment #cleaning-protocols
+
