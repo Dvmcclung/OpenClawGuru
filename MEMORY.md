@@ -80,6 +80,7 @@ _Initialized: 2026-03-03_
 - **Truck platooning — real deployments (April 2026):** Kratos/DriveOhio/INDOT (Jan 2026); Locomation/Wilson Logistics (30% fuel efficiency); Daimler Cascadia (5–10% fuel savings). 58.3% CAGR projected. Long-haul interstate terminal pairs (300+ miles) are prime Quantix candidates. 3–5 year procurement decision horizon.
 - **Electric trucks — market contraction:** CARB waiver revoked June 2025 (Trump). ~820 e-trucks U.S. 2025 (down >50%); <600 forecast 2026. Not viable for heavy tanker ops near-term. 5–10 year horizon for California lanes only. Defer EV capex; redirect to AI operational tools. Tesla Semi mass production confirmed (4680 battery, ~800km range) — watch for Scope 3 shipper pressure by 2028–2030.
 - **Tanker cleaning as optimization surface:** Reverse logistics becoming structured, margin-recoverable function. Tanker cleaning routing/residue scheduling is DMAIC-able and increasingly required by chemical shipper RFPs as sustainability credential.
+- **Proactive fleet management (J.J. Keller, 2026):** Shift reactive compliance → proactive prevention. DMAIC for PM vs. breakdown cost; Pareto by asset/age/terminal; dashboard control. Aera: 15% logistics cost ↓; Deposco Causal AI: short-ships -90%. Brownfield = dominant 2026 capex thesis. Kenco priorities: AI/ML (27%), computer vision (23%) — terminal yard + load verification.
 
 ### Transportation Technology — 2026 Architecture Shift
 - **Transportation orchestration replacing point optimization:** TMS value measured by continuous adjustment capability (ETA confidence, exception prioritization, service risk escalation) — not plan quality. Integrated orchestration linking orders/shipments/inventory/appointments/labor is the model. Quantix: 4,500-truck + 50-terminal fragmented stack is the old model. Sense-and-coordinate orchestration is the target. Dwell time at customer facilities is the acute Quantix exposure — delays propagate to labor, inventory, and service.
@@ -110,7 +111,7 @@ _Initialized: 2026-03-03_
 - **Trucking profitability = operational decision, not market condition (Fleet Owner/Optimal Dynamics, April 2026):** 25 carrier executives consensus: bid spreads narrowing from 15–20% to 5–10%; strongest operators walk away from bad-economics freight rather than fill trucks. Five levers: (1) market discipline — reject unprofitable loads; (2) data-driven RFP strategy — lane-level optimization into pricing discussions; (3) fleet rightsizing — utilization ≠ margin quality; (4) automation as commercial leverage — consistent decision systems make pricing defensible at executive level; (5) line-by-line P&L discipline by lane and terminal. Quantix application: lane-level profitability analysis and data-backed bulk contract negotiations are the direct translation. "Growth begins with restraint" applies directly to terminal underperformance reviews.
 
 ### Operations & Compliance
-- **Tank spec + prior cargo discipline:** MC 307/407/412/331 must match commodity hazard class at load planning (not lane). 3-load prior cargo history required by most chemical shippers — digitize logs. CDL H+N endorsements: manual spot-check is audit risk. SOLAS Jan 2026: class surveys required for lifting appliances added to ISO tanks post-Jan 2026. Quantix action: TMS must enforce tank spec matching; digitize prior cargo records.
+- **Tank spec + prior cargo discipline:** MC 307/407/412/331 must match commodity hazard class at load planning (not lane). 3-load prior cargo history required by most chemical shippers — digitize logs. CDL H+N endorsements: manual spot-check is audit risk. SOLAS Jan 2026: class surveys required for lifting appliances added to ISO tanks post-Jan 2026. ICS Tanker Safety Guide 6th Ed (Apr 2026, DC-Tier): Annex I→II cargo changeover flowchart + enclosed space entry updated — use as SOP template for prior cargo restrictions and tank cleaning protocols. Quantix action: TMS must enforce tank spec matching; digitize prior cargo records.
 - **DMAIC in 3PL benchmark:** Baseline PCE = 40% (60% NVA). Post-DMAIC = 70% (75% relative improvement). Tools: VSM→fishbone+Pareto→5S+standard work→control charts. CSF: leadership commitment #1. Terminal loading/unloading/dwell sequences are prime targets. Executive sponsorship is the prerequisite gate.
 - **Documentation failures = #1 chemical logistics root cause:** UN number → shipping description → SDS → label cascade. PFMEA on terminal intake documentation is the near-term DMAIC define target.
 - **Supplier financial health monitoring:** Altman Z-score, payment behavior changes, headcount signals — apply to top-20 critical vendors (regional trailer repair, cleaning vendors are thin-margin, fragile).
@@ -165,7 +166,7 @@ _Initialized: 2026-03-03_
 - Resilience = baseline expectation, not differentiator. "Total Value" = Total Experience + Total Performance.
 - **KPMG survey, 462 executives (May 2026):** 73% plan operating model transformation within 1–3 years; 51% cite risk management #1 (overtook cost reduction); SC spend 11–15% of revenue (up from 5–10%); 77% talent shortage; logistics costs = #1 value leakage (38%)
 - Quantix: value proposition must shift to verifiable OTIF, compliance, and response-time metrics, not just "reliable carrier"
-- AI governance frameworks lagging deployment — applies directly to Quantix agentic dispatch buildout
+- **AI governance gap:** Missing guardrails, audit trails, and human-in-the-loop checkpoints = #1 deployment risk (KPMG). GBS centralization: analytics/automation migrating to Global Business Services — terminal silos become a liability. Quantix action: define decision boundaries, escalation thresholds, and audit trail requirements before agentic dispatch goes live.
 
 ### Tariff Volatility — JIT → JIC Inventory Shift Underway (Thomson Reuters / Inbound Logistics, April 2026)
 - Companies shifting from just-in-time to just-in-case — more inventory, longer forecast horizons, some production redesign
@@ -203,6 +204,7 @@ _Initialized: 2026-03-03_
 - Peer-reviewed DMAIC case: 50% reduction in failed deliveries; DPMO fell from 81,038 (2.9σ) to 39,636 (3.3σ). Even 0.4σ improvement is material at bulk carrier volumes.
 - Turkish plastics DMAIC case: root cause on expedited freight spend revealed upstream scheduling failures as cause; fixing schedule eliminated premium freight trigger (13% → 5% of freight cost). Classic symptom vs. root cause.
 - Quantix application: OTD rate, terminal turn-time, load-to-depart interval, and documentation error rate are DMAIC-ready. DPMO framework makes performance benchmarkable and auditable.
+- **DMAIC + Industry 4.0/5.0 (Apr 2026):** DMAIC as digital transformation spine — I4.0 tools (AI, IoT, digital twins) map to Measure/Analyze; I5.0 human-centric (AR/VR) to Improve/Control. Quantix: IoT → real-time tank status; AI predictive maintenance; digital twin terminal throughput modeling; AR for prior-cargo driver onboarding.
 
 ### EPA 2027 Emissions Standard — Fleet Renewal Timing Signal (ACT Research, April 2026)
 - EPA 2027 Class 8 emissions standard is creating elevated near-term capex activity: fleets reassessing purchase timing and replacement schedules NOW before new standard locks in cost increases.
@@ -213,13 +215,6 @@ _Initialized: 2026-03-03_
 - Agentic AI in logistics: $8.67B (2025) → $16.84B (2030). Gartner: 50% of cross-functional SC solutions use agents by 2030 (vs. <5% now). ~4-year window before table stakes.
 - **BCG reality check (June 2026):** Only 7% of COOs expect agentic AI to redesign majority of workflows within 2 years. Highest-proven ROI: bounded, closed-loop (carrier selection, load tendering, exception escalation). Dale's bounded-first build is exactly where 2026–2027 winners land.
 - **SC maturity: Capture → Visibility → Think-Decide-Act.** Quantix in Visibility phase; autonomous action is the target. Benchmark: 99.96% OTD. Workforce upskilling (not technology) = binding constraint. ~70% of logistics executives rank autonomous SC as top investment priority (Accenture 2026). "AI as amplifier" is the right internal narrative to reduce dispatcher resistance.
-
-### DMAIC + Industry 4.0/5.0 (Peer-Reviewed, April 2026)
-- DMAIC as organizing spine for digital transformation. I4.0 (AI, IoT, digital twins) → Measure/Analyze; I5.0 human-centric (AR/VR) → Improve/Control.
-- Quantix: IoT → real-time tank status; AI predictive maintenance; digital twins for terminal throughput; AR for prior cargo driver onboarding.
-
-### ICS Tanker Safety Guide — 6th Edition (April 2026, DC-Tier)
-- Most significant update since 1971: Annex I→II cargo changeover flowchart, enclosed space entry, MARPOL Annex II procedures. OTR relevance: ICS checklist model = SOP template for Quantix prior cargo restrictions and tank cleaning protocols.
 
 ### Tank Truck Sector — CARB Waiver Revocation + 2025 Status (May 2026)
 - **CARB waiver revocation (June 2025):** Trump revoked California's Advanced Clean Trucks, ACC II, and Heavy-Duty Omnibus waivers — eliminating the de facto national ZEV mandate. Significant capex relief for Quantix: defer large EV fleet commitments; redirect to operational AI tools. State-specific California ZEV exposure remains on 5–10 year horizon only.
@@ -239,17 +234,6 @@ _Initialized: 2026-03-03_
 - Life-cycle lens is mandatory: upstream and downstream environmental impacts required
 - **Quantix competitive signal:** Chemical shipper customers with ISO 14001 certification will need to document environmental controls across Quantix — this is both compliance pressure AND a differentiator opportunity. Carriers with documented spill containment, emergency response, and environmental protocols will be preferred. Proactive readiness before customer audits begin = competitive edge.
 - Action: Audit Quantix's current environmental management documentation against new ISO 14001:2026 scope
-
-### KPMG 2026 — AI Governance Gap as Near-Term Risk
-- **AI shifting from pilots to platform — governance is the critical gap (KPMG 2026):** Organizations deploying AI at operational scale now face a decision governance problem: how do you maintain decision quality when AI is making calls? KPMG flags missing guardrails, audit trails, and human-in-the-loop checkpoints for consequential decisions as the #1 deployment risk.
-- **GBS centralization:** Leading supply chains centralizing analytics, automation, and SC execution under Global Business Services — terminal-by-terminal silos become a competitive disadvantage.
-- **Total Value (reaffirmed):** SC positioned as enterprise value driver, not a cost center. Metrics shifting from OTD/cost-per-mile to decision quality, adaptability, and value realization.
-- **Quantix action:** AI governance framework is a near-term need before agentic dispatch goes live — define decision boundaries, escalation thresholds, and audit trail requirements before a rogue AI decision causes a service failure.
-
-### Proactive Fleet Management + Brownfield AI (J.J. Keller / Inbound Logistics, 2026)
-- Shift: reactive compliance → proactive prevention. DMAIC = PM vs. breakdown cost; Pareto by asset/age/terminal; dashboard control.
-- Aera (15% logistics cost ↓); Deposco Causal AI (cut short-ships 90%). Brownfield = 2026 dominant capex thesis.
-- Kenco top priorities: AI/ML (27%), computer vision (23%) — relevant for terminal yard + load verification.
 
 ### Trucking Insurance — Structural Cost Inflation (ATRI, May 2026)
 - Commercial auto insurance: +8.3%/yr 2017–2025 (vs. 3.9% CPI). Despite -8.4% crash rate per mile. Q4 2025: +6.6% sequential — highest across all lines. Insurers in the red yet still raising rates. *Montgomery* ruling may add 3PL liability pressure. Hazmat/bulk carriers face compounding surcharges + nuclear verdict risk.
@@ -331,10 +315,6 @@ _Initialized: 2026-03-03_
 - **PepsiCo/Gatik** (June 9, 2026): 35 driverless trucks live commercially across AZ/TX/AR (middle-mile, fixed-route). First major CPG at commercial scale. Aurora/McLane driverless Dallas–Houston (I-45 core Quantix corridor) also live.
 - **Einride + EASE Logistics** (June 2026): SAE Level 4 autonomous electric trucks in proof-of-commercial-concept, warehouse-to-warehouse (Marysville, Ohio). ATA CEO testified Congress June 9 — lobbying to accelerate AV policy + surface transportation reauthorization.
 - Quantix near-term exposure: LOW (tanker/hazmat adds complexity). Regulatory frameworks being written now will govern bulk carriers eventually. Impact horizon: 2028–2032. Dedicated terminal-to-terminal lanes (300+ miles) are structural analog — reassess as driver shortage deepens.
-
-### Freight Market — All-Time Record Rates + FMCSA Enforcement Shock (June 2026)
-- **TL spot: $3.83/mile** (all-time record, June 10) — see Freight Cycle entry above for full detail.
-- **Quantix:** Large compliant carrier = structural competitive advantage. Sell contract stability at premium; fuel surcharge audit urgent; continuous planning model required.
 
 ### Cyber-Physical Supply Chain Risk — AI Fraud Vector (June 2026, HIGH-FREQUENCY)
 - AI-assisted freight fraud (carrier impersonation, fake delivery confirmations, invoice fraud) is an active documented threat in bulk chemical transport (SOCRadar, June 2026).
