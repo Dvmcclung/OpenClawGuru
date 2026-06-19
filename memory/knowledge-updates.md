@@ -9202,3 +9202,58 @@ Directly applicable to Quantix's ISO and liquid bulk operations. Prior cargo res
 **Knowledge Tier:** Mid-frequency (operational trend, confirmed by multiple recent sources — stable framework, monitor for regulatory crystallization)
 **Tags:** #bulk-liquid #cargo-integrity #contamination-control #chemical-logistics #competitive-differentiation #equipment #cleaning-protocols
 
+
+---
+
+## 2026-06-19 AM — Morning Knowledge Scan
+
+### Insight 1: Gartner 2026 Top 25 — AI Moves from Automation to Autonomous Workforce Design
+**Date:** 2026-06-19
+**Source:** Gartner / SupplyChainBrain — "Gartner: Top 25 Supply Chain Organizations Are Embracing AI" (June 17, 2026)
+**URL:** https://www.supplychainbrain.com/articles/44288-gartner-top-25-supply-chain-organizations-are-embracing-ai
+
+Gartner's 2026 Global Supply Chain Top 25 reveals a decisive qualitative shift in how leading companies deploy AI. The headline: top performers are no longer using AI to *automate tasks* — they are using it to *redesign how work gets done between people and machines*. Schneider Electric held the #1 position for the 4th consecutive year by integrating autonomous workforce capabilities and end-to-end resource orchestration using generative and agentic AI. NVIDIA climbed to #2. Walmart jumped 10 spots to #3. The Masters category (Amazon, Apple, P&G, Unilever) remains stable. The defining differentiators cited by Gartner Senior Director Analyst Laura Rainier: (1) autonomous workforce design, (2) network-centric strategy, (3) end-to-end orchestration across complex ecosystems.
+
+**SC Relevance for Quantix:** This marks the maturity threshold where AI-in-the-loop is no longer "innovation" — it's table stakes for top performers. Agentic AI for dispatch optimization, driver scheduling, and terminal operations is the logical next frontier for a 4,500-truck fleet. The Schneider model (generative AI + real-time visibility + coordinated action) maps directly to Quantix's terminal-to-customer delivery architecture.
+
+**Knowledge Tier:** Mid-frequency (Gartner annual research — high credibility, update annually)
+**Tags:** #AI #agentic-AI #gartner-top-25 #autonomous-workforce #supply-chain-technology #digital-transformation #strategic-priority
+
+---
+
+### Insight 2: 2026 State of Logistics Report — Persistent Disruption Is Now the Permanent Operating Model
+**Date:** 2026-06-19
+**Source:** CSCMP / Kearney / Penske Logistics — "2026 State of Logistics Report" (June 2026)
+**URL:** https://www.thetrucker.com/trucking-news/business/2026-state-of-logistics-report-volatility-is-the-new-normal
+
+The 2026 State of Logistics Report (CSCMP, prepared by Kearney, presented by Penske Logistics) declares that "disruption is no longer temporary — it is an enduring feature of the operating environment." Key data points:
+- **U.S. business logistics costs: $2.4 trillion = 7.8% of GDP** (down from $2.6T / 8.7% in 2025 — costs falling as % of GDP, a sign of efficiency gains)
+- **Five structural forces with no near-term resolution:** (1) Asymmetrical global growth, (2) persistent inflation + rising public debt, (3) accelerating trade flow realignment / geoeconomic fragmentation, (4) labor market & productivity constraints, (5) energy price volatility
+- **AI has moved from pilot to scaled deployment** — explicitly cited as a "genuine turning point in the autonomous era"
+- **Autonomous trucking scaling rapidly** — hundreds to thousands of autonomous trucks expected on road H2 2026 into H1 2027
+- **Profitable growth is the defining priority** — companies must combine resilience, intelligent logistics, and disciplined execution to protect margins
+
+**SC Relevance for Quantix:** Every one of the five structural forces hits Quantix's operating environment directly — especially energy price volatility (chemical feedstocks and fuel), labor constraints (CDL driver shortage), and geoeconomic fragmentation (chemical supply chains with Middle East exposure). The drop in logistics cost as % of GDP despite disruption suggests productivity gains are real and AI-driven. Quantix's AI-in-the-loop strategy is aligned with where the industry leaders are heading.
+
+**Knowledge Tier:** High-frequency (annual benchmark report — cite with year, verify against next year's edition)
+**Tags:** #state-of-logistics #CSCMP #Kearney #disruption #logistics-costs #autonomous-trucking #resilience #AI #energy-volatility #labor-shortage #strategic-priority
+
+---
+
+### Insight 3: Strait of Hormuz Disruption Collapses U.S. Imports from Affected Ports by 93.2%
+**Date:** 2026-06-19
+**Source:** Descartes Systems Group — "Global Shipping Report: Strait of Hormuz Disruption" (June 19, 2026)
+**URL:** https://www.globaltrademag.com/descartes-releases-global-shipping-report-on-strait-of-hormuz-disruption/
+
+Descartes Datamyne released a special-edition Global Shipping Report documenting the catastrophic impact of the Strait of Hormuz disruption on U.S. maritime imports. Quantified findings:
+- **U.S. imports from Hormuz-affected ports: 1.5M metric tons (May 2025) → 100,591 metric tons (May 2026) = −93.2% YoY**
+- The largest prior year-over-year swing (May 2025–Feb 2026) was only −27.7% to +26.2% — meaning this is a structural discontinuity, not a normal cycle
+- Weakness was already visible in March (−33%) and April (−34.7%) before the full impact hit
+- **Mineral Fuels (HS27)** were the dominant category: down 92.8% from 1.1M to 80,878 metric tons. This includes crude oil, refined petroleum, LNG, propane, petroleum coke, lubricating oils — core chemical supply chain feedstocks
+- Total U.S. HS27 imports fell from 19.3M to 16.4M metric tons — so Hormuz-routed supply was ~6% of total, but the sudden loss is creating spot-market shock
+
+**SC Relevance for Quantix:** This is a live, high-severity disruption to the chemical and bulk liquid supply chain. Quantix's liquid bulk / ISO customers (chemical manufacturers, petrochemical processors) are upstream-exposed to this feedstock shock. Carriers serving chemical plants should expect: (1) freight volume volatility as plants adjust production rates, (2) potential spot-rate opportunities if customers scramble to move alternative-source inventory, (3) driver scheduling complexity if loading schedules shift. Flag to Dale for customer communication review.
+
+**Knowledge Tier:** High-frequency (breaking news / live trade data — volatile, verify weekly)
+**Tags:** #Hormuz #geopolitical-disruption #chemical-supply-chain #mineral-fuels #bulk-liquid #import-disruption #supply-chain-risk #Descartes #freight-volume #live-event
+
