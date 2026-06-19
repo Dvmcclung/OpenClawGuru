@@ -132,9 +132,11 @@ _Initialized: 2026-03-03_
 
 ### Freight Cycle & Rate Update — June 2026 (HIGH-FREQUENCY)
 - **TL spot: $3.83/mile** (all-time record, June 10). LMI Transportation Prices: 96.0 — "fastest expansion ever recorded." Van tender rejections 18.3%; reefer 25%; van load-to-truck +92% YoY; flatbed +189% YoY. Supply driver: FMCSA enforcement removing non-compliant carriers — rate spike is capacity-driven, NOT fuel. Diesel $5.35/gal national; CA $7.05/gal.
+- **Market turn confirmed (June 2026):** Spot rates now exceed contract rates — first time since 2021. Tender rejection rates >15% (highest since early 2022). Carrier exits continuing. Quantix pricing power is real. Contract renegotiation window is now.
 - **LTL:** Amazon launching full LTL network. FedEx Freight spinoff (June 1): $8.7B revenue, 12% OI margin = industry profitability benchmark.
 - **Intermodal:** Rising on 550–1,500mi mid-haul (C.H. Robinson). Liquid bulk NOT convertible — Quantix core insulated. Dry bulk pellet lanes have rail exposure — monitor.
 - **USMCA July 1, 2026:** ⚠️ Hard watch — no-extension = cross-border chemical/resin corridor disruption.
+- **Deferred maintenance risk (H2 2026):** Prolonged 2022–2026 recession = significant deferred PM and fleet replacement capex. As utilization rises, deferred obligations come due simultaneously. Equipment reliability risk elevated in H2 2026. DMAIC lens: deferred maintenance = waste transfer, not elimination. Priority: PM compliance audit + capex pipeline review.
 - **Quantix:** FMCSA enforcement = competitive advantage for compliant carriers. Lock in contract volume before H2 repricing. Fuel surcharge audit urgent. Move to continuous rolling planning cycles.
 
 ### Emissions Traceability — Shipment-Level Data Now a Shipper Procurement Requirement (April 2026)
@@ -296,6 +298,7 @@ _Initialized: 2026-03-03_
 - Only 7% of COOs expect agentic AI to redesign majority of workflows within 2 years; 11–25% selective phased deployment is the norm. Vendor hype >> operator reality.
 - Highest-proven ROI: **bounded, closed-loop** — carrier selection, load tendering, exception escalation. NOT open-ended planning.
 - Workforce upskilling = binding constraint, not technology. Quantix: Dale's bounded-first build is exactly where successful 2026-2027 deployments land.
+- **RELEX 2026 AI adoption survey:** 67% more confident in AI than last year; **54% prefer human-in-the-loop** (only 10% allow critical autonomous decisions); 71% plan GenAI investment; 60% predictive AI. HITL is the operative organizational posture — autonomous dispatch in bulk chemical transport needs human review checkpoints. Optimal scope: predictive forecasting + exception-handling agents.
 
 ### Tariff Absorption Wall — 2026 Hard Deadline + USMCA Risk (Tradeverifyd/NRF, June 2026)
 - 73% of SC leaders expect to hit tariff absorption wall by end of 2026 — costs shifting from P&L to invoices. Only 12% currently passing majority to customers. 49% cite transportation cost as #1 external pressure. 3.7-year major disruption cadence = planning benchmark.
