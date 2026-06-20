@@ -9257,3 +9257,35 @@ Descartes Datamyne released a special-edition Global Shipping Report documenting
 **Knowledge Tier:** High-frequency (breaking news / live trade data — volatile, verify weekly)
 **Tags:** #Hormuz #geopolitical-disruption #chemical-supply-chain #mineral-fuels #bulk-liquid #import-disruption #supply-chain-risk #Descartes #freight-volume #live-event
 
+---
+
+## 2026-06-19 — Evening Knowledge Update
+
+### Insight 1: AI-Driven Route Optimization in Logistics — Quantified ROI
+**Date:** 2026-06-19
+**Source:** Supa Labs analysis of Amazon/UPS/Ocado implementations; McKinsey research cited (Dec 2025)
+**Summary:** McKinsey data from enterprise AI logistics deployments shows 15% logistics cost reduction, 35% inventory level improvement, 65% enhanced service levels, and 3.5x median ROI over three years for early AI adopters. UPS ORION (On-Road Integrated Optimization and Navigation) is the benchmark case study for route optimization at scale — real-time multi-variable optimization across traffic, weather, driver location, and package priority. 68% of companies have adopted AI in supply chain as of 2025.
+**SC Relevance:** Directly applicable to Quantix SCS fleet operations. With 4,500+ trucks, even incremental route optimization compounds significantly. ORION-style multi-variable optimization is the model to evaluate for over-the-road bulk. The 15% logistics cost reduction is a credible benchmark for ROI conversations with leadership. McKinsey's 3.5x ROI over 3 years is the number to use in capital allocation arguments.
+**Knowledge Tier:** Mid-frequency (research synthesis — Dec 2025 compilation date; verify before citing)
+**Tags:** #AI #route-optimization #logistics-cost #fleet-management #bulk-transport #quantix
+
+---
+
+### Insight 2: TTR/TTS Framework for Supply Chain Risk — 2026 Best Practice Standard
+**Date:** 2026-06-19
+**Source:** StartUs Insights — Global Supply Chain Risk Management (2025/2026); McKinsey Global Supply Chain Leaders Survey
+**Summary:** The 2026 SCRM standard is a Composite Risk Score (CRS) framework combining likelihood, impact, velocity, detectability, and readiness — paired with Time-to-Survive (TTS) and Time-to-Recover (TTR) at product, site, and lane level. Critical rule: when TTR exceeds TTS, pre-positioned buffers and response playbooks are mandatory — organizations in this gap are structurally exposed. 9 in 10 executives report disruptions; only 25% have formal processes to discuss them. Cargo theft rose 27% YoY with average losses of $202K per incident. Top 2026 SCRM technologies: digital twins, IIoT sensing, geospatial intelligence (EO + AIS + RF), and IT/OT cybersecurity segmentation.
+**SC Relevance:** TTR/TTS framework directly applicable to Quantix terminal and lane risk planning. Bulk chemical carriers with dedicated lanes are particularly exposed when TTR > TTS — a single terminal disruption cascades fast. Cargo theft trending up 27% is directly relevant to bulk haul security. The 25% formal-process gap is a consulting opportunity and internal discipline gap to close.
+**Knowledge Tier:** Mid-frequency (research synthesis — 2025/2026 compilation date; verify before citing)
+**Tags:** #risk-management #SCRM #TTR-TTS #disruption-resilience #cargo-security #terminal-operations #quantix
+
+---
+
+### Insight 3: Chemical & Bulk Logistics — Safety Documentation as Competitive Gate in 2026
+**Date:** 2026-06-19
+**Source:** Deccan Transcon — Chemical & Bulk Logistics Outlook 2026; Research and Markets Chemical Logistics Market Report (Jan 2026); Roeder Cartage bulk liquid logistics planning (Dec 2025)
+**Summary:** Three converging signals for 2026: (1) Tank integrity documentation is now a pre-qualification requirement — pressure testing and leak test certificates expected at tendering stage, not just during operations. Carriers without audit trails will be screened out. (2) Chemical logistics market growing from $303B (2025) to $318B (2026) at 4.9% CAGR, driven by regulatory enforcement and digital tracking adoption; projected $381B by 2030. (3) Bulk liquid carriers who win in 2026 differentiate on: proactive demand forecasting shared with carriers, embedded safety metrics (not standalone programs), product-specific equipment matching, and buffer time planning built into the logistics plan. 93% of chemical companies report SC and freight disruptions significantly impact US manufacturing operations.
+**SC Relevance:** High relevance for Quantix SCS positioning. Shift from "good equipment" to "auditable, documented processes" is the shipper differentiator. Proactive demand forecasting sharing and embedded safety planning (vs. reactive) drive preferred-carrier status. The 93% disruption impact stat is a persistent selling argument for reliable bulk carriers.
+**Knowledge Tier:** High-frequency (current market data — volatile; verify before citing in client-facing work)
+**Tags:** #chemical-logistics #bulk-transport #tank-integrity #safety-documentation #carrier-selection #quantix #compliance #market-sizing
+
